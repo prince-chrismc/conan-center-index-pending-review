@@ -1298,19 +1298,19 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19298",
-      "LastCommitSHA": "4c7392305002cf0e540194038a7b3146c3f5645c",
-      "LastCommitAt": "2024-01-05T09:51:18Z",
+      "LastCommitSHA": "f26c947fbc688f40e9bd0f894b19c51b0e0335b6",
+      "LastCommitAt": "2024-01-05T11:06:25Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 10,
+         "Count": 11,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2024-01-05T08:16:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1805512990"
+            "SubmittedAt": "2024-01-05T10:21:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1805692135"
          }
       }
    },
@@ -4174,8 +4174,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21869",
-      "LastCommitSHA": "5aae682a4c3735f27116e1510add140aa01741f9",
-      "LastCommitAt": "2024-01-05T09:30:30Z",
+      "LastCommitSHA": "4b2f8fd9a72c6e68db4e70d5cdd930e16eee4b3f",
+      "LastCommitAt": "2024-01-05T10:50:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -5653,6 +5653,25 @@
       "LastCommitSHA": "0d75d41e9d3a9d08a36275ea276e5851acf0d404",
       "LastCommitAt": "2024-01-05T01:20:04Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22165,
+      "OpenedBy": "wu-vincent",
+      "CreatedAt": "2024-01-05T02:49:53Z",
+      "Recipe": "minhook",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22165",
+      "LastCommitSHA": "5ce6e19d06fcbb0dc02794aedf1f4e8f83f98f7b",
+      "LastCommitAt": "2024-01-05T09:59:19Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
