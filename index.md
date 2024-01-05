@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **233** pull requests currently under way :detective:
+There are **234** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -259,7 +259,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22156](https://github.com/conan-io/conan-center-index/pull/22156)|[tsondergaard](https://github.com/tsondergaard)|Jan 4|:stopwatch: dbus|M|1|Jan 4||jwillikers
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|L|0|||
-[#22167](https://github.com/conan-io/conan-center-index/pull/22167)|[kuroneko](https://github.com/kuroneko)|Jan 5|:memo: wayland|:green_circle: XS|0|||
+[#22167](https://github.com/conan-io/conan-center-index/pull/22167)|[kuroneko](https://github.com/kuroneko)|Jan 5|:memo: wayland|:green_circle: XS|1|Jan 5||jwillikers
+[#22170](https://github.com/conan-io/conan-center-index/pull/22170)|[valgur](https://github.com/valgur)|Jan 5|:stopwatch: libmodplug|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,9 +283,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 619
+	- Open: 620
 	- Draft: 57
-	- Average Age: 104 days, 2 hours, and 17.78 minutes
+	- Average Age: 104 days, and 4.34 minutes
 	- Stop Label: 298
 	
 
