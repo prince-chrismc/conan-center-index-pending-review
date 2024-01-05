@@ -263,7 +263,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22156](https://github.com/conan-io/conan-center-index/pull/22156)|[tsondergaard](https://github.com/tsondergaard)|Jan 4|:stopwatch: dbus|M|1|Jan 4||jwillikers
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:stopwatch: minhook|L|0|||
-[#22167](https://github.com/conan-io/conan-center-index/pull/22167)|[kuroneko](https://github.com/kuroneko)|Jan 5|:stopwatch: wayland|:green_circle: XS|0|||
+[#22167](https://github.com/conan-io/conan-center-index/pull/22167)|[kuroneko](https://github.com/kuroneko)|Jan 5|:memo: wayland|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -288,7 +288,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 622
 	- Draft: 57
-	- Average Age: 103 days, 11 hours, and 7.05 minutes
+	- Average Age: 103 days, 12 hours, and 11.42 minutes
 	- Stop Label: 297
 	
 
