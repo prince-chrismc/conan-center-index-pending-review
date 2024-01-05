@@ -5654,6 +5654,35 @@
       "LastCommitAt": "2024-01-05T05:07:18Z",
       "CciBotPassed": true,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-01-05T14:13:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22167#pullrequestreview-1806040631"
+         }
+      }
+   },
+   {
+      "Number": 22170,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-05T14:06:27Z",
+      "Recipe": "libmodplug",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22170",
+      "LastCommitSHA": "0c09aef7ce83a287c6da5f2043eb83240938105a",
+      "LastCommitAt": "2024-01-05T14:00:01Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
