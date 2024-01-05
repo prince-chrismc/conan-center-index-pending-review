@@ -157,7 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21500](https://github.com/conan-io/conan-center-index/pull/21500)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: jwt-cpp|:green_circle: XS|3|Dec 18 :bell:||jwillikers
 [#21509](https://github.com/conan-io/conan-center-index/pull/21509)|[valgur](https://github.com/valgur)|Nov 30|:memo: jemalloc|L|2|Dec 26||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|1|Dec 20 :bell:||
-[#21530](https://github.com/conan-io/conan-center-index/pull/21530)|[toge](https://github.com/toge)|Dec 1|:stopwatch: c-ares|L|1|Dec 26||
+[#21530](https://github.com/conan-io/conan-center-index/pull/21530)|[toge](https://github.com/toge)|Dec 1|:memo: c-ares|L|1|Dec 26||
 [#21557](https://github.com/conan-io/conan-center-index/pull/21557)|[toge](https://github.com/toge)|Dec 3|:memo: json-schema-validator|:blue_square: S|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|0|:eyes:||
 [#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|:eyes:||
@@ -257,12 +257,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22131](https://github.com/conan-io/conan-center-index/pull/22131)|[gjasny](https://github.com/gjasny)|Jan 3|:stopwatch: ccache|:blue_square: S|1|Jan 4||[tsondergaard](https://github.com/tsondergaard)
 [#22135](https://github.com/conan-io/conan-center-index/pull/22135)|[tsondergaard](https://github.com/tsondergaard)|Jan 3|:memo: xorg|:green_circle: XS|1|Jan 4||ericLemanissier
 [#22136](https://github.com/conan-io/conan-center-index/pull/22136)|[mayeut](https://github.com/mayeut)|Jan 3|:memo: opencv|M|0|||
-[#22142](https://github.com/conan-io/conan-center-index/pull/22142)|[toge](https://github.com/toge)|Jan 4|:stopwatch: nng|:blue_square: S|1|Jan 4||
+[#22142](https://github.com/conan-io/conan-center-index/pull/22142)|[toge](https://github.com/toge)|Jan 4|:memo: nng|:blue_square: S|1|Jan 4||
 [#22144](https://github.com/conan-io/conan-center-index/pull/22144)|[Inujel](https://github.com/Inujel)|Jan 4|:stopwatch: msys2|:green_circle: XS|1|Jan 4||[tsondergaard](https://github.com/tsondergaard)
 [#22146](https://github.com/conan-io/conan-center-index/pull/22146)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 4|:gear: .c3i|:green_circle: XS|0|||
 [#22156](https://github.com/conan-io/conan-center-index/pull/22156)|[tsondergaard](https://github.com/tsondergaard)|Jan 4|:stopwatch: dbus|M|1|Jan 4||jwillikers
-[#22162](https://github.com/conan-io/conan-center-index/pull/22162)|[toge](https://github.com/toge)|Jan 5|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
+[#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:stopwatch: minhook|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -285,9 +285,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 624
+	- Open: 621
 	- Draft: 57
-	- Average Age: 103 days, and 25.03 minutes
+	- Average Age: 103 days, 13 hours, and 8.06 minutes
 	- Stop Label: 297
 	
 
