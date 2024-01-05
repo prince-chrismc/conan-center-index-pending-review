@@ -5712,5 +5712,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22167,
+      "OpenedBy": "kuroneko",
+      "CreatedAt": "2024-01-05T05:08:53Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22167",
+      "LastCommitSHA": "b4dfa3727a0171346200bf7ea621a63d1c57dac0",
+      "LastCommitAt": "2024-01-05T05:07:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
