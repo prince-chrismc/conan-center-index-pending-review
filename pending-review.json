@@ -2729,6 +2729,25 @@
       }
    },
    {
+      "Number": 21079,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-12T14:42:18Z",
+      "Recipe": "nodejs",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21079",
+      "LastCommitSHA": "d7b363ce5c52e3e499f3f8f088b31132cc4fb0b9",
+      "LastCommitAt": "2024-01-05T13:43:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21085,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-12T20:50:32Z",
@@ -5381,9 +5400,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22101",
-      "LastCommitSHA": "35283d40dfa5821751b4b0c2169ca82eb4c3c5e5",
-      "LastCommitAt": "2024-01-05T07:44:00Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "419ff0b8b989cbadca4090c0d76b2df1dacc13ad",
+      "LastCommitAt": "2024-01-05T14:19:44Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
