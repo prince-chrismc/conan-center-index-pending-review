@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -209,12 +209,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22170](https://github.com/conan-io/conan-center-index/pull/22170)|[valgur](https://github.com/valgur)|Jan 5|:memo: libmodplug|:blue_square: S|1|Jan 5||
 [#22179](https://github.com/conan-io/conan-center-index/pull/22179)|[toge](https://github.com/toge)|Jan 6|:memo: toml11|:blue_square: S|0|||
 [#22180](https://github.com/conan-io/conan-center-index/pull/22180)|[fdefelici](https://github.com/fdefelici)|Jan 6|:stopwatch: clove-unit|:green_circle: XS|0|||
-[#22181](https://github.com/conan-io/conan-center-index/pull/22181)|[toge](https://github.com/toge)|Jan 6|:stopwatch: stringzilla|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -225,9 +224,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21770](https://github.com/conan-io/conan-center-index/pull/21770)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:warning: opentdf-client|2|**RubenRBS**, toge
-[#21858](https://github.com/conan-io/conan-center-index/pull/21858)|[valgur](https://github.com/valgur)|Dec 21|:memo: reactiveplusplus|2|**RubenRBS**, toge
-[#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:memo: hdf4|2|**RubenRBS**, toge
-[#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:new: reflect-cpp|3|**RubenRBS**, toge
 [#22037](https://github.com/conan-io/conan-center-index/pull/22037)|[valgur](https://github.com/valgur)|Dec 28|:memo: miniupnpc|5|**RubenRBS**, ericLemanissier
 [#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:memo: uchardet|2|**RubenRBS**, toge
 [#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|2|**RubenRBS**, toge
@@ -240,9 +236,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 589
+	- Open: 586
 	- Draft: 57
-	- Average Age: 109 days, 20 hours, and 12.74 minutes
+	- Average Age: 110 days, 9 hours, and 18.69 minutes
 	- Stop Label: 298
 	
 
