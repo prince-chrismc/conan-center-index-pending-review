@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **236** pull requests currently under way :detective:
+There are **233** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -219,27 +219,24 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaec|L|0|:eyes:||
 [#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaom-av1|M|0|:eyes:||
 [#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:memo: bshoshany-thread-pool|M|3|Jan 4||toge
-[#21996](https://github.com/conan-io/conan-center-index/pull/21996)|[valgur](https://github.com/valgur)|Dec 27|:memo: gsoap|:blue_square: S|0|:eyes:||
-[#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:memo: hdf4|:blue_square: S|0|:eyes:||
-[#22004](https://github.com/conan-io/conan-center-index/pull/22004)|[valgur](https://github.com/valgur)|Dec 27|:memo: taglib|M|0|:eyes:||
-[#22010](https://github.com/conan-io/conan-center-index/pull/22010)|[valgur](https://github.com/valgur)|Dec 27|:memo: wasmer|:blue_square: S|0|:eyes:||
+[#21996](https://github.com/conan-io/conan-center-index/pull/21996)|[valgur](https://github.com/valgur)|Dec 27|:memo: gsoap|:blue_square: S|1|Jan 6||**RubenRBS**
+[#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:memo: hdf4|:blue_square: S|1|Jan 6||**RubenRBS**
+[#22010](https://github.com/conan-io/conan-center-index/pull/22010)|[valgur](https://github.com/valgur)|Dec 27|:memo: wasmer|:blue_square: S|1|Jan 6||**RubenRBS**
 [#22011](https://github.com/conan-io/conan-center-index/pull/22011)|[valgur](https://github.com/valgur)|Dec 27|:memo: zint|L|0|:eyes:||
 [#22012](https://github.com/conan-io/conan-center-index/pull/22012)|[valgur](https://github.com/valgur)|Dec 27|:memo: zookeeper-client-c|:blue_square: S|1|Dec 28||ericLemanissier
-[#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:new: reflect-cpp|M|0|:eyes:||
-[#22018](https://github.com/conan-io/conan-center-index/pull/22018)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:memo: meshoptimizer|:blue_square: S|0|:eyes:||
-[#22021](https://github.com/conan-io/conan-center-index/pull/22021)|[valgur](https://github.com/valgur)|Dec 28|:memo: flac|M|0|:eyes:||
+[#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:new: reflect-cpp|M|0|||
+[#22018](https://github.com/conan-io/conan-center-index/pull/22018)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:memo: meshoptimizer|:blue_square: S|1|Jan 6||**RubenRBS**
+[#22021](https://github.com/conan-io/conan-center-index/pull/22021)|[valgur](https://github.com/valgur)|Dec 28|:memo: flac|M|1|Jan 6||**RubenRBS**
 [#22024](https://github.com/conan-io/conan-center-index/pull/22024)|[valgur](https://github.com/valgur)|Dec 28|:memo: gsl|:blue_square: S|1|Jan 4||**RubenRBS**
 [#22025](https://github.com/conan-io/conan-center-index/pull/22025)|[valgur](https://github.com/valgur)|Dec 28|:memo: kmod|:green_circle: XS|0|:eyes:||
-[#22026](https://github.com/conan-io/conan-center-index/pull/22026)|[valgur](https://github.com/valgur)|Dec 28|:memo: lcms|:blue_square: S|0|:eyes:||
-[#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:memo: libsrtp|:blue_square: S|0|:eyes:||
-[#22035](https://github.com/conan-io/conan-center-index/pull/22035)|[valgur](https://github.com/valgur)|Dec 28|:memo: make|:blue_square: S|0|:eyes:||
-[#22037](https://github.com/conan-io/conan-center-index/pull/22037)|[valgur](https://github.com/valgur)|Dec 28|:memo: miniupnpc|:blue_square: S|0|:eyes:||
-[#22039](https://github.com/conan-io/conan-center-index/pull/22039)|[valgur](https://github.com/valgur)|Dec 28|:memo: tesseract|:blue_square: S|1|Jan 3||ericLemanissier
-[#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:memo: uchardet|M|0|:eyes:||
-[#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|L|0|:eyes:||
+[#22026](https://github.com/conan-io/conan-center-index/pull/22026)|[valgur](https://github.com/valgur)|Dec 28|:memo: lcms|:blue_square: S|1|Jan 6||**RubenRBS**
+[#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:memo: libsrtp|:blue_square: S|1|Jan 6||**RubenRBS**
+[#22035](https://github.com/conan-io/conan-center-index/pull/22035)|[valgur](https://github.com/valgur)|Dec 28|:memo: make|:blue_square: S|2|Jan 6||**RubenRBS**
+[#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:memo: uchardet|M|1|Jan 6||**RubenRBS**
+[#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|L|1|Jan 6||**RubenRBS**
 [#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|L|3|Dec 31||
 [#22048](https://github.com/conan-io/conan-center-index/pull/22048)|[valgur](https://github.com/valgur)|Dec 28|:memo: autoconf|L|1|Jan 2|jcar87|
-[#22056](https://github.com/conan-io/conan-center-index/pull/22056)|[valgur](https://github.com/valgur)|Dec 29|:memo: libmodbus|:blue_square: S|0|:eyes:||
+[#22056](https://github.com/conan-io/conan-center-index/pull/22056)|[valgur](https://github.com/valgur)|Dec 29|:memo: libmodbus|:blue_square: S|1|Jan 6||**RubenRBS**
 [#22058](https://github.com/conan-io/conan-center-index/pull/22058)|[valgur](https://github.com/valgur)|Dec 29|:memo: maven|:blue_square: S|1|Jan 6||**RubenRBS**
 [#22059](https://github.com/conan-io/conan-center-index/pull/22059)|[valgur](https://github.com/valgur)|Dec 29|:memo: nv-codec-headers|:blue_square: S|1|Jan 6||**RubenRBS**
 [#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:memo: physfs|:blue_square: S|0|:eyes:||
@@ -285,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 622
+	- Open: 621
 	- Draft: 57
-	- Average Age: 104 days, 2 hours, and 40.13 minutes
+	- Average Age: 104 days, 7 hours, and 24.66 minutes
 	- Stop Label: 298
 	
 
