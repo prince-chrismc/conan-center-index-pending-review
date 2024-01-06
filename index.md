@@ -213,7 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -224,9 +224,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21770](https://github.com/conan-io/conan-center-index/pull/21770)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:warning: opentdf-client|2|**RubenRBS**, toge
-[#22037](https://github.com/conan-io/conan-center-index/pull/22037)|[valgur](https://github.com/valgur)|Dec 28|:memo: miniupnpc|5|**RubenRBS**, ericLemanissier
-[#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:memo: uchardet|2|**RubenRBS**, toge
-[#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|2|**RubenRBS**, toge
 [#22123](https://github.com/conan-io/conan-center-index/pull/22123)|[toge](https://github.com/toge)|Jan 3|:warning: cppcommon|2|**RubenRBS**, ericLemanissier
 
 
@@ -236,9 +233,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 586
+	- Open: 583
 	- Draft: 57
-	- Average Age: 110 days, 9 hours, and 18.69 minutes
+	- Average Age: 110 days, 22 hours, and 45.95 minutes
 	- Stop Label: 298
 	
 
