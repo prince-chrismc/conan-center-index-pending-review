@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -223,13 +223,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|L|0|||
 [#22170](https://github.com/conan-io/conan-center-index/pull/22170)|[valgur](https://github.com/valgur)|Jan 5|:memo: libmodplug|:blue_square: S|1|Jan 5||
-[#22176](https://github.com/conan-io/conan-center-index/pull/22176)|[toge](https://github.com/toge)|Jan 6|:stopwatch: kuba-zip|:green_circle: XS|0|||
 [#22177](https://github.com/conan-io/conan-center-index/pull/22177)|[toge](https://github.com/toge)|Jan 6|:stopwatch: toml11|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -239,8 +238,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#22142](https://github.com/conan-io/conan-center-index/pull/22142)|[toge](https://github.com/toge)|Jan 4|:memo: nng|3|**uilianries**, ericLemanissier
-[#22144](https://github.com/conan-io/conan-center-index/pull/22144)|[Inujel](https://github.com/Inujel)|Jan 4|:memo: msys2|3|[tsondergaard](https://github.com/tsondergaard), **RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -249,9 +246,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 598
+	- Open: 595
 	- Draft: 57
-	- Average Age: 108 days, 6 hours, and 43.60 minutes
+	- Average Age: 108 days, 20 hours, and 31.73 minutes
 	- Stop Label: 298
 	
 
