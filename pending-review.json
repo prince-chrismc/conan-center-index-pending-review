@@ -5379,7 +5379,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22135",
       "LastCommitSHA": "5c2889b87e9e8465ff76a65a4ef3b8601b5f25d1",
       "LastCommitAt": "2024-01-03T20:37:57Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -5577,39 +5577,6 @@
       }
    },
    {
-      "Number": 22167,
-      "OpenedBy": "kuroneko",
-      "CreatedAt": "2024-01-05T05:08:53Z",
-      "Recipe": "wayland",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22167",
-      "LastCommitSHA": "65f749aff180e0d18618316990ce77336b02ef35",
-      "LastCommitAt": "2024-01-06T04:25:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-06T04:24:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22167#pullrequestreview-1807219680"
-         }
-      }
-   },
-   {
       "Number": 22170,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-05T14:06:27Z",
@@ -5636,6 +5603,25 @@
             "SubmittedAt": "2024-01-05T23:24:05Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22170#pullrequestreview-1807076468"
          }
+      }
+   },
+   {
+      "Number": 22174,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2024-01-06T05:52:36Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22174",
+      "LastCommitSHA": "d4e1c2851bbe5932191735d2eccca54260405746",
+      "LastCommitAt": "2024-01-06T05:48:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
