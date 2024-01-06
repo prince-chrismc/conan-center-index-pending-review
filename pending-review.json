@@ -3639,39 +3639,6 @@
       }
    },
    {
-      "Number": 21770,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-12-14T14:53:49Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21770",
-      "LastCommitSHA": "25d9f29d717127d6c8b45478ffcc063b043cd943",
-      "LastCommitAt": "2024-01-06T19:26:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-01-06T16:35:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21770#pullrequestreview-1807504679"
-         }
-      }
-   },
-   {
       "Number": 21771,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-14T15:30:56Z",
