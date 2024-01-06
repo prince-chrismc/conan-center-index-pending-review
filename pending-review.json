@@ -5604,24 +5604,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22170#pullrequestreview-1807076468"
          }
       }
-   },
-   {
-      "Number": 22174,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2024-01-06T05:52:36Z",
-      "Recipe": "armadillo",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22174",
-      "LastCommitSHA": "d4e1c2851bbe5932191735d2eccca54260405746",
-      "LastCommitAt": "2024-01-06T05:48:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
