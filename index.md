@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|L|0|||
 [#22170](https://github.com/conan-io/conan-center-index/pull/22170)|[valgur](https://github.com/valgur)|Jan 5|:memo: libmodplug|:blue_square: S|1|Jan 5||
-[#22179](https://github.com/conan-io/conan-center-index/pull/22179)|[toge](https://github.com/toge)|Jan 6|:memo: toml11|:blue_square: S|0|||
+[#22179](https://github.com/conan-io/conan-center-index/pull/22179)|[toge](https://github.com/toge)|Jan 6|:memo: toml11|:blue_square: S|1|Jan 7||**RubenRBS**
 [#22180](https://github.com/conan-io/conan-center-index/pull/22180)|[fdefelici](https://github.com/fdefelici)|Jan 6|:stopwatch: clove-unit|:green_circle: XS|0|||
 
 
@@ -234,7 +234,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 580
 	- Draft: 57
-	- Average Age: 111 days, 14 hours, and 35.78 minutes
+	- Average Age: 111 days, 17 hours, and 26.42 minutes
 	- Stop Label: 298
 	
 
