@@ -4638,24 +4638,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22182,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-07T06:03:47Z",
-      "Recipe": "cyclonedds",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22182",
-      "LastCommitSHA": "d23ce43ec1a9468ca2fb16a7bdb6d52eded2d063",
-      "LastCommitAt": "2024-01-06T17:16:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
