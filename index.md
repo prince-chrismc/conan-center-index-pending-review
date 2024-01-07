@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,6 +220,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22184](https://github.com/conan-io/conan-center-index/pull/22184)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: capnproto|:green_circle: XS|0|||
 [#22185](https://github.com/conan-io/conan-center-index/pull/22185)|[toge](https://github.com/toge)|Jan 7|:stopwatch: nng|:green_circle: XS|0|||
 [#22186](https://github.com/conan-io/conan-center-index/pull/22186)|[toge](https://github.com/toge)|Jan 7|:stopwatch: roaring|:green_circle: XS|0|||
+[#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: dcmtk|L|0|||
+[#22188](https://github.com/conan-io/conan-center-index/pull/22188)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: wolfssl|:green_circle: XS|0|||
+[#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: xerces-c|M|0|||
+[#22190](https://github.com/conan-io/conan-center-index/pull/22190)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: log4cxx|L|0|||
+[#22191](https://github.com/conan-io/conan-center-index/pull/22191)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: open62541|:blue_square: S|0|||
+[#22192](https://github.com/conan-io/conan-center-index/pull/22192)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: openblas|:green_circle: XS|0|||
+[#22193](https://github.com/conan-io/conan-center-index/pull/22193)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: pixman|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,9 +250,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 583
+	- Open: 590
 	- Draft: 57
-	- Average Age: 111 days, 12 hours, and 44.64 minutes
+	- Average Age: 110 days, 5 hours, and 55.81 minutes
 	- Stop Label: 297
 	
 
