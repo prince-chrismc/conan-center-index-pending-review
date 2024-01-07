@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **202** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -219,11 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: dcmtk|L|0|||
 [#22188](https://github.com/conan-io/conan-center-index/pull/22188)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: wolfssl|:green_circle: XS|0|||
 [#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: xerces-c|M|0|||
-[#22190](https://github.com/conan-io/conan-center-index/pull/22190)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: log4cxx|L|0|||
-[#22191](https://github.com/conan-io/conan-center-index/pull/22191)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: open62541|:blue_square: S|0|||
 [#22192](https://github.com/conan-io/conan-center-index/pull/22192)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: openblas|:green_circle: XS|0|||
-[#22193](https://github.com/conan-io/conan-center-index/pull/22193)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: pixman|:green_circle: XS|0|||
-[#22194](https://github.com/conan-io/conan-center-index/pull/22194)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: libsass|:green_circle: XS|0|||
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: ffmpeg|:green_circle: XS|0|||
 [#22196](https://github.com/conan-io/conan-center-index/pull/22196)|[OleksandrKvl](https://github.com/OleksandrKvl)|Jan 7|:stopwatch: sbepp|:blue_square: S|0|||
 [#22197](https://github.com/conan-io/conan-center-index/pull/22197)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: libxpm|M|0|||
@@ -257,8 +253,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 595
 	- Draft: 57
-	- Average Age: 109 days, 14 hours, and 14.17 minutes
-	- Stop Label: 297
+	- Average Age: 109 days, 16 hours, and 12.20 minutes
+	- Stop Label: 301
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
