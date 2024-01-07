@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **181** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,6 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaec|L|0|:eyes:||
 [#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaom-av1|M|0|:eyes:||
 [#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:memo: bshoshany-thread-pool|M|3|Jan 4||toge
+[#22004](https://github.com/conan-io/conan-center-index/pull/22004)|[valgur](https://github.com/valgur)|Dec 27|:memo: taglib|M|1|Jan 6||
 [#22011](https://github.com/conan-io/conan-center-index/pull/22011)|[valgur](https://github.com/valgur)|Dec 27|:memo: zint|L|0|:eyes:||
 [#22012](https://github.com/conan-io/conan-center-index/pull/22012)|[valgur](https://github.com/valgur)|Dec 27|:memo: zookeeper-client-c|:blue_square: S|1|Dec 28||ericLemanissier
 [#22021](https://github.com/conan-io/conan-center-index/pull/22021)|[valgur](https://github.com/valgur)|Dec 28|:memo: flac|M|1|Jan 6||**RubenRBS**
@@ -233,7 +234,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 579
 	- Draft: 57
-	- Average Age: 112 days, 5 hours, and 16.44 minutes
+	- Average Age: 112 days, 6 hours, and 11.99 minutes
 	- Stop Label: 298
 	
 
