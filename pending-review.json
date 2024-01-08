@@ -3447,30 +3447,6 @@
       }
    },
    {
-      "Number": 21664,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T18:55:01Z",
-      "Recipe": "sundials",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21664",
-      "LastCommitSHA": "76792969cecf185ea0809f17910b1cfd1b518a27",
-      "LastCommitAt": "2024-01-07T09:31:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-06T04:06:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21664#pullrequestreview-1807210052"
-         }
-      }
-   },
-   {
       "Number": 21669,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T21:51:04Z",
