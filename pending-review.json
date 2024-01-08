@@ -1723,7 +1723,7 @@
       "LastCommitAt": "2023-12-05T17:02:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -1734,9 +1734,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-01-08T11:31:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20068#pullrequestreview-1808874126"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2024-01-08T13:54:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20068#pullrequestreview-1809156026"
          }
       }
    },
