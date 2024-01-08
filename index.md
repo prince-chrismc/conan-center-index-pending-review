@@ -221,8 +221,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: xerces-c|M|0|||
 [#22196](https://github.com/conan-io/conan-center-index/pull/22196)|[OleksandrKvl](https://github.com/OleksandrKvl)|Jan 7|:stopwatch: sbepp|:blue_square: S|0|||
 [#22197](https://github.com/conan-io/conan-center-index/pull/22197)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: libxpm|M|0|||
-[#22198](https://github.com/conan-io/conan-center-index/pull/22198)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:stopwatch: libsrtp|:green_circle: XS|0|||
-[#22199](https://github.com/conan-io/conan-center-index/pull/22199)|[toge](https://github.com/toge)|Jan 7|:stopwatch: redis-plus-plus|:green_circle: XS|0|||
+[#22198](https://github.com/conan-io/conan-center-index/pull/22198)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:stopwatch: libsrtp|:green_circle: XS|1|Jan 8||**RubenRBS**
+[#22199](https://github.com/conan-io/conan-center-index/pull/22199)|[toge](https://github.com/toge)|Jan 7|:stopwatch: redis-plus-plus|:green_circle: XS|1|Jan 8||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -249,9 +249,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 595
-	- Draft: 57
-	- Average Age: 109 days, 18 hours, and 11.44 minutes
+	- Open: 596
+	- Draft: 58
+	- Average Age: 109 days, 16 hours, and 28.33 minutes
 	- Stop Label: 303
 	
 
