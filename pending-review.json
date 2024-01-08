@@ -5034,25 +5034,6 @@
       }
    },
    {
-      "Number": 22211,
-      "OpenedBy": "nikitasinys",
-      "CreatedAt": "2024-01-08T16:52:30Z",
-      "Recipe": "bazel",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22211",
-      "LastCommitSHA": "4592f1e0ba890409a2595f338305495c39101f80",
-      "LastCommitAt": "2024-01-08T16:58:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22212,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-01-08T17:03:01Z",
