@@ -768,7 +768,7 @@
       "LastCommitAt": "2023-10-06T12:59:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -784,8 +784,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-12-12T18:54:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18901#pullrequestreview-1778239256"
+            "SubmittedAt": "2024-01-09T09:05:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18901#pullrequestreview-1810693856"
          }
       }
    },
@@ -4895,20 +4895,24 @@
       "LastCommitAt": "2024-01-08T22:44:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-09T00:41:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22216#pullrequestreview-1810240941"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-01-09T08:24:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22216#pullrequestreview-1810622826"
          }
       }
    },
@@ -4943,20 +4947,28 @@
       "LastCommitAt": "2024-01-09T07:43:59Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "sandye51",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "ilya-lavrenov",
+               "Tier": "unofficial"
+            },
+            {
+               "Name": "adam-brzakala99",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "sandye51",
-            "SubmittedAt": "2024-01-09T08:18:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22221#pullrequestreview-1810612597"
+            "ReviewerName": "adam-brzakala99",
+            "SubmittedAt": "2024-01-09T09:00:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22221#pullrequestreview-1810686368"
          }
       }
    }
