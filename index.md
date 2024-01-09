@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -158,7 +158,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21695](https://github.com/conan-io/conan-center-index/pull/21695)|[toge](https://github.com/toge)|Dec 9|:memo: quickjs|M|1|Jan 6||**RubenRBS**
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#21734](https://github.com/conan-io/conan-center-index/pull/21734)|[valgur](https://github.com/valgur)|Dec 12|:memo: mingw-w64|L|1|Jan 6||**RubenRBS**
-[#21740](https://github.com/conan-io/conan-center-index/pull/21740)|[rainman110](https://github.com/rainman110)|Dec 13|:stopwatch: gtlab-logging|M|1|Jan 8||
 [#21744](https://github.com/conan-io/conan-center-index/pull/21744)|[valgur](https://github.com/valgur)|Dec 13|:memo: cyrus-sasl|L|0|:eyes:||
 [#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|0|:eyes:||
 [#21747](https://github.com/conan-io/conan-center-index/pull/21747)|[toge](https://github.com/toge)|Dec 14|:memo: boost|L|4|Jan 4||jwillikers
@@ -170,7 +169,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21831](https://github.com/conan-io/conan-center-index/pull/21831)|[cbaecker](https://github.com/cbaecker)|Dec 20|:stopwatch: json-schema-validator|:green_circle: XS|0|:eyes:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|0|:eyes:||
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|:eyes:||
-[#21869](https://github.com/conan-io/conan-center-index/pull/21869)|[Mi-La](https://github.com/Mi-La)|Dec 22|:stopwatch: zserio|L|10|Jan 8|RubenRBS|**uilianries**
 [#21879](https://github.com/conan-io/conan-center-index/pull/21879)|[toge](https://github.com/toge)|Dec 23|:memo: poco|L|3|Jan 4||**uilianries**
 [#21905](https://github.com/conan-io/conan-center-index/pull/21905)|[valgur](https://github.com/valgur)|Dec 26|:memo: nasm|M|0|:eyes:||
 [#21926](https://github.com/conan-io/conan-center-index/pull/21926)|[valgur](https://github.com/valgur)|Dec 26|:memo: armadillo|:blue_square: S|1|Jan 7||samuel-emrys
@@ -204,7 +202,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22180](https://github.com/conan-io/conan-center-index/pull/22180)|[fdefelici](https://github.com/fdefelici)|Jan 6|:stopwatch: clove-unit|:green_circle: XS|0|||
 [#22183](https://github.com/conan-io/conan-center-index/pull/22183)|[toge](https://github.com/toge)|Jan 7|:stopwatch: gperftools|:green_circle: XS|0|||
 [#22184](https://github.com/conan-io/conan-center-index/pull/22184)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: capnproto|:green_circle: XS|0|||
-[#22185](https://github.com/conan-io/conan-center-index/pull/22185)|[toge](https://github.com/toge)|Jan 7|:stopwatch: nng|:green_circle: XS|0|||
 [#22186](https://github.com/conan-io/conan-center-index/pull/22186)|[toge](https://github.com/toge)|Jan 7|:stopwatch: roaring|:green_circle: XS|0|||
 [#22188](https://github.com/conan-io/conan-center-index/pull/22188)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: wolfssl|:green_circle: XS|0|||
 [#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: xerces-c|M|0|||
@@ -248,8 +245,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 605
 	- Draft: 57
-	- Average Age: 109 days, and 22.16 minutes
-	- Stop Label: 315
+	- Average Age: 109 days, 1 hours, and 24.13 minutes
+	- Stop Label: 318
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
