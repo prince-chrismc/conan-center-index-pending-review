@@ -4723,25 +4723,6 @@
       }
    },
    {
-      "Number": 22189,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-07T10:33:17Z",
-      "Recipe": "xerces-c",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22189",
-      "LastCommitSHA": "689a5f5671271e49ecdda36f7378d8ed14b91553",
-      "LastCommitAt": "2024-01-07T10:32:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22197,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-07T14:25:26Z",
