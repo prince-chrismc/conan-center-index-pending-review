@@ -1674,25 +1674,6 @@
       }
    },
    {
-      "Number": 20010,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T21:22:51Z",
-      "Recipe": "behaviortree.cpp",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20010",
-      "LastCommitSHA": "a5e03f7f9919c4afa748456cdadad36b48dc3ae1",
-      "LastCommitAt": "2024-01-02T07:02:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20068,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-09-21T13:43:22Z",
