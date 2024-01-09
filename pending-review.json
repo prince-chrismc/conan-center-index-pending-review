@@ -1279,8 +1279,8 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19298",
-      "LastCommitSHA": "f26c947fbc688f40e9bd0f894b19c51b0e0335b6",
-      "LastCommitAt": "2024-01-05T11:06:25Z",
+      "LastCommitSHA": "f6cc7584e9f4c398bc42cd004f913cd01913eca5",
+      "LastCommitAt": "2024-01-09T07:04:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 11,
@@ -3213,39 +3213,6 @@
       }
    },
    {
-      "Number": 21500,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-30T10:59:15Z",
-      "Recipe": "jwt-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21500",
-      "LastCommitSHA": "50e17c1dc068b3370269f4ea160fa62af1680bd7",
-      "LastCommitAt": "2023-12-15T11:03:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-01-08T15:29:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21500#pullrequestreview-1809360883"
-         }
-      }
-   },
-   {
       "Number": 21509,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-30T12:33:06Z",
@@ -4948,6 +4915,25 @@
             "SubmittedAt": "2024-01-09T00:41:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22216#pullrequestreview-1810240941"
          }
+      }
+   },
+   {
+      "Number": 22219,
+      "OpenedBy": "vient",
+      "CreatedAt": "2024-01-09T07:07:58Z",
+      "Recipe": "caf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22219",
+      "LastCommitSHA": "d180cf1acf2361f1c4fc0776cdecec8b7bc143ff",
+      "LastCommitAt": "2024-01-09T07:06:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
