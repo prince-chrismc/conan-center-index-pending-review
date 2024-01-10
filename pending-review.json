@@ -4494,35 +4494,6 @@
       }
    },
    {
-      "Number": 22237,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-10T12:39:31Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22237",
-      "LastCommitSHA": "073af7c05130175e1a8ac4853bfc9bfd5456df65",
-      "LastCommitAt": "2024-01-10T18:06:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-01-10T12:46:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22237#pullrequestreview-1813149200"
-         }
-      }
-   },
-   {
       "Number": 22240,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-10T13:38:47Z",
@@ -4549,25 +4520,6 @@
             "SubmittedAt": "2024-01-10T14:33:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22240#pullrequestreview-1813367930"
          }
-      }
-   },
-   {
-      "Number": 22247,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-10T17:33:05Z",
-      "Recipe": "libmaxminddb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22247",
-      "LastCommitSHA": "6026ad4c7ba67ee24aba4965484005b3b0239ec6",
-      "LastCommitAt": "2024-01-10T17:32:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
