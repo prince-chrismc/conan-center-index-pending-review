@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -202,7 +202,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22236](https://github.com/conan-io/conan-center-index/pull/22236)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:new: libvdpau|M|1|Jan 10||**RubenRBS**
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|:blue_square: S|1|Jan 10||
 [#22248](https://github.com/conan-io/conan-center-index/pull/22248)|[toge](https://github.com/toge)|Jan 10|:stopwatch: uwebsockets|:green_circle: XS|0|||
-[#22252](https://github.com/conan-io/conan-center-index/pull/22252)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: samarium|:blue_square: S|0|||
 [#22253](https://github.com/conan-io/conan-center-index/pull/22253)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: thrift|:green_circle: XS|0|||
 [#22254](https://github.com/conan-io/conan-center-index/pull/22254)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: sfml|:green_circle: XS|0|||
 [#22257](https://github.com/conan-io/conan-center-index/pull/22257)|[valgur](https://github.com/valgur)|Jan 11|:stopwatch: matplotplusplus|M|0|||
@@ -236,7 +235,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 599
 	- Draft: 58
-	- Average Age: 111 days, 4 hours, and 36.05 minutes
+	- Average Age: 111 days, 5 hours, and 40.56 minutes
 	- Stop Label: 320
 	
 
