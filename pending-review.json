@@ -4249,35 +4249,6 @@
       }
    },
    {
-      "Number": 22193,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-07T10:53:57Z",
-      "Recipe": "pixman",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22193",
-      "LastCommitSHA": "fb3044d58e69a05441e7c93b60a86d9616f1158c",
-      "LastCommitAt": "2024-01-10T12:43:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-11T00:01:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22193#pullrequestreview-1814405118"
-         }
-      }
-   },
-   {
       "Number": 22196,
       "OpenedBy": "OleksandrKvl",
       "CreatedAt": "2024-01-07T13:37:52Z",
