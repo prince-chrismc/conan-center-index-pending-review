@@ -1239,30 +1239,6 @@
       }
    },
    {
-      "Number": 19476,
-      "OpenedBy": "Nekto89",
-      "CreatedAt": "2023-08-29T11:18:03Z",
-      "Recipe": "zlib-ng",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19476",
-      "LastCommitSHA": "2a606ee040acad614f10a5e0ac71c7e1e1701cd9",
-      "LastCommitAt": "2024-01-11T16:53:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-01-11T16:17:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19476#pullrequestreview-1815973936"
-         }
-      }
-   },
-   {
       "Number": 19480,
       "OpenedBy": "steinerthomas",
       "CreatedAt": "2023-08-29T13:46:00Z",
@@ -4675,25 +4651,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22262",
       "LastCommitSHA": "b9b33cf68596e4e88cdbaac767d836dba2d643a5",
       "LastCommitAt": "2024-01-11T15:50:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22263,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2024-01-11T16:09:52Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22263",
-      "LastCommitSHA": "4fc1d6129cfa92f0a86b9a47104f779ce618114b",
-      "LastCommitAt": "2024-01-11T16:05:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
