@@ -2648,6 +2648,30 @@
       }
    },
    {
+      "Number": 21221,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-18T16:59:33Z",
+      "Recipe": "openal-soft",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21221",
+      "LastCommitSHA": "70eec775af9a81dc2e64d2ee48554375f1ec8473",
+      "LastCommitAt": "2024-01-11T08:32:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2024-01-06T16:53:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21221#pullrequestreview-1807509721"
+         }
+      }
+   },
+   {
       "Number": 21238,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-19T08:33:48Z",
@@ -3574,6 +3598,30 @@
             "ReviewerName": "toge",
             "SubmittedAt": "2024-01-08T10:47:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21865#pullrequestreview-1808745701"
+         }
+      }
+   },
+   {
+      "Number": 21904,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-25T22:22:48Z",
+      "Recipe": "log4cplus",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21904",
+      "LastCommitSHA": "a44023c63746a5c602a60b02dfa9264116385b5c",
+      "LastCommitAt": "2024-01-11T08:12:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-01-06T03:07:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21904#pullrequestreview-1807192317"
          }
       }
    },
@@ -4546,25 +4594,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22248",
       "LastCommitSHA": "7cb1bd83f523a5092ff8c8090e3398def3309cc4",
       "LastCommitAt": "2024-01-10T17:40:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22253,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-11T09:36:57Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22253",
-      "LastCommitSHA": "b30809eb612b4c6c669979c717f6a6b8575c09d9",
-      "LastCommitAt": "2024-01-11T09:36:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
