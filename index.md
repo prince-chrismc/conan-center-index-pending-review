@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **175** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -107,7 +107,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:new: zoe|L|4|Oct 17 :bell:||jwillikers
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
-[#20611](https://github.com/conan-io/conan-center-index/pull/20611)|[Ahajha](https://github.com/Ahajha)|Oct 17|:memo: andreasbuhr-cppcoro|L|8|Jan 9||**RubenRBS**
 [#20619](https://github.com/conan-io/conan-center-index/pull/20619)|[valgur](https://github.com/valgur)|Oct 17|:memo: onnxruntime|L|0|:eyes:||
 [#20634](https://github.com/conan-io/conan-center-index/pull/20634)|[thbeu](https://github.com/thbeu)|Oct 18|:memo: libtiff|:green_circle: XS|2|Nov 17 :bell:||jwillikers, [valgur](https://github.com/valgur)
 [#20656](https://github.com/conan-io/conan-center-index/pull/20656)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: msix|:green_circle: XS|1|Oct 19 :bell:||jwillikers
@@ -196,7 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22208](https://github.com/conan-io/conan-center-index/pull/22208)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: minizip-ng|:green_circle: XS|0|||
 [#22215](https://github.com/conan-io/conan-center-index/pull/22215)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jan 8|:stopwatch: opencl-headers|:green_circle: XS|0|||
 [#22219](https://github.com/conan-io/conan-center-index/pull/22219)|[vient](https://github.com/vient)|Jan 9|:stopwatch: caf|:green_circle: XS|0|||
-[#22221](https://github.com/conan-io/conan-center-index/pull/22221)|[tomasz-wezyk](https://github.com/tomasz-wezyk)|Jan 9|:stopwatch: onetbb|:green_circle: XS|3|Jan 9||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov), [adam-brzakala99](https://github.com/adam-brzakala99)
+[#22221](https://github.com/conan-io/conan-center-index/pull/22221)|[tomasz-wezyk](https://github.com/tomasz-wezyk)|Jan 9|:stopwatch: onetbb|:green_circle: XS|4|Jan 11||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov), [adam-brzakala99](https://github.com/adam-brzakala99), **uilianries**
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|||
 [#22236](https://github.com/conan-io/conan-center-index/pull/22236)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:new: libvdpau|M|1|Jan 10||**RubenRBS**
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|:blue_square: S|1|Jan 10||
@@ -225,9 +224,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 591
+	- Open: 590
 	- Draft: 58
-	- Average Age: 112 days, 10 hours, and 31.62 minutes
+	- Average Age: 112 days, 12 hours, and 41.41 minutes
 	- Stop Label: 319
 	
 
