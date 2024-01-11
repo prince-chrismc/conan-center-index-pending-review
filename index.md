@@ -188,10 +188,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|:eyes:||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|L|0|||
 [#22180](https://github.com/conan-io/conan-center-index/pull/22180)|[fdefelici](https://github.com/fdefelici)|Jan 6|:stopwatch: clove-unit|:green_circle: XS|0|:eyes:||
-[#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:stopwatch: dcmtk|L|1|Jan 9||
-[#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:memo: xerces-c|M|0|||
-[#22193](https://github.com/conan-io/conan-center-index/pull/22193)|[valgur](https://github.com/valgur)|Jan 7|:memo: pixman|:blue_square: S|0|||
-[#22196](https://github.com/conan-io/conan-center-index/pull/22196)|[OleksandrKvl](https://github.com/OleksandrKvl)|Jan 7|:memo: sbepp|M|1|Jan 10||**RubenRBS**
+[#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:memo: dcmtk|L|1|Jan 9||
+[#22189](https://github.com/conan-io/conan-center-index/pull/22189)|[valgur](https://github.com/valgur)|Jan 7|:memo: xerces-c|M|1|Jan 11||**RubenRBS**
+[#22193](https://github.com/conan-io/conan-center-index/pull/22193)|[valgur](https://github.com/valgur)|Jan 7|:memo: pixman|:blue_square: S|1|Jan 11||**RubenRBS**
+[#22196](https://github.com/conan-io/conan-center-index/pull/22196)|[OleksandrKvl](https://github.com/OleksandrKvl)|Jan 7|:memo: sbepp|M|2|Jan 11||**RubenRBS**
 [#22204](https://github.com/conan-io/conan-center-index/pull/22204)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: gdal|L|0|||
 [#22207](https://github.com/conan-io/conan-center-index/pull/22207)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: zyre|:green_circle: XS|0|||
 [#22208](https://github.com/conan-io/conan-center-index/pull/22208)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: minizip-ng|:green_circle: XS|0|||
@@ -199,9 +199,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22219](https://github.com/conan-io/conan-center-index/pull/22219)|[vient](https://github.com/vient)|Jan 9|:stopwatch: caf|:green_circle: XS|0|||
 [#22221](https://github.com/conan-io/conan-center-index/pull/22221)|[tomasz-wezyk](https://github.com/tomasz-wezyk)|Jan 9|:stopwatch: onetbb|:green_circle: XS|3|Jan 9||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov), [adam-brzakala99](https://github.com/adam-brzakala99)
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|||
-[#22236](https://github.com/conan-io/conan-center-index/pull/22236)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:new: libvdpau|M|0|||
+[#22236](https://github.com/conan-io/conan-center-index/pull/22236)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:new: libvdpau|M|1|Jan 10||**RubenRBS**
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|:blue_square: S|1|Jan 10||
-[#22240](https://github.com/conan-io/conan-center-index/pull/22240)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: boost|:blue_square: S|1|Jan 10||[grafikrobot](https://github.com/grafikrobot)
+[#22240](https://github.com/conan-io/conan-center-index/pull/22240)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: boost|:blue_square: S|2|Jan 10||[grafikrobot](https://github.com/grafikrobot), **RubenRBS**
 [#22248](https://github.com/conan-io/conan-center-index/pull/22248)|[toge](https://github.com/toge)|Jan 10|:stopwatch: uwebsockets|:green_circle: XS|0|||
 
 
@@ -226,10 +226,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 593
+	- Open: 592
 	- Draft: 58
-	- Average Age: 111 days, 17 hours, and 41.66 minutes
-	- Stop Label: 320
+	- Average Age: 111 days, 23 hours, and 48.98 minutes
+	- Stop Label: 319
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
