@@ -4601,7 +4601,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22250",
       "LastCommitSHA": "2a563259e9c8e0e715505a4ec98edeeea2dba08c",
       "LastCommitAt": "2024-01-11T01:55:52Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22251,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-11T02:21:56Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22251",
+      "LastCommitSHA": "17da03d792d054ff495208f3de7b33e7a427142a",
+      "LastCommitAt": "2024-01-11T02:17:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
