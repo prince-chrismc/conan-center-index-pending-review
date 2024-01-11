@@ -202,10 +202,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22252](https://github.com/conan-io/conan-center-index/pull/22252)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: samarium|:blue_square: S|0|||
 [#22253](https://github.com/conan-io/conan-center-index/pull/22253)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: thrift|:green_circle: XS|0|||
 [#22254](https://github.com/conan-io/conan-center-index/pull/22254)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: sfml|:green_circle: XS|0|||
-[#22255](https://github.com/conan-io/conan-center-index/pull/22255)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: cgal|:blue_square: S|0|||
 [#22256](https://github.com/conan-io/conan-center-index/pull/22256)|[valgur](https://github.com/valgur)|Jan 11|:stopwatch: matplotlib-cpp|M|0|||
 [#22257](https://github.com/conan-io/conan-center-index/pull/22257)|[valgur](https://github.com/valgur)|Jan 11|:stopwatch: matplotplusplus|M|0|||
 [#22258](https://github.com/conan-io/conan-center-index/pull/22258)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:stopwatch: .c3i|:green_circle: XS|0|||
+[#22261](https://github.com/conan-io/conan-center-index/pull/22261)|[igormironchik](https://github.com/igormironchik)|Jan 11|:stopwatch: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -230,10 +230,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 596
+	- Open: 598
 	- Draft: 58
-	- Average Age: 111 days, 13 hours, and 33.35 minutes
-	- Stop Label: 320
+	- Average Age: 111 days, 5 hours, and 28.06 minutes
+	- Stop Label: 321
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
