@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **178** pull requests currently under way :detective:
+There are **179** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,6 +205,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22254](https://github.com/conan-io/conan-center-index/pull/22254)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: sfml|:green_circle: XS|0|||
 [#22255](https://github.com/conan-io/conan-center-index/pull/22255)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:stopwatch: cgal|:blue_square: S|0|||
 [#22256](https://github.com/conan-io/conan-center-index/pull/22256)|[valgur](https://github.com/valgur)|Jan 11|:stopwatch: matplotlib-cpp|M|0|||
+[#22257](https://github.com/conan-io/conan-center-index/pull/22257)|[valgur](https://github.com/valgur)|Jan 11|:stopwatch: matplotplusplus|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -229,9 +230,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 594
+	- Open: 595
 	- Draft: 58
-	- Average Age: 111 days, 20 hours, and 23.82 minutes
+	- Average Age: 111 days, 16 hours, and 51.08 minutes
 	- Stop Label: 319
 	
 
