@@ -4712,24 +4712,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22268,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2024-01-11T21:55:20Z",
-      "Recipe": "restinio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22268",
-      "LastCommitSHA": "6d80d9a3b051f04db76ea4ffc55ec5db8d3636e4",
-      "LastCommitAt": "2024-01-11T21:53:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
