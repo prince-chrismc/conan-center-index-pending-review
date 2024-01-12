@@ -4478,6 +4478,25 @@
       }
    },
    {
+      "Number": 22209,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-08T12:22:56Z",
+      "Recipe": "speedb",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22209",
+      "LastCommitSHA": "2f58d48f2c880596de0be7947502ba16068667c8",
+      "LastCommitAt": "2024-01-12T09:32:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22215,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2024-01-08T19:33:34Z",
@@ -4652,25 +4671,6 @@
       }
    },
    {
-      "Number": 22257,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-11T10:43:14Z",
-      "Recipe": "matplotplusplus",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22257",
-      "LastCommitSHA": "aa8b0a16b2cd5cac58a24cac44323384b8b9c91d",
-      "LastCommitAt": "2024-01-12T10:06:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22258,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-01-11T12:25:28Z",
@@ -4761,7 +4761,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22272",
       "LastCommitSHA": "1863d78b031879edfc41225115e569d017c73507",
       "LastCommitAt": "2024-01-12T10:09:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
