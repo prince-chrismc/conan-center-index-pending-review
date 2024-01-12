@@ -3683,7 +3683,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21910",
       "LastCommitSHA": "93e7bc554bc100ce34c8f43d87b678bcea497249",
       "LastCommitAt": "2024-01-12T16:46:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4658,6 +4658,25 @@
       }
    },
    {
+      "Number": 22260,
+      "OpenedBy": "rturrado",
+      "CreatedAt": "2024-01-11T13:05:40Z",
+      "Recipe": "func-gen",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22260",
+      "LastCommitSHA": "a30ff38a5887c5baee51439125b7c5bdfb414a5d",
+      "LastCommitAt": "2024-01-12T20:34:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22267,
       "OpenedBy": "jacobfriedman",
       "CreatedAt": "2024-01-11T20:45:01Z",
@@ -4734,6 +4753,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22281",
       "LastCommitSHA": "af2dba7c0acb96ee0b9c1ad08ebd77c9a9aaa213",
       "LastCommitAt": "2024-01-12T14:34:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22286,
+      "OpenedBy": "rturrado",
+      "CreatedAt": "2024-01-12T19:07:54Z",
+      "Recipe": "tree-gen",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22286",
+      "LastCommitSHA": "41c4e1583c1d044bbe4d520be8577471ff532127",
+      "LastCommitAt": "2024-01-12T19:52:46Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
