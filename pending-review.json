@@ -4717,5 +4717,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22270,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-12T05:52:01Z",
+      "Recipe": "zlib-ng",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22270",
+      "LastCommitSHA": "126c9a1e71173ac92e171175726f452cca0af346",
+      "LastCommitAt": "2024-01-12T05:51:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
