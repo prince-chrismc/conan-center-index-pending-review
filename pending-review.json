@@ -1207,15 +1207,20 @@
       "LastCommitAt": "2024-01-09T07:04:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
+         "Count": 12,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "AndreyMlashkin",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2024-01-05T10:21:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1805692135"
+            "SubmittedAt": "2024-01-12T11:41:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1818006221"
          }
       }
    },
@@ -4713,7 +4718,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22262",
       "LastCommitSHA": "2e27317c07636c6bebca7b0b1af62319851c4fd5",
       "LastCommitAt": "2024-01-12T09:09:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4762,6 +4767,44 @@
       "LastCommitSHA": "1863d78b031879edfc41225115e569d017c73507",
       "LastCommitAt": "2024-01-12T10:09:29Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22274,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2024-01-12T12:04:27Z",
+      "Recipe": "tl-expected",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22274",
+      "LastCommitSHA": "a398be2f47d15d9fd0db4b2f67a524a2f4883248",
+      "LastCommitAt": "2024-01-12T12:04:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22276,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2024-01-12T12:16:23Z",
+      "Recipe": "md4qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22276",
+      "LastCommitSHA": "164fc2b91c1b3b4898b16cf0324eb3c4e91168f5",
+      "LastCommitAt": "2024-01-12T12:15:12Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
