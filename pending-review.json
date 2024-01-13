@@ -4841,43 +4841,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22312,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-13T20:01:05Z",
-      "Recipe": "ktx",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22312",
-      "LastCommitSHA": "a1acd75e6c68617ad176f50093fc29a5dfe64c47",
-      "LastCommitAt": "2024-01-13T20:00:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22313,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-13T20:05:55Z",
-      "Recipe": "playrho",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22313",
-      "LastCommitSHA": "06ba3cda7633d38e091df76539392f9c485d8955",
-      "LastCommitAt": "2024-01-13T20:05:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
