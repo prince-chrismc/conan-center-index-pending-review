@@ -4833,6 +4833,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22307",
       "LastCommitSHA": "3fa50bcc12572b175bd6e488aa899bd88ab49b04",
       "LastCommitAt": "2024-01-13T18:59:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22312,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-13T20:01:05Z",
+      "Recipe": "ktx",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22312",
+      "LastCommitSHA": "a1acd75e6c68617ad176f50093fc29a5dfe64c47",
+      "LastCommitAt": "2024-01-13T20:00:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4843,15 +4862,15 @@
       }
    },
    {
-      "Number": 22308,
+      "Number": 22313,
       "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-13T19:03:03Z",
-      "Recipe": "muparserx",
+      "CreatedAt": "2024-01-13T20:05:55Z",
+      "Recipe": "playrho",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22308",
-      "LastCommitSHA": "fc64ab119c95fe0c6819c5fee58b29819f013236",
-      "LastCommitAt": "2024-01-13T19:02:53Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22313",
+      "LastCommitSHA": "06ba3cda7633d38e091df76539392f9c485d8955",
+      "LastCommitAt": "2024-01-13T20:05:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
