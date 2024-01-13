@@ -4795,5 +4795,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22289,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2024-01-13T08:45:28Z",
+      "Recipe": "openvino",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22289",
+      "LastCommitSHA": "16c5a18a07c6eb07b26630bc42fd345f1fd03b9b",
+      "LastCommitAt": "2024-01-13T08:44:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
