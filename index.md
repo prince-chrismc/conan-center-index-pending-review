@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **184** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -210,7 +210,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22281](https://github.com/conan-io/conan-center-index/pull/22281)|[sizeak](https://github.com/sizeak)|Jan 12|:memo: rapidjson|:green_circle: XS|3|Jan 13||SpaceIm, [klausholstjacobsen](https://github.com/klausholstjacobsen)
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|||
 [#22289](https://github.com/conan-io/conan-center-index/pull/22289)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jan 13|:stopwatch: openvino|:green_circle: XS|0|||
-[#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: physx|M|0|||
+[#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:memo: physx|M|0|||
+[#22297](https://github.com/conan-io/conan-center-index/pull/22297)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: wasm-micro-runtime|M|0|||
+[#22298](https://github.com/conan-io/conan-center-index/pull/22298)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: libnuma|:green_circle: XS|0|||
+[#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: iir1|:blue_square: S|0|||
+[#22300](https://github.com/conan-io/conan-center-index/pull/22300)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: glbinding|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -235,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 594
+	- Open: 598
 	- Draft: 57
-	- Average Age: 113 days, 1 hours, and 13.87 minutes
+	- Average Age: 112 days, 8 hours, and 5.70 minutes
 	- Stop Label: 314
 	
 
