@@ -4508,25 +4508,6 @@
       }
    },
    {
-      "Number": 22215,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2024-01-08T19:33:34Z",
-      "Recipe": "opencl-headers",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22215",
-      "LastCommitSHA": "988e8269d88c1fd59dc0e61894ab01e399e38b18",
-      "LastCommitAt": "2024-01-09T08:15:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22221,
       "OpenedBy": "tomasz-wezyk",
       "CreatedAt": "2024-01-09T07:48:03Z",
