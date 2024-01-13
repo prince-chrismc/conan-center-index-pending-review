@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,10 +211,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|||
 [#22289](https://github.com/conan-io/conan-center-index/pull/22289)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jan 13|:stopwatch: openvino|:green_circle: XS|0|||
 [#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:memo: physx|M|0|||
-[#22297](https://github.com/conan-io/conan-center-index/pull/22297)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: wasm-micro-runtime|M|0|||
-[#22298](https://github.com/conan-io/conan-center-index/pull/22298)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: libnuma|:green_circle: XS|0|||
-[#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: iir1|:blue_square: S|0|||
-[#22300](https://github.com/conan-io/conan-center-index/pull/22300)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: glbinding|:green_circle: XS|0|||
+[#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:memo: iir1|:blue_square: S|0|||
+[#22301](https://github.com/conan-io/conan-center-index/pull/22301)|[toge](https://github.com/toge)|Jan 13|:stopwatch: mppp|:green_circle: XS|0|||
+[#22302](https://github.com/conan-io/conan-center-index/pull/22302)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: onedpl|L|0|||
+[#22303](https://github.com/conan-io/conan-center-index/pull/22303)|[toge](https://github.com/toge)|Jan 13|:stopwatch: jinja2cpp|:green_circle: XS|0|||
+[#22304](https://github.com/conan-io/conan-center-index/pull/22304)|[toge](https://github.com/toge)|Jan 13|:stopwatch: quill|:green_circle: XS|0|||
+[#22305](https://github.com/conan-io/conan-center-index/pull/22305)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: ecos|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 598
+	- Open: 602
 	- Draft: 57
-	- Average Age: 112 days, 8 hours, and 5.70 minutes
-	- Stop Label: 314
+	- Average Age: 111 days, 15 hours, and 13.59 minutes
+	- Stop Label: 316
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
