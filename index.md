@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18788](https://github.com/conan-io/conan-center-index/pull/18788)|[valgur](https://github.com/valgur)|Jul 22|:memo: openvr|L|0|:eyes:||
 [#18795](https://github.com/conan-io/conan-center-index/pull/18795)|[valgur](https://github.com/valgur)|Jul 22|:memo: srt|L|3|Oct 2 :bell:||
 [#18797](https://github.com/conan-io/conan-center-index/pull/18797)|[valgur](https://github.com/valgur)|Jul 22|:memo: flatcc|L|0|:eyes:||
-[#18812](https://github.com/conan-io/conan-center-index/pull/18812)|[valgur](https://github.com/valgur)|Jul 22|:memo: libjxl|XL|1|Dec 13 :bell:||
+[#18812](https://github.com/conan-io/conan-center-index/pull/18812)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libjxl|XL|1|Dec 13 :bell:||
 [#18820](https://github.com/conan-io/conan-center-index/pull/18820)|[valgur](https://github.com/valgur)|Jul 22|:memo: pagmo2|L|0|:eyes:||
 [#18837](https://github.com/conan-io/conan-center-index/pull/18837)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: qcoro|L|0|:eyes:||
 [#18842](https://github.com/conan-io/conan-center-index/pull/18842)|[valgur](https://github.com/valgur)|Jul 23|:memo: azure-storage-cpp|L|0|:eyes:||
@@ -213,7 +213,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:memo: physx|M|0|||
 [#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:memo: iir1|:blue_square: S|0|||
 [#22301](https://github.com/conan-io/conan-center-index/pull/22301)|[toge](https://github.com/toge)|Jan 13|:stopwatch: mppp|:green_circle: XS|0|||
-[#22302](https://github.com/conan-io/conan-center-index/pull/22302)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: onedpl|L|0|||
 [#22303](https://github.com/conan-io/conan-center-index/pull/22303)|[toge](https://github.com/toge)|Jan 13|:stopwatch: jinja2cpp|:green_circle: XS|0|||
 [#22304](https://github.com/conan-io/conan-center-index/pull/22304)|[toge](https://github.com/toge)|Jan 13|:stopwatch: quill|:green_circle: XS|0|||
 [#22305](https://github.com/conan-io/conan-center-index/pull/22305)|[valgur](https://github.com/valgur)|Jan 13|:stopwatch: ecos|:green_circle: XS|0|||
@@ -243,8 +242,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 602
 	- Draft: 57
-	- Average Age: 111 days, 15 hours, and 13.59 minutes
-	- Stop Label: 316
+	- Average Age: 111 days, 16 hours, and 9.53 minutes
+	- Stop Label: 317
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
