@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -209,6 +209,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22274](https://github.com/conan-io/conan-center-index/pull/22274)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 12|:memo: tl-expected|:green_circle: XS|1|Jan 12||jwillikers
 [#22281](https://github.com/conan-io/conan-center-index/pull/22281)|[sizeak](https://github.com/sizeak)|Jan 12|:memo: rapidjson|:green_circle: XS|5|Jan 14||SpaceIm, [klausholstjacobsen](https://github.com/klausholstjacobsen), [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|||
+[#22290](https://github.com/conan-io/conan-center-index/pull/22290)|[valgur](https://github.com/valgur)|Jan 13|:memo: cimg|L|0|||
 [#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:memo: physx|M|0|||
 [#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:memo: iir1|:blue_square: S|0|||
 [#22300](https://github.com/conan-io/conan-center-index/pull/22300)|[valgur](https://github.com/valgur)|Jan 13|:memo: glbinding|:blue_square: S|0|||
@@ -221,10 +222,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22314](https://github.com/conan-io/conan-center-index/pull/22314)|[valgur](https://github.com/valgur)|Jan 13|:memo: tmxlite|M|0|||
 [#22316](https://github.com/conan-io/conan-center-index/pull/22316)|[valgur](https://github.com/valgur)|Jan 13|:memo: osqp|:blue_square: S|0|||
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|0|||
-[#22324](https://github.com/conan-io/conan-center-index/pull/22324)|[toge](https://github.com/toge)|Jan 14|:stopwatch: quickjs|:green_circle: XS|0|||
-[#22326](https://github.com/conan-io/conan-center-index/pull/22326)|[toge](https://github.com/toge)|Jan 14|:stopwatch: pdf-writer|:green_circle: XS|0|||
+[#22324](https://github.com/conan-io/conan-center-index/pull/22324)|[toge](https://github.com/toge)|Jan 14|:memo: quickjs|:green_circle: XS|0|||
 [#22327](https://github.com/conan-io/conan-center-index/pull/22327)|[toge](https://github.com/toge)|Jan 14|:stopwatch: c-blosc2|:green_circle: XS|0|||
-[#22328](https://github.com/conan-io/conan-center-index/pull/22328)|[toge](https://github.com/toge)|Jan 14|:stopwatch: libbigwig|:green_circle: XS|0|||
+[#22331](https://github.com/conan-io/conan-center-index/pull/22331)|[toge](https://github.com/toge)|Jan 14|:stopwatch: libenvpp|:green_circle: XS|0|||
+[#22332](https://github.com/conan-io/conan-center-index/pull/22332)|[toge](https://github.com/toge)|Jan 14|:stopwatch: mbits-diags|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -249,10 +250,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 618
+	- Open: 619
 	- Draft: 57
-	- Average Age: 109 days, 14 hours, and 30.06 minutes
-	- Stop Label: 324
+	- Average Age: 109 days, 12 hours, and 12.91 minutes
+	- Stop Label: 323
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
