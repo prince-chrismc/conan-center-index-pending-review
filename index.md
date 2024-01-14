@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **194** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -221,6 +221,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22314](https://github.com/conan-io/conan-center-index/pull/22314)|[valgur](https://github.com/valgur)|Jan 13|:memo: tmxlite|M|0|||
 [#22316](https://github.com/conan-io/conan-center-index/pull/22316)|[valgur](https://github.com/valgur)|Jan 13|:memo: osqp|:blue_square: S|0|||
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|0|||
+[#22324](https://github.com/conan-io/conan-center-index/pull/22324)|[toge](https://github.com/toge)|Jan 14|:stopwatch: quickjs|:green_circle: XS|0|||
+[#22326](https://github.com/conan-io/conan-center-index/pull/22326)|[toge](https://github.com/toge)|Jan 14|:stopwatch: pdf-writer|:green_circle: XS|0|||
+[#22327](https://github.com/conan-io/conan-center-index/pull/22327)|[toge](https://github.com/toge)|Jan 14|:stopwatch: c-blosc2|:green_circle: XS|0|||
+[#22328](https://github.com/conan-io/conan-center-index/pull/22328)|[toge](https://github.com/toge)|Jan 14|:stopwatch: libbigwig|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -245,10 +249,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 612
+	- Open: 618
 	- Draft: 57
-	- Average Age: 110 days, 15 hours, and 25.99 minutes
-	- Stop Label: 322
+	- Average Age: 109 days, 14 hours, and 30.06 minutes
+	- Stop Label: 324
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
