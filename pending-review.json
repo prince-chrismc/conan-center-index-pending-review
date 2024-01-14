@@ -4997,24 +4997,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22323,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-14T11:08:35Z",
-      "Recipe": "gtsam",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22323",
-      "LastCommitSHA": "99d32a9acab1c544ff2d905dff51dd8510b1b781",
-      "LastCommitAt": "2024-01-14T10:58:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
