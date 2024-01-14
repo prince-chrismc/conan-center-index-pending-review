@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|:eyes:||
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|4|Jan 6||jwillikers
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|1|Jan 6||
-[#21666](https://github.com/conan-io/conan-center-index/pull/21666)|[valgur](https://github.com/valgur)|Dec 6|:memo: seqan3|:blue_square: S|0|||
+[#21666](https://github.com/conan-io/conan-center-index/pull/21666)|[valgur](https://github.com/valgur)|Dec 6|:memo: seqan3|:blue_square: S|0|:eyes:||
 [#21669](https://github.com/conan-io/conan-center-index/pull/21669)|[valgur](https://github.com/valgur)|Dec 6|:memo: arrow|L|0|:eyes:||
 [#21687](https://github.com/conan-io/conan-center-index/pull/21687)|[coryan](https://github.com/coryan)|Dec 8|:memo: google-cloud-cpp|XL|1|Jan 10||**RubenRBS**
 [#21708](https://github.com/conan-io/conan-center-index/pull/21708)|[jmalopoy](https://github.com/jmalopoy)|Dec 11|:stopwatch: openssl|:green_circle: XS|8|Jan 11||**uilianries**
@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|||
 [#22272](https://github.com/conan-io/conan-center-index/pull/22272)|[Nekto89](https://github.com/Nekto89)|Jan 12|:memo: cryptopp|M|0|||
 [#22274](https://github.com/conan-io/conan-center-index/pull/22274)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 12|:memo: tl-expected|:green_circle: XS|1|Jan 12||jwillikers
-[#22281](https://github.com/conan-io/conan-center-index/pull/22281)|[sizeak](https://github.com/sizeak)|Jan 12|:memo: rapidjson|:green_circle: XS|4|Jan 14||SpaceIm, [klausholstjacobsen](https://github.com/klausholstjacobsen), [ilya-lavrenov](https://github.com/ilya-lavrenov)
+[#22281](https://github.com/conan-io/conan-center-index/pull/22281)|[sizeak](https://github.com/sizeak)|Jan 12|:memo: rapidjson|:green_circle: XS|5|Jan 14||SpaceIm, [klausholstjacobsen](https://github.com/klausholstjacobsen), [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|||
 [#22295](https://github.com/conan-io/conan-center-index/pull/22295)|[valgur](https://github.com/valgur)|Jan 13|:memo: physx|M|0|||
 [#22299](https://github.com/conan-io/conan-center-index/pull/22299)|[valgur](https://github.com/valgur)|Jan 13|:memo: iir1|:blue_square: S|0|||
@@ -247,7 +247,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 611
 	- Draft: 57
-	- Average Age: 110 days, 15 hours, and 39.18 minutes
+	- Average Age: 110 days, 16 hours, and 35.89 minutes
 	- Stop Label: 321
 	
 
