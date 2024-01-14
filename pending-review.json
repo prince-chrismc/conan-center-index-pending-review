@@ -4296,7 +4296,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22164",
       "LastCommitSHA": "76da5f5cbdd2b1e3a75f58e2447d9f95a36a41a2",
       "LastCommitAt": "2024-01-13T23:14:07Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4767,25 +4767,6 @@
       }
    },
    {
-      "Number": 22289,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2024-01-13T08:45:28Z",
-      "Recipe": "openvino",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22289",
-      "LastCommitSHA": "16c5a18a07c6eb07b26630bc42fd345f1fd03b9b",
-      "LastCommitAt": "2024-01-13T08:44:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22295,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-13T13:32:31Z",
@@ -4985,7 +4966,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22318",
       "LastCommitSHA": "5dccf7d5cc10ae901999b78b117692fbba9bfd1d",
       "LastCommitAt": "2024-01-13T23:05:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
