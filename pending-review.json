@@ -5025,5 +5025,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22337,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-14T22:04:28Z",
+      "Recipe": "g2o",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22337",
+      "LastCommitSHA": "d3a5839450fc59dc9077f47973b82c3c345d8b2f",
+      "LastCommitAt": "2024-01-14T21:58:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
