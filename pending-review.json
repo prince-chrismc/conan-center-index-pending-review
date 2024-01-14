@@ -4294,8 +4294,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22164",
-      "LastCommitSHA": "76da5f5cbdd2b1e3a75f58e2447d9f95a36a41a2",
-      "LastCommitAt": "2024-01-13T23:14:07Z",
+      "LastCommitSHA": "a065be28047e848b3424f07188ecb2ac0332eeec",
+      "LastCommitAt": "2024-01-14T14:22:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4771,6 +4771,25 @@
       }
    },
    {
+      "Number": 22290,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-13T11:08:42Z",
+      "Recipe": "cimg",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22290",
+      "LastCommitSHA": "7aac4c263ece40ed49a11e02314de80550266f42",
+      "LastCommitAt": "2024-01-13T18:34:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22295,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-13T13:32:31Z",
@@ -5008,26 +5027,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22324",
       "LastCommitSHA": "d6c0e98c8c24122a1e72a697115fb10709808e65",
       "LastCommitAt": "2024-01-14T12:24:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22326,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-14T12:31:07Z",
-      "Recipe": "pdf-writer",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22326",
-      "LastCommitSHA": "0db5bc0fad610c0622131a13638852b11295e6fb",
-      "LastCommitAt": "2024-01-14T12:30:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5056,15 +5056,34 @@
       }
    },
    {
-      "Number": 22328,
+      "Number": 22331,
       "OpenedBy": "toge",
-      "CreatedAt": "2024-01-14T12:44:57Z",
-      "Recipe": "libbigwig",
+      "CreatedAt": "2024-01-14T14:50:43Z",
+      "Recipe": "libenvpp",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22328",
-      "LastCommitSHA": "7413873d10088420aa78820aac764d1dced3f794",
-      "LastCommitAt": "2024-01-14T12:44:32Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22331",
+      "LastCommitSHA": "f7bb1f30e55562c2a64234e6bf1fd2b1c4920a84",
+      "LastCommitAt": "2024-01-14T14:50:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22332,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-14T14:55:51Z",
+      "Recipe": "mbits-diags",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22332",
+      "LastCommitSHA": "458d9615138591896aa9b32c91337906256f4c22",
+      "LastCommitAt": "2024-01-14T14:55:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
