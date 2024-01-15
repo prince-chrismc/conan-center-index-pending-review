@@ -4970,5 +4970,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22363,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-15T21:13:08Z",
+      "Recipe": "libunwind",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22363",
+      "LastCommitSHA": "e34afca23407ebdd099d871d3fc30f8c98a74238",
+      "LastCommitAt": "2024-01-15T21:12:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
