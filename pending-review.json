@@ -744,7 +744,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18988",
       "LastCommitSHA": "e43705e3b60eb720367defde28ed63ead14109b5",
       "LastCommitAt": "2024-01-15T15:56:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -4898,7 +4898,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22354",
       "LastCommitSHA": "0fbce5e1a2ce26ac07e5ceeeb61dc8f40b43280c",
       "LastCommitAt": "2024-01-15T17:53:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -4924,6 +4924,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22355",
       "LastCommitSHA": "c794bb3eac860e9a98579778054ebfe2762bbc85",
       "LastCommitAt": "2024-01-15T14:56:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22361,
+      "OpenedBy": "Taepper",
+      "CreatedAt": "2024-01-15T19:54:18Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22361",
+      "LastCommitSHA": "460a79165f1b3de90424d24ab99b623f2d67baea",
+      "LastCommitAt": "2024-01-15T19:49:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22362,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-15T20:06:22Z",
+      "Recipe": "proxy",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22362",
+      "LastCommitSHA": "6a9b345bb0655cda91af23e873eac7454bb6c6dc",
+      "LastCommitAt": "2024-01-15T20:02:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
