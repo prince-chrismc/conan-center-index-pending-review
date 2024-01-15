@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|2|Nov 14 :bell:||
 [#18978](https://github.com/conan-io/conan-center-index/pull/18978)|[valgur](https://github.com/valgur)|Jul 31|:new: rdma-core|L|0|:eyes:||
 [#18979](https://github.com/conan-io/conan-center-index/pull/18979)|[valgur](https://github.com/valgur)|Jul 31|:memo: libfabric|L|0|:eyes:||
-[#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|4|Jan 15||**RubenRBS**
+[#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:memo: gamenetworkingsockets|L|4|Jan 15||**RubenRBS**
 [#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|M|5|Oct 6 :bell:||
 [#19058](https://github.com/conan-io/conan-center-index/pull/19058)|[valgur](https://github.com/valgur)|Aug 5|:memo: swig|L|0|:eyes:||
 [#19074](https://github.com/conan-io/conan-center-index/pull/19074)|[valgur](https://github.com/valgur)|Aug 6|:memo: ignition-tools|L|3|Aug 8 :bell:||
@@ -215,8 +215,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22350](https://github.com/conan-io/conan-center-index/pull/22350)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 15|:memo: osmanip|M|0|||
 [#22351](https://github.com/conan-io/conan-center-index/pull/22351)|[valgur](https://github.com/valgur)|Jan 15|:memo: gperftools|:green_circle: XS|0|||
 [#22352](https://github.com/conan-io/conan-center-index/pull/22352)|[temap](https://github.com/temap)|Jan 15|:stopwatch: xmlsec|:green_circle: XS|0|||
-[#22354](https://github.com/conan-io/conan-center-index/pull/22354)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 15|:stopwatch: gettext|:green_circle: XS|2|Jan 15|RubenRBS|
+[#22354](https://github.com/conan-io/conan-center-index/pull/22354)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 15|:memo: gettext|:green_circle: XS|2|Jan 15|RubenRBS|
 [#22355](https://github.com/conan-io/conan-center-index/pull/22355)|[valgur](https://github.com/valgur)|Jan 15|:stopwatch: nudb|:green_circle: XS|0|||
+[#22361](https://github.com/conan-io/conan-center-index/pull/22361)|[Taepper](https://github.com/Taepper)|Jan 15|:stopwatch: duckdb|M|0|||
+[#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:stopwatch: proxy|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -241,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 604
+	- Open: 606
 	- Draft: 56
-	- Average Age: 111 days, 4 hours, and 24.51 minutes
+	- Average Age: 110 days, 20 hours, and 38.58 minutes
 	- Stop Label: 319
 	
 
