@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,7 +194,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|:eyes:||
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|:blue_square: S|2|Jan 12||jwillikers
 [#22255](https://github.com/conan-io/conan-center-index/pull/22255)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 11|:memo: cgal|:blue_square: S|1|Jan 12||jwillikers
-[#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|||
+[#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|:eyes:||
 [#22263](https://github.com/conan-io/conan-center-index/pull/22263)|[franramirez688](https://github.com/franramirez688)|Jan 11|:memo: libvpx|M|3|Jan 15||**uilianries**
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
 [#22272](https://github.com/conan-io/conan-center-index/pull/22272)|[Nekto89](https://github.com/Nekto89)|Jan 12|:memo: cryptopp|M|0|:eyes:||
@@ -219,6 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22355](https://github.com/conan-io/conan-center-index/pull/22355)|[valgur](https://github.com/valgur)|Jan 15|:stopwatch: nudb|:green_circle: XS|0|||
 [#22361](https://github.com/conan-io/conan-center-index/pull/22361)|[Taepper](https://github.com/Taepper)|Jan 15|:stopwatch: duckdb|M|0|||
 [#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:stopwatch: proxy|M|0|||
+[#22363](https://github.com/conan-io/conan-center-index/pull/22363)|[valgur](https://github.com/valgur)|Jan 15|:memo: libunwind|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,9 +244,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 606
+	- Open: 607
 	- Draft: 56
-	- Average Age: 110 days, 20 hours, and 38.58 minutes
+	- Average Age: 110 days, 17 hours, and 14.47 minutes
 	- Stop Label: 319
 	
 
