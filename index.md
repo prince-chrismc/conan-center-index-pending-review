@@ -170,7 +170,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21973](https://github.com/conan-io/conan-center-index/pull/21973)|[Cyriuz](https://github.com/Cyriuz)|Dec 27|:memo: pdfium|:green_circle: XS|1|Dec 28 :bell:||ericLemanissier
 [#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaec|L|0|:eyes:||
 [#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaom-av1|M|1|Jan 10||ericLemanissier
-[#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:memo: bshoshany-thread-pool|M|3|Jan 4||toge
+[#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:memo: bshoshany-thread-pool|M|3|Jan 4 :bell:||toge
 [#22011](https://github.com/conan-io/conan-center-index/pull/22011)|[valgur](https://github.com/valgur)|Dec 27|:memo: zint|L|0|:eyes:||
 [#22012](https://github.com/conan-io/conan-center-index/pull/22012)|[valgur](https://github.com/valgur)|Dec 27|:memo: zookeeper-client-c|:blue_square: S|1|Dec 28 :bell:||ericLemanissier
 [#22025](https://github.com/conan-io/conan-center-index/pull/22025)|[valgur](https://github.com/valgur)|Dec 28|:memo: kmod|:green_circle: XS|1|Jan 10||ericLemanissier
@@ -255,7 +255,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 615
 	- Draft: 56
-	- Average Age: 109 days, 8 hours, and 52.17 minutes
+	- Average Age: 109 days, 9 hours, and 47.27 minutes
 	- Stop Label: 320
 	
 
