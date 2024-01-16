@@ -175,7 +175,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|L|3|Dec 31 :bell:||
 [#22048](https://github.com/conan-io/conan-center-index/pull/22048)|[valgur](https://github.com/valgur)|Dec 28|:memo: autoconf|L|1|Jan 2 :bell:|jcar87|
 [#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:memo: physfs|:blue_square: S|1|Jan 10||ericLemanissier
-[#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:stopwatch: coin-lemon|:blue_square: S|2|Jan 3 :bell:||SpaceIm
+[#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:memo: coin-lemon|:blue_square: S|2|Jan 3 :bell:||SpaceIm
 [#22070](https://github.com/conan-io/conan-center-index/pull/22070)|[toge](https://github.com/toge)|Dec 30|:memo: arsenalgear|:blue_square: S|2|Jan 3 :bell:||ericLemanissier
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22099](https://github.com/conan-io/conan-center-index/pull/22099)|[nagayev](https://github.com/nagayev)|Jan 1|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
@@ -240,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 597
+	- Open: 596
 	- Draft: 56
-	- Average Age: 113 days, and 13.60 minutes
+	- Average Age: 113 days, 5 hours, and 44.69 minutes
 	- Stop Label: 315
 	
 
