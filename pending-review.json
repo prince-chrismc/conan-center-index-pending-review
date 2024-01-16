@@ -2143,11 +2143,21 @@
       "LastCommitAt": "2023-12-12T20:09:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-01-16T22:11:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20795#pullrequestreview-1825361974"
+         }
       }
    },
    {
