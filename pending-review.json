@@ -4889,6 +4889,35 @@
       }
    },
    {
+      "Number": 22345,
+      "OpenedBy": "Dobiasd",
+      "CreatedAt": "2024-01-15T09:00:51Z",
+      "Recipe": "frugally-deep",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22345",
+      "LastCommitSHA": "29e5928a63698923b0ce91178844781df1b4c227",
+      "LastCommitAt": "2024-01-16T05:20:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-01-16T06:11:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22345#pullrequestreview-1822583130"
+         }
+      }
+   },
+   {
       "Number": 22348,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-01-15T11:21:23Z",
