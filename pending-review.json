@@ -4863,24 +4863,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22386,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2024-01-16T17:59:09Z",
-      "Recipe": "gegles-spdlog_setup",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22386",
-      "LastCommitSHA": "d87d4c7afa918371cbd85b861398c662fcea1b50",
-      "LastCommitAt": "2024-01-16T17:57:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
