@@ -2265,17 +2265,22 @@
       "LastCommitAt": "2024-01-16T16:33:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
          "Blockers": [
             "RubenRBS"
          ],
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-11-18T08:13:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20979#pullrequestreview-1738300880"
+            "SubmittedAt": "2024-01-17T05:47:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20979#pullrequestreview-1826508638"
          }
       }
    },
