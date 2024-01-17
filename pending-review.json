@@ -4872,5 +4872,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22405,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2024-01-17T13:21:37Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22405",
+      "LastCommitSHA": "70a508e1d9059f0fece2ce0a18b142f8aa80f6cb",
+      "LastCommitAt": "2024-01-17T13:21:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22406,
+      "OpenedBy": "st9007a",
+      "CreatedAt": "2024-01-17T13:26:12Z",
+      "Recipe": "aws-c-sdkutils",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22406",
+      "LastCommitSHA": "7ff392d96817e2e233e7df90a937205463e06e02",
+      "LastCommitAt": "2024-01-17T13:26:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
