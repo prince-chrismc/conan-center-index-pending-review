@@ -98,6 +98,39 @@
       }
    },
    {
+      "Number": 17485,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-05-09T19:05:41Z",
+      "Recipe": "libxft",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17485",
+      "LastCommitSHA": "a2cbbc8b39788ea9201a2006ba57669ec5b50f2a",
+      "LastCommitAt": "2023-05-09T19:03:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-06-22T18:31:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17485#pullrequestreview-1493788144"
+         }
+      }
+   },
+   {
       "Number": 17609,
       "OpenedBy": "swebb2066",
       "CreatedAt": "2023-05-18T08:32:25Z",
@@ -3203,20 +3236,24 @@
       "LastCommitAt": "2024-01-08T16:10:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "samuel-emrys",
                "Tier": "community"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2024-01-16T09:51:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21765#pullrequestreview-1822934235"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-01-17T20:22:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21765#pullrequestreview-1828119640"
          }
       }
    },
@@ -4850,7 +4887,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22414",
       "LastCommitSHA": "dd71e79c226c8a2a4ff4493c6909d65dc416b519",
       "LastCommitAt": "2024-01-17T20:12:34Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
