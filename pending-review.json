@@ -4746,25 +4746,6 @@
       }
    },
    {
-      "Number": 22396,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-17T09:53:28Z",
-      "Recipe": "opencascade",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22396",
-      "LastCommitSHA": "0b9428751bde23aa11e311745172402fc4a2873c",
-      "LastCommitAt": "2024-01-17T15:07:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22401,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-17T10:41:45Z",
@@ -4774,25 +4755,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22401",
       "LastCommitSHA": "48c60f2d200dab018da9e4f812e25c796bacf8e9",
       "LastCommitAt": "2024-01-17T10:39:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22405,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-17T13:21:37Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22405",
-      "LastCommitSHA": "70a508e1d9059f0fece2ce0a18b142f8aa80f6cb",
-      "LastCommitAt": "2024-01-17T13:21:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4829,8 +4791,27 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22408",
-      "LastCommitSHA": "9180bf30cd52afeb6f7db6b881bffb67a22fca94",
-      "LastCommitAt": "2024-01-17T15:21:05Z",
+      "LastCommitSHA": "bc2cad534aa295a752644f1cc28d0c37f8852909",
+      "LastCommitAt": "2024-01-17T17:23:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22409,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-17T15:53:08Z",
+      "Recipe": "pistache",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22409",
+      "LastCommitSHA": "2ab5e6ff95f442811e087cb878d507b176f0ad68",
+      "LastCommitAt": "2024-01-17T17:21:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
