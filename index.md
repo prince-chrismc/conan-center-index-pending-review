@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,7 +57,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|2|Nov 14 :bell:||
 [#18978](https://github.com/conan-io/conan-center-index/pull/18978)|[valgur](https://github.com/valgur)|Jul 31|:new: rdma-core|L|0|:eyes:||
 [#18979](https://github.com/conan-io/conan-center-index/pull/18979)|[valgur](https://github.com/valgur)|Jul 31|:memo: libfabric|L|0|:eyes:||
-[#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:memo: gamenetworkingsockets|L|4|Jan 15||**RubenRBS**
 [#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|M|5|Oct 6 :bell:||
 [#19058](https://github.com/conan-io/conan-center-index/pull/19058)|[valgur](https://github.com/valgur)|Aug 5|:memo: swig|L|0|:eyes:||
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
@@ -175,7 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22070](https://github.com/conan-io/conan-center-index/pull/22070)|[toge](https://github.com/toge)|Dec 30|:memo: arsenalgear|:blue_square: S|2|Jan 3 :bell:||ericLemanissier
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22099](https://github.com/conan-io/conan-center-index/pull/22099)|[nagayev](https://github.com/nagayev)|Jan 1|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
-[#22115](https://github.com/conan-io/conan-center-index/pull/22115)|[valgur](https://github.com/valgur)|Jan 2|:memo: util-linux-libuuid|:blue_square: S|0|:eyes:||
+[#22115](https://github.com/conan-io/conan-center-index/pull/22115)|[valgur](https://github.com/valgur)|Jan 2|:memo: util-linux-libuuid|:blue_square: S|1|Jan 17||jwillikers
 [#22134](https://github.com/conan-io/conan-center-index/pull/22134)|[tsondergaard](https://github.com/tsondergaard)|Jan 3|:memo: dbus|:green_circle: XS|1|Jan 4 :bell:||jwillikers
 [#22136](https://github.com/conan-io/conan-center-index/pull/22136)|[mayeut](https://github.com/mayeut)|Jan 3|:memo: opencv|M|1|Jan 10||ericLemanissier
 [#22155](https://github.com/conan-io/conan-center-index/pull/22155)|[fdgStilla](https://github.com/fdgStilla)|Jan 4|:memo: onnxruntime|M|0|||
@@ -212,13 +211,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|||
 [#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|M|0|||
-[#22411](https://github.com/conan-io/conan-center-index/pull/22411)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: qt|:green_circle: XS|0|||
+[#22411](https://github.com/conan-io/conan-center-index/pull/22411)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: qt|:green_circle: XS|1|Jan 17||jwillikers
 [#22414](https://github.com/conan-io/conan-center-index/pull/22414)|[jwillikers](https://github.com/jwillikers)|Jan 17|:stopwatch: cairo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -227,11 +226,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21687](https://github.com/conan-io/conan-center-index/pull/21687)|[coryan](https://github.com/coryan)|Dec 8|:memo: google-cloud-cpp|2|**RubenRBS**, jwillikers
 [#21734](https://github.com/conan-io/conan-center-index/pull/21734)|[valgur](https://github.com/valgur)|Dec 12|:memo: mingw-w64|2|**RubenRBS**, jwillikers
 [#21744](https://github.com/conan-io/conan-center-index/pull/21744)|[valgur](https://github.com/valgur)|Dec 13|:memo: cyrus-sasl|2|**RubenRBS**, jwillikers
 [#21865](https://github.com/conan-io/conan-center-index/pull/21865)|[valgur](https://github.com/valgur)|Dec 21|:warning: libe57format|2|**RubenRBS**, toge
-[#22263](https://github.com/conan-io/conan-center-index/pull/22263)|[franramirez688](https://github.com/franramirez688)|Jan 11|:memo: libvpx|4|**uilianries**, jwillikers
 [#22365](https://github.com/conan-io/conan-center-index/pull/22365)|[valgur](https://github.com/valgur)|Jan 15|:warning: arduinojson|3|**RubenRBS**, ericLemanissier, **uilianries**
 
 
@@ -241,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 598
+	- Open: 595
 	- Draft: 57
-	- Average Age: 113 days, 12 hours, and 26.88 minutes
+	- Average Age: 113 days, 18 hours, and 26.77 minutes
 	- Stop Label: 315
 	
 
