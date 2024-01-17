@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **194** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -139,7 +139,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4 :bell:||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|1|Dec 20 :bell:||
 [#21530](https://github.com/conan-io/conan-center-index/pull/21530)|[toge](https://github.com/toge)|Dec 1|:memo: c-ares|L|2|Jan 6||**RubenRBS**
-[#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|:eyes:||
+[#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|||
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|4|Jan 6||jwillikers
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|1|Jan 6||
 [#21666](https://github.com/conan-io/conan-center-index/pull/21666)|[valgur](https://github.com/valgur)|Dec 6|:memo: seqan3|:blue_square: S|0|:eyes:||
@@ -214,13 +214,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22381](https://github.com/conan-io/conan-center-index/pull/22381)|[FaerHack](https://github.com/FaerHack)|Jan 16|:memo: libpqxx|:green_circle: XS|0|||
 [#22382](https://github.com/conan-io/conan-center-index/pull/22382)|[toge](https://github.com/toge)|Jan 16|:memo: libxmlpp|:blue_square: S|1|Jan 17||ericLemanissier
 [#22384](https://github.com/conan-io/conan-center-index/pull/22384)|[toge](https://github.com/toge)|Jan 16|:memo: md4c|M|1|Jan 17||ericLemanissier
-[#22392](https://github.com/conan-io/conan-center-index/pull/22392)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: libepoxy|:green_circle: XS|0|:eyes:||
 [#22396](https://github.com/conan-io/conan-center-index/pull/22396)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: opencascade|:green_circle: XS|0|||
 [#22397](https://github.com/conan-io/conan-center-index/pull/22397)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: glfw|:green_circle: XS|0|:eyes:||
-[#22398](https://github.com/conan-io/conan-center-index/pull/22398)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: at-spi2-core|:green_circle: XS|0|:eyes:||
-[#22399](https://github.com/conan-io/conan-center-index/pull/22399)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: pdcurses|:green_circle: XS|0|:eyes:||
 [#22400](https://github.com/conan-io/conan-center-index/pull/22400)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:stopwatch: fltk|:green_circle: XS|0|:eyes:||
 [#22401](https://github.com/conan-io/conan-center-index/pull/22401)|[valgur](https://github.com/valgur)|Jan 17|:stopwatch: flux|M|0|||
+[#22402](https://github.com/conan-io/conan-center-index/pull/22402)|[igormironchik](https://github.com/igormironchik)|Jan 17|:stopwatch: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -247,7 +245,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 603
 	- Draft: 56
-	- Average Age: 112 days, 10 hours, and 38.90 minutes
+	- Average Age: 112 days, 11 hours, and 52.07 minutes
 	- Stop Label: 315
 	
 
