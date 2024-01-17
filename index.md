@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,9 +213,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22367](https://github.com/conan-io/conan-center-index/pull/22367)|[valgur](https://github.com/valgur)|Jan 15|:memo: vk-bootstrap|M|0|||
 [#22380](https://github.com/conan-io/conan-center-index/pull/22380)|[valgur](https://github.com/valgur)|Jan 16|:stopwatch: gperftools|:blue_square: S|0|||
 [#22381](https://github.com/conan-io/conan-center-index/pull/22381)|[FaerHack](https://github.com/FaerHack)|Jan 16|:memo: libpqxx|:green_circle: XS|0|||
-[#22382](https://github.com/conan-io/conan-center-index/pull/22382)|[toge](https://github.com/toge)|Jan 16|:stopwatch: libxmlpp|:blue_square: S|0|||
+[#22382](https://github.com/conan-io/conan-center-index/pull/22382)|[toge](https://github.com/toge)|Jan 16|:memo: libxmlpp|:blue_square: S|0|||
 [#22384](https://github.com/conan-io/conan-center-index/pull/22384)|[toge](https://github.com/toge)|Jan 16|:memo: md4c|M|0|||
-[#22388](https://github.com/conan-io/conan-center-index/pull/22388)|[toge](https://github.com/toge)|Jan 17|:stopwatch: nuklear|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,9 +241,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8339afacfe7163a457c14b9688ff8b99a4574f1b
 - Pull Requests:
-	- Open: 596
+	- Open: 595
 	- Draft: 56
-	- Average Age: 113 days, 9 hours, and 37.81 minutes
+	- Average Age: 113 days, 14 hours, and 45.02 minutes
 	- Stop Label: 313
 	
 
