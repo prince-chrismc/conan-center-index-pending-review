@@ -2590,7 +2590,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21305",
       "LastCommitSHA": "e02df1c3e7dff8cce98c7475cdf0c5ee7389bc18",
       "LastCommitAt": "2024-01-18T14:52:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -3414,20 +3414,24 @@
       "LastCommitAt": "2023-12-28T18:10:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "toge",
                "Tier": "community"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-01-04T06:26:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21991#pullrequestreview-1803565795"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-01-18T17:49:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21991#pullrequestreview-1830263953"
          }
       }
    },
@@ -4552,10 +4556,10 @@
       "CreatedAt": "2024-01-17T15:53:08Z",
       "Recipe": "pistache",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22409",
-      "LastCommitSHA": "2ab5e6ff95f442811e087cb878d507b176f0ad68",
-      "LastCommitAt": "2024-01-17T17:21:06Z",
+      "LastCommitSHA": "d06eeaffbaf727a45f418a9b1a2f84e8dbdcf9d7",
+      "LastCommitAt": "2024-01-18T17:18:58Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -4623,25 +4627,6 @@
       }
    },
    {
-      "Number": 22425,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-18T15:01:52Z",
-      "Recipe": "jasper",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22425",
-      "LastCommitSHA": "6a5ed2da6ff279d466e7e7127d24269fa8f4714a",
-      "LastCommitAt": "2024-01-18T15:00:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22426,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2024-01-18T15:04:07Z",
@@ -4651,7 +4636,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22426",
       "LastCommitSHA": "2b236c12493aebcef19b972a1ab21261053fade8",
       "LastCommitAt": "2024-01-18T15:03:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4670,7 +4655,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22427",
       "LastCommitSHA": "a5927a1f7a9ca488e5213930067eb54fa43c0e15",
       "LastCommitAt": "2024-01-18T14:59:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
