@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -197,6 +197,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22319](https://github.com/conan-io/conan-center-index/pull/22319)|[valgur](https://github.com/valgur)|Jan 13|:memo: beauty|M|1|Jan 17||ericLemanissier
 [#22323](https://github.com/conan-io/conan-center-index/pull/22323)|[valgur](https://github.com/valgur)|Jan 14|:stopwatch: gtsam|L|0|||
 [#22337](https://github.com/conan-io/conan-center-index/pull/22337)|[valgur](https://github.com/valgur)|Jan 14|:new: g2o|L|0|:eyes:||
+[#22353](https://github.com/conan-io/conan-center-index/pull/22353)|[valgur](https://github.com/valgur)|Jan 15|:memo: llvm-openmp|XL|0|||
 [#22359](https://github.com/conan-io/conan-center-index/pull/22359)|[JonathanGirardeau](https://github.com/JonathanGirardeau)|Jan 15|:stopwatch: onnxruntime|:green_circle: XS|0|||
 [#22361](https://github.com/conan-io/conan-center-index/pull/22361)|[Taepper](https://github.com/Taepper)|Jan 15|:stopwatch: duckdb|M|1|Jan 16|uilianries|
 [#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:new: proxy|M|0|||
@@ -239,8 +240,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 591
 	- Draft: 58
-	- Average Age: 113 days, 11 hours, and 13.09 minutes
-	- Stop Label: 311
+	- Average Age: 113 days, 12 hours, and 11.12 minutes
+	- Stop Label: 310
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
