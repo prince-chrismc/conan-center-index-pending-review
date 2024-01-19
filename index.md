@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -217,6 +217,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
+[#22441](https://github.com/conan-io/conan-center-index/pull/22441)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:stopwatch: pulseaudio|M|0|||
+[#22442](https://github.com/conan-io/conan-center-index/pull/22442)|[toge](https://github.com/toge)|Jan 19|:stopwatch: drogon|:green_circle: XS|0|||
+[#22443](https://github.com/conan-io/conan-center-index/pull/22443)|[toge](https://github.com/toge)|Jan 19|:stopwatch: osmanip|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,9 +242,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 592
+	- Open: 595
 	- Draft: 57
-	- Average Age: 114 days, and 6.34 minutes
+	- Average Age: 113 days, 11 hours, and 21.01 minutes
 	- Stop Label: 311
 	
 
