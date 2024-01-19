@@ -4085,20 +4085,24 @@
       "LastCommitAt": "2024-01-16T14:46:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "ericLemanissier",
                "Tier": "community"
+            },
+            {
+               "Name": "Croydon",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-01-16T17:09:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22241#pullrequestreview-1824247982"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2024-01-19T14:58:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22241#pullrequestreview-1832940193"
          }
       }
    },
