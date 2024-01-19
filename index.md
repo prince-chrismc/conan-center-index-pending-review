@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -214,6 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|||
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
+[#22437](https://github.com/conan-io/conan-center-index/pull/22437)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|:blue_square: S|2|Jan 19||[fdgStilla](https://github.com/fdgStilla), jwillikers
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
 
 
@@ -239,7 +240,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 593
 	- Draft: 57
-	- Average Age: 113 days, 18 hours, and 17.50 minutes
+	- Average Age: 113 days, 19 hours, and 20.27 minutes
 	- Stop Label: 312
 	
 
