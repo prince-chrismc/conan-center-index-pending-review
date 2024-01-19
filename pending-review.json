@@ -1287,15 +1287,20 @@
       "LastCommitAt": "2024-01-12T23:17:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "AndreyMlashkin",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-27T11:26:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19972#pullrequestreview-1701560506"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2024-01-19T09:50:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19972#pullrequestreview-1832021540"
          }
       }
    },
@@ -2974,8 +2979,8 @@
       "LastCommitAt": "2024-01-08T16:10:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             {
@@ -2985,13 +2990,17 @@
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-01-17T20:22:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21765#pullrequestreview-1828119640"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2024-01-19T09:58:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21765#pullrequestreview-1832039238"
          }
       }
    },
@@ -3164,25 +3173,6 @@
             "SubmittedAt": "2024-01-19T07:45:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21865#pullrequestreview-1831784262"
          }
-      }
-   },
-   {
-      "Number": 21892,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-12-25T12:06:52Z",
-      "Recipe": "mocknetworkaccessmanager",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21892",
-      "LastCommitSHA": "e8a870b7a735c08fb3632cc9233c5584003b853d",
-      "LastCommitAt": "2024-01-18T19:13:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -4177,8 +4167,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22289",
-      "LastCommitSHA": "79451bd507c6cc89d37e14b592ce27aa8dd68d08",
-      "LastCommitAt": "2024-01-18T19:17:15Z",
+      "LastCommitSHA": "15bfdd963ca0a58f39ea9ecacbd528fdf75e7853",
+      "LastCommitAt": "2024-01-19T10:02:33Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4783,16 +4773,16 @@
       }
    },
    {
-      "Number": 22437,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-19T08:29:47Z",
-      "Recipe": "qt",
+      "Number": 22438,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-19T10:10:45Z",
+      "Recipe": "trantor",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22437",
-      "LastCommitSHA": "abb180c945c0391a46014675932657790d5c82b7",
-      "LastCommitAt": "2024-01-19T08:29:14Z",
-      "CciBotPassed": false,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22438",
+      "LastCommitSHA": "4cf82bdefd617d9b6dd637c231bf05407d0547ac",
+      "LastCommitAt": "2024-01-19T09:55:33Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
