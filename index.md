@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,7 +208,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|||
 [#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|L|0|||
-[#22414](https://github.com/conan-io/conan-center-index/pull/22414)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: cairo|:green_circle: XS|2|Jan 19|RubenRBS|**franramirez688**
 [#22415](https://github.com/conan-io/conan-center-index/pull/22415)|[jjcasmar](https://github.com/jjcasmar)|Jan 18|:new: catalyst|M|4|Jan 18||
 [#22419](https://github.com/conan-io/conan-center-index/pull/22419)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 18|:gear: .c3i|:green_circle: XS|0|||
 [#22422](https://github.com/conan-io/conan-center-index/pull/22422)|[MartinDelille](https://github.com/MartinDelille)|Jan 18|:memo: sentry-native|:blue_square: S|0|||
@@ -216,8 +215,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
-[#22442](https://github.com/conan-io/conan-center-index/pull/22442)|[toge](https://github.com/toge)|Jan 19|:stopwatch: drogon|:green_circle: XS|0|||
-[#22444](https://github.com/conan-io/conan-center-index/pull/22444)|[toge](https://github.com/toge)|Jan 19|:stopwatch: libnghttp2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -240,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 594
+	- Open: 593
 	- Draft: 57
-	- Average Age: 113 days, 12 hours, and 52.43 minutes
+	- Average Age: 113 days, 18 hours, and 17.50 minutes
 	- Stop Label: 312
 	
 
