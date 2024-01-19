@@ -1209,30 +1209,6 @@
       }
    },
    {
-      "Number": 19882,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-16T09:17:12Z",
-      "Recipe": "osmanip",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19882",
-      "LastCommitSHA": "084a46c551f99d269a703f4dde8650955cbcb0c5",
-      "LastCommitAt": "2023-12-28T00:57:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-18T12:53:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19882#pullrequestreview-1630977149"
-         }
-      }
-   },
-   {
       "Number": 19920,
       "OpenedBy": "fmorgner",
       "CreatedAt": "2023-09-17T11:49:02Z",
