@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,21 +208,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|||
 [#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|L|0|||
-[#22414](https://github.com/conan-io/conan-center-index/pull/22414)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: cairo|:green_circle: XS|1|Jan 19||**franramirez688**
+[#22414](https://github.com/conan-io/conan-center-index/pull/22414)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: cairo|:green_circle: XS|2|Jan 19|RubenRBS|**franramirez688**
 [#22415](https://github.com/conan-io/conan-center-index/pull/22415)|[jjcasmar](https://github.com/jjcasmar)|Jan 18|:new: catalyst|M|4|Jan 18||
 [#22419](https://github.com/conan-io/conan-center-index/pull/22419)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 18|:gear: .c3i|:green_circle: XS|0|||
 [#22422](https://github.com/conan-io/conan-center-index/pull/22422)|[MartinDelille](https://github.com/MartinDelille)|Jan 18|:memo: sentry-native|:blue_square: S|0|||
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|||
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|||
-[#22430](https://github.com/conan-io/conan-center-index/pull/22430)|[valgur](https://github.com/valgur)|Jan 18|:new: libversion|M|0|||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
-[#22436](https://github.com/conan-io/conan-center-index/pull/22436)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 19|:stopwatch: grpc|:green_circle: XS|0|||
-[#22438](https://github.com/conan-io/conan-center-index/pull/22438)|[toge](https://github.com/toge)|Jan 19|:memo: trantor|:green_circle: XS|0|||
+[#22436](https://github.com/conan-io/conan-center-index/pull/22436)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 19|:memo: grpc|:green_circle: XS|0|||
+[#22438](https://github.com/conan-io/conan-center-index/pull/22438)|[toge](https://github.com/toge)|Jan 19|:stopwatch: trantor|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -232,6 +231,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21865](https://github.com/conan-io/conan-center-index/pull/21865)|[valgur](https://github.com/valgur)|Dec 21|:warning: libe57format|3|**RubenRBS**, toge, **franramirez688**
+[#22429](https://github.com/conan-io/conan-center-index/pull/22429)|[jcar87](https://github.com/jcar87)|Jan 18|:gear: .c3i|2|**RubenRBS**, **danimtb**
 
 
 #### :clipboard: Statistics
@@ -240,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 594
-	- Draft: 58
-	- Average Age: 113 days, 9 hours, and 58.83 minutes
+	- Open: 593
+	- Draft: 57
+	- Average Age: 113 days, 15 hours, and 29.69 minutes
 	- Stop Label: 311
 	
 
