@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|:eyes:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|2|Jan 10||ericLemanissier
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|:eyes:||
-[#21892](https://github.com/conan-io/conan-center-index/pull/21892)|[MartinDelille](https://github.com/MartinDelille)|Dec 25|:new: mocknetworkaccessmanager|M|0|||
+[#21892](https://github.com/conan-io/conan-center-index/pull/21892)|[MartinDelille](https://github.com/MartinDelille)|Dec 25|:stopwatch: mocknetworkaccessmanager|M|0|||
 [#21905](https://github.com/conan-io/conan-center-index/pull/21905)|[valgur](https://github.com/valgur)|Dec 26|:memo: nasm|M|1|Jan 19||**franramirez688**
 [#21910](https://github.com/conan-io/conan-center-index/pull/21910)|[valgur](https://github.com/valgur)|Dec 26|:memo: mariadb-connector-c|L|0|:eyes:||
 [#21926](https://github.com/conan-io/conan-center-index/pull/21926)|[valgur](https://github.com/valgur)|Dec 26|:memo: armadillo|:blue_square: S|2|Jan 10||samuel-emrys, ericLemanissier
@@ -185,7 +185,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|:eyes:||
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|:blue_square: S|2|Jan 12||jwillikers
 [#22241](https://github.com/conan-io/conan-center-index/pull/22241)|[valgur](https://github.com/valgur)|Jan 10|:memo: pulseaudio|:green_circle: XS|4|Jan 19||ericLemanissier, Croydon
-[#22246](https://github.com/conan-io/conan-center-index/pull/22246)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: sdl|L|0|||
+[#22246](https://github.com/conan-io/conan-center-index/pull/22246)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: sdl|L|0|:eyes:||
 [#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|:eyes:||
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|:eyes:||
@@ -217,9 +217,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
-[#22441](https://github.com/conan-io/conan-center-index/pull/22441)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:stopwatch: pulseaudio|M|0|||
 [#22442](https://github.com/conan-io/conan-center-index/pull/22442)|[toge](https://github.com/toge)|Jan 19|:stopwatch: drogon|:green_circle: XS|0|||
-[#22443](https://github.com/conan-io/conan-center-index/pull/22443)|[toge](https://github.com/toge)|Jan 19|:stopwatch: osmanip|:green_circle: XS|0|||
+[#22444](https://github.com/conan-io/conan-center-index/pull/22444)|[toge](https://github.com/toge)|Jan 19|:stopwatch: libnghttp2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 595
+	- Open: 597
 	- Draft: 57
-	- Average Age: 113 days, 11 hours, and 21.01 minutes
-	- Stop Label: 311
+	- Average Age: 113 days, 3 hours, and 9.24 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
