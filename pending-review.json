@@ -3311,25 +3311,6 @@
       }
    },
    {
-      "Number": 21892,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-12-25T12:06:52Z",
-      "Recipe": "mocknetworkaccessmanager",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21892",
-      "LastCommitSHA": "06b2446eb33d0555366aa405a019c0ca5d37b8d4",
-      "LastCommitAt": "2024-01-19T17:10:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21905,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-26T00:17:16Z",
