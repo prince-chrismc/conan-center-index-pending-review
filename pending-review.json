@@ -4792,11 +4792,21 @@
       "LastCommitAt": "2024-01-19T11:27:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "kambala-decapitator",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "kambala-decapitator",
+            "SubmittedAt": "2024-01-20T11:09:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22440#pullrequestreview-1834661364"
+         }
       }
    },
    {
@@ -4862,15 +4872,15 @@
       }
    },
    {
-      "Number": 22456,
+      "Number": 22458,
       "OpenedBy": "toge",
-      "CreatedAt": "2024-01-20T09:14:51Z",
-      "Recipe": "proposal",
+      "CreatedAt": "2024-01-20T10:54:06Z",
+      "Recipe": "jsonnet",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22456",
-      "LastCommitSHA": "dea177e0f38f61938691bbe6f5f32b3898400eed",
-      "LastCommitAt": "2024-01-20T09:14:11Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22458",
+      "LastCommitSHA": "ed8843c56e98d38c0ad69edd5798798812102bfe",
+      "LastCommitAt": "2024-01-20T10:53:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
