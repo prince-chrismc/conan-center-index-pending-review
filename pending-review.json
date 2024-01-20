@@ -3046,6 +3046,39 @@
       }
    },
    {
+      "Number": 21676,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-07T11:03:13Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21676",
+      "LastCommitSHA": "ad656afe21585209559504a867769f02859d05bc",
+      "LastCommitAt": "2024-01-20T13:21:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2024-01-02T14:51:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21676#pullrequestreview-1800542311"
+         }
+      }
+   },
+   {
       "Number": 21713,
       "OpenedBy": "tpaustian",
       "CreatedAt": "2023-12-11T14:07:02Z",
@@ -5016,45 +5049,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22469",
       "LastCommitSHA": "f377de310ecb1450048588e0b35872c4d1fd3fd5",
       "LastCommitAt": "2024-01-20T16:33:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22470,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-20T17:03:03Z",
-      "Recipe": "coin-osi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22470",
-      "LastCommitSHA": "2ff2cb79083355109f8d59242718a10ccd8030d8",
-      "LastCommitAt": "2024-01-20T17:01:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22471,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-20T17:03:07Z",
-      "Recipe": "coin-clp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22471",
-      "LastCommitSHA": "5b1ac4fdd1287b5dcd6d0127aad27faebaa6730d",
-      "LastCommitAt": "2024-01-20T17:02:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
