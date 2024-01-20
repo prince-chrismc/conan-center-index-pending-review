@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -218,7 +218,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
 [#22437](https://github.com/conan-io/conan-center-index/pull/22437)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|:blue_square: S|2|Jan 19||[fdgStilla](https://github.com/fdgStilla), jwillikers
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
-[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|0|||
+[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||[grafikrobot](https://github.com/grafikrobot), [gegles](https://github.com/gegles)
+[#22450](https://github.com/conan-io/conan-center-index/pull/22450)|[toge](https://github.com/toge)|Jan 19|:stopwatch: trantor|:green_circle: XS|0|||
+[#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:stopwatch: spdlog|:green_circle: XS|0|||
+[#22452](https://github.com/conan-io/conan-center-index/pull/22452)|[toge](https://github.com/toge)|Jan 19|:stopwatch: fakeit|:green_circle: XS|0|||
+[#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:stopwatch: drogon|XL|0|||
+[#22454](https://github.com/conan-io/conan-center-index/pull/22454)|[toge](https://github.com/toge)|Jan 20|:stopwatch: serdepp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -241,9 +246,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 594
+	- Open: 599
 	- Draft: 57
-	- Average Age: 113 days, 17 hours, and 41.53 minutes
+	- Average Age: 112 days, 20 hours, and 35.67 minutes
 	- Stop Label: 310
 	
 
