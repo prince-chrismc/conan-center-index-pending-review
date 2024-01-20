@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **196** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -221,7 +221,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:memo: spdlog|:green_circle: XS|0|||
 [#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:memo: drogon|XL|0|||
-[#22458](https://github.com/conan-io/conan-center-index/pull/22458)|[toge](https://github.com/toge)|Jan 20|:stopwatch: jsonnet|:green_circle: XS|0|||
+[#22459](https://github.com/conan-io/conan-center-index/pull/22459)|[toge](https://github.com/toge)|Jan 20|:stopwatch: poco|:green_circle: XS|0|||
+[#22460](https://github.com/conan-io/conan-center-index/pull/22460)|[toge](https://github.com/toge)|Jan 20|:stopwatch: sqlitecpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -245,8 +246,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
 	- Open: 598
-	- Draft: 57
-	- Average Age: 113 days, 11 hours, and 21.41 minutes
+	- Draft: 56
+	- Average Age: 113 days, 9 hours, and 44.79 minutes
 	- Stop Label: 312
 	
 
