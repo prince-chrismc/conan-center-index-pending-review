@@ -218,7 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|||
 [#22437](https://github.com/conan-io/conan-center-index/pull/22437)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|:blue_square: S|2|Jan 19||[fdgStilla](https://github.com/fdgStilla), jwillikers
 [#22440](https://github.com/conan-io/conan-center-index/pull/22440)|[franramirez688](https://github.com/franramirez688)|Jan 19|:memo: libvpx|:blue_square: S|0|||
-[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||[grafikrobot](https://github.com/grafikrobot), [gegles](https://github.com/gegles)
+[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22450](https://github.com/conan-io/conan-center-index/pull/22450)|[toge](https://github.com/toge)|Jan 19|:stopwatch: trantor|:green_circle: XS|0|||
 [#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:stopwatch: spdlog|:green_circle: XS|0|||
 [#22452](https://github.com/conan-io/conan-center-index/pull/22452)|[toge](https://github.com/toge)|Jan 19|:stopwatch: fakeit|:green_circle: XS|0|||
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 599
 	- Draft: 57
-	- Average Age: 112 days, 20 hours, and 35.67 minutes
+	- Average Age: 112 days, 21 hours, and 39.23 minutes
 	- Stop Label: 310
 	
 
