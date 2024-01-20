@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **205** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -227,6 +227,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:memo: spdlog|:green_circle: XS|0|||
 [#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:memo: drogon|XL|0|||
+[#22461](https://github.com/conan-io/conan-center-index/pull/22461)|[valgur](https://github.com/valgur)|Jan 20|:stopwatch: coin-cgl|:green_circle: XS|0|||
+[#22462](https://github.com/conan-io/conan-center-index/pull/22462)|[toge](https://github.com/toge)|Jan 20|:stopwatch: apr-util|:green_circle: XS|0|||
+[#22463](https://github.com/conan-io/conan-center-index/pull/22463)|[toge](https://github.com/toge)|Jan 20|:stopwatch: dlib|:green_circle: XS|0|||
+[#22464](https://github.com/conan-io/conan-center-index/pull/22464)|[toge](https://github.com/toge)|Jan 20|:stopwatch: oatpp-sqlite|:green_circle: XS|0|||
+[#22465](https://github.com/conan-io/conan-center-index/pull/22465)|[toge](https://github.com/toge)|Jan 20|:stopwatch: sqlite_orm|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -249,10 +254,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 596
-	- Draft: 56
-	- Average Age: 113 days, 21 hours, and 42.50 minutes
-	- Stop Label: 306
+	- Open: 602
+	- Draft: 58
+	- Average Age: 112 days, 19 hours, and 31.28 minutes
+	- Stop Label: 305
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
