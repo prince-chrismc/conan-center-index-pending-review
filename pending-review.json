@@ -3070,29 +3070,16 @@
       "CreatedAt": "2023-12-07T11:03:13Z",
       "Recipe": "qt",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21676",
-      "LastCommitSHA": "ad656afe21585209559504a867769f02859d05bc",
-      "LastCommitAt": "2024-01-20T13:21:54Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f3f61220e7815588218e90dac3a853847ac68e15",
+      "LastCommitAt": "2024-01-20T20:46:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 3,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
