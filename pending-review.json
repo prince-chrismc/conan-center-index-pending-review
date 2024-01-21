@@ -1277,9 +1277,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19698",
-      "LastCommitSHA": "aff6d65aa82565ac918d6f3fe87c98b427fc408f",
-      "LastCommitAt": "2024-01-12T17:25:56Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "028cc8067756dacabe4282e7c714e9d89c7da168",
+      "LastCommitAt": "2024-01-21T02:24:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4970,44 +4970,6 @@
       "LastCommitSHA": "d066dd70bc18358a29bf7a3336383bb862afc68a",
       "LastCommitAt": "2024-01-20T00:05:43Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22462,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-20T15:37:59Z",
-      "Recipe": "apr-util",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22462",
-      "LastCommitSHA": "7eca1eb69ec93f241f6b8c6d1f248d3f24851c74",
-      "LastCommitAt": "2024-01-21T00:16:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22464,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-20T15:55:16Z",
-      "Recipe": "oatpp-sqlite",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22464",
-      "LastCommitSHA": "a943e4fd23bd5f6c2879e7c1a9f331bc87626196",
-      "LastCommitAt": "2024-01-21T00:17:03Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
