@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **203** pull requests currently under way :detective:
+There are **201** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19496](https://github.com/conan-io/conan-center-index/pull/19496)|[KevDi](https://github.com/KevDi)|Aug 30|:stopwatch: librdkafka|M|0|:eyes:||
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11 :bell:||MartinDelille
-[#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:memo: oatpp-sqlite|:blue_square: S|1|Nov 17 :bell:||
+[#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|1|Nov 17 :bell:||
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|4|Oct 27 :bell:||jwillikers
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
@@ -227,8 +227,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:memo: spdlog|:green_circle: XS|1|Jan 20||StellaSmith
 [#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:memo: drogon|XL|0|||
-[#22462](https://github.com/conan-io/conan-center-index/pull/22462)|[toge](https://github.com/toge)|Jan 20|:stopwatch: apr-util|:green_circle: XS|0|||
-[#22464](https://github.com/conan-io/conan-center-index/pull/22464)|[toge](https://github.com/toge)|Jan 20|:stopwatch: oatpp-sqlite|:green_circle: XS|0|||
 [#22469](https://github.com/conan-io/conan-center-index/pull/22469)|[toge](https://github.com/toge)|Jan 20|:memo: libmicrohttpd|:green_circle: XS|0|||
 
 
@@ -251,9 +249,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 605
+	- Open: 603
 	- Draft: 59
-	- Average Age: 112 days, 19 hours, and 31.80 minutes
+	- Average Age: 113 days, 6 hours, and 1.25 minutes
 	- Stop Label: 310
 	
 
