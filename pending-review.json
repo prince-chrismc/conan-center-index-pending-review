@@ -755,7 +755,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18950",
       "LastCommitSHA": "c2b8d645b970d559a1f836f5579a09fd412a332f",
       "LastCommitAt": "2024-01-21T17:35:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5064,6 +5064,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22477",
       "LastCommitSHA": "848d225e04d5f60ba87cacb857ac2480a81476c6",
       "LastCommitAt": "2024-01-21T17:54:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22479,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-01-21T20:10:23Z",
+      "Recipe": "isa-l",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22479",
+      "LastCommitSHA": "3a31246eb0a202fcf20ca65e8bc1795366ecca4c",
+      "LastCommitAt": "2024-01-21T20:07:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5074,15 +5093,15 @@
       }
    },
    {
-      "Number": 22478,
+      "Number": 22480,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2024-01-21T18:17:43Z",
-      "Recipe": "libid3tag",
+      "CreatedAt": "2024-01-21T20:15:08Z",
+      "Recipe": "cairomm",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22478",
-      "LastCommitSHA": "8c603f23ee0b009d633639478b294d362c2fd68a",
-      "LastCommitAt": "2024-01-21T18:10:02Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22480",
+      "LastCommitSHA": "19cae73bcb81caf6e502d601aebd1c4dc729651a",
+      "LastCommitAt": "2024-01-21T20:13:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
