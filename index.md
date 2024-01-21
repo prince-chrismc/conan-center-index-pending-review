@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **210** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,7 +189,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|:eyes:||
 [#22165](https://github.com/conan-io/conan-center-index/pull/22165)|[wu-vincent](https://github.com/wu-vincent)|Jan 5|:new: minhook|M|0|:eyes:||
 [#22180](https://github.com/conan-io/conan-center-index/pull/22180)|[fdefelici](https://github.com/fdefelici)|Jan 6|:stopwatch: clove-unit|:green_circle: XS|0|:eyes:||
-[#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:memo: dcmtk|L|1|Jan 9||
+[#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:memo: dcmtk|L|1|Jan 9 :bell:||
 [#22204](https://github.com/conan-io/conan-center-index/pull/22204)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: gdal|L|1|Jan 12||jwillikers
 [#22208](https://github.com/conan-io/conan-center-index/pull/22208)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 8|:memo: minizip-ng|:green_circle: XS|1|Jan 12||jwillikers
 [#22209](https://github.com/conan-io/conan-center-index/pull/22209)|[toge](https://github.com/toge)|Jan 8|:new: speedb|L|0|:eyes:||
@@ -234,6 +234,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:memo: drogon|XL|0|||
 [#22469](https://github.com/conan-io/conan-center-index/pull/22469)|[toge](https://github.com/toge)|Jan 20|:memo: libmicrohttpd|:green_circle: XS|0|||
 [#22477](https://github.com/conan-io/conan-center-index/pull/22477)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: copypp|:green_circle: XS|0|||
+[#22481](https://github.com/conan-io/conan-center-index/pull/22481)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: lksctp-tools|:green_circle: XS|0|||
+[#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:stopwatch: poco|:green_circle: XS|0|||
+[#22484](https://github.com/conan-io/conan-center-index/pull/22484)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:stopwatch: libe57format|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -255,9 +258,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 606
+	- Open: 609
 	- Draft: 60
-	- Average Age: 112 days, 17 hours, and 27.42 minutes
+	- Average Age: 112 days, 6 hours, and 8.64 minutes
 	- Stop Label: 306
 	
 
