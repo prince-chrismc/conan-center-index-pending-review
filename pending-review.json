@@ -4548,32 +4548,6 @@
       }
    },
    {
-      "Number": 22361,
-      "OpenedBy": "Taepper",
-      "CreatedAt": "2024-01-15T19:54:18Z",
-      "Recipe": "duckdb",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22361",
-      "LastCommitSHA": "b3497457b499cac74a9222f9d0b5246a7493d32a",
-      "LastCommitAt": "2024-01-22T10:09:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-01-16T09:34:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22361#pullrequestreview-1822899937"
-         }
-      }
-   },
-   {
       "Number": 22362,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-15T20:06:22Z",
@@ -4922,39 +4896,6 @@
       }
    },
    {
-      "Number": 22440,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2024-01-19T11:27:50Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22440",
-      "LastCommitSHA": "cb4989477a59731c43f557660b3959f0e6897340",
-      "LastCommitAt": "2024-01-19T11:27:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "kambala-decapitator",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2024-01-22T09:09:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22440#pullrequestreview-1835950620"
-         }
-      }
-   },
-   {
       "Number": 22441,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-19T15:23:09Z",
@@ -5210,35 +5151,6 @@
       }
    },
    {
-      "Number": 22484,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2024-01-21T22:47:50Z",
-      "Recipe": "libe57format",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22484",
-      "LastCommitSHA": "9a6adfbf2f892619487e812a190de0a736b9711b",
-      "LastCommitAt": "2024-01-21T22:43:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-01-22T09:55:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22484#pullrequestreview-1836076707"
-         }
-      }
-   },
-   {
       "Number": 22486,
       "OpenedBy": "toge",
       "CreatedAt": "2024-01-22T01:51:16Z",
@@ -5250,11 +5162,21 @@
       "LastCommitAt": "2024-01-22T01:43:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-01-22T10:27:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22486#pullrequestreview-1836140286"
+         }
       }
    },
    {
