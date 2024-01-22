@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **213** pull requests currently under way :detective:
+There are **212** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -238,8 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22481](https://github.com/conan-io/conan-center-index/pull/22481)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: lksctp-tools|:green_circle: XS|0|||
 [#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:stopwatch: poco|:green_circle: XS|0|||
 [#22484](https://github.com/conan-io/conan-center-index/pull/22484)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: libe57format|:green_circle: XS|0|||
-[#22486](https://github.com/conan-io/conan-center-index/pull/22486)|[toge](https://github.com/toge)|Jan 22|:stopwatch: wolfssl|:green_circle: XS|0|||
-[#22487](https://github.com/conan-io/conan-center-index/pull/22487)|[toge](https://github.com/toge)|Jan 22|:stopwatch: libcurl|:green_circle: XS|0|||
+[#22486](https://github.com/conan-io/conan-center-index/pull/22486)|[toge](https://github.com/toge)|Jan 22|:memo: wolfssl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -261,9 +260,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 611
+	- Open: 610
 	- Draft: 60
-	- Average Age: 112 days, and 38.28 minutes
+	- Average Age: 112 days, 7 hours, and 44.01 minutes
 	- Stop Label: 305
 	
 
