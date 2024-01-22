@@ -5186,5 +5186,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22486,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-22T01:51:16Z",
+      "Recipe": "wolfssl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22486",
+      "LastCommitSHA": "a2da3edd73766861b88306fc7f5c41ed1b31f565",
+      "LastCommitAt": "2024-01-22T01:43:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22487,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-22T01:54:22Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22487",
+      "LastCommitSHA": "80f8a9529276971c10067872607c518355761024",
+      "LastCommitAt": "2024-01-22T01:53:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
