@@ -5112,6 +5112,25 @@
       }
    },
    {
+      "Number": 22480,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-01-21T20:15:08Z",
+      "Recipe": "cairomm",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22480",
+      "LastCommitSHA": "ed6ae2978caf965411234f562a17352a5142bdb8",
+      "LastCommitAt": "2024-01-21T22:46:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22481,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2024-01-21T22:26:41Z",
@@ -5159,7 +5178,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22484",
       "LastCommitSHA": "9a6adfbf2f892619487e812a190de0a736b9711b",
       "LastCommitAt": "2024-01-21T22:43:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
