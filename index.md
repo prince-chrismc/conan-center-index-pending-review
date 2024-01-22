@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **203** pull requests currently under way :detective:
+There are **202** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22401](https://github.com/conan-io/conan-center-index/pull/22401)|[valgur](https://github.com/valgur)|Jan 17|:new: flux|M|0|:eyes:||
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|:eyes:||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|:eyes:||
-[#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|L|0|:eyes:||
+[#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|L|1|Jan 22||**RubenRBS**
 [#22415](https://github.com/conan-io/conan-center-index/pull/22415)|[jjcasmar](https://github.com/jjcasmar)|Jan 18|:new: catalyst|M|4|Jan 18||
 [#22422](https://github.com/conan-io/conan-center-index/pull/22422)|[MartinDelille](https://github.com/MartinDelille)|Jan 18|:memo: sentry-native|:blue_square: S|0|:eyes:||
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|:eyes:||
@@ -229,12 +229,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:stopwatch: poco|:green_circle: XS|0|||
 [#22486](https://github.com/conan-io/conan-center-index/pull/22486)|[toge](https://github.com/toge)|Jan 22|:memo: wolfssl|:green_circle: XS|1|Jan 22||**RubenRBS**
 [#22488](https://github.com/conan-io/conan-center-index/pull/22488)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 22|:stopwatch: libe57format|:green_circle: XS|0|||
-[#22491](https://github.com/conan-io/conan-center-index/pull/22491)|[raulcd](https://github.com/raulcd)|Jan 22|:stopwatch: arrow|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -243,9 +242,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#22451](https://github.com/conan-io/conan-center-index/pull/22451)|[toge](https://github.com/toge)|Jan 19|:memo: spdlog|2|StellaSmith, **RubenRBS**
-[#22469](https://github.com/conan-io/conan-center-index/pull/22469)|[toge](https://github.com/toge)|Jan 20|:memo: libmicrohttpd|2|ericLemanissier, **RubenRBS**
-[#22477](https://github.com/conan-io/conan-center-index/pull/22477)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: copypp|2|ericLemanissier, **RubenRBS**
 [#22480](https://github.com/conan-io/conan-center-index/pull/22480)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: cairomm|2|ericLemanissier, **RubenRBS**
 [#22481](https://github.com/conan-io/conan-center-index/pull/22481)|[SpaceIm](https://github.com/SpaceIm)|Jan 21|:memo: lksctp-tools|2|ericLemanissier, **RubenRBS**
 
@@ -256,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 607
+	- Open: 604
 	- Draft: 60
-	- Average Age: 113 days, and 8.73 minutes
+	- Average Age: 113 days, 14 hours, and 15.69 minutes
 	- Stop Label: 306
 	
 
