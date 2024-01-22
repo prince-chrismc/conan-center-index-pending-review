@@ -4784,25 +4784,6 @@
       }
    },
    {
-      "Number": 22441,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-19T15:23:09Z",
-      "Recipe": "pulseaudio",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22441",
-      "LastCommitSHA": "c169ce8425a13877750975a89fd1717da66e16a8",
-      "LastCommitAt": "2024-01-22T09:14:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22449,
       "OpenedBy": "hoyhoy",
       "CreatedAt": "2024-01-19T22:44:30Z",
