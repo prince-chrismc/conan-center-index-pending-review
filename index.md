@@ -104,7 +104,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20465](https://github.com/conan-io/conan-center-index/pull/20465)|[gjasny](https://github.com/gjasny)|Oct 9|:memo: resiprocate|L|1|Nov 23 :bell:||
 [#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:blue_square: S|0|:eyes:||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
-[#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:new: zoe|L|4|Oct 17 :bell:||jwillikers
+[#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:new: zoe|L|5|Jan 22||jwillikers
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
 [#20619](https://github.com/conan-io/conan-center-index/pull/20619)|[valgur](https://github.com/valgur)|Oct 17|:memo: onnxruntime|L|0|:eyes:||
@@ -211,7 +211,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:new: proxy|M|0|:eyes:||
 [#22367](https://github.com/conan-io/conan-center-index/pull/22367)|[valgur](https://github.com/valgur)|Jan 15|:memo: vk-bootstrap|M|0|:eyes:||
 [#22384](https://github.com/conan-io/conan-center-index/pull/22384)|[toge](https://github.com/toge)|Jan 16|:memo: md4c|M|2|Jan 22||**RubenRBS**
-[#22401](https://github.com/conan-io/conan-center-index/pull/22401)|[valgur](https://github.com/valgur)|Jan 17|:new: flux|M|0|:eyes:||
+[#22401](https://github.com/conan-io/conan-center-index/pull/22401)|[valgur](https://github.com/valgur)|Jan 17|:new: flux|M|1|Jan 22||**RubenRBS**
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|:eyes:||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|:eyes:||
 [#22409](https://github.com/conan-io/conan-center-index/pull/22409)|[toge](https://github.com/toge)|Jan 17|:memo: pistache|L|1|Jan 22||**RubenRBS**
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 600
 	- Draft: 60
-	- Average Age: 114 days, 13 hours, and 39.61 minutes
+	- Average Age: 114 days, 14 hours, and 42.98 minutes
 	- Stop Label: 306
 	
 
