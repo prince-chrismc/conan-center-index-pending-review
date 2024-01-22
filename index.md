@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **203** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -210,10 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22361](https://github.com/conan-io/conan-center-index/pull/22361)|[Taepper](https://github.com/Taepper)|Jan 15|:memo: duckdb|M|1|Jan 16|uilianries|
 [#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:new: proxy|M|0|:eyes:||
 [#22367](https://github.com/conan-io/conan-center-index/pull/22367)|[valgur](https://github.com/valgur)|Jan 15|:memo: vk-bootstrap|M|0|:eyes:||
-[#22380](https://github.com/conan-io/conan-center-index/pull/22380)|[valgur](https://github.com/valgur)|Jan 16|:memo: gperftools|:blue_square: S|2|Jan 18||ericLemanissier
-[#22381](https://github.com/conan-io/conan-center-index/pull/22381)|[FaerHack](https://github.com/FaerHack)|Jan 16|:memo: libpqxx|:green_circle: XS|0|:eyes:||
-[#22382](https://github.com/conan-io/conan-center-index/pull/22382)|[toge](https://github.com/toge)|Jan 16|:memo: libxmlpp|:blue_square: S|1|Jan 17||ericLemanissier
-[#22384](https://github.com/conan-io/conan-center-index/pull/22384)|[toge](https://github.com/toge)|Jan 16|:memo: md4c|M|1|Jan 17||
+[#22384](https://github.com/conan-io/conan-center-index/pull/22384)|[toge](https://github.com/toge)|Jan 16|:memo: md4c|M|2|Jan 22||**RubenRBS**
 [#22401](https://github.com/conan-io/conan-center-index/pull/22401)|[valgur](https://github.com/valgur)|Jan 17|:new: flux|M|0|:eyes:||
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|:eyes:||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|:eyes:||
@@ -223,7 +220,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|:eyes:||
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|:eyes:||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|:eyes:||
-[#22436](https://github.com/conan-io/conan-center-index/pull/22436)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 19|:memo: grpc|:green_circle: XS|2|Jan 19||
 [#22441](https://github.com/conan-io/conan-center-index/pull/22441)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: pulseaudio|M|0|||
 [#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22453](https://github.com/conan-io/conan-center-index/pull/22453)|[toge](https://github.com/toge)|Jan 20|:memo: drogon|XL|1|Jan 22||**RubenRBS**
@@ -251,9 +247,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 602
+	- Open: 600
 	- Draft: 60
-	- Average Age: 114 days, 3 hours, and 3.12 minutes
+	- Average Age: 114 days, 12 hours, and 45.29 minutes
 	- Stop Label: 306
 	
 
