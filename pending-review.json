@@ -2573,21 +2573,16 @@
       "CreatedAt": "2023-11-17T21:41:25Z",
       "Recipe": "opencv",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21204",
-      "LastCommitSHA": "9791355597ad5093a3864cd3c0ff3bf9280deccc",
-      "LastCommitAt": "2023-11-17T22:14:29Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e53b0caee3865aac02f33993b6e72089583c9fad",
+      "LastCommitAt": "2024-01-22T08:53:23Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -3191,27 +3186,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21747",
-      "LastCommitSHA": "05ccb5306a4ac165c6de49917fda7947c447e2b5",
-      "LastCommitAt": "2024-01-04T07:53:19Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "35806e26c81395c847669d904a14f3f6d9c16fdb",
+      "LastCommitAt": "2024-01-22T08:22:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "gegles",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "grafikrobot",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "grafikrobot",
@@ -4965,20 +4947,24 @@
       "LastCommitAt": "2024-01-19T11:27:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "kambala-decapitator",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "danimtb",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "kambala-decapitator",
-            "SubmittedAt": "2024-01-20T11:09:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22440#pullrequestreview-1834661364"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-01-22T09:09:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22440#pullrequestreview-1835950620"
          }
       }
    },
@@ -5198,6 +5184,25 @@
       "LastCommitSHA": "a2da3edd73766861b88306fc7f5c41ed1b31f565",
       "LastCommitAt": "2024-01-22T01:43:55Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22488,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2024-01-22T09:00:27Z",
+      "Recipe": "libe57format",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22488",
+      "LastCommitSHA": "ff14b5c60ea712d349282561e7845ce0367fc423",
+      "LastCommitAt": "2024-01-22T08:59:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
