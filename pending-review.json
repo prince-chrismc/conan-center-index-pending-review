@@ -2435,11 +2435,21 @@
       "LastCommitAt": "2023-12-29T19:23:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-01-23T08:07:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21049#pullrequestreview-1838078851"
+         }
       }
    },
    {
@@ -2694,22 +2704,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21239",
       "LastCommitSHA": "9905a4bfc948af2fb68faf856d3e15fe423f51d7",
       "LastCommitAt": "2023-12-26T20:05:46Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 6,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "danimtb",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-12-30T14:40:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21239#pullrequestreview-1799563371"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-01-23T08:09:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21239#pullrequestreview-1838082698"
          }
       }
    },
@@ -4741,15 +4755,15 @@
       }
    },
    {
-      "Number": 22504,
-      "OpenedBy": "Cogitri",
-      "CreatedAt": "2024-01-23T07:12:38Z",
-      "Recipe": "zlib",
-      "Change": 1,
+      "Number": 22505,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2024-01-23T08:14:34Z",
+      "Recipe": ".c3i",
+      "Change": 3,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22504",
-      "LastCommitSHA": "1b530760954452ce82cfef2d96071e17ce826eba",
-      "LastCommitAt": "2024-01-23T07:11:07Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22505",
+      "LastCommitSHA": "37f28b9275d05b024f035495ea378750d63896ba",
+      "LastCommitAt": "2024-01-23T08:12:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
