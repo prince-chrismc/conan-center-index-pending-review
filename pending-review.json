@@ -4276,36 +4276,22 @@
       }
    },
    {
-      "Number": 22361,
-      "OpenedBy": "Taepper",
-      "CreatedAt": "2024-01-15T19:54:18Z",
-      "Recipe": "duckdb",
+      "Number": 22359,
+      "OpenedBy": "JonathanGirardeau",
+      "CreatedAt": "2024-01-15T16:49:14Z",
+      "Recipe": "onnxruntime",
       "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22361",
-      "LastCommitSHA": "c456f4c05a1e975a4448190aaef7fc341428f0b2",
-      "LastCommitAt": "2024-01-23T12:03:52Z",
-      "CciBotPassed": false,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22359",
+      "LastCommitSHA": "a03e684a5cdc607189824f67ddf55855fe68ed68",
+      "LastCommitAt": "2024-01-23T15:37:25Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2024-01-23T13:26:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22361#pullrequestreview-1838788531"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
