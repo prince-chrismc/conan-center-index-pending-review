@@ -4688,32 +4688,6 @@
       }
    },
    {
-      "Number": 22436,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2024-01-19T08:14:37Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22436",
-      "LastCommitSHA": "a9f33e72fab1c7c8b38e049018655ed3cba8a6dc",
-      "LastCommitAt": "2024-01-22T22:58:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "juansblanco"
-         ],
-         "LastReview": {
-            "ReviewerName": "juansblanco",
-            "SubmittedAt": "2024-01-22T18:12:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22436#pullrequestreview-1837069274"
-         }
-      }
-   },
-   {
       "Number": 22449,
       "OpenedBy": "hoyhoy",
       "CreatedAt": "2024-01-19T22:44:30Z",
@@ -4747,7 +4721,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22483",
       "LastCommitSHA": "f5968e0ca07034b42d804985672441db64bfbf2a",
       "LastCommitAt": "2024-01-22T23:13:07Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4783,25 +4757,6 @@
             "SubmittedAt": "2024-01-22T20:28:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22488#pullrequestreview-1837302991"
          }
-      }
-   },
-   {
-      "Number": 22500,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2024-01-22T23:07:45Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22500",
-      "LastCommitSHA": "f9b7de578bda7f5eda941c7bca61c9b685cff6ae",
-      "LastCommitAt": "2024-01-22T23:07:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
