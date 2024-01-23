@@ -4741,15 +4741,15 @@
       }
    },
    {
-      "Number": 22503,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-23T05:24:32Z",
-      "Recipe": "ada",
+      "Number": 22504,
+      "OpenedBy": "Cogitri",
+      "CreatedAt": "2024-01-23T07:12:38Z",
+      "Recipe": "zlib",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22503",
-      "LastCommitSHA": "052727bcd29d3c287e70666a2d83141114075edf",
-      "LastCommitAt": "2024-01-23T05:23:57Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22504",
+      "LastCommitSHA": "1b530760954452ce82cfef2d96071e17ce826eba",
+      "LastCommitAt": "2024-01-23T07:11:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
