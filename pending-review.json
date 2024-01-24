@@ -4184,7 +4184,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22246",
       "LastCommitSHA": "069692ca70b2756759a9cc9164c7a19f1b2a6d69",
       "LastCommitAt": "2024-01-24T15:10:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4501,6 +4501,25 @@
             "SubmittedAt": "2024-01-18T12:53:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22415#pullrequestreview-1829612326"
          }
+      }
+   },
+   {
+      "Number": 22422,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2024-01-18T13:28:58Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22422",
+      "LastCommitSHA": "ab8790faaa063477e134eb0587fc33403f84b77e",
+      "LastCommitAt": "2024-01-24T15:18:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
