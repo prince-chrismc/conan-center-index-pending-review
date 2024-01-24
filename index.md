@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -59,7 +59,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18897](https://github.com/conan-io/conan-center-index/pull/18897)|[valgur](https://github.com/valgur)|Jul 25|:memo: verilator|XL|0|:eyes:||
 [#18903](https://github.com/conan-io/conan-center-index/pull/18903)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpir|L|1|Nov 7 :bell:||
 [#18938](https://github.com/conan-io/conan-center-index/pull/18938)|[valgur](https://github.com/valgur)|Jul 28|:memo: makefile-project-workspace-creator|M|2|Nov 13 :bell:||jwillikers
-[#18948](https://github.com/conan-io/conan-center-index/pull/18948)|[valgur](https://github.com/valgur)|Jul 28|:memo: hiredis|L|0|||
+[#18948](https://github.com/conan-io/conan-center-index/pull/18948)|[valgur](https://github.com/valgur)|Jul 28|:memo: hiredis|L|0|:eyes:||
 [#18949](https://github.com/conan-io/conan-center-index/pull/18949)|[valgur](https://github.com/valgur)|Jul 28|:memo: userspace-rcu|L|0|:eyes:||
 [#18950](https://github.com/conan-io/conan-center-index/pull/18950)|[valgur](https://github.com/valgur)|Jul 28|:memo: pbc|L|0|:eyes:||
 [#18952](https://github.com/conan-io/conan-center-index/pull/18952)|[valgur](https://github.com/valgur)|Jul 28|:memo: ofeli|L|1|Nov 6 :bell:||
@@ -218,7 +218,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22507](https://github.com/conan-io/conan-center-index/pull/22507)|[uilianries](https://github.com/uilianries)|Jan 23|:green_book: docs|:green_circle: XS|1|Jan 24||
 [#22508](https://github.com/conan-io/conan-center-index/pull/22508)|[wgtmac](https://github.com/wgtmac)|Jan 23|:stopwatch: arrow|L|0|||
 [#22513](https://github.com/conan-io/conan-center-index/pull/22513)|[toge](https://github.com/toge)|Jan 23|:memo: libcurl|:green_circle: XS|0|||
-[#22521](https://github.com/conan-io/conan-center-index/pull/22521)|[uilianries](https://github.com/uilianries)|Jan 24|:green_book: docs|:green_circle: XS|1|Jan 24||**danimtb**
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:stopwatch: icu|:green_circle: XS|0|:eyes:||
 [#22524](https://github.com/conan-io/conan-center-index/pull/22524)|[toge](https://github.com/toge)|Jan 24|:stopwatch: glaze|M|0|||
 [#22525](https://github.com/conan-io/conan-center-index/pull/22525)|[madduci](https://github.com/madduci)|Jan 24|:stopwatch: opene57|:blue_square: S|1|Jan 24||
@@ -244,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 596
+	- Open: 595
 	- Draft: 60
-	- Average Age: 116 days, and 40.03 minutes
+	- Average Age: 116 days, 10 hours, and 17.71 minutes
 	- Stop Label: 301
 	
 
