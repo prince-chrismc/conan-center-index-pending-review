@@ -4028,6 +4028,30 @@
       }
    },
    {
+      "Number": 22237,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2024-01-10T12:39:31Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22237",
+      "LastCommitSHA": "9638e09f6b0103c1b5b7730f9f1fa738f249fe15",
+      "LastCommitAt": "2024-01-24T07:18:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-01-12T12:33:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22237#pullrequestreview-1818134852"
+         }
+      }
+   },
+   {
       "Number": 22241,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-10T13:56:48Z",
@@ -4087,8 +4111,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22260",
-      "LastCommitSHA": "89393bd68f7bd71f35de6c44ea643108d4e13a9e",
-      "LastCommitAt": "2024-01-16T11:55:50Z",
+      "LastCommitSHA": "b40a4043c65a28791a6e4b37fae0c81d79655b1f",
+      "LastCommitAt": "2024-01-24T09:09:30Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
