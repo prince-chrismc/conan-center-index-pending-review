@@ -4820,5 +4820,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22525#pullrequestreview-1841699273"
          }
       }
+   },
+   {
+      "Number": 22533,
+      "OpenedBy": "laitingsheng",
+      "CreatedAt": "2024-01-25T04:59:30Z",
+      "Recipe": "protobuf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22533",
+      "LastCommitSHA": "b28a5e1f765fbdca2b6bef923696468a55e8822b",
+      "LastCommitAt": "2024-01-25T04:54:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
