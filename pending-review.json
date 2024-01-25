@@ -4183,21 +4183,16 @@
       "CreatedAt": "2024-01-13T08:45:28Z",
       "Recipe": "openvino",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22289",
-      "LastCommitSHA": "15bfdd963ca0a58f39ea9ecacbd528fdf75e7853",
-      "LastCommitAt": "2024-01-19T10:02:33Z",
+      "LastCommitSHA": "35719af084bd0bbc0787bb8e0ce3b70ef3958cf0",
+      "LastCommitAt": "2024-01-25T19:22:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
