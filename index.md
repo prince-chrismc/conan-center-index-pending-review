@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,7 +152,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|0|:eyes:||
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|0|:eyes:||
 [#21782](https://github.com/conan-io/conan-center-index/pull/21782)|[valgur](https://github.com/valgur)|Dec 15|:memo: sdl_mixer|L|6|Jan 21||
-[#21788](https://github.com/conan-io/conan-center-index/pull/21788)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: fftw|:blue_square: S|2|Jan 23||[fdgStilla](https://github.com/fdgStilla), **danimtb**
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:memo: openal-soft|:blue_square: S|0|:eyes:||
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|:eyes:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|2|Jan 10 :bell:||ericLemanissier
@@ -214,7 +213,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:memo: poco|:green_circle: XS|1|Jan 26||ericLemanissier
 [#22508](https://github.com/conan-io/conan-center-index/pull/22508)|[wgtmac](https://github.com/wgtmac)|Jan 23|:stopwatch: arrow|L|0|:eyes:||
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:memo: icu|:green_circle: XS|0|||
-[#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:stopwatch: crowcpp-crow|L|3|Jan 26||
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|0|||
 [#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|0|||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
@@ -226,7 +224,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22558](https://github.com/conan-io/conan-center-index/pull/22558)|[toge](https://github.com/toge)|Jan 26|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:stopwatch: openssl|:green_circle: XS|0|||
 [#22560](https://github.com/conan-io/conan-center-index/pull/22560)|[toge](https://github.com/toge)|Jan 26|:stopwatch: mgclient|M|0|||
-[#22561](https://github.com/conan-io/conan-center-index/pull/22561)|[toge](https://github.com/toge)|Jan 26|:memo: c-blosc2|:green_circle: XS|0|||
+[#22561](https://github.com/conan-io/conan-center-index/pull/22561)|[toge](https://github.com/toge)|Jan 26|:stopwatch: c-blosc2|:green_circle: XS|0|||
+[#22562](https://github.com/conan-io/conan-center-index/pull/22562)|[toge](https://github.com/toge)|Jan 26|:stopwatch: orcania|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -249,10 +248,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 604
-	- Draft: 61
-	- Average Age: 116 days, 3 hours, and 50.32 minutes
-	- Stop Label: 302
+	- Open: 605
+	- Draft: 62
+	- Average Age: 115 days, 22 hours, and 38.99 minutes
+	- Stop Label: 303
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
