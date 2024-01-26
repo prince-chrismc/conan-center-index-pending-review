@@ -4080,19 +4080,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22244",
-      "LastCommitSHA": "723a912d967f14214ad7f665a5820256691a6cb0",
-      "LastCommitAt": "2024-01-22T13:33:28Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "84dda3c0f7368dddaa0a40bd0c69c6664ab52862",
+      "LastCommitAt": "2024-01-26T08:12:43Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
