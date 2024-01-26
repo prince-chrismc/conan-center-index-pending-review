@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|M|1|Jan 25||**uilianries**
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|0|||
 [#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|0|||
-[#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:stopwatch: qt|:blue_square: S|1|Jan 25||jwillikers
+[#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22541](https://github.com/conan-io/conan-center-index/pull/22541)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 25|:gear: .c3i|:green_circle: XS|0|||
 [#22542](https://github.com/conan-io/conan-center-index/pull/22542)|[uilianries](https://github.com/uilianries)|Jan 25|:memo: protobuf|:blue_square: S|1|Jan 25||**RubenRBS**
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|||
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 597
 	- Draft: 60
-	- Average Age: 116 days, 20 hours, and 36.65 minutes
+	- Average Age: 116 days, 22 hours, and 18.41 minutes
 	- Stop Label: 300
 	
 
