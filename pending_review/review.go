@@ -25,11 +25,17 @@ type Reviews struct {
 	Blockers  []string   // List of Conan team members who have requested changes on the head commit
 
 	LastReview *Review `json:",omitempty"` // Snapshot of the last review
+
+	IsBump			bool // PR is a bump of version or dependencies
 }
 
 // IsApproved when the conditions for merging are meet as per https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 func (r *Reviews) IsApproved() bool {
-	return r.TeamApproval && r.ValidApprovals >= 2 && len(r.Blockers) == 0
+	var nRequiredApprovals = 2
+	if r.IsBump {
+		nRequiredApprovals = 1
+	}
+	return r.TeamApproval && r.ValidApprovals >= nRequiredApprovals && len(r.Blockers) == 0
 }
 
 // ProcessReviewComments interprets the all the reviews to extract a summary based on the requirements of CCI

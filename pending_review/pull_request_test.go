@@ -1083,6 +1083,7 @@ func TestGetReviewSummary16144(t *testing.T) {
 			Blockers: nil, LastReview: &Review{ReviewerName: "prince-chrismc", SubmittedAt: submittedAt,
 				HTMLURL: "https://github.com/conan-io/conan-center-index/pull/16144#pullrequestreview-1335829632",
 			},
+			IsBump: false,
 		},
 	}, review)
 

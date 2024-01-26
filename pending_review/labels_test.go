@@ -1170,7 +1170,7 @@ func TestProcessLabelsBump(t *testing.T) {
 	  }`)
 
 	err := processLabels(pr.Labels)
-	assert.EqualError(t, err, ErrBumpLabel.Error())
+	assert.Equal(t, err, nil)
 }
 
 func TestProcessLabelsNoApproval(t *testing.T) {

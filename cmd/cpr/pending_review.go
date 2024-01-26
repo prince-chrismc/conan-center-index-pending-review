@@ -154,7 +154,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			stats.Stopped++
 			fmt.Printf("%d rejected for %v\n", pr.GetNumber(), err)
 			continue
-		} else if errors.Is(err, pending_review.ErrWorkRequired) || errors.Is(err, pending_review.ErrInvalidChange) || errors.Is(err, pending_review.ErrBumpLabel) {
+		} else if errors.Is(err, pending_review.ErrWorkRequired) || errors.Is(err, pending_review.ErrInvalidChange) {
 			fmt.Printf("%d rejected for %v\n", pr.GetNumber(), err)
 			continue
 		} else if err != nil {

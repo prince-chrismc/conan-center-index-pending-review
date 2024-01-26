@@ -39,7 +39,8 @@ func TestFormatMarkdownRows(t *testing.T) {
 					"ReviewerName": "madebr",
 					"SubmittedAt": "2021-04-09T23:49:10Z",
 					"HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4356#pullrequestreview-642778787"
-				}
+				},
+				"IsBump": false
 			}
 		},
 		{
@@ -58,7 +59,8 @@ func TestFormatMarkdownRows(t *testing.T) {
 				"TeamApproval": true,
 				"Approvals":[{"Name":"madebr","Tier":"community"},{"Name":"SSE4","Tier":"team"},{"Name":"SpaceIm","Tier":"community"}],
 				"Blockers": []
-			}
+			},
+			"IsBump": false
 		}
 	]`), &rs); err != nil {
 		t.Fatal("Broken test - invalid JSON content:", err)
@@ -96,7 +98,8 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 				  "ReviewerName": "prince-chrismc",
 				  "SubmittedAt": "2021-10-11T23:11:18Z",
 				  "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7648#pullrequestreview-776761950"
-			   }
+			   },
+			   "IsBump": false
 			}
 		 }
 	]`), &rs); err != nil {
@@ -128,7 +131,8 @@ func TestFormatMarkdownRowsCiPending(t *testing.T) {
 				"TeamApproval": false,
 				"Approvals": [],
 				"Blockers": [],
-				"LastReview": null
+				"LastReview": null,
+				"IsBump": false
 			}
 		}
 	]`), &rs); err != nil {
@@ -160,7 +164,8 @@ func TestFormatMarkdownRowsCiSuccess(t *testing.T) {
 				"TeamApproval": false,
 				"Approvals": [],
 				"Blockers": [],
-				"LastReview": null
+				"LastReview": null,
+				"IsBump": false
 			}
 		}
 	]`), &rs); err != nil {
