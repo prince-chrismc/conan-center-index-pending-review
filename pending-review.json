@@ -2191,6 +2191,32 @@
       }
    },
    {
+      "Number": 20774,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-10-26T04:23:19Z",
+      "Recipe": "whisper-cpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20774",
+      "LastCommitSHA": "b655b9923198cd947bd252eac1eb3b787c313dff",
+      "LastCommitAt": "2024-01-26T20:02:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "memsharded"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-30T10:57:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20774#pullrequestreview-1757177727"
+         }
+      }
+   },
+   {
       "Number": 20791,
       "OpenedBy": "DoomHammer",
       "CreatedAt": "2023-10-27T13:20:10Z",
@@ -2530,30 +2556,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-12-13T15:10:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21153#pullrequestreview-1779866167"
-         }
-      }
-   },
-   {
-      "Number": 21204,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-11-17T21:41:25Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21204",
-      "LastCommitSHA": "5296222c8d2e80a3435cdfdf78a2324904f79bb8",
-      "LastCommitAt": "2024-01-26T20:01:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-11-18T06:54:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21204#pullrequestreview-1738273145"
          }
       }
    },
@@ -4719,7 +4721,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22554",
       "LastCommitSHA": "2fedc72662e7f939bdfbd7334619855a652991e8",
       "LastCommitAt": "2024-01-26T12:13:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
