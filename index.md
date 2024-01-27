@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **195** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,7 +220,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22546](https://github.com/conan-io/conan-center-index/pull/22546)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libpng|:blue_square: S|0|||
 [#22549](https://github.com/conan-io/conan-center-index/pull/22549)|[Ahajha](https://github.com/Ahajha)|Jan 26|:memo: tk|:blue_square: S|0|||
 [#22550](https://github.com/conan-io/conan-center-index/pull/22550)|[toge](https://github.com/toge)|Jan 26|:memo: cppkafka|M|0|||
-[#22554](https://github.com/conan-io/conan-center-index/pull/22554)|[uilianries](https://github.com/uilianries)|Jan 26|:memo: boost|:blue_square: S|0|||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:stopwatch: openssl|:green_circle: XS|0|||
 
@@ -246,7 +245,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 603
 	- Draft: 62
-	- Average Age: 116 days, 15 hours, and 49.19 minutes
+	- Average Age: 116 days, 18 hours, and 13.01 minutes
 	- Stop Label: 303
 	
 
