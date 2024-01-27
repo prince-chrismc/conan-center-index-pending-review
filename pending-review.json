@@ -4771,24 +4771,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22569,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-27T14:01:41Z",
-      "Recipe": "cpp-peglib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22569",
-      "LastCommitSHA": "39ecd1efe19b9c8969f081262aa1afc78ae9aec0",
-      "LastCommitAt": "2024-01-27T14:01:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
