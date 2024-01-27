@@ -4752,5 +4752,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22567,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-27T10:33:16Z",
+      "Recipe": "c-ares",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22567",
+      "LastCommitSHA": "e121656884d412dca5e7876c7db49d3b665e119d",
+      "LastCommitAt": "2024-01-27T10:32:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22568,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-27T11:02:15Z",
+      "Recipe": "circularbuffer",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22568",
+      "LastCommitSHA": "c72b553dcd47a4ba5627af9ae45ad442d8661311",
+      "LastCommitAt": "2024-01-27T11:01:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
