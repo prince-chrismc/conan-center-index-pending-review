@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,7 +152,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|0|:eyes:||
 [#21782](https://github.com/conan-io/conan-center-index/pull/21782)|[valgur](https://github.com/valgur)|Dec 15|:memo: sdl_mixer|L|6|Jan 21||
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:memo: openal-soft|:blue_square: S|0|:eyes:||
-[#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|:eyes:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|2|Jan 10 :bell:||ericLemanissier
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|:eyes:||
 [#21910](https://github.com/conan-io/conan-center-index/pull/21910)|[valgur](https://github.com/valgur)|Dec 26|:memo: mariadb-connector-c|L|0|:eyes:||
@@ -245,8 +244,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 603
 	- Draft: 62
-	- Average Age: 116 days, 18 hours, and 13.01 minutes
-	- Stop Label: 303
+	- Average Age: 116 days, 20 hours, and 12.10 minutes
+	- Stop Label: 304
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
