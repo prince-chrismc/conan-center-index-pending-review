@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,8 +216,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|0|||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|||
-[#22545](https://github.com/conan-io/conan-center-index/pull/22545)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libjpeg-turbo|:green_circle: XS|1|Jan 28||**RubenRBS**
-[#22546](https://github.com/conan-io/conan-center-index/pull/22546)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libpng|:blue_square: S|2|Jan 28||**RubenRBS**
 [#22549](https://github.com/conan-io/conan-center-index/pull/22549)|[Ahajha](https://github.com/Ahajha)|Jan 26|:memo: tk|:blue_square: S|0|||
 [#22550](https://github.com/conan-io/conan-center-index/pull/22550)|[toge](https://github.com/toge)|Jan 26|:memo: cppkafka|M|2|Jan 28||**RubenRBS**
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
@@ -244,9 +242,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 609
+	- Open: 607
 	- Draft: 62
-	- Average Age: 116 days, 13 hours, and 37.94 minutes
+	- Average Age: 116 days, 23 hours, and 32.57 minutes
 	- Stop Label: 307
 	
 
