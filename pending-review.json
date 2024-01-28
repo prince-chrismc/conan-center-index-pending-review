@@ -4659,64 +4659,6 @@
       }
    },
    {
-      "Number": 22545,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-01-25T20:07:35Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22545",
-      "LastCommitSHA": "41910db03157131e682d0f0389647a16bc44437d",
-      "LastCommitAt": "2024-01-26T14:34:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-28T01:50:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22545#pullrequestreview-1847354437"
-         }
-      }
-   },
-   {
-      "Number": 22546,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-01-25T20:17:33Z",
-      "Recipe": "libpng",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22546",
-      "LastCommitSHA": "048f3fb7f2bffc99963afdd022d1ca5eb29de8d1",
-      "LastCommitAt": "2024-01-26T23:02:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-28T02:13:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22546#pullrequestreview-1847362517"
-         }
-      }
-   },
-   {
       "Number": 22549,
       "OpenedBy": "Ahajha",
       "CreatedAt": "2024-01-26T03:15:00Z",
