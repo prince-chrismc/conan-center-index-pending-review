@@ -4645,35 +4645,6 @@
       }
    },
    {
-      "Number": 22550,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-26T04:18:02Z",
-      "Recipe": "cppkafka",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22550",
-      "LastCommitSHA": "a95feb6cc9da37cf7a9ad63b5698354045da1892",
-      "LastCommitAt": "2024-01-26T08:18:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-28T01:58:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22550#pullrequestreview-1847356340"
-         }
-      }
-   },
-   {
       "Number": 22557,
       "OpenedBy": "fdgStilla",
       "CreatedAt": "2024-01-26T14:02:42Z",
