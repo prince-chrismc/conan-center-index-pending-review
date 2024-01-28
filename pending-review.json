@@ -3442,39 +3442,6 @@
       }
    },
    {
-      "Number": 21991,
-      "OpenedBy": "bshoshany",
-      "CreatedAt": "2023-12-27T18:03:45Z",
-      "Recipe": "bshoshany-thread-pool",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21991",
-      "LastCommitSHA": "2faeaf15af62162a8ebeb215351f9cceb829be79",
-      "LastCommitAt": "2023-12-28T18:10:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "toge",
-               "Tier": "community"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-01-18T17:49:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21991#pullrequestreview-1830263953"
-         }
-      }
-   },
-   {
       "Number": 22011,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-27T21:13:15Z",
@@ -4781,25 +4748,6 @@
             "SubmittedAt": "2024-01-28T01:52:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22568#pullrequestreview-1847355148"
          }
-      }
-   },
-   {
-      "Number": 22571,
-      "OpenedBy": "hweemiin",
-      "CreatedAt": "2024-01-28T03:35:30Z",
-      "Recipe": "wxwidgets",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22571",
-      "LastCommitSHA": "b621db5b27df0cdb41db8fcc3fbde1723a446ad2",
-      "LastCommitAt": "2024-01-28T03:26:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
