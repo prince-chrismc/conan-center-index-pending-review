@@ -216,13 +216,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|0|||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|||
-[#22545](https://github.com/conan-io/conan-center-index/pull/22545)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libjpeg-turbo|:green_circle: XS|0|||
+[#22545](https://github.com/conan-io/conan-center-index/pull/22545)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libjpeg-turbo|:green_circle: XS|1|Jan 28||**RubenRBS**
 [#22546](https://github.com/conan-io/conan-center-index/pull/22546)|[mayeut](https://github.com/mayeut)|Jan 25|:memo: libpng|:blue_square: S|0|||
 [#22549](https://github.com/conan-io/conan-center-index/pull/22549)|[Ahajha](https://github.com/Ahajha)|Jan 26|:memo: tk|:blue_square: S|0|||
 [#22550](https://github.com/conan-io/conan-center-index/pull/22550)|[toge](https://github.com/toge)|Jan 26|:memo: cppkafka|M|0|||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:stopwatch: openssl|:green_circle: XS|0|||
-[#22568](https://github.com/conan-io/conan-center-index/pull/22568)|[toge](https://github.com/toge)|Jan 27|:memo: circularbuffer|:blue_square: S|0|||
+[#22568](https://github.com/conan-io/conan-center-index/pull/22568)|[toge](https://github.com/toge)|Jan 27|:memo: circularbuffer|:blue_square: S|1|Jan 28||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -244,9 +244,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 608
+	- Open: 609
 	- Draft: 62
-	- Average Age: 116 days, 13 hours, and 4.73 minutes
+	- Average Age: 116 days, 13 hours, and 10.91 minutes
 	- Stop Label: 307
 	
 
