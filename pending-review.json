@@ -3974,8 +3974,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22244",
-      "LastCommitSHA": "84dda3c0f7368dddaa0a40bd0c69c6664ab52862",
-      "LastCommitAt": "2024-01-26T08:12:43Z",
+      "LastCommitSHA": "6ca8504533d45e5405bccbba8c5556b5eafd13e8",
+      "LastCommitAt": "2024-01-29T07:21:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -4531,25 +4531,6 @@
       "LastCommitSHA": "f1d90480da46c6b5dfd6246d7702ed1da35ae933",
       "LastCommitAt": "2024-01-25T09:55:50Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22539,
-      "OpenedBy": "Artalus",
-      "CreatedAt": "2024-01-25T10:38:05Z",
-      "Recipe": "abseil",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22539",
-      "LastCommitSHA": "73a94de0db962b0814ec34394e8c78dfcb5c75b2",
-      "LastCommitAt": "2024-01-25T10:35:26Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
