@@ -207,13 +207,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|:eyes:||
 [#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
 [#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:memo: poco|:green_circle: XS|1|Jan 26||ericLemanissier
-[#22508](https://github.com/conan-io/conan-center-index/pull/22508)|[wgtmac](https://github.com/wgtmac)|Jan 23|:stopwatch: arrow|L|0|:eyes:||
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:memo: icu|:green_circle: XS|0|:eyes:||
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|L|4|Jan 26||ericLemanissier
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|0|:eyes:||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|:eyes:||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
+[#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,10 +236,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 611
+	- Open: 612
 	- Draft: 62
-	- Average Age: 117 days, 11 hours, and 35.81 minutes
-	- Stop Label: 312
+	- Average Age: 117 days, 8 hours, and 11.12 minutes
+	- Stop Label: 313
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
