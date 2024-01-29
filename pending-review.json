@@ -4652,21 +4652,44 @@
       "LastCommitAt": "2024-01-29T16:10:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jellespijker",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "casperlamboo",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jellespijker",
-            "SubmittedAt": "2024-01-29T19:43:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22583#pullrequestreview-1849623173"
+            "ReviewerName": "casperlamboo",
+            "SubmittedAt": "2024-01-29T20:50:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22583#pullrequestreview-1849736230"
          }
+      }
+   },
+   {
+      "Number": 22587,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-29T20:32:51Z",
+      "Recipe": "simdjson",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22587",
+      "LastCommitSHA": "ccf7c1ada8bd9f4339db2e3d785028abc4cf1acf",
+      "LastCommitAt": "2024-01-29T20:31:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
