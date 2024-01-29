@@ -4540,6 +4540,30 @@
       }
    },
    {
+      "Number": 22539,
+      "OpenedBy": "Artalus",
+      "CreatedAt": "2024-01-25T10:38:05Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22539",
+      "LastCommitSHA": "c9c461760baa413f855609c8543b5251079924c1",
+      "LastCommitAt": "2024-01-29T09:54:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2024-01-29T07:32:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22539#pullrequestreview-1847989185"
+         }
+      }
+   },
+   {
       "Number": 22540,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-25T10:41:19Z",
