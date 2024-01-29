@@ -3027,25 +3027,6 @@
       }
    },
    {
-      "Number": 21669,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T21:51:04Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21669",
-      "LastCommitSHA": "ceda7116bebbabcab0c5612c5986894c22c4588c",
-      "LastCommitAt": "2023-12-19T14:42:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21676,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-07T11:03:13Z",
@@ -4651,6 +4632,25 @@
       "LastCommitSHA": "003f952f10f7790839feac8f26ab93a22570ac87",
       "LastCommitAt": "2024-01-29T11:22:10Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22583,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-29T16:12:06Z",
+      "Recipe": "mapbox-wagyu",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22583",
+      "LastCommitSHA": "a876c7f78422a042e90753a41e7a713687a38990",
+      "LastCommitAt": "2024-01-29T16:10:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
