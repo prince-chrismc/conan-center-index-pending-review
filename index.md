@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,7 +213,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|:eyes:||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|:eyes:||
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
-[#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|1|Jan 29||[jellespijker](https://github.com/jellespijker)
+[#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|2|Jan 29||[jellespijker](https://github.com/jellespijker), [casperlamboo](https://github.com/casperlamboo)
+[#22587](https://github.com/conan-io/conan-center-index/pull/22587)|[toge](https://github.com/toge)|Jan 29|:stopwatch: simdjson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 615
+	- Open: 616
 	- Draft: 62
-	- Average Age: 117 days, 2 hours, and 16.22 minutes
+	- Average Age: 116 days, 22 hours, and 39.91 minutes
 	- Stop Label: 315
 	
 
