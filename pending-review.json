@@ -4650,6 +4650,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22583",
       "LastCommitSHA": "a876c7f78422a042e90753a41e7a713687a38990",
       "LastCommitAt": "2024-01-29T16:10:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22585,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-29T16:58:50Z",
+      "Recipe": "lua",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22585",
+      "LastCommitSHA": "ed73d612bec4068896e998341a8814525d1735c4",
+      "LastCommitAt": "2024-01-29T16:56:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
