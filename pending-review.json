@@ -4652,11 +4652,21 @@
       "LastCommitAt": "2024-01-29T16:10:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jellespijker",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jellespijker",
+            "SubmittedAt": "2024-01-29T19:43:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22583#pullrequestreview-1849623173"
+         }
       }
    }
 ]
