@@ -3948,30 +3948,6 @@
       }
    },
    {
-      "Number": 22244,
-      "OpenedBy": "RaguzovaTatyana",
-      "CreatedAt": "2024-01-10T16:18:29Z",
-      "Recipe": "openvino",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22244",
-      "LastCommitSHA": "6ca8504533d45e5405bccbba8c5556b5eafd13e8",
-      "LastCommitAt": "2024-01-29T07:21:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-25T16:20:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22244#pullrequestreview-1844134731"
-         }
-      }
-   },
-   {
       "Number": 22246,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-10T16:42:00Z",
