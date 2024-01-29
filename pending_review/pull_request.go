@@ -118,11 +118,11 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	p.Summary = ProcessReviewComments(reviewers, reviews, p.LastCommitSHA)
 	p.Summary.IsBump = false
 	for _, label := range pr.Labels {
-        switch label.GetName() {
+		switch label.GetName() {
 		case "Bump version", "Bump dependencies":
 			p.Summary.IsBump = true
 		}
-    }
+	}
 
 	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 	if err != nil {
