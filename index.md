@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -185,7 +185,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|:eyes:||
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|M|3|Jan 24||jwillikers
 [#22244](https://github.com/conan-io/conan-center-index/pull/22244)|[RaguzovaTatyana](https://github.com/RaguzovaTatyana)|Jan 10|:stopwatch: openvino|:blue_square: S|2|Jan 25||
-[#22246](https://github.com/conan-io/conan-center-index/pull/22246)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: sdl|L|0|:eyes:||
+[#22246](https://github.com/conan-io/conan-center-index/pull/22246)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: sdl|L|1|Jan 29||Croydon
 [#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|:eyes:||
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|0|:eyes:||
@@ -211,7 +211,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:memo: icu|:green_circle: XS|0|:eyes:||
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|L|4|Jan 26||ericLemanissier
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|0|:eyes:||
-[#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|1|Jan 29||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|:eyes:||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
@@ -237,10 +236,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 610
+	- Open: 611
 	- Draft: 62
-	- Average Age: 117 days, 15 hours, and 15.59 minutes
-	- Stop Label: 310
+	- Average Age: 117 days, 11 hours, and 35.81 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
