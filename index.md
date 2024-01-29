@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -118,7 +118,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:new: freealut|M|5|Nov 24 :bell:||
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|0|:eyes:||
 [#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|1|Nov 13 :bell:||
-[#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:memo: qt|:blue_square: S|5|Jan 17|RubenRBS|ericLemanissier
+[#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:memo: qt|:blue_square: S|5|Jan 17 :bell:|RubenRBS|ericLemanissier
 [#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:memo: openssl|:blue_square: S|1|Nov 20 :bell:||jwillikers
 [#21007](https://github.com/conan-io/conan-center-index/pull/21007)|[valgur](https://github.com/valgur)|Nov 8|:new: orc|M|0|:eyes:||
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
@@ -211,7 +211,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:memo: icu|:green_circle: XS|0|:eyes:||
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|L|4|Jan 26||ericLemanissier
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|0|:eyes:||
-[#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:stopwatch: abseil|:green_circle: XS|0|:eyes:||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|:eyes:||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|||
@@ -239,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 610
 	- Draft: 62
-	- Average Age: 117 days, 10 hours, and 14.98 minutes
+	- Average Age: 117 days, 13 hours, and 17.51 minutes
 	- Stop Label: 310
 	
 
