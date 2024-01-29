@@ -4002,11 +4002,21 @@
       "LastCommitAt": "2024-01-24T15:10:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "Croydon",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2024-01-29T10:37:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22246#pullrequestreview-1848355503"
+         }
       }
    },
    {
@@ -4537,30 +4547,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 22539,
-      "OpenedBy": "Artalus",
-      "CreatedAt": "2024-01-25T10:38:05Z",
-      "Recipe": "abseil",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22539",
-      "LastCommitSHA": "c9c461760baa413f855609c8543b5251079924c1",
-      "LastCommitAt": "2024-01-29T09:54:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2024-01-29T07:32:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22539#pullrequestreview-1847989185"
-         }
       }
    },
    {
