@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,6 +183,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22209](https://github.com/conan-io/conan-center-index/pull/22209)|[toge](https://github.com/toge)|Jan 8|:new: speedb|L|0|:eyes:||
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|:eyes:||
 [#22237](https://github.com/conan-io/conan-center-index/pull/22237)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: opentelemetry-cpp|M|3|Jan 24||jwillikers
+[#22244](https://github.com/conan-io/conan-center-index/pull/22244)|[RaguzovaTatyana](https://github.com/RaguzovaTatyana)|Jan 10|:stopwatch: openvino|:blue_square: S|3|Jan 29||[ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#22246](https://github.com/conan-io/conan-center-index/pull/22246)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 10|:memo: sdl|L|1|Jan 29||Croydon
 [#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|:eyes:||
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
@@ -213,6 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|:eyes:||
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|3|Jan 30||
+[#22593](https://github.com/conan-io/conan-center-index/pull/22593)|[Tradias](https://github.com/Tradias)|Jan 30|:memo: asio-grpc|:blue_square: S|0|||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|0|||
 
 
@@ -238,8 +240,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 613
 	- Draft: 60
-	- Average Age: 115 days, 10 hours, and 55.32 minutes
-	- Stop Label: 316
+	- Average Age: 115 days, 11 hours, and 52.75 minutes
+	- Stop Label: 314
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
