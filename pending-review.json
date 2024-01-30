@@ -4724,5 +4724,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22595,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-30T17:47:02Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22595",
+      "LastCommitSHA": "90608d62999ab49e1066ad720944f4de0f7362d9",
+      "LastCommitAt": "2024-01-30T17:46:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22596,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2024-01-30T17:53:35Z",
+      "Recipe": "etcd-cpp-apiv3",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22596",
+      "LastCommitSHA": "37ebd73a070c5024e6f7f80657dbffb2448667e8",
+      "LastCommitAt": "2024-01-30T18:01:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
