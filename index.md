@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|3|Jan 30||
 [#22593](https://github.com/conan-io/conan-center-index/pull/22593)|[Tradias](https://github.com/Tradias)|Jan 30|:memo: asio-grpc|:blue_square: S|0|||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|0|||
-[#22595](https://github.com/conan-io/conan-center-index/pull/22595)|[toge](https://github.com/toge)|Jan 30|:stopwatch: sqlite3|:green_circle: XS|0|||
+[#22598](https://github.com/conan-io/conan-center-index/pull/22598)|[mayeut](https://github.com/mayeut)|Jan 30|:stopwatch: libpng|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 615
+	- Open: 616
 	- Draft: 60
-	- Average Age: 115 days, 4 hours, and 49.49 minutes
+	- Average Age: 115 days, 1 hours, and 21.91 minutes
 	- Stop Label: 315
 	
 
