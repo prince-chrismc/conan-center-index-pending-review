@@ -4650,15 +4650,15 @@
       }
    },
    {
-      "Number": 22587,
+      "Number": 22588,
       "OpenedBy": "toge",
-      "CreatedAt": "2024-01-29T20:32:51Z",
-      "Recipe": "simdjson",
+      "CreatedAt": "2024-01-30T02:34:59Z",
+      "Recipe": "svgpp",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22587",
-      "LastCommitSHA": "ccf7c1ada8bd9f4339db2e3d785028abc4cf1acf",
-      "LastCommitAt": "2024-01-29T20:31:50Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22588",
+      "LastCommitSHA": "53b8d5022d9f1af3f0638134f975a73abdf1a032",
+      "LastCommitAt": "2024-01-30T02:34:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
