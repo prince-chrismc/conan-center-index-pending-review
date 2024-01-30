@@ -2202,17 +2202,26 @@
       "LastCommitAt": "2024-01-26T23:27:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 14,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            },
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
          "Blockers": [
             "memsharded"
          ],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-11-30T10:57:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20774#pullrequestreview-1757177727"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2024-01-30T09:06:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20774#pullrequestreview-1850575557"
          }
       }
    },
