@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,6 +216,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|3|Jan 30||
 [#22593](https://github.com/conan-io/conan-center-index/pull/22593)|[Tradias](https://github.com/Tradias)|Jan 30|:memo: asio-grpc|:blue_square: S|0|||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|0|||
+[#22595](https://github.com/conan-io/conan-center-index/pull/22595)|[toge](https://github.com/toge)|Jan 30|:stopwatch: sqlite3|:green_circle: XS|0|||
+[#22596](https://github.com/conan-io/conan-center-index/pull/22596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 30|:stopwatch: etcd-cpp-apiv3|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 613
+	- Open: 615
 	- Draft: 60
-	- Average Age: 115 days, 11 hours, and 52.75 minutes
+	- Average Age: 115 days, 3 hours, and 54.95 minutes
 	- Stop Label: 314
 	
 
