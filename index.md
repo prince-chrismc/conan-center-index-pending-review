@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|0|:eyes:||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6 :bell:||
 [#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|M|0|:eyes:||
-[#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|7|Jan 31||**danimtb**
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|2|Sep 10 :bell:||jwillikers, SSE4
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|6|Aug 11 :bell:||MartinDelille, [valgur](https://github.com/valgur)
 [#18628](https://github.com/conan-io/conan-center-index/pull/18628)|[valgur](https://github.com/valgur)|Jul 18|:memo: giflib|L|1|Oct 31 :bell:||jwillikers
@@ -221,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|||
 [#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
+[#22608](https://github.com/conan-io/conan-center-index/pull/22608)|[szmyd](https://github.com/szmyd)|Jan 31|:memo: nuraft|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,9 +242,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 616
+	- Open: 614
 	- Draft: 61
-	- Average Age: 115 days, 11 hours, and 58.83 minutes
+	- Average Age: 115 days, 13 hours, and 48.43 minutes
 	- Stop Label: 310
 	
 
