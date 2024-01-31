@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,6 +216,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|3|Jan 30||
 [#22593](https://github.com/conan-io/conan-center-index/pull/22593)|[Tradias](https://github.com/Tradias)|Jan 30|:memo: asio-grpc|:blue_square: S|0|||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|0|||
+[#22600](https://github.com/conan-io/conan-center-index/pull/22600)|[toge](https://github.com/toge)|Jan 31|:stopwatch: json_dto|:green_circle: XS|0|||
+[#22601](https://github.com/conan-io/conan-center-index/pull/22601)|[toge](https://github.com/toge)|Jan 31|:memo: md4c|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 616
-	- Draft: 60
-	- Average Age: 115 days, 2 hours, and 22.42 minutes
+	- Open: 619
+	- Draft: 61
+	- Average Age: 114 days, 16 hours, and 35.34 minutes
 	- Stop Label: 315
 	
 
