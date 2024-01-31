@@ -4735,26 +4735,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22601",
       "LastCommitSHA": "5e8eed9b38580e04a9bb6603b3dd004c6a0c0945",
       "LastCommitAt": "2024-01-31T00:46:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22602,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-31T00:52:50Z",
-      "Recipe": "mbedtls",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22602",
-      "LastCommitSHA": "4644220b6782d3574087bc1d1229908d72ffcfca",
-      "LastCommitAt": "2024-01-31T00:52:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
