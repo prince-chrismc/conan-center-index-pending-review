@@ -37,7 +37,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:new: intel-ipsec-mb|M|1|Sep 18 :bell:||jwillikers
 [#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:memo: botan|XL|29|Jan 15 :bell:||
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|0|:eyes:||
-[#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6 :bell:||
 [#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|M|0|:eyes:||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|2|Sep 10 :bell:||jwillikers, SSE4
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|6|Aug 11 :bell:||MartinDelille, [valgur](https://github.com/valgur)
@@ -220,6 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22608](https://github.com/conan-io/conan-center-index/pull/22608)|[szmyd](https://github.com/szmyd)|Jan 31|:memo: nuraft|:green_circle: XS|0|||
 [#22609](https://github.com/conan-io/conan-center-index/pull/22609)|[faithfracture](https://github.com/faithfracture)|Jan 31|:stopwatch: openssl|:green_circle: XS|0|||
+[#22610](https://github.com/conan-io/conan-center-index/pull/22610)|[gegles](https://github.com/gegles)|Jan 31|:stopwatch: openssl|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -241,9 +241,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 611
+	- Open: 606
 	- Draft: 61
-	- Average Age: 116 days, 3 hours, and 58.32 minutes
+	- Average Age: 116 days, 20 hours, and 16.45 minutes
 	- Stop Label: 310
 	
 
