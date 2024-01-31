@@ -4737,11 +4737,21 @@
       "LastCommitAt": "2024-01-30T15:30:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "CJCombrink",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "CJCombrink",
+            "SubmittedAt": "2024-01-31T04:50:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22594#pullrequestreview-1852888139"
+         }
       }
    },
    {
