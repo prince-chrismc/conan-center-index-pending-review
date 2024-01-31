@@ -284,35 +284,6 @@
       }
    },
    {
-      "Number": 18560,
-      "OpenedBy": "Tobulus",
-      "CreatedAt": "2023-07-15T10:01:23Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18560",
-      "LastCommitSHA": "58aafa6ff9da1cd087ba7f4f7413513599ae1d70",
-      "LastCommitAt": "2024-01-31T15:19:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2024-01-31T16:09:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18560#pullrequestreview-1854200450"
-         }
-      }
-   },
-   {
       "Number": 18570,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-07-16T00:43:37Z",
@@ -4853,6 +4824,25 @@
             "SubmittedAt": "2024-01-31T16:54:39Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22605#pullrequestreview-1854318833"
          }
+      }
+   },
+   {
+      "Number": 22608,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2024-01-31T18:15:09Z",
+      "Recipe": "nuraft",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22608",
+      "LastCommitSHA": "2ee783285bd5c21d1656976f6ab123f1770e80c5",
+      "LastCommitAt": "2024-01-31T18:13:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
