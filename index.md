@@ -218,7 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22608](https://github.com/conan-io/conan-center-index/pull/22608)|[szmyd](https://github.com/szmyd)|Jan 31|:memo: nuraft|:green_circle: XS|0|||
-[#22609](https://github.com/conan-io/conan-center-index/pull/22609)|[faithfracture](https://github.com/faithfracture)|Jan 31|:stopwatch: openssl|:green_circle: XS|0|||
+[#22609](https://github.com/conan-io/conan-center-index/pull/22609)|[faithfracture](https://github.com/faithfracture)|Jan 31|:memo: openssl|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22610](https://github.com/conan-io/conan-center-index/pull/22610)|[gegles](https://github.com/gegles)|Jan 31|:stopwatch: openssl|:blue_square: S|0|||
 
 
@@ -241,9 +241,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 606
+	- Open: 605
 	- Draft: 61
-	- Average Age: 116 days, 20 hours, and 16.45 minutes
+	- Average Age: 117 days, 1 hours, and 39.56 minutes
 	- Stop Label: 310
 	
 
