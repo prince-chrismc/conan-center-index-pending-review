@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|M|3|Jan 30||
 [#22593](https://github.com/conan-io/conan-center-index/pull/22593)|[Tradias](https://github.com/Tradias)|Jan 30|:memo: asio-grpc|:blue_square: S|0|||
-[#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|0|||
+[#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|1|Jan 31||[CJCombrink](https://github.com/CJCombrink)
 [#22601](https://github.com/conan-io/conan-center-index/pull/22601)|[toge](https://github.com/toge)|Jan 31|:memo: md4c|:blue_square: S|0|||
 
 
@@ -242,7 +242,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 620
 	- Draft: 61
-	- Average Age: 114 days, 15 hours, and 34.34 minutes
+	- Average Age: 114 days, 16 hours, and 31.65 minutes
 	- Stop Label: 314
 	
 
