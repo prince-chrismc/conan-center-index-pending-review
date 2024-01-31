@@ -208,7 +208,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|L|4|Jan 26||ericLemanissier
 [#22538](https://github.com/conan-io/conan-center-index/pull/22538)|[toge](https://github.com/toge)|Jan 25|:memo: inih|:green_circle: XS|1|Jan 29||jwillikers
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
-[#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:memo: highfive|:blue_square: S|0|:eyes:||
+[#22544](https://github.com/conan-io/conan-center-index/pull/22544)|[robomics](https://github.com/robomics)|Jan 25|:stopwatch: highfive|:blue_square: S|1|Jan 31||
 [#22549](https://github.com/conan-io/conan-center-index/pull/22549)|[Ahajha](https://github.com/Ahajha)|Jan 26|:memo: tk|:blue_square: S|0|||
 [#22554](https://github.com/conan-io/conan-center-index/pull/22554)|[uilianries](https://github.com/uilianries)|Jan 26|:memo: boost|M|4|Jan 30||jwillikers, [grafikrobot](https://github.com/grafikrobot)
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|:eyes:||
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 619
 	- Draft: 61
-	- Average Age: 114 days, 22 hours, and 14.95 minutes
+	- Average Age: 115 days, and 24.32 minutes
 	- Stop Label: 312
 	
 
