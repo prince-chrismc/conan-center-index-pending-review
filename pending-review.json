@@ -4482,35 +4482,6 @@
       }
    },
    {
-      "Number": 22544,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2024-01-25T19:21:32Z",
-      "Recipe": "highfive",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22544",
-      "LastCommitSHA": "d97c760fc9eeeb6060701fdd75b3d815077196b2",
-      "LastCommitAt": "2024-01-31T12:09:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-31T17:15:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22544#pullrequestreview-1854364150"
-         }
-      }
-   },
-   {
       "Number": 22549,
       "OpenedBy": "Ahajha",
       "CreatedAt": "2024-01-26T03:15:00Z",
@@ -4663,35 +4634,6 @@
       }
    },
    {
-      "Number": 22593,
-      "OpenedBy": "Tradias",
-      "CreatedAt": "2024-01-30T14:21:56Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22593",
-      "LastCommitSHA": "15772ec57d9a78ae82ee9e51d68e856a1b9afbf9",
-      "LastCommitAt": "2024-01-30T14:40:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-31T16:35:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22593#pullrequestreview-1854273366"
-         }
-      }
-   },
-   {
       "Number": 22594,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-30T15:30:41Z",
@@ -4837,6 +4779,25 @@
       "LastCommitSHA": "2ee783285bd5c21d1656976f6ab123f1770e80c5",
       "LastCommitAt": "2024-01-31T18:13:50Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22609,
+      "OpenedBy": "faithfracture",
+      "CreatedAt": "2024-01-31T19:15:35Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22609",
+      "LastCommitSHA": "b34695e61ac80a71a41cccb3b9b3f50f64c1312b",
+      "LastCommitAt": "2024-01-31T19:15:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
