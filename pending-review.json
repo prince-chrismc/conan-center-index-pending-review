@@ -3884,30 +3884,6 @@
       }
    },
    {
-      "Number": 22237,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-01-10T12:39:31Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22237",
-      "LastCommitSHA": "a09c64ca2b3a6ca782653bd5696bdc39e23c2899",
-      "LastCommitAt": "2024-02-01T15:17:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-01T15:13:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22237#pullrequestreview-1856761888"
-         }
-      }
-   },
-   {
       "Number": 22246,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-01-10T16:42:00Z",
@@ -4048,35 +4024,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 22319,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-13T23:16:16Z",
-      "Recipe": "beauty",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22319",
-      "LastCommitSHA": "ca5a418e46887ba5f8e863d6299500aa053dca7f",
-      "LastCommitAt": "2024-01-17T11:40:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-01-17T12:55:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22319#pullrequestreview-1827235839"
-         }
       }
    },
    {
@@ -4628,25 +4575,6 @@
             "SubmittedAt": "2024-02-01T15:06:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22618#pullrequestreview-1856744751"
          }
-      }
-   },
-   {
-      "Number": 22623,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-02-01T15:22:47Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22623",
-      "LastCommitSHA": "3bf52becdbc58dd6091db835f552f1f72d0650e7",
-      "LastCommitAt": "2024-02-01T15:22:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
