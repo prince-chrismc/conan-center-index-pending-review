@@ -202,7 +202,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|:eyes:||
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|:eyes:||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|:eyes:||
-[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20||
+[#22449](https://github.com/conan-io/conan-center-index/pull/22449)|[hoyhoy](https://github.com/hoyhoy)|Jan 19|:stopwatch: boost|:green_circle: XS|2|Jan 20 :bell:||
 [#22483](https://github.com/conan-io/conan-center-index/pull/22483)|[obnyis](https://github.com/obnyis)|Jan 21|:memo: poco|:green_circle: XS|1|Jan 26||ericLemanissier
 [#22523](https://github.com/conan-io/conan-center-index/pull/22523)|[hegyizs](https://github.com/hegyizs)|Jan 24|:memo: icu|:green_circle: XS|0|:eyes:||
 [#22537](https://github.com/conan-io/conan-center-index/pull/22537)|[toge](https://github.com/toge)|Jan 25|:memo: crowcpp-crow|L|4|Jan 26||ericLemanissier
@@ -217,9 +217,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|||
 [#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
-[#22608](https://github.com/conan-io/conan-center-index/pull/22608)|[szmyd](https://github.com/szmyd)|Jan 31|:memo: nuraft|:green_circle: XS|0|||
+[#22608](https://github.com/conan-io/conan-center-index/pull/22608)|[szmyd](https://github.com/szmyd)|Jan 31|:memo: nuraft|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22609](https://github.com/conan-io/conan-center-index/pull/22609)|[faithfracture](https://github.com/faithfracture)|Jan 31|:memo: openssl|:green_circle: XS|1|Jan 31||**RubenRBS**
-[#22610](https://github.com/conan-io/conan-center-index/pull/22610)|[gegles](https://github.com/gegles)|Jan 31|:stopwatch: openssl|:blue_square: S|0|||
+[#22610](https://github.com/conan-io/conan-center-index/pull/22610)|[gegles](https://github.com/gegles)|Jan 31|:memo: openssl|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 605
 	- Draft: 61
-	- Average Age: 117 days, 1 hours, and 39.56 minutes
+	- Average Age: 117 days, 3 hours, and 18.62 minutes
 	- Stop Label: 310
 	
 
