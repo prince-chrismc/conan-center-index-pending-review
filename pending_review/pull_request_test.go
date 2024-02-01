@@ -1091,6 +1091,334 @@ func TestGetReviewSummary16144(t *testing.T) {
 }
 
 func TestGetReviewSummary22576(t *testing.T) {
+	defer gock.Off()
+
+	gock.New("https://api.github.com").
+		Get("/repos/conan-io/conan-center-index/pulls/22576/reviews").
+		Reply(200).
+		BodyString(`[
+
+		]`)
+
+	gock.New("https://api.github.com").
+		Get("/repos/conan-io/conan-center-index/pulls/22576/files").
+		Reply(200).
+		BodyString(`[
+			{
+			  "sha": "53a958df0d784b969867ca4d77e03305e641c9e4",
+			  "filename": "recipes/fast_float/all/conandata.yml",
+			  "status": "modified",
+			  "additions": 3,
+			  "deletions": 0,
+			  "changes": 3,
+			  "blob_url": "https://github.com/conan-io/conan-center-index/blob/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fall%2Fconandata.yml",
+			  "raw_url": "https://github.com/conan-io/conan-center-index/raw/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fall%2Fconandata.yml",
+			  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ffast_float%2Fall%2Fconandata.yml?ref=bb02be24067706b1696de3c62d5b1b40b1d87567",
+			  "patch": "@@ -1,4 +1,7 @@\n sources:\n+  \"6.1.0\":\n+    url: \"https://github.com/fastfloat/fast_float/archive/v6.1.0.tar.gz\"\n+    sha256: \"a9c8ca8ca7d68c2dbb134434044f9c66cfd4c383d5e85c36b704d30f6be82506\"\n   \"6.0.0\":\n     url: \"https://github.com/fastfloat/fast_float/archive/v6.0.0.tar.gz\"\n     sha256: \"7e98671ef4cc7ed7f44b3b13f80156c8d2d9244fac55deace28bd05b0a2c7c8e\""
+			},
+			{
+			  "sha": "94d0f58561b883a9ec557f890dcfcee1e13cd20e",
+			  "filename": "recipes/fast_float/config.yml",
+			  "status": "modified",
+			  "additions": 2,
+			  "deletions": 0,
+			  "changes": 2,
+			  "blob_url": "https://github.com/conan-io/conan-center-index/blob/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fconfig.yml",
+			  "raw_url": "https://github.com/conan-io/conan-center-index/raw/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fconfig.yml",
+			  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ffast_float%2Fconfig.yml?ref=bb02be24067706b1696de3c62d5b1b40b1d87567",
+			  "patch": "@@ -1,4 +1,6 @@\n versions:\n+  \"6.1.0\":\n+    folder: all\n   \"6.0.0\":\n     folder: all\n   \"5.3.0\":"
+			}
+		  ]`)
+
+	gock.New("https://api.github.com").
+		Get("/repos/toge/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567").
+		Reply(200).
+		BodyString(`{
+			"sha": "bb02be24067706b1696de3c62d5b1b40b1d87567",
+			"node_id": "C_kwDOFGJi7NoAKGJiMDJiZTI0MDY3NzA2YjE2OTZkZTNjNjJkNWIxYjQwYjFkODc1Njc",
+			"commit": {
+			  "author": {
+				"name": "toge",
+				"email": "toge.mail@gmail.com",
+				"date": "2024-01-29T00:23:55Z"
+			  },
+			  "committer": {
+				"name": "toge",
+				"email": "toge.mail@gmail.com",
+				"date": "2024-01-29T00:23:55Z"
+			  },
+			  "message": "fast_float: add version 6.1.0",
+			  "tree": {
+				"sha": "fb1f13a8da644be5526501a1b0d62cab74a0eaf1",
+				"url": "https://api.github.com/repos/toge/conan-center-index/git/trees/fb1f13a8da644be5526501a1b0d62cab74a0eaf1"
+			  },
+			  "url": "https://api.github.com/repos/toge/conan-center-index/git/commits/bb02be24067706b1696de3c62d5b1b40b1d87567",
+			  "comment_count": 0,
+			  "verification": {
+				"verified": false,
+				"reason": "unsigned",
+				"signature": null,
+				"payload": null
+			  }
+			},
+			"url": "https://api.github.com/repos/toge/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567",
+			"html_url": "https://github.com/toge/conan-center-index/commit/bb02be24067706b1696de3c62d5b1b40b1d87567",
+			"comments_url": "https://api.github.com/repos/toge/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567/comments",
+			"author": {
+			  "login": "toge",
+			  "id": 465629,
+			  "node_id": "MDQ6VXNlcjQ2NTYyOQ==",
+			  "avatar_url": "https://avatars.githubusercontent.com/u/465629?v=4",
+			  "gravatar_id": "",
+			  "url": "https://api.github.com/users/toge",
+			  "html_url": "https://github.com/toge",
+			  "followers_url": "https://api.github.com/users/toge/followers",
+			  "following_url": "https://api.github.com/users/toge/following{/other_user}",
+			  "gists_url": "https://api.github.com/users/toge/gists{/gist_id}",
+			  "starred_url": "https://api.github.com/users/toge/starred{/owner}{/repo}",
+			  "subscriptions_url": "https://api.github.com/users/toge/subscriptions",
+			  "organizations_url": "https://api.github.com/users/toge/orgs",
+			  "repos_url": "https://api.github.com/users/toge/repos",
+			  "events_url": "https://api.github.com/users/toge/events{/privacy}",
+			  "received_events_url": "https://api.github.com/users/toge/received_events",
+			  "type": "User",
+			  "site_admin": false
+			},
+			"committer": {
+			  "login": "toge",
+			  "id": 465629,
+			  "node_id": "MDQ6VXNlcjQ2NTYyOQ==",
+			  "avatar_url": "https://avatars.githubusercontent.com/u/465629?v=4",
+			  "gravatar_id": "",
+			  "url": "https://api.github.com/users/toge",
+			  "html_url": "https://github.com/toge",
+			  "followers_url": "https://api.github.com/users/toge/followers",
+			  "following_url": "https://api.github.com/users/toge/following{/other_user}",
+			  "gists_url": "https://api.github.com/users/toge/gists{/gist_id}",
+			  "starred_url": "https://api.github.com/users/toge/starred{/owner}{/repo}",
+			  "subscriptions_url": "https://api.github.com/users/toge/subscriptions",
+			  "organizations_url": "https://api.github.com/users/toge/orgs",
+			  "repos_url": "https://api.github.com/users/toge/repos",
+			  "events_url": "https://api.github.com/users/toge/events{/privacy}",
+			  "received_events_url": "https://api.github.com/users/toge/received_events",
+			  "type": "User",
+			  "site_admin": false
+			},
+			"parents": [
+			  {
+				"sha": "7add932f7dcc6861365631bbf1af01e8286acc11",
+				"url": "https://api.github.com/repos/toge/conan-center-index/commits/7add932f7dcc6861365631bbf1af01e8286acc11",
+				"html_url": "https://github.com/toge/conan-center-index/commit/7add932f7dcc6861365631bbf1af01e8286acc11"
+			  }
+			],
+			"stats": {
+			  "total": 5,
+			  "additions": 5,
+			  "deletions": 0
+			},
+			"files": [
+			  {
+				"sha": "53a958df0d784b969867ca4d77e03305e641c9e4",
+				"filename": "recipes/fast_float/all/conandata.yml",
+				"status": "modified",
+				"additions": 3,
+				"deletions": 0,
+				"changes": 3,
+				"blob_url": "https://github.com/toge/conan-center-index/blob/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fall%2Fconandata.yml",
+				"raw_url": "https://github.com/toge/conan-center-index/raw/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fall%2Fconandata.yml",
+				"contents_url": "https://api.github.com/repos/toge/conan-center-index/contents/recipes%2Ffast_float%2Fall%2Fconandata.yml?ref=bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"patch": "@@ -1,4 +1,7 @@\n sources:\n+  \"6.1.0\":\n+    url: \"https://github.com/fastfloat/fast_float/archive/v6.1.0.tar.gz\"\n+    sha256: \"a9c8ca8ca7d68c2dbb134434044f9c66cfd4c383d5e85c36b704d30f6be82506\"\n   \"6.0.0\":\n     url: \"https://github.com/fastfloat/fast_float/archive/v6.0.0.tar.gz\"\n     sha256: \"7e98671ef4cc7ed7f44b3b13f80156c8d2d9244fac55deace28bd05b0a2c7c8e\""
+			  },
+			  {
+				"sha": "94d0f58561b883a9ec557f890dcfcee1e13cd20e",
+				"filename": "recipes/fast_float/config.yml",
+				"status": "modified",
+				"additions": 2,
+				"deletions": 0,
+				"changes": 2,
+				"blob_url": "https://github.com/toge/conan-center-index/blob/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fconfig.yml",
+				"raw_url": "https://github.com/toge/conan-center-index/raw/bb02be24067706b1696de3c62d5b1b40b1d87567/recipes%2Ffast_float%2Fconfig.yml",
+				"contents_url": "https://api.github.com/repos/toge/conan-center-index/contents/recipes%2Ffast_float%2Fconfig.yml?ref=bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"patch": "@@ -1,4 +1,6 @@\n versions:\n+  \"6.1.0\":\n+    folder: all\n   \"6.0.0\":\n     folder: all\n   \"5.3.0\":"
+			  }
+			]
+		  }`)
+
+	gock.New("https://api.github.com").
+		Get("/repos/conan-io/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567/status").
+		Reply(200).
+		BodyString(`{
+			"state": "success",
+			"statuses": [
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/oa/160438?v=4",
+				"id": 27211359098,
+				"node_id": "SC_kwDODDMJAM8AAAAGVexjeg",
+				"state": "success",
+				"description": "Contributor License Agreement is signed.",
+				"target_url": "https://cla-assistant.io/conan-io/conan-center-index?pullRequest=22576",
+				"context": "license/cla",
+				"created_at": "2024-01-29T00:31:25Z",
+				"updated_at": "2024-01-29T00:31:25Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211392874,
+				"node_id": "SC_kwDODDMJAM8AAAAGVeznag",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/22576/1-linux-gcc-legacy/fast_float/6.1.0//summary.json",
+				"context": "[required] fast_float/6.1.0@ Linux, GCC-legacy",
+				"created_at": "2024-01-29T00:38:44Z",
+				"updated_at": "2024-01-29T00:38:44Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211404463,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe0Urw",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/22576/1-linux-gcc11/fast_float/6.1.0//summary.json",
+				"context": "[required] fast_float/6.1.0@ Linux, GCC11",
+				"created_at": "2024-01-29T00:41:12Z",
+				"updated_at": "2024-01-29T00:41:12Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211414772,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe089A",
+				"state": "success",
+				"description": "This commit looks good",
+				"target_url": "https://ci-conan-prod.jfrog.team/job/prod-v2/job/cci/job/PR-22576/1/display/redirect",
+				"context": "c3i/conan-v2/pr-merge",
+				"created_at": "2024-01-29T00:43:24Z",
+				"updated_at": "2024-01-29T00:43:24Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211420293,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe1ShQ",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/22576/1-linux-clang/fast_float/6.1.0//summary.json",
+				"context": "[required] fast_float/6.1.0@ Linux, Clang",
+				"created_at": "2024-01-29T00:44:34Z",
+				"updated_at": "2024-01-29T00:44:34Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211428938,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe10Sg",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/22576/1-macos-m1-clang/fast_float/6.1.0//summary.json",
+				"context": "[required] fast_float/6.1.0@ macOS, Clang (M1/arm64)",
+				"created_at": "2024-01-29T00:46:27Z",
+				"updated_at": "2024-01-29T00:46:27Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211450250,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe3Hig",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/22576/1-windows-visual_studio/fast_float/6.1.0//summary.json",
+				"context": "[required] fast_float/6.1.0@ Windows, Visual Studio",
+				"created_at": "2024-01-29T00:50:35Z",
+				"updated_at": "2024-01-29T00:50:35Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/bb02be24067706b1696de3c62d5b1b40b1d87567",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 27211450658,
+				"node_id": "SC_kwDODDMJAM8AAAAGVe3JIg",
+				"state": "success",
+				"description": "This commit looks good",
+				"target_url": "https://ci-conan-prod.jfrog.team/job/prod-v1/job/cci/job/PR-22576/1/display/redirect",
+				"context": "continuous-integration/jenkins/pr-merge",
+				"created_at": "2024-01-29T00:50:40Z",
+				"updated_at": "2024-01-29T00:50:40Z"
+			  }
+			],
+			"sha": "bb02be24067706b1696de3c62d5b1b40b1d87567",
+			"total_count": 8,
+			"repository": {
+			  "id": 204671232,
+			  "node_id": "MDEwOlJlcG9zaXRvcnkyMDQ2NzEyMzI=",
+			  "name": "conan-center-index",
+			  "full_name": "conan-io/conan-center-index",
+			  "private": false,
+			  "owner": {
+				"login": "conan-io",
+				"id": 15212165,
+				"node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MjEyMTY1",
+				"avatar_url": "https://avatars.githubusercontent.com/u/15212165?v=4",
+				"gravatar_id": "",
+				"url": "https://api.github.com/users/conan-io",
+				"html_url": "https://github.com/conan-io",
+				"followers_url": "https://api.github.com/users/conan-io/followers",
+				"following_url": "https://api.github.com/users/conan-io/following{/other_user}",
+				"gists_url": "https://api.github.com/users/conan-io/gists{/gist_id}",
+				"starred_url": "https://api.github.com/users/conan-io/starred{/owner}{/repo}",
+				"subscriptions_url": "https://api.github.com/users/conan-io/subscriptions",
+				"organizations_url": "https://api.github.com/users/conan-io/orgs",
+				"repos_url": "https://api.github.com/users/conan-io/repos",
+				"events_url": "https://api.github.com/users/conan-io/events{/privacy}",
+				"received_events_url": "https://api.github.com/users/conan-io/received_events",
+				"type": "Organization",
+				"site_admin": false
+			  },
+			  "html_url": "https://github.com/conan-io/conan-center-index",
+			  "description": "Recipes for the ConanCenter repository",
+			  "fork": false,
+			  "url": "https://api.github.com/repos/conan-io/conan-center-index",
+			  "forks_url": "https://api.github.com/repos/conan-io/conan-center-index/forks",
+			  "keys_url": "https://api.github.com/repos/conan-io/conan-center-index/keys{/key_id}",
+			  "collaborators_url": "https://api.github.com/repos/conan-io/conan-center-index/collaborators{/collaborator}",
+			  "teams_url": "https://api.github.com/repos/conan-io/conan-center-index/teams",
+			  "hooks_url": "https://api.github.com/repos/conan-io/conan-center-index/hooks",
+			  "issue_events_url": "https://api.github.com/repos/conan-io/conan-center-index/issues/events{/number}",
+			  "events_url": "https://api.github.com/repos/conan-io/conan-center-index/events",
+			  "assignees_url": "https://api.github.com/repos/conan-io/conan-center-index/assignees{/user}",
+			  "branches_url": "https://api.github.com/repos/conan-io/conan-center-index/branches{/branch}",
+			  "tags_url": "https://api.github.com/repos/conan-io/conan-center-index/tags",
+			  "blobs_url": "https://api.github.com/repos/conan-io/conan-center-index/git/blobs{/sha}",
+			  "git_tags_url": "https://api.github.com/repos/conan-io/conan-center-index/git/tags{/sha}",
+			  "git_refs_url": "https://api.github.com/repos/conan-io/conan-center-index/git/refs{/sha}",
+			  "trees_url": "https://api.github.com/repos/conan-io/conan-center-index/git/trees{/sha}",
+			  "statuses_url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/{sha}",
+			  "languages_url": "https://api.github.com/repos/conan-io/conan-center-index/languages",
+			  "stargazers_url": "https://api.github.com/repos/conan-io/conan-center-index/stargazers",
+			  "contributors_url": "https://api.github.com/repos/conan-io/conan-center-index/contributors",
+			  "subscribers_url": "https://api.github.com/repos/conan-io/conan-center-index/subscribers",
+			  "subscription_url": "https://api.github.com/repos/conan-io/conan-center-index/subscription",
+			  "commits_url": "https://api.github.com/repos/conan-io/conan-center-index/commits{/sha}",
+			  "git_commits_url": "https://api.github.com/repos/conan-io/conan-center-index/git/commits{/sha}",
+			  "comments_url": "https://api.github.com/repos/conan-io/conan-center-index/comments{/number}",
+			  "issue_comment_url": "https://api.github.com/repos/conan-io/conan-center-index/issues/comments{/number}",
+			  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/{+path}",
+			  "compare_url": "https://api.github.com/repos/conan-io/conan-center-index/compare/{base}...{head}",
+			  "merges_url": "https://api.github.com/repos/conan-io/conan-center-index/merges",
+			  "archive_url": "https://api.github.com/repos/conan-io/conan-center-index/{archive_format}{/ref}",
+			  "downloads_url": "https://api.github.com/repos/conan-io/conan-center-index/downloads",
+			  "issues_url": "https://api.github.com/repos/conan-io/conan-center-index/issues{/number}",
+			  "pulls_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls{/number}",
+			  "milestones_url": "https://api.github.com/repos/conan-io/conan-center-index/milestones{/number}",
+			  "notifications_url": "https://api.github.com/repos/conan-io/conan-center-index/notifications{?since,all,participating}",
+			  "labels_url": "https://api.github.com/repos/conan-io/conan-center-index/labels{/name}",
+			  "releases_url": "https://api.github.com/repos/conan-io/conan-center-index/releases{/id}",
+			  "deployments_url": "https://api.github.com/repos/conan-io/conan-center-index/deployments"
+			},
+			"commit_url": "https://api.github.com/repos/conan-io/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567",
+			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/bb02be24067706b1696de3c62d5b1b40b1d87567/status"
+		  }`)
 	client := NewClient(&http.Client{}, WorkingRepository{
 		Owner: "prince-chrismc", Name: "conan-center-index-pending-review",
 	})
@@ -1105,7 +1433,7 @@ func TestGetReviewSummary22576(t *testing.T) {
 		{User: "Croydon", Type: "community", Requested: false},
 		{User: "toge", Type: "community", Requested: false},
 	}}
-	
+
 	pr := parsePullRequestJSON(t, `{
 		"url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/22576",
 		"id": 1699009947,
@@ -1493,7 +1821,7 @@ func TestGetReviewSummary22576(t *testing.T) {
 
 	review, _, err := client.PullRequest.GetReviewSummary(context.Background(), "conan-io", "conan-center-index", &reviewers, pr)
 	assert.Equal(t, nil, err)
-	
+
 	const layout = "2006-01-02 15:04:05 -0700 MST"
 	createdAt, err := time.Parse(layout, "2024-01-29 00:31:19 +0000 UTC") // This is the debug time from `%+v` formatter
 	assert.Equal(t, nil, err)
