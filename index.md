@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,7 +213,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22562](https://github.com/conan-io/conan-center-index/pull/22562)|[toge](https://github.com/toge)|Jan 26|:memo: orcania|:blue_square: S|1|Jan 31||**RubenRBS**
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|1|Jan 31||[CJCombrink](https://github.com/CJCombrink)
-[#22601](https://github.com/conan-io/conan-center-index/pull/22601)|[toge](https://github.com/toge)|Jan 31|:memo: md4c|:blue_square: S|1|Jan 31||**RubenRBS**
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|||
 [#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
@@ -240,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 606
+	- Open: 605
 	- Draft: 61
-	- Average Age: 117 days, 2 hours, and 2.32 minutes
+	- Average Age: 117 days, 8 hours, and 39.26 minutes
 	- Stop Label: 311
 	
 
