@@ -4387,20 +4387,24 @@
       "LastCommitAt": "2024-01-26T15:33:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "ericLemanissier",
                "Tier": "community"
+            },
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-01-26T15:41:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22537#pullrequestreview-1846006861"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-01T14:09:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22537#pullrequestreview-1856598027"
          }
       }
    },
@@ -4595,35 +4599,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 22611,
-      "OpenedBy": "RazielXYZ",
-      "CreatedAt": "2024-02-01T01:18:11Z",
-      "Recipe": "eventpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22611",
-      "LastCommitSHA": "c864c466878ed0055341498d3770808d2d21a853",
-      "LastCommitAt": "2024-02-01T11:37:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-01T11:38:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22611#pullrequestreview-1856273716"
-         }
       }
    },
    {
