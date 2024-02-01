@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,10 +211,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|:eyes:||
 [#22562](https://github.com/conan-io/conan-center-index/pull/22562)|[toge](https://github.com/toge)|Jan 26|:memo: orcania|:blue_square: S|1|Jan 31||**RubenRBS**
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|||
-[#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|1|Jan 31||[CJCombrink](https://github.com/CJCombrink)
+[#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|2|Feb 1|uilianries|[CJCombrink](https://github.com/CJCombrink)
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|||
-[#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|:green_circle: XS|1|Jan 31||**RubenRBS**
-[#22605](https://github.com/conan-io/conan-center-index/pull/22605)|[uilianries](https://github.com/uilianries)|Jan 31|:gear: .c3i|:green_circle: XS|1|Jan 31||**RubenRBS**
 [#22610](https://github.com/conan-io/conan-center-index/pull/22610)|[gegles](https://github.com/gegles)|Jan 31|:memo: openssl|:blue_square: S|0|||
 [#22611](https://github.com/conan-io/conan-center-index/pull/22611)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:new: eventpp|M|0|||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|||
@@ -223,7 +221,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -232,6 +230,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|2|**RubenRBS**, ericLemanissier
+[#22604](https://github.com/conan-io/conan-center-index/pull/22604)|[toge](https://github.com/toge)|Jan 31|:memo: libcurl|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -240,10 +239,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 605
+	- Open: 604
 	- Draft: 61
-	- Average Age: 117 days, 9 hours, and 46.57 minutes
-	- Stop Label: 310
+	- Average Age: 117 days, 15 hours, and 22.33 minutes
+	- Stop Label: 311
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
