@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,7 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22406](https://github.com/conan-io/conan-center-index/pull/22406)|[st9007a](https://github.com/st9007a)|Jan 17|:memo: aws-c-sdkutils|:blue_square: S|0|:eyes:||
 [#22408](https://github.com/conan-io/conan-center-index/pull/22408)|[toge](https://github.com/toge)|Jan 17|:memo: rotor|L|0|:eyes:||
 [#22415](https://github.com/conan-io/conan-center-index/pull/22415)|[jjcasmar](https://github.com/jjcasmar)|Jan 18|:new: catalyst|M|4|Jan 18 :bell:||
-[#22422](https://github.com/conan-io/conan-center-index/pull/22422)|[MartinDelille](https://github.com/MartinDelille)|Jan 18|:stopwatch: sentry-native|M|2|Feb 2||
+[#22422](https://github.com/conan-io/conan-center-index/pull/22422)|[MartinDelille](https://github.com/MartinDelille)|Jan 18|:memo: sentry-native|M|2|Feb 2||
 [#22426](https://github.com/conan-io/conan-center-index/pull/22426)|[jwillikers](https://github.com/jwillikers)|Jan 18|:memo: libmount|:blue_square: S|0|:eyes:||
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|:eyes:||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|:eyes:||
@@ -216,6 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|1|Feb 2||
 [#22633](https://github.com/conan-io/conan-center-index/pull/22633)|[uilianries](https://github.com/uilianries)|Feb 2|:memo: icu|:green_circle: XS|1|Feb 2||[hegyizs](https://github.com/hegyizs)
 [#22637](https://github.com/conan-io/conan-center-index/pull/22637)|[toge](https://github.com/toge)|Feb 2|:memo: crowcpp-crow|:green_circle: XS|1|Feb 2||ericLemanissier
+[#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 605
+	- Open: 606
 	- Draft: 63
-	- Average Age: 118 days, 5 hours, and 5.66 minutes
+	- Average Age: 118 days, 1 hours, and 16.54 minutes
 	- Stop Label: 311
 	
 
