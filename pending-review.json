@@ -4662,5 +4662,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22644,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-02T21:14:00Z",
+      "Recipe": "cwalk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22644",
+      "LastCommitSHA": "bd2f23ddbe725d24437685f80cd65f749e6af9be",
+      "LastCommitAt": "2024-02-02T21:12:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
