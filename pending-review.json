@@ -4546,15 +4546,20 @@
       "LastCommitAt": "2024-02-02T10:20:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-02T07:37:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22628#pullrequestreview-1858569542"
+            "SubmittedAt": "2024-02-02T14:42:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22628#pullrequestreview-1859424599"
          }
       }
    },
@@ -4626,6 +4631,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22639",
       "LastCommitSHA": "8d98e03f1510b68e45329f73f4a413e7d4097cc0",
       "LastCommitAt": "2024-02-02T12:15:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22640,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-02T14:30:33Z",
+      "Recipe": "yder",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22640",
+      "LastCommitSHA": "e1f1a057bd9208b40dc1c96fb586aa3df1856167",
+      "LastCommitAt": "2024-02-02T14:30:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
