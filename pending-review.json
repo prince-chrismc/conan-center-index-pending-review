@@ -3249,6 +3249,25 @@
       }
    },
    {
+      "Number": 21945,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-26T16:05:18Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21945",
+      "LastCommitSHA": "9299d49bf2db55d5dbe41f52177eb64fa85641cb",
+      "LastCommitAt": "2024-02-02T03:07:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21954,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-26T19:21:30Z",
@@ -4612,6 +4631,25 @@
       "LastCommitSHA": "93bf699a85980e5ea69b9d88982c5d1b50e73932",
       "LastCommitAt": "2024-02-02T00:25:03Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22628,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-02T00:44:44Z",
+      "Recipe": "libnabo",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22628",
+      "LastCommitSHA": "ae8b033ffcfaabd1607fc1ba05842841ab397ba2",
+      "LastCommitAt": "2024-02-02T03:08:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
