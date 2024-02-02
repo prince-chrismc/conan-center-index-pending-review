@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,6 +205,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|1|Jan 25||jwillikers
 [#22549](https://github.com/conan-io/conan-center-index/pull/22549)|[Ahajha](https://github.com/Ahajha)|Jan 26|:memo: tk|:blue_square: S|0|||
 [#22557](https://github.com/conan-io/conan-center-index/pull/22557)|[fdgStilla](https://github.com/fdgStilla)|Jan 26|:memo: onnxruntime|L|0|:eyes:||
+[#22560](https://github.com/conan-io/conan-center-index/pull/22560)|[toge](https://github.com/toge)|Jan 26|:new: mgclient|M|1|Jan 28||
 [#22562](https://github.com/conan-io/conan-center-index/pull/22562)|[toge](https://github.com/toge)|Jan 26|:memo: orcania|:blue_square: S|1|Jan 31||**RubenRBS**
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|4|Feb 1|uilianries|
@@ -236,8 +237,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 605
 	- Draft: 63
-	- Average Age: 118 days, and 15.26 minutes
-	- Stop Label: 313
+	- Average Age: 118 days, 1 hours, and 42.92 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
