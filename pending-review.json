@@ -4645,15 +4645,15 @@
       }
    },
    {
-      "Number": 22642,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2024-02-02T18:05:29Z",
-      "Recipe": "restinio",
+      "Number": 22643,
+      "OpenedBy": "kletoz",
+      "CreatedAt": "2024-02-02T18:55:00Z",
+      "Recipe": "openssl",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22642",
-      "LastCommitSHA": "02a052026d595168111aed70aa614ed73d0301a0",
-      "LastCommitAt": "2024-02-02T18:04:59Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22643",
+      "LastCommitSHA": "80493edc785cc1dac534a2cd02d2c8fa07576087",
+      "LastCommitAt": "2024-02-02T18:53:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
