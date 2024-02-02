@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -112,7 +112,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20656](https://github.com/conan-io/conan-center-index/pull/20656)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: msix|:green_circle: XS|1|Oct 19 :bell:||jwillikers
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20 :bell:||jwillikers
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:memo: gdal|M|1|Jan 4 :bell:||SpaceIm
-[#20774](https://github.com/conan-io/conan-center-index/pull/20774)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 26|:memo: whisper-cpp|:blue_square: S|17|Jan 31|memsharded|**uilianries**, **franramirez688**, jwillikers, **RubenRBS**
 [#20791](https://github.com/conan-io/conan-center-index/pull/20791)|[DoomHammer](https://github.com/DoomHammer)|Oct 27|:new: ohpipeline|L|3|Oct 30 :bell:||
 [#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:new: freealut|M|5|Nov 24 :bell:||
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|0|:eyes:||
@@ -210,7 +209,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|4|Feb 1|uilianries|
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|||
-[#22615](https://github.com/conan-io/conan-center-index/pull/22615)|[Cogitri](https://github.com/Cogitri)|Feb 1|:stopwatch: libpq|M|1|Feb 2||**uilianries**
+[#22615](https://github.com/conan-io/conan-center-index/pull/22615)|[Cogitri](https://github.com/Cogitri)|Feb 1|:memo: libpq|M|1|Feb 2||**uilianries**
 [#22618](https://github.com/conan-io/conan-center-index/pull/22618)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 1|:gear: .c3i|:green_circle: XS|1|Feb 1||**uilianries**
 [#22627](https://github.com/conan-io/conan-center-index/pull/22627)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 2|:memo: simdutf|:blue_square: S|1|Feb 2||**uilianries**
 
@@ -234,9 +233,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 606
+	- Open: 604
 	- Draft: 63
-	- Average Age: 118 days, 1 hours, and 14.27 minutes
+	- Average Age: 118 days, 7 hours, and 40.51 minutes
 	- Stop Label: 312
 	
 
