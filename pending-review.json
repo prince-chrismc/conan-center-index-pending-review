@@ -4423,35 +4423,6 @@
       }
    },
    {
-      "Number": 22562,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-26T15:28:21Z",
-      "Recipe": "orcania",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22562",
-      "LastCommitSHA": "bf7d738860d2beba7a4d218c08a45ce278115c91",
-      "LastCommitAt": "2024-01-31T08:25:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-31T17:11:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22562#pullrequestreview-1854353524"
-         }
-      }
-   },
-   {
       "Number": 22581,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-01-29T11:22:13Z",
@@ -4532,35 +4503,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 22615,
-      "OpenedBy": "Cogitri",
-      "CreatedAt": "2024-02-01T07:38:30Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22615",
-      "LastCommitSHA": "f7c74d49103ccdf1b7d9df736ba8192ccf8053b4",
-      "LastCommitAt": "2024-02-01T07:45:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-02T08:55:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22615#pullrequestreview-1858706460"
-         }
       }
    },
    {
