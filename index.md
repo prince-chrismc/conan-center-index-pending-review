@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,6 +216,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22618](https://github.com/conan-io/conan-center-index/pull/22618)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 1|:gear: .c3i|:green_circle: XS|1|Feb 1||**uilianries**
 [#22627](https://github.com/conan-io/conan-center-index/pull/22627)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 2|:memo: simdutf|:blue_square: S|0|||
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|0|||
+[#22630](https://github.com/conan-io/conan-center-index/pull/22630)|[mayeut](https://github.com/mayeut)|Feb 2|:stopwatch: freetype|:green_circle: XS|0|||
+[#22631](https://github.com/conan-io/conan-center-index/pull/22631)|[mayeut](https://github.com/mayeut)|Feb 2|:stopwatch: libtiff|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 605
+	- Open: 607
 	- Draft: 63
-	- Average Age: 118 days, 1 hours, and 56.70 minutes
+	- Average Age: 117 days, 17 hours, and 39.10 minutes
 	- Stop Label: 310
 	
 
