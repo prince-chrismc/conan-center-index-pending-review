@@ -4155,7 +4155,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22422",
       "LastCommitSHA": "34e39d589fac9e807787734297eb6097b79d23b7",
       "LastCommitAt": "2024-02-02T11:39:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -4672,6 +4672,25 @@
             "SubmittedAt": "2024-02-02T11:21:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22637#pullrequestreview-1858999564"
          }
+      }
+   },
+   {
+      "Number": 22639,
+      "OpenedBy": "matthiasbuhl",
+      "CreatedAt": "2024-02-02T13:02:17Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22639",
+      "LastCommitSHA": "8d98e03f1510b68e45329f73f4a413e7d4097cc0",
+      "LastCommitAt": "2024-02-02T12:15:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
