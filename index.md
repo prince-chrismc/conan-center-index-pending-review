@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,10 +212,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|||
 [#22618](https://github.com/conan-io/conan-center-index/pull/22618)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 1|:gear: .c3i|:green_circle: XS|1|Feb 1||**uilianries**
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|2|Feb 2||**uilianries**
-[#22633](https://github.com/conan-io/conan-center-index/pull/22633)|[uilianries](https://github.com/uilianries)|Feb 2|:memo: icu|:green_circle: XS|1|Feb 2||[hegyizs](https://github.com/hegyizs)
+[#22633](https://github.com/conan-io/conan-center-index/pull/22633)|[uilianries](https://github.com/uilianries)|Feb 2|:memo: icu|:green_circle: XS|2|Feb 2||[hegyizs](https://github.com/hegyizs), jwillikers
 [#22637](https://github.com/conan-io/conan-center-index/pull/22637)|[toge](https://github.com/toge)|Feb 2|:memo: crowcpp-crow|:green_circle: XS|1|Feb 2||ericLemanissier
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|||
-[#22640](https://github.com/conan-io/conan-center-index/pull/22640)|[toge](https://github.com/toge)|Feb 2|:stopwatch: yder|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 606
 	- Draft: 63
-	- Average Age: 118 days, 2 hours, and 56.17 minutes
+	- Average Age: 118 days, 3 hours, and 57.81 minutes
 	- Stop Label: 312
 	
 
