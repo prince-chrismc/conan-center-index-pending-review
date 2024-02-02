@@ -4556,20 +4556,48 @@
       "LastCommitAt": "2024-02-02T00:25:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-02-02T11:00:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22627#pullrequestreview-1858960639"
+         }
+      }
+   },
+   {
+      "Number": 22628,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-02T00:44:44Z",
+      "Recipe": "libnabo",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22628",
+      "LastCommitSHA": "bebb5fc9ba4a9f376b36709372e8097a10258ee0",
+      "LastCommitAt": "2024-02-02T10:20:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-02T08:19:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22627#pullrequestreview-1858638558"
+            "SubmittedAt": "2024-02-02T07:37:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22628#pullrequestreview-1858569542"
          }
       }
    }
