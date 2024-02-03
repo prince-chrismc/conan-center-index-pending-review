@@ -4569,39 +4569,6 @@
       }
    },
    {
-      "Number": 22637,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-02T11:13:50Z",
-      "Recipe": "crowcpp-crow",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22637",
-      "LastCommitSHA": "40bd7ba18499f181d4349e9023b7e3926609fce8",
-      "LastCommitAt": "2024-02-02T11:11:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-03T02:06:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22637#pullrequestreview-1860717975"
-         }
-      }
-   },
-   {
       "Number": 22639,
       "OpenedBy": "matthiasbuhl",
       "CreatedAt": "2024-02-02T13:02:17Z",
