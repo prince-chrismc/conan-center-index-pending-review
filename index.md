@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|||
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:stopwatch: openssl|:green_circle: XS|0|||
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
-[#22648](https://github.com/conan-io/conan-center-index/pull/22648)|[toge](https://github.com/toge)|Feb 3|:stopwatch: cpp-httplib|:green_circle: XS|0|||
+[#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 608
+	- Open: 609
 	- Draft: 63
-	- Average Age: 118 days, 16 hours, and 27.67 minutes
+	- Average Age: 118 days, 12 hours, and 48.52 minutes
 	- Stop Label: 314
 	
 
