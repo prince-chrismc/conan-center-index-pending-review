@@ -4634,5 +4634,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22644#pullrequestreview-1860717698"
          }
       }
+   },
+   {
+      "Number": 22647,
+      "OpenedBy": "Jak-o-Shadows",
+      "CreatedAt": "2024-02-03T07:05:08Z",
+      "Recipe": "hfsm2",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22647",
+      "LastCommitSHA": "76a4af02f7aec57c45568556c25220e4f62077a5",
+      "LastCommitAt": "2024-02-03T07:08:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
