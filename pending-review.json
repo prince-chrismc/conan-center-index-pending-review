@@ -4554,6 +4554,30 @@
       }
    },
    {
+      "Number": 22616,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2024-02-01T10:08:58Z",
+      "Recipe": "hictk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22616",
+      "LastCommitSHA": "a72bec77355cd41529d31114d9623374db650d63",
+      "LastCommitAt": "2024-02-04T17:35:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-01T14:55:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22616#pullrequestreview-1856711133"
+         }
+      }
+   },
+   {
       "Number": 22618,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2024-02-01T11:27:06Z",
