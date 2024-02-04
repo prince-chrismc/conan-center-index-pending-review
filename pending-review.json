@@ -4733,5 +4733,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22649#pullrequestreview-1861282528"
          }
       }
+   },
+   {
+      "Number": 22652,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-04T06:34:22Z",
+      "Recipe": "libcbor",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22652",
+      "LastCommitSHA": "c21fb839f2683a20dc8c5e84a9f9d56347f7191e",
+      "LastCommitAt": "2024-02-04T07:13:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
