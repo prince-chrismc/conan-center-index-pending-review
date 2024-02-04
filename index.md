@@ -213,7 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22618](https://github.com/conan-io/conan-center-index/pull/22618)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 1|:gear: .c3i|:green_circle: XS|1|Feb 1||**uilianries**
 [#22621](https://github.com/conan-io/conan-center-index/pull/22621)|[czoido](https://github.com/czoido)|Feb 1|:new: llama-cpp|M|0|||
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|2|Feb 2||**uilianries**
-[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:stopwatch: libdwarf|L|0|||
+[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|0|||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|||
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:stopwatch: openssl|:green_circle: XS|0|||
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
@@ -241,7 +241,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 607
 	- Draft: 63
-	- Average Age: 119 days, 9 hours, and 18.11 minutes
+	- Average Age: 119 days, 10 hours, and 9.97 minutes
 	- Stop Label: 313
 	
 
