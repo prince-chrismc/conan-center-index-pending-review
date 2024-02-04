@@ -4757,24 +4757,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 22653,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-04T15:14:45Z",
-      "Recipe": "beauty",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22653",
-      "LastCommitSHA": "5c58eefe01dda9a5f60ada4d7ab48951589fb62d",
-      "LastCommitAt": "2024-02-04T15:14:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
