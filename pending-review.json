@@ -3937,25 +3937,6 @@
       }
    },
    {
-      "Number": 22286,
-      "OpenedBy": "rturrado",
-      "CreatedAt": "2024-01-12T19:07:54Z",
-      "Recipe": "tree-gen",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22286",
-      "LastCommitSHA": "46e3374b31664ab63eeb626074831631bbccee47",
-      "LastCommitAt": "2024-01-16T12:06:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22290,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-13T11:08:42Z",
