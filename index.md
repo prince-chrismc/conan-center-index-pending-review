@@ -78,7 +78,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19262](https://github.com/conan-io/conan-center-index/pull/19262)|[valgur](https://github.com/valgur)|Aug 17|:memo: nss|L|7|Nov 28 :bell:||jwillikers
 [#19298](https://github.com/conan-io/conan-center-index/pull/19298)|[valgur](https://github.com/valgur)|Aug 19|:memo: gdal|XL|14|Feb 4||SSE4
 [#19381](https://github.com/conan-io/conan-center-index/pull/19381)|[valgur](https://github.com/valgur)|Aug 24|:new: tiledb|L|0|:eyes:||
-[#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|3|Feb 5||**uilianries**
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19496](https://github.com/conan-io/conan-center-index/pull/19496)|[KevDi](https://github.com/KevDi)|Aug 30|:stopwatch: librdkafka|M|0|:eyes:||
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
@@ -213,7 +212,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#22607](https://github.com/conan-io/conan-center-index/pull/22607)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 31|:memo: graphene|:green_circle: XS|2|Feb 5||jwillikers, prince-chrismc
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
-[#22616](https://github.com/conan-io/conan-center-index/pull/22616)|[robomics](https://github.com/robomics)|Feb 1|:memo: hictk|:blue_square: S|3|Feb 5||**uilianries**
 [#22621](https://github.com/conan-io/conan-center-index/pull/22621)|[czoido](https://github.com/czoido)|Feb 1|:new: llama-cpp|M|2|Feb 5||**danimtb**
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|2|Feb 2||**uilianries**
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|:eyes:||
@@ -221,7 +219,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:stopwatch: openssl|:green_circle: XS|0|||
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
-[#22652](https://github.com/conan-io/conan-center-index/pull/22652)|[toge](https://github.com/toge)|Feb 4|:memo: libcbor|:blue_square: S|1|Feb 5||**uilianries**
 [#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:stopwatch: span-lite|M|0|||
 [#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:memo: jsoncons|:blue_square: S|0|||
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
@@ -230,11 +227,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|:blue_square: S|0|||
 [#22669](https://github.com/conan-io/conan-center-index/pull/22669)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 5|:gear: .c3i|:green_circle: XS|0|||
 [#22670](https://github.com/conan-io/conan-center-index/pull/22670)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 5|:stopwatch: boost|:green_circle: XS|0|||
+[#22671](https://github.com/conan-io/conan-center-index/pull/22671)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 5|:memo: libsquish|:green_circle: XS|2|Feb 5||
+[#22674](https://github.com/conan-io/conan-center-index/pull/22674)|[uilianries](https://github.com/uilianries)|Feb 5|:stopwatch: c-blosc2|L|0|||
+[#22675](https://github.com/conan-io/conan-center-index/pull/22675)|[philippun1](https://github.com/philippun1)|Feb 5|:stopwatch: qt|:green_circle: XS|1|Feb 5||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -243,6 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|2|**RubenRBS**, ericLemanissier
+[#22652](https://github.com/conan-io/conan-center-index/pull/22652)|[toge](https://github.com/toge)|Feb 4|:memo: libcbor|2|**uilianries**, ericLemanissier
 [#22660](https://github.com/conan-io/conan-center-index/pull/22660)|[toge](https://github.com/toge)|Feb 5|:memo: ssp|1|**uilianries**
 
 
@@ -254,8 +255,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 620
 	- Draft: 65
-	- Average Age: 118 days, 8 hours, and 29.26 minutes
-	- Stop Label: 313
+	- Average Age: 118 days, 3 hours, and 4.07 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
