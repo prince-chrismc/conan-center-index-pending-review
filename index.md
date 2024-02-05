@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **196** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,6 +220,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
 [#22652](https://github.com/conan-io/conan-center-index/pull/22652)|[toge](https://github.com/toge)|Feb 4|:memo: libcbor|:blue_square: S|0|||
+[#22653](https://github.com/conan-io/conan-center-index/pull/22653)|[toge](https://github.com/toge)|Feb 4|:memo: beauty|:blue_square: S|0|||
+[#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:stopwatch: span-lite|M|0|||
+[#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:stopwatch: jsoncons|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -241,9 +244,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4cbe3b58bd7d524f5ed00fc17158413b0e7a27d4
 - Pull Requests:
-	- Open: 612
+	- Open: 616
 	- Draft: 64
-	- Average Age: 119 days, 5 hours, and 39.52 minutes
+	- Average Age: 118 days, 13 hours, and 43.36 minutes
 	- Stop Label: 314
 	
 
