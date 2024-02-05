@@ -50,7 +50,7 @@ jobs:
           restore-keys: ${{ runner.os }}-go-
       - run: go get -v -t -d ./...
 
-      - run: go run ./cmd/cpr -t ${{ secrets.REPO_PAT }}
+      - run: go run ./cmd/cpr -t ${{ secrets.REPO_PAT }} -i ${{ vars.ISSUE_NUMBER }}
 
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
         run: go run ./cmd/tir -t ${{ secrets.REPO_PAT }}

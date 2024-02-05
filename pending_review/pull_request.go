@@ -51,9 +51,6 @@ type PullRequestSummary struct {
 // ErrStoppedLabel indicates there is an issue with the pull request
 var ErrStoppedLabel = errors.New("the pull request contains at least one label indicated that progress has stopped")
 
-// ErrStoppedLabel indicates the pull request only has minor impact and is automatically handled by the bot, does not require attention
-var ErrBumpLabel = errors.New("the pull request is labelled as bump and will automatically be merged")
-
 // ErrWorkRequired indicated there were no reviews on a pull request and a summary could not be generated
 var ErrWorkRequired = errors.New("pull requests has comments which need to be addressed")
 
@@ -119,6 +116,13 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	reviews = FilterAuthor(reviews, p.OpenedBy)
 	p.Summary = ProcessReviewComments(reviewers, reviews, p.LastCommitSHA)
+	p.Summary.IsBump = false
+	for _, label := range pr.Labels {
+		switch label.GetName() {
+		case "Bump version", "Bump dependencies":
+			p.Summary.IsBump = true
+		}
+	}
 
 	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 	if err != nil {
