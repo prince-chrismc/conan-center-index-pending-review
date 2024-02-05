@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **206** pull requests currently under way :detective:
+There are **203** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,17 +216,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22616](https://github.com/conan-io/conan-center-index/pull/22616)|[robomics](https://github.com/robomics)|Feb 1|:memo: hictk|:blue_square: S|3|Feb 5||**uilianries**
 [#22621](https://github.com/conan-io/conan-center-index/pull/22621)|[czoido](https://github.com/czoido)|Feb 1|:new: llama-cpp|M|2|Feb 5||**danimtb**
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|2|Feb 2||**uilianries**
-[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|0|||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|:eyes:||
 [#22641](https://github.com/conan-io/conan-center-index/pull/22641)|[Cogitri](https://github.com/Cogitri)|Feb 2|:memo: boost|L|1|Feb 5||**uilianries**
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:stopwatch: openssl|:green_circle: XS|0|||
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
-[#22651](https://github.com/conan-io/conan-center-index/pull/22651)|[toge](https://github.com/toge)|Feb 4|:memo: yder|:green_circle: XS|0|||
-[#22652](https://github.com/conan-io/conan-center-index/pull/22652)|[toge](https://github.com/toge)|Feb 4|:memo: libcbor|:blue_square: S|0|||
+[#22652](https://github.com/conan-io/conan-center-index/pull/22652)|[toge](https://github.com/toge)|Feb 4|:memo: libcbor|:blue_square: S|1|Feb 5||**uilianries**
 [#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:stopwatch: span-lite|M|0|||
 [#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:memo: jsoncons|:blue_square: S|0|||
-[#22660](https://github.com/conan-io/conan-center-index/pull/22660)|[toge](https://github.com/toge)|Feb 5|:memo: ssp|:green_circle: XS|0|||
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
 [#22664](https://github.com/conan-io/conan-center-index/pull/22664)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 5|:gear: .github|:green_circle: XS|1|Feb 5||**uilianries**
 [#22665](https://github.com/conan-io/conan-center-index/pull/22665)|[Ahajha](https://github.com/Ahajha)|Feb 5|:memo: libiconv|:blue_square: S|0|||
@@ -246,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|2|**RubenRBS**, ericLemanissier
-[#22656](https://github.com/conan-io/conan-center-index/pull/22656)|[toge](https://github.com/toge)|Feb 4|:memo: nameof|1|**uilianries**
+[#22660](https://github.com/conan-io/conan-center-index/pull/22660)|[toge](https://github.com/toge)|Feb 5|:memo: ssp|1|**uilianries**
 
 
 #### :clipboard: Statistics
@@ -255,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 621
-	- Draft: 64
-	- Average Age: 118 days, 2 hours, and 57.25 minutes
+	- Open: 620
+	- Draft: 65
+	- Average Age: 118 days, 8 hours, and 29.26 minutes
 	- Stop Label: 313
 	
 
