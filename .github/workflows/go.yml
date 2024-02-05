@@ -15,6 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'pull_request' || github.event_name == 'push'
     steps:
+      - id: check
+        continue-on-error: true
+        uses: prince-chrismc/check-actor-permissions-action@v3
+        with:
+          github_token: ${{ github.token }}
+          permission: write
+
       - uses: actions/setup-go@v5
         with:
           go-version: ^1.19
@@ -29,12 +36,20 @@ jobs:
       - run: go test -race -coverprofile=coverage.out -covermode=atomic -v ./...
       - uses: codecov/codecov-action@v4
         with:
+          token: ${{ secrets.CODECOV_TOKEN }}
           files: coverage.out
 
-      - run: go run ./cmd/cpr -d -t ${{ github.token }}
-      - run: go run ./cmd/tir -d -t ${{ github.token }}
-      - run: go run ./cmd/ovm -d -t ${{ github.token }}
+      - if: steps.check.outputs.permitted == 'false'
+        run: |
+          go run ./cmd/cpr -d -t ${{ github.token }}
+          go run ./cmd/tir -d -t ${{ github.token }}
+          go run ./cmd/ovm -d -t ${{ github.token }}
 
+      - if: steps.check.outputs.permitted == 'true'
+        run: |
+          go run ./cmd/cpr -d -t ${{ secrets.REPO_PAT }}
+          go run ./cmd/tir -d -t ${{ secrets.REPO_PAT }}
+          go run ./cmd/ovm -d -t ${{ secrets.REPO_PAT }}
   run:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
