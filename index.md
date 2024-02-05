@@ -211,10 +211,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
 [#22594](https://github.com/conan-io/conan-center-index/pull/22594)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|L|4|Feb 1|uilianries|
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|:eyes:||
-[#22607](https://github.com/conan-io/conan-center-index/pull/22607)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 31|:memo: graphene|:green_circle: XS|1|Jan 31||jwillikers
+[#22607](https://github.com/conan-io/conan-center-index/pull/22607)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 31|:memo: graphene|:green_circle: XS|2|Feb 5||jwillikers, prince-chrismc
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
 [#22616](https://github.com/conan-io/conan-center-index/pull/22616)|[robomics](https://github.com/robomics)|Feb 1|:memo: hictk|:blue_square: S|1|Feb 1||
-[#22618](https://github.com/conan-io/conan-center-index/pull/22618)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 1|:gear: .c3i|:green_circle: XS|1|Feb 1||**uilianries**
 [#22621](https://github.com/conan-io/conan-center-index/pull/22621)|[czoido](https://github.com/czoido)|Feb 1|:new: llama-cpp|M|0|||
 [#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|M|2|Feb 2||**uilianries**
 [#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|0|||
@@ -229,6 +228,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:stopwatch: span-lite|M|0|||
 [#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:stopwatch: jsoncons|:blue_square: S|0|||
 [#22660](https://github.com/conan-io/conan-center-index/pull/22660)|[toge](https://github.com/toge)|Feb 5|:memo: ssp|:green_circle: XS|0|||
+[#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -248,11 +248,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: a8c9adec450452edb45df567141906600efbf6c1
+- Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
 	- Open: 617
 	- Draft: 64
-	- Average Age: 118 days, 12 hours, and 30.94 minutes
+	- Average Age: 118 days, 13 hours, and 19.88 minutes
 	- Stop Label: 314
 	
 
