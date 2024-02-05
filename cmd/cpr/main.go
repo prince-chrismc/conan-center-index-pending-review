@@ -16,19 +16,26 @@ func main() {
 			Name:    "single-pr",
 			Aliases: []string{"pr"},
 			Usage:   "Optional value of a single pull request to run the analysis over",
+		},
+		&cli.IntFlag{
+			Name:    "issue-number",
+			Aliases: []string{"i"},
+			Value:   0,
+			Usage:   "The number of the issue to update with the summary.",
 		}),
 		Action: func(c *cli.Context) error {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 			owner := c.String("repo-owner")
 			repo := c.String("repo-name")
+			issue := c.Int("issue-number")
 
 			pr := c.Uint("single-pr")
 			if pr != 0 {
 				return SingleReviewStatus(token, pr, owner, repo)
 			}
 
-			return PendingReview(token, dryRun, owner, repo)
+			return PendingReview(token, dryRun, owner, repo, issue)
 		},
 	}
 

@@ -71,8 +71,10 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 
 				// These gained the ability to be automatically merged by the bot without any reviews
 				// https://github.com/conan-io/conan-center-index/pull/9672
+				// this was reverted in https://github.com/conan-io/conan-center-index/pull/22505
 				if (firstLabelName == "Bump version" || firstLabelName == "Bump dependencies") &&
-					pull.GetClosedAt().After(time.Date(2022, time.March, 9, 0, 0, 0, 0, time.UTC)) {
+					pull.GetClosedAt().After(time.Date(2022, time.March, 9, 0, 0, 0, 0, time.UTC)) &&
+					pull.GetClosedAt().Before(time.Date(2024, time.January, 25, 0, 0, 0, 0, time.UTC)) {
 					continue
 				}
 			}

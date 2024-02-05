@@ -677,3 +677,25 @@ func TestProcessReviewComments17752(t *testing.T) {
 		},
 	}, result)
 }
+
+func TestIsApproved_Community(t *testing.T) {
+	var reviews = Reviews{
+		Count: 1, ValidApprovals: 1, TeamApproval: false, Approvals: []Approver{{Name: "foo", Tier: Community}},
+	}
+	reviews.IsBump = true
+	assert.Equal(t, false, reviews.IsApproved())
+
+	reviews.IsBump = false
+	assert.Equal(t, false, reviews.IsApproved())
+}
+
+func TestIsApproved_Team(t *testing.T) {
+	var reviews = Reviews{
+		Count: 1, ValidApprovals: 1, TeamApproval: true, Approvals: []Approver{{Name: "foo", Tier: Team}},
+	}
+	reviews.IsBump = true
+	assert.Equal(t, true, reviews.IsApproved())
+
+	reviews.IsBump = false
+	assert.Equal(t, false, reviews.IsApproved())
+}
