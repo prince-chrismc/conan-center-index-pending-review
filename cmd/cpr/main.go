@@ -21,7 +21,7 @@ func main() {
 			Name:    "issue-number",
 			Aliases: []string{"i"},
 			Value:   0,
-			Usage:   "The number of the issue to update.",
+			Usage:   "The number of the issue to update with the summary.",
 		}),
 		Action: func(c *cli.Context) error {
 			dryRun := c.Bool("dry-run")

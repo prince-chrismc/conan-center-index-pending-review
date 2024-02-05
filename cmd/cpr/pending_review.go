@@ -107,7 +107,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string, issue i
 	}
 
 	if issue == 0 {
-		fmt.Printf("No issue to update\n")
+		fmt.Println("::warning::No issue to update")
 	} else {
 		_, _, err = client.Issues.Edit(context, owner, repo, issue, &github.IssueRequest{
 			Body: github.String(commentBody),
