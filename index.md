@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -218,6 +218,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|||
 [#22694](https://github.com/conan-io/conan-center-index/pull/22694)|[datalogics-robb](https://github.com/datalogics-robb)|Feb 6|:memo: expat|:green_circle: XS|0|||
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:stopwatch: zint|:green_circle: XS|0|||
+[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:stopwatch: cairo|:blue_square: S|0|||
+[#22697](https://github.com/conan-io/conan-center-index/pull/22697)|[nextsilicon-itay-bookstein](https://github.com/nextsilicon-itay-bookstein)|Feb 6|:stopwatch: protobuf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 607
+	- Open: 609
 	- Draft: 63
-	- Average Age: 121 days, 8 hours, and 11.83 minutes
+	- Average Age: 120 days, 23 hours, and 35.84 minutes
 	- Stop Label: 315
 	
 
