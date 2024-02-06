@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,14 +205,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
+[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|3|Feb 6||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|:eyes:||
-[#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:stopwatch: openssl|:green_circle: XS|1|Feb 6||**uilianries**
+[#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:memo: openssl|:green_circle: XS|1|Feb 6||**uilianries**
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
+[#22673](https://github.com/conan-io/conan-center-index/pull/22673)|[rob-baily](https://github.com/rob-baily)|Feb 5|:new: cli|M|1|Feb 6||
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:stopwatch: date|:green_circle: XS|0|||
 [#22691](https://github.com/conan-io/conan-center-index/pull/22691)|[toge](https://github.com/toge)|Feb 6|:memo: libucl|M|0|||
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|||
+[#22694](https://github.com/conan-io/conan-center-index/pull/22694)|[datalogics-robb](https://github.com/datalogics-robb)|Feb 6|:stopwatch: expat|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -233,10 +236,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 605
+	- Open: 606
 	- Draft: 63
-	- Average Age: 121 days, 14 hours, and 46.80 minutes
-	- Stop Label: 317
+	- Average Age: 121 days, 11 hours, and 0.22 minutes
+	- Stop Label: 316
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
