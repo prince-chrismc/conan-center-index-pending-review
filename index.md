@@ -205,6 +205,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22574](https://github.com/conan-io/conan-center-index/pull/22574)|[toge](https://github.com/toge)|Jan 28|:memo: reflect-cpp|:green_circle: XS|0|:eyes:||
 [#22577](https://github.com/conan-io/conan-center-index/pull/22577)|[Ahajha](https://github.com/Ahajha)|Jan 29|:new: primesieve|M|1|Jan 31||
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
+[#22596](https://github.com/conan-io/conan-center-index/pull/22596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 30|:new: etcd-cpp-apiv3|M|1|Feb 5||
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|:eyes:||
@@ -214,8 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
 [#22665](https://github.com/conan-io/conan-center-index/pull/22665)|[Ahajha](https://github.com/Ahajha)|Feb 5|:memo: libiconv|:blue_square: S|1|Feb 6||**uilianries**
-[#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|:blue_square: S|0|||
-[#22669](https://github.com/conan-io/conan-center-index/pull/22669)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 5|:gear: .c3i|:green_circle: XS|0|||
+[#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:stopwatch: gperftools|:blue_square: S|0|||
 [#22673](https://github.com/conan-io/conan-center-index/pull/22673)|[rob-baily](https://github.com/rob-baily)|Feb 5|:new: cli|M|0|||
 [#22675](https://github.com/conan-io/conan-center-index/pull/22675)|[philippun1](https://github.com/philippun1)|Feb 5|:stopwatch: qt|:green_circle: XS|1|Feb 5||jwillikers
 [#22683](https://github.com/conan-io/conan-center-index/pull/22683)|[dheater](https://github.com/dheater)|Feb 6|:memo: qt|:green_circle: XS|0|||
@@ -224,7 +224,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -233,9 +233,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|3|**RubenRBS**, ericLemanissier, **uilianries**
-[#22678](https://github.com/conan-io/conan-center-index/pull/22678)|[toge](https://github.com/toge)|Feb 5|:memo: cli11|2|**RubenRBS**
-[#22682](https://github.com/conan-io/conan-center-index/pull/22682)|[toge](https://github.com/toge)|Feb 6|:memo: optional-lite|3|**RubenRBS**, ericLemanissier, **uilianries**
-[#22686](https://github.com/conan-io/conan-center-index/pull/22686)|[toge](https://github.com/toge)|Feb 6|:memo: cpp-httplib|1|**uilianries**
+[#22687](https://github.com/conan-io/conan-center-index/pull/22687)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 6|:gear: .c3i|3|**uilianries**, **RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -244,10 +242,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 610
+	- Open: 607
 	- Draft: 63
-	- Average Age: 120 days, 9 hours, and 34.10 minutes
-	- Stop Label: 312
+	- Average Age: 121 days, and 43.62 minutes
+	- Stop Label: 311
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
