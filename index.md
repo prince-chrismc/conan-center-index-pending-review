@@ -231,7 +231,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -240,9 +240,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|2|**RubenRBS**, ericLemanissier
-[#22628](https://github.com/conan-io/conan-center-index/pull/22628)|[toge](https://github.com/toge)|Feb 2|:memo: libnabo|3|**uilianries**, **RubenRBS**
-[#22664](https://github.com/conan-io/conan-center-index/pull/22664)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 5|:gear: .github|2|**uilianries**, **RubenRBS**
-[#22671](https://github.com/conan-io/conan-center-index/pull/22671)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 5|:memo: libsquish|5|[irieger](https://github.com/irieger), **RubenRBS**, toge
 [#22678](https://github.com/conan-io/conan-center-index/pull/22678)|[toge](https://github.com/toge)|Feb 5|:memo: cli11|1|**RubenRBS**
 
 
@@ -252,10 +249,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 619
+	- Open: 615
 	- Draft: 63
-	- Average Age: 118 days, 17 hours, and 34.24 minutes
-	- Stop Label: 313
+	- Average Age: 119 days, 10 hours, and 6.39 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
