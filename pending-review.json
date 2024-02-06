@@ -4720,40 +4720,6 @@
       }
    },
    {
-      "Number": 22628,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-02T00:44:44Z",
-      "Recipe": "libnabo",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22628",
-      "LastCommitSHA": "bebb5fc9ba4a9f376b36709372e8097a10258ee0",
-      "LastCommitAt": "2024-02-02T10:20:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-06T03:35:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22628#pullrequestreview-1864222311"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22639,
       "OpenedBy": "matthiasbuhl",
       "CreatedAt": "2024-02-02T13:02:17Z",
@@ -4948,40 +4914,6 @@
       }
    },
    {
-      "Number": 22664,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-02-05T08:30:59Z",
-      "Recipe": ".github",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22664",
-      "LastCommitSHA": "866e668c1e8cc5316ea0ec84206a66c80f923469",
-      "LastCommitAt": "2024-02-05T08:30:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-06T03:31:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22664#pullrequestreview-1864219818"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22665,
       "OpenedBy": "Ahajha",
       "CreatedAt": "2024-02-05T08:35:50Z",
@@ -5038,44 +4970,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 22671,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-02-05T13:36:36Z",
-      "Recipe": "libsquish",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22671",
-      "LastCommitSHA": "9e65061ee95cba26bec5c04c550d243d1a40fab4",
-      "LastCommitAt": "2024-02-05T14:04:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "irieger",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2024-02-06T03:37:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22671#pullrequestreview-1864223568"
-         },
          "IsBump": false
       }
    },
