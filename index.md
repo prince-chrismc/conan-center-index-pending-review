@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **202** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|4|Oct 27 :bell:||jwillikers
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
-[#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:memo: openimageio|XL|10|Feb 2||
+[#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:memo: openimageio|XL|11|Feb 6||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#20010](https://github.com/conan-io/conan-center-index/pull/20010)|[valgur](https://github.com/valgur)|Sep 20|:memo: behaviortree.cpp|XL|0|:eyes:||
 [#20068](https://github.com/conan-io/conan-center-index/pull/20068)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:memo: armadillo|L|6|Jan 10 :bell:||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
@@ -216,24 +216,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22646](https://github.com/conan-io/conan-center-index/pull/22646)|[crhowell3](https://github.com/crhowell3)|Feb 3|:stopwatch: opendis6|M|0|||
 [#22647](https://github.com/conan-io/conan-center-index/pull/22647)|[Jak-o-Shadows](https://github.com/Jak-o-Shadows)|Feb 3|:stopwatch: hfsm2|M|0|||
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|M|2|Feb 4||**RubenRBS**, [Ahajha](https://github.com/Ahajha)
-[#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:memo: span-lite|M|1|Feb 6||**RubenRBS**
-[#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:memo: jsoncons|:blue_square: S|1|Feb 6||**RubenRBS**
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
 [#22665](https://github.com/conan-io/conan-center-index/pull/22665)|[Ahajha](https://github.com/Ahajha)|Feb 5|:memo: libiconv|:blue_square: S|0|||
 [#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|:blue_square: S|0|||
 [#22669](https://github.com/conan-io/conan-center-index/pull/22669)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 5|:gear: .c3i|:green_circle: XS|0|||
 [#22673](https://github.com/conan-io/conan-center-index/pull/22673)|[rob-baily](https://github.com/rob-baily)|Feb 5|:new: cli|M|0|||
-[#22674](https://github.com/conan-io/conan-center-index/pull/22674)|[uilianries](https://github.com/uilianries)|Feb 5|:memo: c-blosc2|L|1|Feb 6||**RubenRBS**
 [#22675](https://github.com/conan-io/conan-center-index/pull/22675)|[philippun1](https://github.com/philippun1)|Feb 5|:stopwatch: qt|:green_circle: XS|1|Feb 5||jwillikers
 [#22679](https://github.com/conan-io/conan-center-index/pull/22679)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 5|:memo: boost|:green_circle: XS|0|||
-[#22682](https://github.com/conan-io/conan-center-index/pull/22682)|[toge](https://github.com/toge)|Feb 6|:memo: optional-lite|:blue_square: S|1|Feb 6||**RubenRBS**
-[#22683](https://github.com/conan-io/conan-center-index/pull/22683)|[dheater](https://github.com/dheater)|Feb 6|:stopwatch: qt|:green_circle: XS|0|||
+[#22683](https://github.com/conan-io/conan-center-index/pull/22683)|[dheater](https://github.com/dheater)|Feb 6|:memo: qt|:green_circle: XS|0|||
 [#22684](https://github.com/conan-io/conan-center-index/pull/22684)|[MelamudMichael](https://github.com/MelamudMichael)|Feb 6|:stopwatch: up-cpp|M|0|||
+[#22685](https://github.com/conan-io/conan-center-index/pull/22685)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 6|:gear: .github|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -242,6 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22559](https://github.com/conan-io/conan-center-index/pull/22559)|[adamws](https://github.com/adamws)|Jan 26|:warning: openssl|2|**RubenRBS**, ericLemanissier
+[#22658](https://github.com/conan-io/conan-center-index/pull/22658)|[toge](https://github.com/toge)|Feb 5|:memo: span-lite|2|**RubenRBS**, ericLemanissier
+[#22659](https://github.com/conan-io/conan-center-index/pull/22659)|[toge](https://github.com/toge)|Feb 5|:memo: jsoncons|2|**RubenRBS**, ericLemanissier
+[#22682](https://github.com/conan-io/conan-center-index/pull/22682)|[toge](https://github.com/toge)|Feb 6|:memo: optional-lite|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -252,7 +252,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 616
 	- Draft: 63
-	- Average Age: 119 days, 7 hours, and 26.35 minutes
+	- Average Age: 119 days, 8 hours, and 29.08 minutes
 	- Stop Label: 312
 	
 
