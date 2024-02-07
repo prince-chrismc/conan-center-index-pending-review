@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22701](https://github.com/conan-io/conan-center-index/pull/22701)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:gear: .github|:green_circle: XS|1|Feb 7||
 [#22703](https://github.com/conan-io/conan-center-index/pull/22703)|[ivmai](https://github.com/ivmai)|Feb 7|:stopwatch: bdwgc|:green_circle: XS|0|||
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:stopwatch: liburing|M|0|||
-[#22705](https://github.com/conan-io/conan-center-index/pull/22705)|[uilianries](https://github.com/uilianries)|Feb 7|:stopwatch: c-blosc2|:blue_square: S|1|Feb 7||
+[#22705](https://github.com/conan-io/conan-center-index/pull/22705)|[uilianries](https://github.com/uilianries)|Feb 7|:memo: c-blosc2|:blue_square: S|1|Feb 7||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -252,7 +252,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 612
 	- Draft: 63
-	- Average Age: 121 days, 3 hours, and 49.32 minutes
+	- Average Age: 121 days, 4 hours, and 44.84 minutes
 	- Stop Label: 308
 	
 
