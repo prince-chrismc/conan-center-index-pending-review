@@ -4355,6 +4355,36 @@
       }
    },
    {
+      "Number": 22490,
+      "OpenedBy": "basiliscos",
+      "CreatedAt": "2024-01-22T10:08:36Z",
+      "Recipe": "rotor",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22490",
+      "LastCommitSHA": "8cf465a4fa2f491b86af6e704d949f30bd2d9897",
+      "LastCommitAt": "2024-02-07T15:01:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-01-24T16:01:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22490#pullrequestreview-1841759329"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22523,
       "OpenedBy": "hegyizs",
       "CreatedAt": "2024-01-24T13:42:12Z",
