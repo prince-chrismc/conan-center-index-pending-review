@@ -222,26 +222,24 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|2|Feb 7||jwillikers, MartinDelille
 [#22701](https://github.com/conan-io/conan-center-index/pull/22701)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:gear: .github|:green_circle: XS|1|Feb 7||
 [#22703](https://github.com/conan-io/conan-center-index/pull/22703)|[ivmai](https://github.com/ivmai)|Feb 7|:stopwatch: bdwgc|:green_circle: XS|0|||
-[#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:stopwatch: liburing|M|0|||
-[#22705](https://github.com/conan-io/conan-center-index/pull/22705)|[uilianries](https://github.com/uilianries)|Feb 7|:memo: c-blosc2|:blue_square: S|1|Feb 7||
+[#22705](https://github.com/conan-io/conan-center-index/pull/22705)|[uilianries](https://github.com/uilianries)|Feb 7|:memo: c-blosc2|:blue_square: S|2|Feb 8||**RubenRBS**
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:stopwatch: stringzilla|M|0|||
 [#22709](https://github.com/conan-io/conan-center-index/pull/22709)|[gjasny](https://github.com/gjasny)|Feb 7|:stopwatch: aws-c-auth|:green_circle: XS|0|||
 [#22710](https://github.com/conan-io/conan-center-index/pull/22710)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 7|:stopwatch: sqlcipher|L|0|||
-[#22711](https://github.com/conan-io/conan-center-index/pull/22711)|[Ahajha](https://github.com/Ahajha)|Feb 8|:stopwatch: tcl|:blue_square: S|0|||
+[#22712](https://github.com/conan-io/conan-center-index/pull/22712)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tk|:green_circle: XS|1|Feb 8||**RubenRBS**
+[#22713](https://github.com/conan-io/conan-center-index/pull/22713)|[uilianries](https://github.com/uilianries)|Feb 8|:green_book: docs|:green_circle: XS|1|Feb 8||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:warning: redradist-icc|2|**uilianries**, jwillikers
-[#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|4|ericLemanissier, jwillikers, **RubenRBS**, **franramirez688**
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xkbcommon|8|jwillikers, **danimtb**
 [#22560](https://github.com/conan-io/conan-center-index/pull/22560)|[toge](https://github.com/toge)|Jan 26|:new: mgclient|4|**RubenRBS**, jwillikers
 [#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|6|**RubenRBS**, **juansblanco**
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:warning: openssl|2|**uilianries**, **RubenRBS**
@@ -257,8 +255,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 616
 	- Draft: 63
-	- Average Age: 121 days, and 53.43 minutes
-	- Stop Label: 308
+	- Average Age: 120 days, 15 hours, and 50.45 minutes
+	- Stop Label: 310
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
