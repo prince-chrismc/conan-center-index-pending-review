@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **201** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -203,6 +203,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22574](https://github.com/conan-io/conan-center-index/pull/22574)|[toge](https://github.com/toge)|Jan 28|:memo: reflect-cpp|:green_circle: XS|0|:eyes:||
 [#22580](https://github.com/conan-io/conan-center-index/pull/22580)|[temap](https://github.com/temap)|Jan 29|:memo: libxslt|:green_circle: XS|1|Jan 30||MartinDelille
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
+[#22596](https://github.com/conan-io/conan-center-index/pull/22596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jan 30|:new: etcd-cpp-apiv3|M|3|Feb 8||**uilianries**
 [#22603](https://github.com/conan-io/conan-center-index/pull/22603)|[temap](https://github.com/temap)|Jan 31|:memo: boost|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
 [#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|3|Feb 6||
@@ -225,14 +226,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22705](https://github.com/conan-io/conan-center-index/pull/22705)|[uilianries](https://github.com/uilianries)|Feb 7|:memo: c-blosc2|:blue_square: S|2|Feb 8||**RubenRBS**
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:stopwatch: stringzilla|M|0|||
 [#22709](https://github.com/conan-io/conan-center-index/pull/22709)|[gjasny](https://github.com/gjasny)|Feb 7|:stopwatch: aws-c-auth|:green_circle: XS|0|||
-[#22710](https://github.com/conan-io/conan-center-index/pull/22710)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 7|:stopwatch: sqlcipher|L|0|||
 [#22712](https://github.com/conan-io/conan-center-index/pull/22712)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tk|:green_circle: XS|1|Feb 8||**RubenRBS**
-[#22713](https://github.com/conan-io/conan-center-index/pull/22713)|[uilianries](https://github.com/uilianries)|Feb 8|:green_book: docs|:green_circle: XS|1|Feb 8||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -240,8 +239,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:warning: redradist-icc|2|**uilianries**, jwillikers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#22560](https://github.com/conan-io/conan-center-index/pull/22560)|[toge](https://github.com/toge)|Jan 26|:new: mgclient|4|**RubenRBS**, jwillikers
-[#22583](https://github.com/conan-io/conan-center-index/pull/22583)|[toge](https://github.com/toge)|Jan 29|:new: mapbox-wagyu|6|**RubenRBS**, **juansblanco**
 [#22643](https://github.com/conan-io/conan-center-index/pull/22643)|[kletoz](https://github.com/kletoz)|Feb 2|:warning: openssl|2|**uilianries**, **RubenRBS**
 [#22646](https://github.com/conan-io/conan-center-index/pull/22646)|[crhowell3](https://github.com/crhowell3)|Feb 3|:warning: opendis6|7|**RubenRBS**, jwillikers
 [#22649](https://github.com/conan-io/conan-center-index/pull/22649)|[toge](https://github.com/toge)|Feb 3|:memo: ignition-cmake|3|**RubenRBS**, [Ahajha](https://github.com/Ahajha), jwillikers
@@ -253,9 +250,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 616
+	- Open: 613
 	- Draft: 63
-	- Average Age: 120 days, 15 hours, and 50.45 minutes
+	- Average Age: 121 days, 6 hours, and 7.94 minutes
 	- Stop Label: 310
 	
 
