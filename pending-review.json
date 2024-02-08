@@ -4872,14 +4872,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22694",
       "LastCommitSHA": "7ff349316f14561e002c025318158d999ba71fcd",
       "LastCommitAt": "2024-02-07T19:51:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    },
    {
@@ -5013,7 +5013,7 @@
       "LastCommitAt": "2024-02-08T11:21:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -5024,10 +5024,30 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-08T12:23:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22714#pullrequestreview-1870084486"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-08T12:58:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22714#pullrequestreview-1870149941"
          },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22716,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2024-02-08T13:00:26Z",
+      "Recipe": "md4qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22716",
+      "LastCommitSHA": "067647d3e747381c97163ee86214c03439d3146a",
+      "LastCommitAt": "2024-02-08T12:59:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
          "IsBump": false
       }
    }
