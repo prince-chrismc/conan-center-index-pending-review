@@ -4867,6 +4867,36 @@
       }
    },
    {
+      "Number": 22732,
+      "OpenedBy": "PeteAudinate",
+      "CreatedAt": "2024-02-09T17:45:53Z",
+      "Recipe": "b2",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22732",
+      "LastCommitSHA": "14eb66e2dd789cc5036a3a69801a424c0afaf5e1",
+      "LastCommitAt": "2024-02-09T17:36:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "grafikrobot",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "grafikrobot",
+            "SubmittedAt": "2024-02-09T20:45:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22732#pullrequestreview-1873170547"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22733,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-09T18:17:15Z",
