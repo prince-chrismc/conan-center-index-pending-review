@@ -4757,6 +4757,26 @@
       }
    },
    {
+      "Number": 22727,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-02-09T08:17:02Z",
+      "Recipe": "fontconfig",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22727",
+      "LastCommitSHA": "2eba7d44bc025c4e7d7252485850ec5b0cd0b389",
+      "LastCommitAt": "2024-02-09T18:46:22Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22728,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-02-09T09:30:05Z",
