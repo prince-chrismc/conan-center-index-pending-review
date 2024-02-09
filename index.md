@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **194** pull requests currently under way :detective:
+There are **195** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22691](https://github.com/conan-io/conan-center-index/pull/22691)|[toge](https://github.com/toge)|Feb 6|:memo: libucl|M|0|||
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|0|:eyes:||
-[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|0|||
+[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|0|:eyes:||
 [#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|2|Feb 7||jwillikers, MartinDelille
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|2|Feb 9||[Ahajha](https://github.com/Ahajha)
 [#22709](https://github.com/conan-io/conan-center-index/pull/22709)|[gjasny](https://github.com/gjasny)|Feb 7|:memo: aws-c-auth|:green_circle: XS|0|||
@@ -220,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:memo: uwebsockets|:blue_square: S|0|||
 [#22730](https://github.com/conan-io/conan-center-index/pull/22730)|[toge](https://github.com/toge)|Feb 9|:memo: drogon|:blue_square: S|0|||
 [#22731](https://github.com/conan-io/conan-center-index/pull/22731)|[toge](https://github.com/toge)|Feb 9|:memo: jasper|:blue_square: S|0|||
+[#22732](https://github.com/conan-io/conan-center-index/pull/22732)|[PeteAudinate](https://github.com/PeteAudinate)|Feb 9|:memo: b2|:blue_square: S|2|Feb 9||[grafikrobot](https://github.com/grafikrobot)
 [#22733](https://github.com/conan-io/conan-center-index/pull/22733)|[toge](https://github.com/toge)|Feb 9|:memo: imgui|:green_circle: XS|0|||
 
 
@@ -243,7 +244,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 606
 	- Draft: 63
-	- Average Age: 115 days, 19 hours, and 3.76 minutes
+	- Average Age: 115 days, 20 hours, and 3.05 minutes
 	- Stop Label: 312
 	
 
