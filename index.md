@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,7 +206,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:stopwatch: date|:green_circle: XS|0|:eyes:||
 [#22691](https://github.com/conan-io/conan-center-index/pull/22691)|[toge](https://github.com/toge)|Feb 6|:memo: libucl|M|0|||
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
-[#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|0|||
+[#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|0|:eyes:||
 [#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|0|||
 [#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|2|Feb 7||jwillikers, MartinDelille
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|2|Feb 9||[Ahajha](https://github.com/Ahajha)
@@ -215,6 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22714](https://github.com/conan-io/conan-center-index/pull/22714)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 8|:gear: .c3i|:green_circle: XS|2|Feb 8||**uilianries**
 [#22716](https://github.com/conan-io/conan-center-index/pull/22716)|[igormironchik](https://github.com/igormironchik)|Feb 8|:memo: md4qt|:green_circle: XS|0|||
 [#22723](https://github.com/conan-io/conan-center-index/pull/22723)|[toge](https://github.com/toge)|Feb 9|:memo: libuv|L|2|Feb 9||**jcar87**
+[#22727](https://github.com/conan-io/conan-center-index/pull/22727)|[Ahajha](https://github.com/Ahajha)|Feb 9|:memo: fontconfig|:blue_square: S|0|||
 [#22728](https://github.com/conan-io/conan-center-index/pull/22728)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 9|:gear: .github|:green_circle: XS|3|Feb 9||**uilianries**
 [#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:memo: uwebsockets|:blue_square: S|0|||
 [#22730](https://github.com/conan-io/conan-center-index/pull/22730)|[toge](https://github.com/toge)|Feb 9|:memo: drogon|:blue_square: S|0|||
@@ -242,8 +243,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 606
 	- Draft: 63
-	- Average Age: 115 days, 18 hours, and 2.57 minutes
-	- Stop Label: 313
+	- Average Age: 115 days, 19 hours, and 3.76 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
