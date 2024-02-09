@@ -205,7 +205,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|3|Feb 6||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|0|||
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|0|||
-[#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|||
+[#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:stopwatch: openssl|:green_circle: XS|0|||
 [#22673](https://github.com/conan-io/conan-center-index/pull/22673)|[rob-baily](https://github.com/rob-baily)|Feb 5|:new: cli|M|2|Feb 8||
 [#22675](https://github.com/conan-io/conan-center-index/pull/22675)|[philippun1](https://github.com/philippun1)|Feb 5|:memo: qt|:green_circle: XS|2|Feb 7||jwillikers, MartinDelille
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:stopwatch: date|:green_circle: XS|0|||
@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22701](https://github.com/conan-io/conan-center-index/pull/22701)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:gear: .github|:green_circle: XS|1|Feb 7||
 [#22703](https://github.com/conan-io/conan-center-index/pull/22703)|[ivmai](https://github.com/ivmai)|Feb 7|:memo: bdwgc|:blue_square: S|0|||
 [#22709](https://github.com/conan-io/conan-center-index/pull/22709)|[gjasny](https://github.com/gjasny)|Feb 7|:stopwatch: aws-c-auth|:green_circle: XS|0|||
-[#22711](https://github.com/conan-io/conan-center-index/pull/22711)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tcl|:blue_square: S|0|||
+[#22711](https://github.com/conan-io/conan-center-index/pull/22711)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tcl|M|0|||
 [#22714](https://github.com/conan-io/conan-center-index/pull/22714)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 8|:gear: .c3i|:green_circle: XS|2|Feb 8||**uilianries**
 [#22716](https://github.com/conan-io/conan-center-index/pull/22716)|[igormironchik](https://github.com/igormironchik)|Feb 8|:memo: md4qt|:green_circle: XS|0|||
 [#22717](https://github.com/conan-io/conan-center-index/pull/22717)|[MartinDelille](https://github.com/MartinDelille)|Feb 8|:memo: openapi-generator|:green_circle: XS|0|||
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 608
 	- Draft: 64
-	- Average Age: 121 days, 19 hours, and 27.04 minutes
+	- Average Age: 122 days, 1 hours, and 24.90 minutes
 	- Stop Label: 315
 	
 
