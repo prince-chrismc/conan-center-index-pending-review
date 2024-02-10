@@ -4866,7 +4866,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22735",
       "LastCommitSHA": "cb37c0d32e6554662e8d81b94f3b79fba3a6f440",
       "LastCommitAt": "2024-02-10T07:52:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4894,6 +4894,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 22738,
+      "OpenedBy": "spnda",
+      "CreatedAt": "2024-02-10T15:52:14Z",
+      "Recipe": "fastgltf",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22738",
+      "LastCommitSHA": "899c632cb9a5bd3f10964c3edeb369815408ecf8",
+      "LastCommitAt": "2024-02-10T18:26:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
