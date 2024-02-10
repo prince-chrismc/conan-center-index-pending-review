@@ -4558,7 +4558,7 @@
       "LastCommitAt": "2024-02-09T13:10:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -4570,8 +4570,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "Ahajha",
-            "SubmittedAt": "2024-02-09T16:30:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22704#pullrequestreview-1872783320"
+            "SubmittedAt": "2024-02-10T16:00:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22704#pullrequestreview-1873734099"
          },
          "IsBump": false
       }
