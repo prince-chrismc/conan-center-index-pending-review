@@ -4895,25 +4895,5 @@
          "Blockers": null,
          "IsBump": true
       }
-   },
-   {
-      "Number": 22737,
-      "OpenedBy": "trns1997",
-      "CreatedAt": "2024-02-10T11:11:58Z",
-      "Recipe": "pdal",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22737",
-      "LastCommitSHA": "5a647886df28ba62f31b4e2844be42f95dbbef1c",
-      "LastCommitAt": "2024-02-10T11:08:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
