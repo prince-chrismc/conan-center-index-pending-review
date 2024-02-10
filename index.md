@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **196** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,8 +220,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22731](https://github.com/conan-io/conan-center-index/pull/22731)|[toge](https://github.com/toge)|Feb 9|:memo: jasper|:blue_square: S|0|||
 [#22732](https://github.com/conan-io/conan-center-index/pull/22732)|[PeteAudinate](https://github.com/PeteAudinate)|Feb 9|:memo: b2|:blue_square: S|2|Feb 9||[grafikrobot](https://github.com/grafikrobot)
 [#22733](https://github.com/conan-io/conan-center-index/pull/22733)|[toge](https://github.com/toge)|Feb 9|:memo: imgui|:green_circle: XS|0|||
-[#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:stopwatch: mbedtls|:green_circle: XS|0|||
+[#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|0|||
 [#22736](https://github.com/conan-io/conan-center-index/pull/22736)|[toge](https://github.com/toge)|Feb 10|:memo: poco|:blue_square: S|0|||
+[#22738](https://github.com/conan-io/conan-center-index/pull/22738)|[spnda](https://github.com/spnda)|Feb 10|:memo: fastgltf|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -244,8 +245,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 609
 	- Draft: 63
-	- Average Age: 116 days, 1 hours, and 20.85 minutes
-	- Stop Label: 315
+	- Average Age: 116 days, 4 hours, and 14.53 minutes
+	- Stop Label: 314
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
