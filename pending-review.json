@@ -4273,15 +4273,20 @@
       "LastCommitAt": "2024-02-06T15:13:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-06T10:05:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22629#pullrequestreview-1864743489"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-11T23:03:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22629#pullrequestreview-1874453380"
          },
          "IsBump": false
       }
@@ -4324,6 +4329,26 @@
       "LastCommitSHA": "d95bc1f4c64958ab70a32bb322513696279d1a1c",
       "LastCommitAt": "2024-02-06T22:12:15Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22662,
+      "OpenedBy": "obnyis",
+      "CreatedAt": "2024-02-05T05:08:32Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22662",
+      "LastCommitSHA": "211ee4fab65f7bc17833f8d2ed81e66311f661dc",
+      "LastCommitAt": "2024-02-11T22:09:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
