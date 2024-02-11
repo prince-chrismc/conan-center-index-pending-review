@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **202** pull requests currently under way :detective:
+There are **203** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,9 +194,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22580](https://github.com/conan-io/conan-center-index/pull/22580)|[temap](https://github.com/temap)|Jan 29|:memo: libxslt|:green_circle: XS|1|Jan 30 :bell:||MartinDelille
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
-[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|3|Feb 6||
+[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|4|Feb 11||**RubenRBS**
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|2|Feb 9|uilianries|
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|0|:eyes:||
+[#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:stopwatch: openssl|:green_circle: XS|0|||
 [#22673](https://github.com/conan-io/conan-center-index/pull/22673)|[rob-baily](https://github.com/rob-baily)|Feb 5|:new: cli|L|2|Feb 8||
 [#22675](https://github.com/conan-io/conan-center-index/pull/22675)|[philippun1](https://github.com/philippun1)|Feb 5|:memo: qt|:green_circle: XS|2|Feb 7||jwillikers, MartinDelille
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:stopwatch: date|:green_circle: XS|0|:eyes:||
@@ -251,8 +252,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 615
 	- Draft: 63
-	- Average Age: 116 days, 1 hours, and 12.58 minutes
-	- Stop Label: 313
+	- Average Age: 116 days, 3 hours, and 12.65 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
