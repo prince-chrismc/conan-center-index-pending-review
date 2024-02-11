@@ -225,8 +225,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22738](https://github.com/conan-io/conan-center-index/pull/22738)|[spnda](https://github.com/spnda)|Feb 10|:memo: fastgltf|:blue_square: S|0|||
 [#22740](https://github.com/conan-io/conan-center-index/pull/22740)|[sourcedelica](https://github.com/sourcedelica)|Feb 11|:memo: redis-plus-plus|:green_circle: XS|0|||
 [#22741](https://github.com/conan-io/conan-center-index/pull/22741)|[toge](https://github.com/toge)|Feb 11|:stopwatch: glaze|:green_circle: XS|0|||
-[#22742](https://github.com/conan-io/conan-center-index/pull/22742)|[toge](https://github.com/toge)|Feb 11|:stopwatch: libnfs|:green_circle: XS|0|||
-[#22743](https://github.com/conan-io/conan-center-index/pull/22743)|[toge](https://github.com/toge)|Feb 11|:stopwatch: libzippp|:green_circle: XS|0|||
+[#22742](https://github.com/conan-io/conan-center-index/pull/22742)|[toge](https://github.com/toge)|Feb 11|:memo: libnfs|:green_circle: XS|0|||
+[#22743](https://github.com/conan-io/conan-center-index/pull/22743)|[toge](https://github.com/toge)|Feb 11|:memo: libzippp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -249,7 +249,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 613
 	- Draft: 63
-	- Average Age: 115 days, 18 hours, and 4.13 minutes
+	- Average Age: 115 days, 19 hours, and 6.52 minutes
 	- Stop Label: 314
 	
 
