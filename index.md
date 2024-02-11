@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **202** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -227,6 +227,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22742](https://github.com/conan-io/conan-center-index/pull/22742)|[toge](https://github.com/toge)|Feb 11|:memo: libnfs|:green_circle: XS|0|||
 [#22743](https://github.com/conan-io/conan-center-index/pull/22743)|[toge](https://github.com/toge)|Feb 11|:memo: libzippp|:green_circle: XS|0|||
 [#22745](https://github.com/conan-io/conan-center-index/pull/22745)|[toge](https://github.com/toge)|Feb 11|:memo: nanomsg|:green_circle: XS|0|||
+[#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|0|||
+[#22748](https://github.com/conan-io/conan-center-index/pull/22748)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: backward-cpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -247,9 +249,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 613
+	- Open: 615
 	- Draft: 63
-	- Average Age: 116 days, 5 hours, and 19.97 minutes
+	- Average Age: 115 days, 23 hours, and 11.16 minutes
 	- Stop Label: 313
 	
 
