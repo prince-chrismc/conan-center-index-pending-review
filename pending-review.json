@@ -4915,5 +4915,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22740,
+      "OpenedBy": "sourcedelica",
+      "CreatedAt": "2024-02-11T01:04:40Z",
+      "Recipe": "redis-plus-plus",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22740",
+      "LastCommitSHA": "d8f878a8ce81db374433a66b3b603fb3958972dd",
+      "LastCommitAt": "2024-02-11T01:01:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
