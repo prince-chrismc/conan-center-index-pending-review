@@ -3347,26 +3347,6 @@
       }
    },
    {
-      "Number": 22043,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-28T20:14:08Z",
-      "Recipe": "xapian-core",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22043",
-      "LastCommitSHA": "0c24e8597e44e3e97ffecc705ee45ce2ff649a2f",
-      "LastCommitAt": "2024-01-11T07:56:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22047,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-28T22:36:51Z",
@@ -3392,6 +3372,36 @@
             "ReviewerName": "EstebanDugueperoux2",
             "SubmittedAt": "2024-02-05T17:55:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22047#pullrequestreview-1863449000"
+         },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22060,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-29T01:19:57Z",
+      "Recipe": "physfs",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22060",
+      "LastCommitSHA": "e728c4e2e81ef6657d741993a055cc16d674fedd",
+      "LastCommitAt": "2023-12-30T17:53:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-02-10T08:40:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22060#pullrequestreview-1873596606"
          },
          "IsBump": false
       }
