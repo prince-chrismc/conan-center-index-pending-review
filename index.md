@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **197** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22723](https://github.com/conan-io/conan-center-index/pull/22723)|[toge](https://github.com/toge)|Feb 9|:memo: libuv|L|2|Feb 9||**jcar87**
 [#22727](https://github.com/conan-io/conan-center-index/pull/22727)|[Ahajha](https://github.com/Ahajha)|Feb 9|:memo: fontconfig|:blue_square: S|0|||
 [#22728](https://github.com/conan-io/conan-center-index/pull/22728)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 9|:gear: .github|:green_circle: XS|3|Feb 9||**uilianries**
-[#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:memo: uwebsockets|:blue_square: S|0|||
+[#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:stopwatch: uwebsockets|:blue_square: S|0|||
 [#22730](https://github.com/conan-io/conan-center-index/pull/22730)|[toge](https://github.com/toge)|Feb 9|:memo: drogon|:blue_square: S|0|||
 [#22731](https://github.com/conan-io/conan-center-index/pull/22731)|[toge](https://github.com/toge)|Feb 9|:memo: jasper|:blue_square: S|0|||
 [#22732](https://github.com/conan-io/conan-center-index/pull/22732)|[PeteAudinate](https://github.com/PeteAudinate)|Feb 9|:memo: b2|:blue_square: S|2|Feb 9||[grafikrobot](https://github.com/grafikrobot)
@@ -224,6 +224,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22736](https://github.com/conan-io/conan-center-index/pull/22736)|[toge](https://github.com/toge)|Feb 10|:memo: poco|:blue_square: S|0|||
 [#22738](https://github.com/conan-io/conan-center-index/pull/22738)|[spnda](https://github.com/spnda)|Feb 10|:memo: fastgltf|:blue_square: S|0|||
 [#22740](https://github.com/conan-io/conan-center-index/pull/22740)|[sourcedelica](https://github.com/sourcedelica)|Feb 11|:memo: redis-plus-plus|:green_circle: XS|0|||
+[#22741](https://github.com/conan-io/conan-center-index/pull/22741)|[toge](https://github.com/toge)|Feb 11|:stopwatch: glaze|:green_circle: XS|0|||
+[#22742](https://github.com/conan-io/conan-center-index/pull/22742)|[toge](https://github.com/toge)|Feb 11|:stopwatch: libnfs|:green_circle: XS|0|||
+[#22743](https://github.com/conan-io/conan-center-index/pull/22743)|[toge](https://github.com/toge)|Feb 11|:stopwatch: libzippp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -244,9 +247,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 610
+	- Open: 613
 	- Draft: 63
-	- Average Age: 116 days, 6 hours, and 24.66 minutes
+	- Average Age: 115 days, 18 hours, and 4.13 minutes
 	- Stop Label: 314
 	
 
