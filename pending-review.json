@@ -4933,11 +4933,21 @@
       "LastCommitAt": "2024-02-11T01:01:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "bronekrab",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "bronekrab",
+            "SubmittedAt": "2024-02-11T20:36:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22740#pullrequestreview-1874429950"
+         },
          "IsBump": false
       }
    },
