@@ -5145,5 +5145,25 @@
          },
          "IsBump": false
       }
+   },
+   {
+      "Number": 22751,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-12T09:10:19Z",
+      "Recipe": "s2geometry",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22751",
+      "LastCommitSHA": "a7d6b8f0e963bb1a1f494aec6f98eae53d228f45",
+      "LastCommitAt": "2024-02-12T09:09:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
