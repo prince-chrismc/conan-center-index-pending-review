@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:new: freealut|M|5|Nov 24 :bell:||
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|0|:eyes:||
 [#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|1|Nov 13 :bell:||
-[#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:memo: qt|:blue_square: S|5|Jan 17 :bell:|RubenRBS|ericLemanissier
+[#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:stopwatch: qt|:blue_square: S|5|Jan 17 :bell:|RubenRBS|ericLemanissier
 [#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:memo: openssl|:blue_square: S|1|Nov 20 :bell:||jwillikers
 [#21007](https://github.com/conan-io/conan-center-index/pull/21007)|[valgur](https://github.com/valgur)|Nov 8|:new: orc|M|0|:eyes:||
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
@@ -225,6 +225,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22749](https://github.com/conan-io/conan-center-index/pull/22749)|[toge](https://github.com/toge)|Feb 12|:memo: nng|M|1|Feb 12||**RubenRBS**
 [#22753](https://github.com/conan-io/conan-center-index/pull/22753)|[cnicolaescu](https://github.com/cnicolaescu)|Feb 12|:stopwatch: sqlite3|:green_circle: XS|0|||
 [#22754](https://github.com/conan-io/conan-center-index/pull/22754)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 12|:gear: .c3i|:green_circle: XS|1|Feb 12||**uilianries**
+[#22755](https://github.com/conan-io/conan-center-index/pull/22755)|[toge](https://github.com/toge)|Feb 12|:stopwatch: uvw|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -245,10 +246,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 611
+	- Open: 612
 	- Draft: 63
-	- Average Age: 116 days, 7 hours, and 59.49 minutes
-	- Stop Label: 311
+	- Average Age: 116 days, 4 hours, and 16.60 minutes
+	- Stop Label: 312
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
