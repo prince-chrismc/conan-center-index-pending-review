@@ -4545,7 +4545,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22727",
       "LastCommitSHA": "03643a3c66b61c1974bbfbb5d35086a12a4d605b",
       "LastCommitAt": "2024-02-12T16:59:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4726,6 +4726,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22751,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-12T09:10:19Z",
+      "Recipe": "s2geometry",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22751",
+      "LastCommitSHA": "b6442356465630ca937bb0d3fa0d871fa3c80ae8",
+      "LastCommitAt": "2024-02-12T16:12:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2024-02-12T09:29:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22751#pullrequestreview-1874817286"
+         },
          "IsBump": false
       }
    },
