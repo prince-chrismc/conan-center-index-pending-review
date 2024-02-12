@@ -5115,5 +5115,35 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22750,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-12T05:46:45Z",
+      "Recipe": "bezier",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22750",
+      "LastCommitSHA": "b038d7258d90c3d2a74ba54dcf428837c69fc0dc",
+      "LastCommitAt": "2024-02-12T07:16:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2024-02-12T08:09:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22750#pullrequestreview-1874693308"
+         },
+         "IsBump": false
+      }
    }
 ]
