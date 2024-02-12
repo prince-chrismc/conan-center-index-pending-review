@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -130,6 +130,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4 :bell:||jwillikers
 [#21511](https://github.com/conan-io/conan-center-index/pull/21511)|[valgur](https://github.com/valgur)|Nov 30|:memo: libspatialite|L|7|Jan 24 :bell:||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|1|Dec 20 :bell:||
+[#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|3|Feb 7|RubenRBS|
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|4|Jan 6 :bell:||jwillikers
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|1|Jan 6 :bell:||
 [#21666](https://github.com/conan-io/conan-center-index/pull/21666)|[valgur](https://github.com/valgur)|Dec 6|:memo: seqan3|:blue_square: S|0|:eyes:||
@@ -237,8 +238,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 599
 	- Draft: 63
-	- Average Age: 116 days, 23 hours, and 52.37 minutes
-	- Stop Label: 310
+	- Average Age: 117 days, 1 hours, and 53.70 minutes
+	- Stop Label: 309
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
