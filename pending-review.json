@@ -3682,40 +3682,6 @@
       }
    },
    {
-      "Number": 22295,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-01-13T13:32:31Z",
-      "Recipe": "physx",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22295",
-      "LastCommitSHA": "d5f2a9ae44100ca51e5b747888e22afdfec12226",
-      "LastCommitAt": "2024-02-13T17:01:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-13T17:02:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22295#pullrequestreview-1878514229"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22318,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-01-13T23:05:44Z",
