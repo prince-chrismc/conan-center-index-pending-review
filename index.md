@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -116,7 +116,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21079](https://github.com/conan-io/conan-center-index/pull/21079)|[valgur](https://github.com/valgur)|Nov 12|:memo: nodejs|M|2|Jan 8 :bell:||[tsondergaard](https://github.com/tsondergaard)
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20 :bell:||jwillikers
 [#21139](https://github.com/conan-io/conan-center-index/pull/21139)|[valgur](https://github.com/valgur)|Nov 14|:memo: lerc|L|0|:eyes:||
-[#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:memo: isl|L|3|Feb 13||AndreyMlashkin
+[#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:memo: isl|L|4|Feb 13||AndreyMlashkin, jwillikers
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22 :bell:|uilianries|jwillikers
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|L|1|Jan 6 :bell:||
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|2|Jan 3 :bell:||jwillikers, ericLemanissier
@@ -189,7 +189,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22580](https://github.com/conan-io/conan-center-index/pull/22580)|[temap](https://github.com/temap)|Jan 29|:memo: libxslt|:green_circle: XS|1|Jan 30 :bell:||MartinDelille
 [#22581](https://github.com/conan-io/conan-center-index/pull/22581)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 29|:gear: .c3i|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
-[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|5|Feb 12||
+[#22629](https://github.com/conan-io/conan-center-index/pull/22629)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 2|:memo: libdwarf|L|7|Feb 13||jwillikers
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:stopwatch: drogon|:green_circle: XS|2|Feb 9|uilianries|
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|0|:eyes:||
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:stopwatch: openssl|:green_circle: XS|0|||
@@ -199,9 +199,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|1|Feb 12||jwillikers
 [#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|1|Feb 12||jwillikers
-[#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|2|Feb 7||jwillikers, MartinDelille
+[#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|3|Feb 13||jwillikers, MartinDelille
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|3|Feb 10||[Ahajha](https://github.com/Ahajha)
-[#22710](https://github.com/conan-io/conan-center-index/pull/22710)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 7|:memo: sqlcipher|L|1|Feb 8||
+[#22710](https://github.com/conan-io/conan-center-index/pull/22710)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 7|:memo: sqlcipher|L|2|Feb 13||**uilianries**
 [#22711](https://github.com/conan-io/conan-center-index/pull/22711)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tcl|M|0|:eyes:||
 [#22727](https://github.com/conan-io/conan-center-index/pull/22727)|[Ahajha](https://github.com/Ahajha)|Feb 9|:memo: fontconfig|:blue_square: S|1|Feb 12||
 [#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:stopwatch: uwebsockets|:blue_square: S|0|||
@@ -213,6 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22748](https://github.com/conan-io/conan-center-index/pull/22748)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#22751](https://github.com/conan-io/conan-center-index/pull/22751)|[toge](https://github.com/toge)|Feb 12|:memo: s2geometry|:blue_square: S|1|Feb 12||
 [#22759](https://github.com/conan-io/conan-center-index/pull/22759)|[toge](https://github.com/toge)|Feb 13|:memo: sentry-breakpad|:blue_square: S|0|||
+[#22762](https://github.com/conan-io/conan-center-index/pull/22762)|[igormironchik](https://github.com/igormironchik)|Feb 13|:memo: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -233,9 +234,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 596
+	- Open: 597
 	- Draft: 63
-	- Average Age: 117 days, 14 hours, and 44.73 minutes
+	- Average Age: 117 days, 10 hours, and 58.62 minutes
 	- Stop Label: 309
 	
 
