@@ -4652,36 +4652,6 @@
       }
    },
    {
-      "Number": 22757,
-      "OpenedBy": "johannes-wolf",
-      "CreatedAt": "2024-02-12T17:42:00Z",
-      "Recipe": "sfl",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22757",
-      "LastCommitSHA": "476287ff2d76f351efd1249c99658dcd2a5077bf",
-      "LastCommitAt": "2024-02-12T18:52:05Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-13T08:47:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22757#pullrequestreview-1877166277"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22759,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-13T00:27:33Z",
