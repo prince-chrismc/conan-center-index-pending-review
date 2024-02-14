@@ -4545,7 +4545,7 @@
       "LastCommitAt": "2024-02-09T15:21:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -4556,9 +4556,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2024-02-14T03:09:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22731#pullrequestreview-1879292403"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-14T10:14:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22731#pullrequestreview-1879876264"
          },
          "IsBump": false
       }
