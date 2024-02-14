@@ -231,10 +231,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 596
+	- Open: 595
 	- Draft: 63
-	- Average Age: 117 days, 18 hours, and 45.30 minutes
-	- Stop Label: 310
+	- Average Age: 117 days, 21 hours, and 59.31 minutes
+	- Stop Label: 309
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
