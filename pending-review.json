@@ -4402,7 +4402,7 @@
       "LastCommitAt": "2024-02-13T08:22:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -4413,13 +4413,17 @@
             {
                "Name": "MartinDelille",
                "Tier": "community"
+            },
+            {
+               "Name": "paulharris",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-02-13T13:52:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22700#pullrequestreview-1878005905"
+            "ReviewerName": "paulharris",
+            "SubmittedAt": "2024-02-14T00:42:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22700#pullrequestreview-1879187705"
          },
          "IsBump": false
       }
