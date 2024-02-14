@@ -4445,15 +4445,20 @@
       "LastCommitAt": "2024-02-12T16:59:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-12T16:45:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22727#pullrequestreview-1875707715"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-14T18:33:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22727#pullrequestreview-1880993696"
          },
          "IsBump": false
       }
@@ -4601,40 +4606,6 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
-      }
-   },
-   {
-      "Number": 22767,
-      "OpenedBy": "DavidAce",
-      "CreatedAt": "2024-02-14T08:28:25Z",
-      "Recipe": "h5pp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22767",
-      "LastCommitSHA": "55a959975569632414ba65cbc78b7b0099645fc0",
-      "LastCommitAt": "2024-02-14T08:26:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-14T16:56:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22767#pullrequestreview-1880807795"
-         },
-         "IsBump": true
       }
    },
    {
