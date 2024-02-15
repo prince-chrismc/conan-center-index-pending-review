@@ -4566,36 +4566,6 @@
       }
    },
    {
-      "Number": 22774,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-15T06:25:23Z",
-      "Recipe": "cxxopts",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22774",
-      "LastCommitSHA": "207ca19ae0954ab36205cb400c310ac306a635a7",
-      "LastCommitAt": "2024-02-15T06:24:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-15T15:58:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22774#pullrequestreview-1883201736"
-         },
-         "IsBump": true
-      }
-   },
-   {
       "Number": 22777,
       "OpenedBy": "gjasny",
       "CreatedAt": "2024-02-15T14:06:24Z",
@@ -4657,11 +4627,21 @@
       "LastCommitAt": "2024-02-15T15:18:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-15T17:04:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22780#pullrequestreview-1883377027"
+         },
          "IsBump": false
       }
    }
