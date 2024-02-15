@@ -4474,36 +4474,6 @@
       }
    },
    {
-      "Number": 22727,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2024-02-09T08:17:02Z",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22727",
-      "LastCommitSHA": "03643a3c66b61c1974bbfbb5d35086a12a4d605b",
-      "LastCommitAt": "2024-02-12T16:59:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-14T18:33:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22727#pullrequestreview-1880993696"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22729,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-09T14:39:00Z",
@@ -4560,20 +4530,24 @@
       "LastCommitAt": "2024-02-13T12:17:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
+         "Count": 8,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "toge",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-13T13:06:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22738#pullrequestreview-1877893242"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2024-02-15T04:35:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22738#pullrequestreview-1881738573"
          },
          "IsBump": false
       }
