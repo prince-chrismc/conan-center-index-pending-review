@@ -4571,6 +4571,26 @@
       }
    },
    {
+      "Number": 22772,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-14T17:11:17Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22772",
+      "LastCommitSHA": "5d4bf9a092ea3ed230d4a12df15ae4d360e083db",
+      "LastCommitAt": "2024-02-15T16:14:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22777,
       "OpenedBy": "gjasny",
       "CreatedAt": "2024-02-15T14:06:24Z",
@@ -4630,14 +4650,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22782",
       "LastCommitSHA": "ae0321ec1243dc49b0420766ec991a6928fe69b7",
       "LastCommitAt": "2024-02-15T18:57:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
