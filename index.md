@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **182** pull requests currently under way :detective:
+There are **181** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19262](https://github.com/conan-io/conan-center-index/pull/19262)|[valgur](https://github.com/valgur)|Aug 17|:memo: nss|L|7|Nov 28 :bell:||jwillikers
-[#19298](https://github.com/conan-io/conan-center-index/pull/19298)|[valgur](https://github.com/valgur)|Aug 19|:memo: gdal|XL|18|Feb 13||AndreyMlashkin
+[#19298](https://github.com/conan-io/conan-center-index/pull/19298)|[valgur](https://github.com/valgur)|Aug 19|:memo: gdal|XL|19|Feb 15||AndreyMlashkin, [trns1997](https://github.com/trns1997)
 [#19381](https://github.com/conan-io/conan-center-index/pull/19381)|[valgur](https://github.com/valgur)|Aug 24|:new: tiledb|L|0|:eyes:||
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
@@ -113,7 +113,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
 [#21079](https://github.com/conan-io/conan-center-index/pull/21079)|[valgur](https://github.com/valgur)|Nov 12|:memo: nodejs|M|2|Jan 8 :bell:||[tsondergaard](https://github.com/tsondergaard)
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20 :bell:||jwillikers
-[#21139](https://github.com/conan-io/conan-center-index/pull/21139)|[valgur](https://github.com/valgur)|Nov 14|:memo: lerc|L|0|:eyes:||
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:memo: isl|L|4|Feb 13||AndreyMlashkin, jwillikers
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22 :bell:|uilianries|jwillikers
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|L|1|Jan 6 :bell:||
@@ -231,7 +230,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 591
 	- Draft: 62
-	- Average Age: 118 days, 11 hours, and 51.89 minutes
+	- Average Age: 118 days, 12 hours, and 49.61 minutes
 	- Stop Label: 308
 	
 
