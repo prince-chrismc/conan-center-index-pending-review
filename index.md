@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **181** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,6 +208,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22771](https://github.com/conan-io/conan-center-index/pull/22771)|[RubenRBS](https://github.com/RubenRBS)|Feb 14|:memo: oatpp-libressl|:blue_square: S|0|||
 [#22773](https://github.com/conan-io/conan-center-index/pull/22773)|[toge](https://github.com/toge)|Feb 15|:memo: scnlib|:green_circle: XS|0|||
 [#22774](https://github.com/conan-io/conan-center-index/pull/22774)|[toge](https://github.com/toge)|Feb 15|:memo: cxxopts|:green_circle: XS|0|||
+[#22777](https://github.com/conan-io/conan-center-index/pull/22777)|[gjasny](https://github.com/gjasny)|Feb 15|:stopwatch: aws-c-mqtt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -228,9 +229,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 591
+	- Open: 592
 	- Draft: 62
-	- Average Age: 118 days, 12 hours, and 49.61 minutes
+	- Average Age: 118 days, 11 hours, and 0.70 minutes
 	- Stop Label: 308
 	
 
