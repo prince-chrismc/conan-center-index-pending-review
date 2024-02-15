@@ -1212,26 +1212,6 @@
       }
    },
    {
-      "Number": 19496,
-      "OpenedBy": "KevDi",
-      "CreatedAt": "2023-08-30T09:47:10Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19496",
-      "LastCommitSHA": "80beb95d410a92f1e7c9848ac2f3e600ad045baf",
-      "LastCommitAt": "2023-09-20T16:31:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 19618,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-06T14:13:32Z",
