@@ -1119,20 +1119,24 @@
       "LastCommitAt": "2024-02-12T16:04:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
+         "Count": 19,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "AndreyMlashkin",
                "Tier": "community"
+            },
+            {
+               "Name": "trns1997",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2024-02-13T04:06:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1876840583"
+            "ReviewerName": "trns1997",
+            "SubmittedAt": "2024-02-15T10:31:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1882394130"
          },
          "IsBump": false
       }
@@ -2281,26 +2285,6 @@
             "SubmittedAt": "2023-11-20T21:42:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21085#pullrequestreview-1740736108"
          },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 21139,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-14T22:05:28Z",
-      "Recipe": "lerc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21139",
-      "LastCommitSHA": "30bc285bb495bd25e73d2aa6158bef7d49fd235a",
-      "LastCommitAt": "2024-01-15T23:35:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
          "IsBump": false
       }
    },
