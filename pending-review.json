@@ -4765,15 +4765,25 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22794",
-      "LastCommitSHA": "a079bed000a17c80d9d8d289bea76013dc27794d",
-      "LastCommitAt": "2024-02-16T16:36:47Z",
+      "LastCommitSHA": "58f8177ba0b8c8c82a1942cbd68e7722a0af0057",
+      "LastCommitAt": "2024-02-16T17:26:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-16T17:26:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22794#pullrequestreview-1885649542"
+         },
          "IsBump": false
       }
    }
