@@ -135,11 +135,21 @@
       "LastCommitAt": "2024-01-20T12:58:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2024-02-16T12:59:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18265#pullrequestreview-1885087491"
+         },
          "IsBump": false
       }
    },
@@ -4175,36 +4185,6 @@
       }
    },
    {
-      "Number": 22691,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-06T13:37:04Z",
-      "Recipe": "libucl",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22691",
-      "LastCommitSHA": "86efda37607a0779aa17f2cd1973be12b8c76a7f",
-      "LastCommitAt": "2024-02-07T15:19:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-16T00:39:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22691#pullrequestreview-1884129355"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22692,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2024-02-06T14:03:26Z",
@@ -4659,11 +4639,21 @@
       "LastCommitAt": "2024-02-16T10:20:14Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-02-16T13:10:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22788#pullrequestreview-1885119558"
+         },
          "IsBump": false
       }
    }
