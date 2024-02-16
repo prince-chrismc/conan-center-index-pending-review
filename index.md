@@ -135,7 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|0|:eyes:||
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|0|:eyes:||
-[#21782](https://github.com/conan-io/conan-center-index/pull/21782)|[valgur](https://github.com/valgur)|Dec 15|:memo: sdl_mixer|L|7|Feb 13||[zaslavskyv](https://github.com/zaslavskyv)
+[#21782](https://github.com/conan-io/conan-center-index/pull/21782)|[valgur](https://github.com/valgur)|Dec 15|:memo: sdl_mixer|L|11|Feb 16||[zaslavskyv](https://github.com/zaslavskyv)
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:memo: openal-soft|:blue_square: S|0|:eyes:||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:memo: xmlsec|M|2|Jan 10 :bell:||ericLemanissier
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|:eyes:||
@@ -232,10 +232,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 595
+	- Open: 593
 	- Draft: 62
-	- Average Age: 118 days, 10 hours, and 38.99 minutes
-	- Stop Label: 308
+	- Average Age: 117 days, 20 hours, and 55.19 minutes
+	- Stop Label: 306
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
