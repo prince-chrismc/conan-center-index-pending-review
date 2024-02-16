@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22788](https://github.com/conan-io/conan-center-index/pull/22788)|[MartinDelille](https://github.com/MartinDelille)|Feb 16|:stopwatch: wayland|:green_circle: XS|1|Feb 16||jwillikers
 [#22792](https://github.com/conan-io/conan-center-index/pull/22792)|[toge](https://github.com/toge)|Feb 16|:memo: cctz|M|0|||
 [#22793](https://github.com/conan-io/conan-center-index/pull/22793)|[juansblanco](https://github.com/juansblanco)|Feb 16|:memo: libgpg-error|:green_circle: XS|1|Feb 16||[ErniGH](https://github.com/ErniGH)
-[#22794](https://github.com/conan-io/conan-center-index/pull/22794)|[crhowell3](https://github.com/crhowell3)|Feb 16|:memo: opendis6|:green_circle: XS|0|||
+[#22794](https://github.com/conan-io/conan-center-index/pull/22794)|[crhowell3](https://github.com/crhowell3)|Feb 16|:memo: opendis6|:green_circle: XS|1|Feb 16||**uilianries**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,7 +237,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 594
 	- Draft: 62
-	- Average Age: 117 days, 16 hours, and 6.23 minutes
+	- Average Age: 117 days, 17 hours, and 10.85 minutes
 	- Stop Label: 305
 	
 
