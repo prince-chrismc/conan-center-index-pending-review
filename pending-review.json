@@ -124,36 +124,6 @@
       }
    },
    {
-      "Number": 18079,
-      "OpenedBy": "lieser",
-      "CreatedAt": "2023-06-27T13:50:48Z",
-      "Recipe": "botan",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18079",
-      "LastCommitSHA": "8caf736ddaf3e1d86d93a2fcbc1087d6984ebb59",
-      "LastCommitAt": "2024-02-01T10:21:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 32,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "reneme",
-            "SubmittedAt": "2024-02-01T10:22:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18079#pullrequestreview-1856111740"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 18265,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T16:07:06Z",
