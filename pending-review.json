@@ -4537,7 +4537,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22772",
       "LastCommitSHA": "5d4bf9a092ea3ed230d4a12df15ae4d360e083db",
       "LastCommitAt": "2024-02-15T16:14:26Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4638,6 +4638,26 @@
       "LastCommitSHA": "d548873b063bd76326dee45aa92b45fb4e7d5b92",
       "LastCommitAt": "2024-02-16T08:12:51Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22788,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2024-02-16T10:20:52Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22788",
+      "LastCommitSHA": "cf29594c0a7aa1eadaa214eaec6e1215ace0a74d",
+      "LastCommitAt": "2024-02-16T10:20:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
