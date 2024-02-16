@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,6 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|1|Feb 12||jwillikers
 [#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|4|Feb 14||jwillikers, MartinDelille, [paulharris](https://github.com/paulharris)
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|3|Feb 10||[Ahajha](https://github.com/Ahajha)
+[#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:stopwatch: stringzilla|L|1|Feb 16||
 [#22711](https://github.com/conan-io/conan-center-index/pull/22711)|[Ahajha](https://github.com/Ahajha)|Feb 8|:memo: tcl|M|0|:eyes:||
 [#22729](https://github.com/conan-io/conan-center-index/pull/22729)|[toge](https://github.com/toge)|Feb 9|:stopwatch: uwebsockets|:blue_square: S|0|:eyes:||
 [#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|1|Feb 12||
@@ -210,6 +211,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22785](https://github.com/conan-io/conan-center-index/pull/22785)|[toge](https://github.com/toge)|Feb 16|:memo: glaze|:green_circle: XS|0|||
 [#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|0|||
 [#22788](https://github.com/conan-io/conan-center-index/pull/22788)|[MartinDelille](https://github.com/MartinDelille)|Feb 16|:stopwatch: wayland|:green_circle: XS|1|Feb 16||jwillikers
+[#22792](https://github.com/conan-io/conan-center-index/pull/22792)|[toge](https://github.com/toge)|Feb 16|:memo: cctz|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -230,9 +232,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 591
+	- Open: 592
 	- Draft: 62
-	- Average Age: 118 days, 2 hours, and 28.03 minutes
+	- Average Age: 118 days, and 42.39 minutes
 	- Stop Label: 307
 	
 
