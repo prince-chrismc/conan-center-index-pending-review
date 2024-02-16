@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22792](https://github.com/conan-io/conan-center-index/pull/22792)|[toge](https://github.com/toge)|Feb 16|:memo: cctz|M|0|||
 [#22793](https://github.com/conan-io/conan-center-index/pull/22793)|[juansblanco](https://github.com/juansblanco)|Feb 16|:memo: libgpg-error|:green_circle: XS|2|Feb 16||[ErniGH](https://github.com/ErniGH), **jcar87**
 [#22794](https://github.com/conan-io/conan-center-index/pull/22794)|[crhowell3](https://github.com/crhowell3)|Feb 16|:memo: opendis6|:green_circle: XS|1|Feb 16||**uilianries**
-[#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:stopwatch: sqlitecpp|:green_circle: XS|0|||
+[#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 595
 	- Draft: 62
-	- Average Age: 117 days, 15 hours, and 20.26 minutes
+	- Average Age: 117 days, 16 hours, and 21.52 minutes
 	- Stop Label: 305
 	
 
