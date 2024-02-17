@@ -4871,14 +4871,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22797",
       "LastCommitSHA": "2c71565bc7d8fc3d3fb64e9172d605c63fcc6c23",
       "LastCommitAt": "2024-02-17T08:04:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    },
    {
@@ -4891,14 +4891,54 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22798",
       "LastCommitSHA": "cb169c28d181f64d82e6109d22776f9082c4d25c",
       "LastCommitAt": "2024-02-17T08:13:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 22799,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-17T08:20:42Z",
+      "Recipe": "sfl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22799",
+      "LastCommitSHA": "906707fa759457cbff6194b5d1d221086fa4497c",
+      "LastCommitAt": "2024-02-17T08:20:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 22800,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-17T08:26:30Z",
+      "Recipe": "rtm",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22800",
+      "LastCommitSHA": "f6647e37889925734122ca05a653848be620798d",
+      "LastCommitAt": "2024-02-17T08:25:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
