@@ -4265,10 +4265,10 @@
       "CreatedAt": "2024-02-07T01:01:53Z",
       "Recipe": "battery-embed",
       "Change": 0,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22698",
-      "LastCommitSHA": "fdee0a0e8e2a3be1d949f5a1982782e34edab03d",
-      "LastCommitAt": "2024-02-16T16:44:30Z",
+      "LastCommitSHA": "a4c66b0510c185d0f1dde666a93a74239b6eedab",
+      "LastCommitAt": "2024-02-17T05:33:40Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -4630,6 +4630,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 22785,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-16T00:55:54Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22785",
+      "LastCommitSHA": "5917f9c09e84e399649105acc4fbe618dd5a7e58",
+      "LastCommitAt": "2024-02-17T05:49:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    },
    {
