@@ -4470,19 +4470,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22740",
-      "LastCommitSHA": "d8f878a8ce81db374433a66b3b603fb3958972dd",
-      "LastCommitAt": "2024-02-11T01:01:20Z",
+      "LastCommitSHA": "18c165db206da041913f9b0120ecb573049bf1c7",
+      "LastCommitAt": "2024-02-17T15:12:44Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "bronekrab",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
