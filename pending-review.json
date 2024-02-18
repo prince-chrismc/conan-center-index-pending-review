@@ -1,35 +1,5 @@
 [
    {
-      "Number": 17032,
-      "OpenedBy": "datalogics-kam",
-      "CreatedAt": "2023-04-14T16:10:54Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17032",
-      "LastCommitSHA": "817aa3fa3bbf838a4cf731653a47c71421f922bf",
-      "LastCommitAt": "2023-08-10T16:03:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "Hopobcn",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-08-10T18:38:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17032#pullrequestreview-1572519787"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 17442,
       "OpenedBy": "mtudan",
       "CreatedAt": "2023-05-07T16:24:25Z",
