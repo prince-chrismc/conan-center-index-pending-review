@@ -4883,11 +4883,21 @@
       "LastCommitAt": "2024-02-17T20:21:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "patsp",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "patsp",
+            "SubmittedAt": "2024-02-18T14:31:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22804#pullrequestreview-1887252579"
+         },
          "IsBump": false
       }
    },
