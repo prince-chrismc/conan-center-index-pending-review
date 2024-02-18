@@ -5000,5 +5000,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22814,
+      "OpenedBy": "tt4g",
+      "CreatedAt": "2024-02-18T21:12:10Z",
+      "Recipe": "libpqxx",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22814",
+      "LastCommitSHA": "984972846758b8426a33cd132c6284e50c0f9259",
+      "LastCommitAt": "2024-02-18T21:09:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
    }
 ]
