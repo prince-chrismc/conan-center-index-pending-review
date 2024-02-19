@@ -4532,15 +4532,20 @@
       "LastCommitAt": "2024-02-17T06:40:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "alex-700",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-13T16:08:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22751#pullrequestreview-1878370959"
+            "ReviewerName": "alex-700",
+            "SubmittedAt": "2024-02-19T21:24:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22751#pullrequestreview-1889180737"
          },
          "IsBump": false
       }
