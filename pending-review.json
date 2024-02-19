@@ -2492,19 +2492,14 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21354",
-      "LastCommitSHA": "6e08066e0032af1783b3ba9dcbbd4ac2c3644672",
-      "LastCommitAt": "2024-02-18T00:35:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c2fd07ed490785450ed7e1b62bc99f2d090a9a7c",
+      "LastCommitAt": "2024-02-19T19:40:03Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": [
             "RubenRBS"
          ],
@@ -4017,11 +4012,21 @@
       "LastCommitAt": "2024-02-19T16:42:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-19T19:19:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22585#pullrequestreview-1889049002"
+         },
          "IsBump": false
       }
    },
