@@ -211,11 +211,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22772](https://github.com/conan-io/conan-center-index/pull/22772)|[toge](https://github.com/toge)|Feb 14|:memo: duckdb|L|0|:eyes:||
 [#22777](https://github.com/conan-io/conan-center-index/pull/22777)|[gjasny](https://github.com/gjasny)|Feb 15|:stopwatch: aws-c-mqtt|:green_circle: XS|0|||
 [#22785](https://github.com/conan-io/conan-center-index/pull/22785)|[toge](https://github.com/toge)|Feb 16|:memo: glaze|M|1|Feb 17||
-[#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|0|||
+[#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|0|:eyes:||
 [#22788](https://github.com/conan-io/conan-center-index/pull/22788)|[MartinDelille](https://github.com/MartinDelille)|Feb 16|:stopwatch: wayland|:green_circle: XS|1|Feb 16||jwillikers
 [#22792](https://github.com/conan-io/conan-center-index/pull/22792)|[toge](https://github.com/toge)|Feb 16|:memo: cctz|M|0|||
 [#22793](https://github.com/conan-io/conan-center-index/pull/22793)|[juansblanco](https://github.com/juansblanco)|Feb 16|:memo: libgpg-error|:green_circle: XS|2|Feb 16||[ErniGH](https://github.com/ErniGH), **jcar87**
-[#22794](https://github.com/conan-io/conan-center-index/pull/22794)|[crhowell3](https://github.com/crhowell3)|Feb 16|:memo: opendis6|:green_circle: XS|1|Feb 16||**uilianries**
 [#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:green_circle: XS|0|||
 [#22797](https://github.com/conan-io/conan-center-index/pull/22797)|[toge](https://github.com/toge)|Feb 17|:memo: pcre2|:green_circle: XS|0|||
 [#22799](https://github.com/conan-io/conan-center-index/pull/22799)|[toge](https://github.com/toge)|Feb 17|:memo: sfl|:green_circle: XS|0|||
@@ -225,6 +224,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|M|0|||
 [#22810](https://github.com/conan-io/conan-center-index/pull/22810)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 18|:new: safe|M|0|||
 [#22812](https://github.com/conan-io/conan-center-index/pull/22812)|[garethsb](https://github.com/garethsb)|Feb 18|:stopwatch: nmos-cpp|:green_circle: XS|0|||
+[#22813](https://github.com/conan-io/conan-center-index/pull/22813)|[Viatorus](https://github.com/Viatorus)|Feb 18|:memo: emio|:blue_square: S|0|||
 [#22814](https://github.com/conan-io/conan-center-index/pull/22814)|[tt4g](https://github.com/tt4g)|Feb 18|:memo: libpqxx|:green_circle: XS|0|||
 [#22815](https://github.com/conan-io/conan-center-index/pull/22815)|[toge](https://github.com/toge)|Feb 19|:memo: highway|:green_circle: XS|0|||
 
@@ -248,9 +248,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
 	- Open: 603
-	- Draft: 61
-	- Average Age: 117 days, 4 hours, and 11.91 minutes
-	- Stop Label: 305
+	- Draft: 62
+	- Average Age: 117 days, 11 hours, and 29.74 minutes
+	- Stop Label: 304
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
