@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **195** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,18 +216,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22804](https://github.com/conan-io/conan-center-index/pull/22804)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: tinyply|:green_circle: XS|2|Feb 19||[patsp](https://github.com/patsp), **uilianries**
 [#22808](https://github.com/conan-io/conan-center-index/pull/22808)|[obnyis](https://github.com/obnyis)|Feb 17|:memo: poco|:green_circle: XS|0|||
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|M|0|||
-[#22812](https://github.com/conan-io/conan-center-index/pull/22812)|[garethsb](https://github.com/garethsb)|Feb 18|:stopwatch: nmos-cpp|:green_circle: XS|0|||
-[#22813](https://github.com/conan-io/conan-center-index/pull/22813)|[Viatorus](https://github.com/Viatorus)|Feb 18|:memo: emio|:blue_square: S|0|||
+[#22812](https://github.com/conan-io/conan-center-index/pull/22812)|[garethsb](https://github.com/garethsb)|Feb 18|:stopwatch: nmos-cpp|:green_circle: XS|1|Feb 19||**uilianries**
 [#22814](https://github.com/conan-io/conan-center-index/pull/22814)|[tt4g](https://github.com/tt4g)|Feb 18|:memo: libpqxx|:green_circle: XS|0|||
 [#22815](https://github.com/conan-io/conan-center-index/pull/22815)|[toge](https://github.com/toge)|Feb 19|:memo: highway|:green_circle: XS|0|||
-[#22817](https://github.com/conan-io/conan-center-index/pull/22817)|[uilianries](https://github.com/uilianries)|Feb 19|:stopwatch: boost|M|0|||
-[#22819](https://github.com/conan-io/conan-center-index/pull/22819)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 19|:gear: .c3i|:green_circle: XS|1|Feb 19||**uilianries**
-[#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:stopwatch: xerces-c|:green_circle: XS|0|||
+[#22817](https://github.com/conan-io/conan-center-index/pull/22817)|[uilianries](https://github.com/uilianries)|Feb 19|:memo: boost|M|1|Feb 19||jwillikers
+[#22819](https://github.com/conan-io/conan-center-index/pull/22819)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 19|:gear: .c3i|:green_circle: XS|3|Feb 19||**uilianries**
+[#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:stopwatch: xerces-c|:green_circle: XS|1|Feb 19|uilianries|
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -235,9 +234,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:warning: redradist-icc|2|**uilianries**, jwillikers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#22764](https://github.com/conan-io/conan-center-index/pull/22764)|[toge](https://github.com/toge)|Feb 13|:memo: libcoro|4|**uilianries**, jwillikers
-[#22777](https://github.com/conan-io/conan-center-index/pull/22777)|[gjasny](https://github.com/gjasny)|Feb 15|:memo: aws-c-mqtt|1|**uilianries**
-[#22810](https://github.com/conan-io/conan-center-index/pull/22810)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 18|:new: safe|2|**uilianries**, jwillikers
+[#22813](https://github.com/conan-io/conan-center-index/pull/22813)|[Viatorus](https://github.com/Viatorus)|Feb 18|:memo: emio|1|**uilianries**
 
 
 #### :clipboard: Statistics
@@ -246,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 602
+	- Open: 599
 	- Draft: 61
-	- Average Age: 117 days, 19 hours, and 48.64 minutes
+	- Average Age: 118 days, 10 hours, and 32.07 minutes
 	- Stop Label: 305
 	
 
