@@ -187,7 +187,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22613](https://github.com/conan-io/conan-center-index/pull/22613)|[toge](https://github.com/toge)|Feb 1|:memo: s2n|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
 [#22639](https://github.com/conan-io/conan-center-index/pull/22639)|[matthiasbuhl](https://github.com/matthiasbuhl)|Feb 2|:memo: drogon|:green_circle: XS|2|Feb 9|uilianries|
-[#22655](https://github.com/conan-io/conan-center-index/pull/22655)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 4|:memo: cpptrace|M|1|Feb 19||
+[#22655](https://github.com/conan-io/conan-center-index/pull/22655)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 4|:stopwatch: cpptrace|L|2|Feb 19||
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|1|Feb 19||jwillikers
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|0|:eyes:||
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:stopwatch: date|:green_circle: XS|0|:eyes:||
@@ -244,7 +244,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 594
 	- Draft: 60
-	- Average Age: 118 days, 20 hours, and 17.00 minutes
+	- Average Age: 118 days, 21 hours, and 17.04 minutes
 	- Stop Label: 302
 	
 
