@@ -216,15 +216,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:green_circle: XS|0|||
 [#22797](https://github.com/conan-io/conan-center-index/pull/22797)|[toge](https://github.com/toge)|Feb 17|:memo: pcre2|:green_circle: XS|0|||
 [#22799](https://github.com/conan-io/conan-center-index/pull/22799)|[toge](https://github.com/toge)|Feb 17|:memo: sfl|:green_circle: XS|0|||
-[#22804](https://github.com/conan-io/conan-center-index/pull/22804)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: tinyply|:green_circle: XS|1|Feb 18||[patsp](https://github.com/patsp)
+[#22804](https://github.com/conan-io/conan-center-index/pull/22804)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: tinyply|:green_circle: XS|2|Feb 19||[patsp](https://github.com/patsp), **uilianries**
 [#22808](https://github.com/conan-io/conan-center-index/pull/22808)|[obnyis](https://github.com/obnyis)|Feb 17|:memo: poco|:green_circle: XS|0|||
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|M|0|||
-[#22810](https://github.com/conan-io/conan-center-index/pull/22810)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 18|:new: safe|M|0|||
+[#22810](https://github.com/conan-io/conan-center-index/pull/22810)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 18|:new: safe|M|1|Feb 19||**uilianries**
 [#22812](https://github.com/conan-io/conan-center-index/pull/22812)|[garethsb](https://github.com/garethsb)|Feb 18|:stopwatch: nmos-cpp|:green_circle: XS|0|||
 [#22813](https://github.com/conan-io/conan-center-index/pull/22813)|[Viatorus](https://github.com/Viatorus)|Feb 18|:memo: emio|:blue_square: S|0|||
 [#22814](https://github.com/conan-io/conan-center-index/pull/22814)|[tt4g](https://github.com/tt4g)|Feb 18|:memo: libpqxx|:green_circle: XS|0|||
 [#22815](https://github.com/conan-io/conan-center-index/pull/22815)|[toge](https://github.com/toge)|Feb 19|:memo: highway|:green_circle: XS|0|||
-[#22819](https://github.com/conan-io/conan-center-index/pull/22819)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 19|:gear: .c3i|:green_circle: XS|0|||
+[#22819](https://github.com/conan-io/conan-center-index/pull/22819)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 19|:gear: .c3i|:green_circle: XS|1|Feb 19||**uilianries**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -247,7 +247,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 602
 	- Draft: 62
-	- Average Age: 117 days, 18 hours, and 32.20 minutes
+	- Average Age: 117 days, 19 hours, and 23.00 minutes
 	- Stop Label: 305
 	
 
