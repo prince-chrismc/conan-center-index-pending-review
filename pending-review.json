@@ -4103,21 +4103,21 @@
       "CreatedAt": "2024-02-04T21:16:04Z",
       "Recipe": "cpptrace",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22655",
-      "LastCommitSHA": "6b2bae2caf28f640e9bd6208187f0a1dcae5919a",
-      "LastCommitAt": "2024-02-19T17:07:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "4bfba607a042d84a2ea392d32d570211a4631a9c",
+      "LastCommitAt": "2024-02-19T22:47:13Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-19T16:59:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22655#pullrequestreview-1888881760"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-19T22:18:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22655#pullrequestreview-1889235472"
          },
          "IsBump": false
       }
