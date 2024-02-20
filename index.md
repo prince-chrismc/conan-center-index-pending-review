@@ -72,7 +72,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11 :bell:||MartinDelille
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
-[#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:stopwatch: openexr|M|4|Oct 27 :bell:||
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
 [#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:memo: openimageio|XL|11|Feb 6 :bell:||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
@@ -210,11 +209,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|M|2|Feb 20||**uilianries**
 [#22812](https://github.com/conan-io/conan-center-index/pull/22812)|[garethsb](https://github.com/garethsb)|Feb 18|:stopwatch: nmos-cpp|:green_circle: XS|1|Feb 19||**uilianries**
 [#22817](https://github.com/conan-io/conan-center-index/pull/22817)|[uilianries](https://github.com/uilianries)|Feb 19|:stopwatch: boost|M|3|Feb 20||jwillikers
-[#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:stopwatch: xerces-c|:blue_square: S|3|Feb 20||**uilianries**
+[#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:memo: xerces-c|:blue_square: S|3|Feb 20||**uilianries**
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|||
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|0|||
 [#22828](https://github.com/conan-io/conan-center-index/pull/22828)|[metalMajor](https://github.com/metalMajor)|Feb 20|:stopwatch: libq|M|0|||
-[#22829](https://github.com/conan-io/conan-center-index/pull/22829)|[uilianries](https://github.com/uilianries)|Feb 20|:stopwatch: .c3i|:green_circle: XS|0|||
+[#22829](https://github.com/conan-io/conan-center-index/pull/22829)|[uilianries](https://github.com/uilianries)|Feb 20|:gear: .c3i|:green_circle: XS|0|||
+[#22832](https://github.com/conan-io/conan-center-index/pull/22832)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 20|:stopwatch: openssl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,10 +236,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 588
+	- Open: 589
 	- Draft: 59
-	- Average Age: 118 days, 10 hours, and 41.19 minutes
-	- Stop Label: 302
+	- Average Age: 118 days, and 21.53 minutes
+	- Stop Label: 303
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
