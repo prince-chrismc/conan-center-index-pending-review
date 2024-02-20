@@ -4929,9 +4929,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22823",
-      "LastCommitSHA": "f3032c033ee8a2cc1b1f4cdb8398afd4ed8a0e3b",
-      "LastCommitAt": "2024-02-19T15:39:42Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "36416bc98529f7ce8bd895cba7004aa6d26c3c51",
+      "LastCommitAt": "2024-02-20T02:29:22Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4939,6 +4939,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 22825,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-20T02:39:22Z",
+      "Recipe": "daw_header_libraries",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22825",
+      "LastCommitSHA": "282a69bf512b44c80451009714ecbb36548dc72a",
+      "LastCommitAt": "2024-02-20T02:37:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
