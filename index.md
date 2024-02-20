@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **196** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -221,7 +221,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22815](https://github.com/conan-io/conan-center-index/pull/22815)|[toge](https://github.com/toge)|Feb 19|:memo: highway|:green_circle: XS|0|||
 [#22817](https://github.com/conan-io/conan-center-index/pull/22817)|[uilianries](https://github.com/uilianries)|Feb 19|:memo: boost|M|2|Feb 19||jwillikers, [grafikrobot](https://github.com/grafikrobot)
 [#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:stopwatch: xerces-c|:green_circle: XS|1|Feb 19|uilianries|
-[#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:stopwatch: fpng|M|0|||
+[#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|||
+[#22825](https://github.com/conan-io/conan-center-index/pull/22825)|[toge](https://github.com/toge)|Feb 20|:memo: daw_header_libraries|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,10 +243,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 594
+	- Open: 596
 	- Draft: 60
-	- Average Age: 118 days, 22 hours, and 53.13 minutes
-	- Stop Label: 302
+	- Average Age: 118 days, 15 hours, and 43.32 minutes
+	- Stop Label: 303
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
