@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,6 +216,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22830](https://github.com/conan-io/conan-center-index/pull/22830)|[RubenRBS](https://github.com/RubenRBS)|Feb 20|:memo: openexr|L|2|Feb 20||
 [#22834](https://github.com/conan-io/conan-center-index/pull/22834)|[toge](https://github.com/toge)|Feb 21|:memo: daw_utf_range|:blue_square: S|0|||
 [#22835](https://github.com/conan-io/conan-center-index/pull/22835)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|0|||
+[#22836](https://github.com/conan-io/conan-center-index/pull/22836)|[reneme](https://github.com/reneme)|Feb 21|:memo: botan|:green_circle: XS|0|||
+[#22837](https://github.com/conan-io/conan-center-index/pull/22837)|[reneme](https://github.com/reneme)|Feb 21|:memo: botan|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 583
+	- Open: 585
 	- Draft: 59
-	- Average Age: 117 days, 22 hours, and 24.34 minutes
+	- Average Age: 117 days, 13 hours, and 48.48 minutes
 	- Stop Label: 297
 	
 
