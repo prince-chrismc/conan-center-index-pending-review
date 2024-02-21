@@ -4778,5 +4778,45 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22836,
+      "OpenedBy": "reneme",
+      "CreatedAt": "2024-02-21T07:19:16Z",
+      "Recipe": "botan",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22836",
+      "LastCommitSHA": "01c5c8a45a4bef0789309e2d3174da667ccaed4d",
+      "LastCommitAt": "2024-02-21T07:13:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 22837,
+      "OpenedBy": "reneme",
+      "CreatedAt": "2024-02-21T07:26:57Z",
+      "Recipe": "botan",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22837",
+      "LastCommitSHA": "4c32720f897d2cacab675b90104bb0de7752578c",
+      "LastCommitAt": "2024-02-21T07:24:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
    }
 ]
