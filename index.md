@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **199** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -221,11 +221,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22834](https://github.com/conan-io/conan-center-index/pull/22834)|[toge](https://github.com/toge)|Feb 21|:memo: daw_utf_range|:blue_square: S|0|||
 [#22835](https://github.com/conan-io/conan-center-index/pull/22835)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|2|Feb 21||jwillikers
 [#22837](https://github.com/conan-io/conan-center-index/pull/22837)|[reneme](https://github.com/reneme)|Feb 21|:memo: botan|:green_circle: XS|0|||
-[#22838](https://github.com/conan-io/conan-center-index/pull/22838)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: wayland|:green_circle: XS|2|Feb 21||jwillikers, MartinDelille
-[#22839](https://github.com/conan-io/conan-center-index/pull/22839)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#22841](https://github.com/conan-io/conan-center-index/pull/22841)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: botan|:blue_square: S|0|||
 [#22842](https://github.com/conan-io/conan-center-index/pull/22842)|[johannes-wolf](https://github.com/johannes-wolf)|Feb 21|:stopwatch: simfil|M|0|||
 [#22843](https://github.com/conan-io/conan-center-index/pull/22843)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|1|Feb 21||jwillikers
+[#22845](https://github.com/conan-io/conan-center-index/pull/22845)|[toge](https://github.com/toge)|Feb 21|:stopwatch: perfetto|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -253,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 589
+	- Open: 588
 	- Draft: 59
-	- Average Age: 117 days, 1 hours, and 33.35 minutes
+	- Average Age: 117 days, 7 hours, and 22.32 minutes
 	- Stop Label: 286
 	
 
