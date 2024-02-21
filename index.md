@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|0|||
 [#22828](https://github.com/conan-io/conan-center-index/pull/22828)|[metalMajor](https://github.com/metalMajor)|Feb 20|:stopwatch: libq|M|0|||
 [#22834](https://github.com/conan-io/conan-center-index/pull/22834)|[toge](https://github.com/toge)|Feb 21|:memo: daw_utf_range|:blue_square: S|0|||
-[#22835](https://github.com/conan-io/conan-center-index/pull/22835)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|1|Feb 21||jwillikers
+[#22835](https://github.com/conan-io/conan-center-index/pull/22835)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|2|Feb 21||jwillikers
 [#22837](https://github.com/conan-io/conan-center-index/pull/22837)|[reneme](https://github.com/reneme)|Feb 21|:memo: botan|:green_circle: XS|0|||
 [#22838](https://github.com/conan-io/conan-center-index/pull/22838)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: wayland|:green_circle: XS|2|Feb 21||jwillikers, MartinDelille
 [#22839](https://github.com/conan-io/conan-center-index/pull/22839)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: backward-cpp|:green_circle: XS|0|||
@@ -239,7 +239,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#22585](https://github.com/conan-io/conan-center-index/pull/22585)|[toge](https://github.com/toge)|Jan 29|:memo: lua|2|**RubenRBS**, jwillikers
-[#22748](https://github.com/conan-io/conan-center-index/pull/22748)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:warning: backward-cpp|2|**RubenRBS**, jwillikers
+[#22748](https://github.com/conan-io/conan-center-index/pull/22748)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:warning: backward-cpp|3|**RubenRBS**, jwillikers, [CJCombrink](https://github.com/CJCombrink)
 [#22785](https://github.com/conan-io/conan-center-index/pull/22785)|[toge](https://github.com/toge)|Feb 16|:memo: glaze|3|**RubenRBS**, jwillikers
 [#22797](https://github.com/conan-io/conan-center-index/pull/22797)|[toge](https://github.com/toge)|Feb 17|:memo: pcre2|2|**uilianries**, jwillikers
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|3|**uilianries**, jwillikers
@@ -255,7 +255,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 589
 	- Draft: 59
-	- Average Age: 117 days, and 32.19 minutes
+	- Average Age: 117 days, 1 hours, and 33.35 minutes
 	- Stop Label: 286
 	
 
