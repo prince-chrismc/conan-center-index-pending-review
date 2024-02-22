@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -122,7 +122,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21492](https://github.com/conan-io/conan-center-index/pull/21492)|[gjasny](https://github.com/gjasny)|Nov 30|:memo: aws-c-s3|:blue_square: S|0|||
 [#21511](https://github.com/conan-io/conan-center-index/pull/21511)|[valgur](https://github.com/valgur)|Nov 30|:memo: libspatialite|L|7|Jan 24 :bell:||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|1|Dec 20 :bell:||
-[#21535](https://github.com/conan-io/conan-center-index/pull/21535)|[jwillikers](https://github.com/jwillikers)|Dec 1|:stopwatch: glib|M|1|Dec 1 :bell:||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|9|Feb 16|RubenRBS|
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|4|Jan 6 :bell:||jwillikers
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:memo: sundials|M|1|Jan 6 :bell:||
@@ -194,7 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|4|Feb 17||[Ahajha](https://github.com/Ahajha)
 [#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|1|Feb 12||
 [#22740](https://github.com/conan-io/conan-center-index/pull/22740)|[sourcedelica](https://github.com/sourcedelica)|Feb 11|:memo: redis-plus-plus|:green_circle: XS|2|Feb 12||
-[#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|0|||
+[#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|0|:eyes:||
 [#22751](https://github.com/conan-io/conan-center-index/pull/22751)|[toge](https://github.com/toge)|Feb 12|:memo: s2geometry|:blue_square: S|3|Feb 19||[alex-700](https://github.com/alex-700)
 [#22770](https://github.com/conan-io/conan-center-index/pull/22770)|[RubenRBS](https://github.com/RubenRBS)|Feb 14|:memo: easyexif|M|0|:eyes:||
 [#22771](https://github.com/conan-io/conan-center-index/pull/22771)|[RubenRBS](https://github.com/RubenRBS)|Feb 14|:memo: oatpp-libressl|:blue_square: S|0|:eyes:||
@@ -217,6 +216,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22853](https://github.com/conan-io/conan-center-index/pull/22853)|[joergbrech](https://github.com/joergbrech)|Feb 22|:stopwatch: opencascade|L|0|||
 [#22855](https://github.com/conan-io/conan-center-index/pull/22855)|[mmomtchev](https://github.com/mmomtchev)|Feb 22|:stopwatch: freetype|:green_circle: XS|0|||
 [#22856](https://github.com/conan-io/conan-center-index/pull/22856)|[toge](https://github.com/toge)|Feb 22|:stopwatch: dice-template-library|:blue_square: S|0|||
+[#22857](https://github.com/conan-io/conan-center-index/pull/22857)|[toge](https://github.com/toge)|Feb 22|:stopwatch: glaze|:green_circle: XS|0|||
+[#22858](https://github.com/conan-io/conan-center-index/pull/22858)|[toge](https://github.com/toge)|Feb 22|:stopwatch: meson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -240,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 587
+	- Open: 589
 	- Draft: 58
-	- Average Age: 117 days, 17 hours, and 42.15 minutes
-	- Stop Label: 297
+	- Average Age: 117 days, 9 hours, and 1.79 minutes
+	- Stop Label: 298
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
