@@ -27,7 +27,6 @@ There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
-[#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|2|Jun 22 :bell:||jwillikers, SSE4
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|1|Feb 16||**danimtb**
@@ -227,6 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22843](https://github.com/conan-io/conan-center-index/pull/22843)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|1|Feb 21||jwillikers
 [#22845](https://github.com/conan-io/conan-center-index/pull/22845)|[toge](https://github.com/toge)|Feb 21|:stopwatch: perfetto|:green_circle: XS|0|||
 [#22846](https://github.com/conan-io/conan-center-index/pull/22846)|[Dobiasd](https://github.com/Dobiasd)|Feb 21|:stopwatch: functionalplus|:green_circle: XS|0|||
+[#22847](https://github.com/conan-io/conan-center-index/pull/22847)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 22|:stopwatch: zlib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -256,9 +256,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
 	- Open: 589
-	- Draft: 59
-	- Average Age: 117 days, 11 hours, and 8.26 minutes
-	- Stop Label: 284
+	- Draft: 58
+	- Average Age: 117 days, 5 hours, and 28.24 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
