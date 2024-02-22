@@ -2368,20 +2368,24 @@
       "LastCommitAt": "2023-11-19T10:00:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "EstebanDugueperoux2",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-20T12:38:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21242#pullrequestreview-1739716344"
+            "ReviewerName": "EstebanDugueperoux2",
+            "SubmittedAt": "2024-02-22T07:46:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21242#pullrequestreview-1895140305"
          },
          "IsBump": false
       }
