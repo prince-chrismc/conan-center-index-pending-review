@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,7 +212,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22841](https://github.com/conan-io/conan-center-index/pull/22841)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:memo: botan|:blue_square: S|0|||
 [#22846](https://github.com/conan-io/conan-center-index/pull/22846)|[Dobiasd](https://github.com/Dobiasd)|Feb 21|:memo: functionalplus|:green_circle: XS|0|||
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|||
-[#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:memo: stdgpu|:green_circle: XS|0|||
+[#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|||
+[#22852](https://github.com/conan-io/conan-center-index/pull/22852)|[garethsb](https://github.com/garethsb)|Feb 22|:memo: nmos-cpp|:blue_square: S|0|||
+[#22853](https://github.com/conan-io/conan-center-index/pull/22853)|[joergbrech](https://github.com/joergbrech)|Feb 22|:stopwatch: opencascade|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,10 +238,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 583
+	- Open: 584
 	- Draft: 58
-	- Average Age: 118 days, 11 hours, and 2.77 minutes
-	- Stop Label: 297
+	- Average Age: 118 days, 7 hours, and 9.86 minutes
+	- Stop Label: 296
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
