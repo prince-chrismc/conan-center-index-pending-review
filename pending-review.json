@@ -2248,7 +2248,7 @@
       "LastCommitAt": "2023-11-19T10:00:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -2263,9 +2263,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "EstebanDugueperoux2",
-            "SubmittedAt": "2024-02-22T07:46:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21242#pullrequestreview-1895140305"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-22T15:49:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21242#pullrequestreview-1896210618"
          },
          "IsBump": false
       }
@@ -4550,7 +4550,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22821",
       "LastCommitSHA": "86eeec5924e42cccf8721efe73fb85d947bff61a",
       "LastCommitAt": "2024-02-22T14:54:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -4804,6 +4804,46 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22853",
       "LastCommitSHA": "33f74189320025db283484527d403ae9e4764cb4",
       "LastCommitAt": "2024-02-22T14:37:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22855,
+      "OpenedBy": "mmomtchev",
+      "CreatedAt": "2024-02-22T16:06:09Z",
+      "Recipe": "freetype",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22855",
+      "LastCommitSHA": "d1e7c1bb37f1672bc024cddf517abb212a1f5f2b",
+      "LastCommitAt": "2024-02-22T16:07:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22856,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-22T16:11:03Z",
+      "Recipe": "dice-template-library",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22856",
+      "LastCommitSHA": "8d9074e64d32a0b505d16953d8e2580be94cdcae",
+      "LastCommitAt": "2024-02-22T16:10:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
