@@ -4744,26 +4744,6 @@
       }
    },
    {
-      "Number": 22852,
-      "OpenedBy": "garethsb",
-      "CreatedAt": "2024-02-22T13:59:36Z",
-      "Recipe": "nmos-cpp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22852",
-      "LastCommitSHA": "8f0ecfcce98e40aa76f3cdbe30c3783f2995f87f",
-      "LastCommitAt": "2024-02-22T14:03:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22853,
       "OpenedBy": "joergbrech",
       "CreatedAt": "2024-02-22T14:35:29Z",
