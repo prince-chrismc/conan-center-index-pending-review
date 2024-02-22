@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -226,12 +226,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22843](https://github.com/conan-io/conan-center-index/pull/22843)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:stopwatch: qt|L|1|Feb 21||jwillikers
 [#22845](https://github.com/conan-io/conan-center-index/pull/22845)|[toge](https://github.com/toge)|Feb 21|:stopwatch: perfetto|:green_circle: XS|0|||
 [#22846](https://github.com/conan-io/conan-center-index/pull/22846)|[Dobiasd](https://github.com/Dobiasd)|Feb 21|:stopwatch: functionalplus|:green_circle: XS|0|||
-[#22847](https://github.com/conan-io/conan-center-index/pull/22847)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 22|:stopwatch: zlib|:green_circle: XS|1|Feb 22||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -239,14 +238,13 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:warning: redradist-icc|2|**uilianries**, jwillikers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#22585](https://github.com/conan-io/conan-center-index/pull/22585)|[toge](https://github.com/toge)|Jan 29|:memo: lua|2|**RubenRBS**, jwillikers
 [#22748](https://github.com/conan-io/conan-center-index/pull/22748)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:warning: backward-cpp|3|**RubenRBS**, jwillikers, [CJCombrink](https://github.com/CJCombrink)
 [#22785](https://github.com/conan-io/conan-center-index/pull/22785)|[toge](https://github.com/toge)|Feb 16|:memo: glaze|3|**RubenRBS**, jwillikers
-[#22788](https://github.com/conan-io/conan-center-index/pull/22788)|[MartinDelille](https://github.com/MartinDelille)|Feb 16|:memo: wayland|3|jwillikers, **jcar87**
+[#22788](https://github.com/conan-io/conan-center-index/pull/22788)|[MartinDelille](https://github.com/MartinDelille)|Feb 16|:warning: wayland|3|jwillikers, **jcar87**
 [#22797](https://github.com/conan-io/conan-center-index/pull/22797)|[toge](https://github.com/toge)|Feb 17|:memo: pcre2|2|**uilianries**, jwillikers
 [#22809](https://github.com/conan-io/conan-center-index/pull/22809)|[toge](https://github.com/toge)|Feb 18|:memo: glog|3|**uilianries**, jwillikers
 [#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:warning: xerces-c|4|**uilianries**, jwillikers
-[#22830](https://github.com/conan-io/conan-center-index/pull/22830)|[RubenRBS](https://github.com/RubenRBS)|Feb 20|:memo: openexr|4|**franramirez688**, **uilianries**
+[#22847](https://github.com/conan-io/conan-center-index/pull/22847)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 22|:memo: zlib|4|ericLemanissier, **jcar87**, **uilianries**, **RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -255,9 +253,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 589
-	- Draft: 58
-	- Average Age: 117 days, 7 hours, and 29.64 minutes
+	- Open: 586
+	- Draft: 57
+	- Average Age: 117 days, 20 hours, and 30.78 minutes
 	- Stop Label: 285
 	
 
