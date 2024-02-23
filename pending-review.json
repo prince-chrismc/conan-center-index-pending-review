@@ -2321,31 +2321,6 @@
       }
    },
    {
-      "Number": 21323,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-23T08:39:20Z",
-      "Recipe": "duckx",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21323",
-      "LastCommitSHA": "ca6bae3ea1f48b6f65b95467ab2f050faf65eb9b",
-      "LastCommitAt": "2023-11-28T15:24:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-28T10:48:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21323#pullrequestreview-1752587813"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 21341,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-23T20:20:51Z",
