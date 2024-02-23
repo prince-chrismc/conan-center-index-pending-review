@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -215,7 +215,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22858](https://github.com/conan-io/conan-center-index/pull/22858)|[toge](https://github.com/toge)|Feb 22|:memo: meson|:green_circle: XS|0|||
 [#22859](https://github.com/conan-io/conan-center-index/pull/22859)|[igormironchik](https://github.com/igormironchik)|Feb 22|:memo: md4qt|:green_circle: XS|0|||
 [#22860](https://github.com/conan-io/conan-center-index/pull/22860)|[bobrofon](https://github.com/bobrofon)|Feb 22|:stopwatch: sdbus-cpp|:blue_square: S|0|||
-[#22867](https://github.com/conan-io/conan-center-index/pull/22867)|[toge](https://github.com/toge)|Feb 23|:memo: imgui|:green_circle: XS|1|Feb 23||**RubenRBS**
 [#22868](https://github.com/conan-io/conan-center-index/pull/22868)|[toge](https://github.com/toge)|Feb 23|:stopwatch: libhal|:green_circle: XS|0|||
 [#22869](https://github.com/conan-io/conan-center-index/pull/22869)|[toge](https://github.com/toge)|Feb 23|:memo: tree-sitter|:green_circle: XS|0|||
 [#22870](https://github.com/conan-io/conan-center-index/pull/22870)|[uilianries](https://github.com/uilianries)|Feb 23|:gear: .c3i|:green_circle: XS|1|Feb 23||**RubenRBS**
@@ -244,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 598
+	- Open: 597
 	- Draft: 58
-	- Average Age: 115 days, 19 hours, and 54.34 minutes
+	- Average Age: 116 days, 1 hours, and 29.35 minutes
 	- Stop Label: 303
 	
 
