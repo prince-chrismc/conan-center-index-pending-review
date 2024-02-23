@@ -4746,9 +4746,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22857",
-      "LastCommitSHA": "67041673e12b69d82c654fb1329fd0ff39b0385c",
-      "LastCommitAt": "2024-02-22T17:02:18Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e66e14e354e72481353b3f9768151147a1b72989",
+      "LastCommitAt": "2024-02-23T07:05:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4828,7 +4828,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22867",
       "LastCommitSHA": "0f9cbae194c8172a840c17005bd64d11ee3be750",
       "LastCommitAt": "2024-02-23T06:05:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4856,6 +4856,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 22869,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-23T06:31:48Z",
+      "Recipe": "tree-sitter",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22869",
+      "LastCommitSHA": "91753e675061a67ced3a3142f58f5e9f9fdd4098",
+      "LastCommitAt": "2024-02-23T06:29:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
