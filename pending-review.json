@@ -4744,26 +4744,6 @@
       }
    },
    {
-      "Number": 22853,
-      "OpenedBy": "joergbrech",
-      "CreatedAt": "2024-02-22T14:35:29Z",
-      "Recipe": "opencascade",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22853",
-      "LastCommitSHA": "33f74189320025db283484527d403ae9e4764cb4",
-      "LastCommitAt": "2024-02-22T14:37:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22856,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-22T16:11:03Z",
