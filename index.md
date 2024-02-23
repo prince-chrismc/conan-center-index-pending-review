@@ -199,7 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:green_circle: XS|0|:eyes:||
 [#22802](https://github.com/conan-io/conan-center-index/pull/22802)|[toge](https://github.com/toge)|Feb 17|:memo: nghttp3|:blue_square: S|0|||
 [#22808](https://github.com/conan-io/conan-center-index/pull/22808)|[obnyis](https://github.com/obnyis)|Feb 17|:memo: poco|:green_circle: XS|0|:eyes:||
-[#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|||
+[#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|:eyes:||
 [#22824](https://github.com/conan-io/conan-center-index/pull/22824)|[toge](https://github.com/toge)|Feb 20|:memo: celero|M|0|||
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|0|||
 [#22828](https://github.com/conan-io/conan-center-index/pull/22828)|[metalMajor](https://github.com/metalMajor)|Feb 20|:stopwatch: libq|M|0|||
@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22846](https://github.com/conan-io/conan-center-index/pull/22846)|[Dobiasd](https://github.com/Dobiasd)|Feb 21|:memo: functionalplus|:green_circle: XS|0|||
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|||
-[#22856](https://github.com/conan-io/conan-center-index/pull/22856)|[toge](https://github.com/toge)|Feb 22|:stopwatch: dice-template-library|:blue_square: S|0|||
+[#22856](https://github.com/conan-io/conan-center-index/pull/22856)|[toge](https://github.com/toge)|Feb 22|:memo: dice-template-library|:blue_square: S|0|||
 [#22857](https://github.com/conan-io/conan-center-index/pull/22857)|[toge](https://github.com/toge)|Feb 22|:memo: glaze|:green_circle: XS|0|||
 [#22858](https://github.com/conan-io/conan-center-index/pull/22858)|[toge](https://github.com/toge)|Feb 22|:memo: meson|:green_circle: XS|0|||
 [#22859](https://github.com/conan-io/conan-center-index/pull/22859)|[igormironchik](https://github.com/igormironchik)|Feb 22|:memo: md4qt|:green_circle: XS|0|||
@@ -241,7 +241,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 594
 	- Draft: 58
-	- Average Age: 116 days, 18 hours, and 24.85 minutes
+	- Average Age: 116 days, 19 hours, and 19.48 minutes
 	- Stop Label: 304
 	
 
