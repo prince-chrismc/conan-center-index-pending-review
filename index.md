@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18642](https://github.com/conan-io/conan-center-index/pull/18642)|[valgur](https://github.com/valgur)|Jul 19|:memo: libidn2|L|1|Nov 27 :bell:||
 [#18672](https://github.com/conan-io/conan-center-index/pull/18672)|[valgur](https://github.com/valgur)|Jul 19|:memo: kcov|L|0|:eyes:||
 [#18715](https://github.com/conan-io/conan-center-index/pull/18715)|[valgur](https://github.com/valgur)|Jul 20|:memo: scc|L|0|:eyes:||
-[#18721](https://github.com/conan-io/conan-center-index/pull/18721)|[valgur](https://github.com/valgur)|Jul 20|:memo: sleef|L|0|:eyes:||
 [#18743](https://github.com/conan-io/conan-center-index/pull/18743)|[valgur](https://github.com/valgur)|Jul 20|:memo: qxmpp|L|0|:eyes:||
 [#18788](https://github.com/conan-io/conan-center-index/pull/18788)|[valgur](https://github.com/valgur)|Jul 22|:memo: openvr|L|0|:eyes:||
 [#18800](https://github.com/conan-io/conan-center-index/pull/18800)|[valgur](https://github.com/valgur)|Jul 22|:memo: openldap|L|0|:eyes:||
@@ -113,6 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|3|Feb 22||jwillikers, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|1|Nov 20 :bell:||jwillikers
 [#21305](https://github.com/conan-io/conan-center-index/pull/21305)|[toge](https://github.com/toge)|Nov 22|:memo: jinja2cpp|M|3|Nov 23 :bell:||
+[#21323](https://github.com/conan-io/conan-center-index/pull/21323)|[toge](https://github.com/toge)|Nov 23|:stopwatch: duckx|M|3|Feb 23||
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
 [#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:stopwatch: wxwidgets|L|0|:eyes:||
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4 :bell:||jwillikers
@@ -212,13 +212,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|||
 [#22856](https://github.com/conan-io/conan-center-index/pull/22856)|[toge](https://github.com/toge)|Feb 22|:memo: dice-template-library|:blue_square: S|0|||
+[#22857](https://github.com/conan-io/conan-center-index/pull/22857)|[toge](https://github.com/toge)|Feb 22|:memo: glaze|:blue_square: S|0|||
 [#22858](https://github.com/conan-io/conan-center-index/pull/22858)|[toge](https://github.com/toge)|Feb 22|:memo: meson|:green_circle: XS|0|||
 [#22859](https://github.com/conan-io/conan-center-index/pull/22859)|[igormironchik](https://github.com/igormironchik)|Feb 22|:memo: md4qt|:green_circle: XS|0|||
 [#22860](https://github.com/conan-io/conan-center-index/pull/22860)|[bobrofon](https://github.com/bobrofon)|Feb 22|:stopwatch: sdbus-cpp|:blue_square: S|0|||
 [#22868](https://github.com/conan-io/conan-center-index/pull/22868)|[toge](https://github.com/toge)|Feb 23|:stopwatch: libhal|:green_circle: XS|0|||
 [#22869](https://github.com/conan-io/conan-center-index/pull/22869)|[toge](https://github.com/toge)|Feb 23|:memo: tree-sitter|:green_circle: XS|0|||
 [#22870](https://github.com/conan-io/conan-center-index/pull/22870)|[uilianries](https://github.com/uilianries)|Feb 23|:gear: .c3i|:green_circle: XS|1|Feb 23||**RubenRBS**
-[#22871](https://github.com/conan-io/conan-center-index/pull/22871)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 23|:green_book: docs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 597
+	- Open: 596
 	- Draft: 58
-	- Average Age: 116 days, 1 hours, and 29.35 minutes
+	- Average Age: 116 days, 7 hours, and 20.89 minutes
 	- Stop Label: 303
 	
 
