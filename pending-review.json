@@ -20,40 +20,6 @@
       }
    },
    {
-      "Number": 17485,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-05-09T19:05:41Z",
-      "Recipe": "libxft",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17485",
-      "LastCommitSHA": "a2cbbc8b39788ea9201a2006ba57669ec5b50f2a",
-      "LastCommitAt": "2023-05-09T19:03:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-22T18:31:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17485#pullrequestreview-1493788144"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 17609,
       "OpenedBy": "swebb2066",
       "CreatedAt": "2023-05-18T08:32:25Z",
@@ -4710,26 +4676,6 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22873#pullrequestreview-1898301841"
          },
          "IsBump": false
-      }
-   },
-   {
-      "Number": 22875,
-      "OpenedBy": "Dobiasd",
-      "CreatedAt": "2024-02-23T19:28:59Z",
-      "Recipe": "frugally-deep",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22875",
-      "LastCommitSHA": "b565f5d48faf316d2b32b55f7c7c745c4d947723",
-      "LastCommitAt": "2024-02-23T19:28:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": true
       }
    },
    {
