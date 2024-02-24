@@ -2721,7 +2721,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21764",
       "LastCommitSHA": "8d9f05eabfef33003f2dcf19d3a46637c9ad7635",
       "LastCommitAt": "2024-02-23T14:38:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4869,7 +4869,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22881",
       "LastCommitSHA": "5a1745b734dbfa8b8ba5a0a02d3f1348961bd82a",
       "LastCommitAt": "2024-02-24T14:40:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4889,6 +4889,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22882",
       "LastCommitSHA": "4980378090783941c1672d6510c7d3435ac1f4aa",
       "LastCommitAt": "2024-02-24T14:51:34Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 22884,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-24T16:08:12Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22884",
+      "LastCommitSHA": "ac985b4eaa6634e63ae9d854da2fc539123b043f",
+      "LastCommitAt": "2024-02-24T16:07:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
