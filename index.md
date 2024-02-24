@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **181** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -73,6 +73,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
+[#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:stopwatch: openimageio|XL|13|Feb 24||
 [#20010](https://github.com/conan-io/conan-center-index/pull/20010)|[valgur](https://github.com/valgur)|Sep 20|:memo: behaviortree.cpp|XL|0|:eyes:||
 [#20068](https://github.com/conan-io/conan-center-index/pull/20068)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:memo: armadillo|L|6|Jan 10 :bell:||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||valgur
@@ -187,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|4|Feb 14||jwillikers, MartinDelille, [paulharris](https://github.com/paulharris)
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|4|Feb 23||[Ahajha](https://github.com/Ahajha), **RubenRBS**
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|4|Feb 17||[Ahajha](https://github.com/Ahajha)
-[#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|1|Feb 12||
+[#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|1|Feb 12 :bell:||
 [#22740](https://github.com/conan-io/conan-center-index/pull/22740)|[sourcedelica](https://github.com/sourcedelica)|Feb 11|:memo: redis-plus-plus|:green_circle: XS|2|Feb 12||
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|0|:eyes:||
 [#22751](https://github.com/conan-io/conan-center-index/pull/22751)|[toge](https://github.com/toge)|Feb 12|:memo: s2geometry|:blue_square: S|3|Feb 19||[alex-700](https://github.com/alex-700)
@@ -234,8 +235,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 589
 	- Draft: 58
-	- Average Age: 118 days, 3 hours, and 35.87 minutes
-	- Stop Label: 305
+	- Average Age: 118 days, 5 hours, and 34.83 minutes
+	- Stop Label: 304
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
