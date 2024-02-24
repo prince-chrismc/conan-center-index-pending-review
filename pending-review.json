@@ -4673,40 +4673,6 @@
       }
    },
    {
-      "Number": 22869,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-23T06:31:48Z",
-      "Recipe": "tree-sitter",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22869",
-      "LastCommitSHA": "f207077aff50036b0833c078b63e0266071bc8a9",
-      "LastCommitAt": "2024-02-24T01:01:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-02-23T19:20:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22869#pullrequestreview-1898788831"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22870,
       "OpenedBy": "uilianries",
       "CreatedAt": "2024-02-23T09:35:37Z",
