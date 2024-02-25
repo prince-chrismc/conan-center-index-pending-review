@@ -5162,25 +5162,5 @@
          "Blockers": null,
          "IsBump": false
       }
-   },
-   {
-      "Number": 22891,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-25T14:04:30Z",
-      "Recipe": "idna",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22891",
-      "LastCommitSHA": "a5369f8080f7446ca6c7accf04e701ff95e0901d",
-      "LastCommitAt": "2024-02-25T14:03:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
