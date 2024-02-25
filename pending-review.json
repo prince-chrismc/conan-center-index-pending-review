@@ -5172,5 +5172,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22893,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2024-02-25T20:20:53Z",
+      "Recipe": "hictk",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22893",
+      "LastCommitSHA": "85d5ab5a03964cb09eeb836c58448e7a4c653ce6",
+      "LastCommitAt": "2024-02-25T20:17:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
    }
 ]
