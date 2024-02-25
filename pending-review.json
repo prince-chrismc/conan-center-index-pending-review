@@ -4583,8 +4583,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22788",
-      "LastCommitSHA": "2d7be33a53afd59ed379eb5c32bcc2141680f67f",
-      "LastCommitAt": "2024-02-21T16:54:11Z",
+      "LastCommitSHA": "996164dfa5e9a95b240afa887ef5744611edb4eb",
+      "LastCommitAt": "2024-02-25T11:50:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -5141,6 +5141,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 22890,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-25T09:33:59Z",
+      "Recipe": "pathie-cpp",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22890",
+      "LastCommitSHA": "234343b9bcf0525078d7dd6ad5d51370cdc2aaf6",
+      "LastCommitAt": "2024-02-25T10:59:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
