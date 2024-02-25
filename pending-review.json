@@ -4601,7 +4601,7 @@
             "SubmittedAt": "2024-02-21T18:05:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22788#pullrequestreview-1894093179"
          },
-         "IsBump": true
+         "IsBump": false
       }
    },
    {
@@ -5056,26 +5056,6 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
-      }
-   },
-   {
-      "Number": 22886,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-02-25T03:42:40Z",
-      "Recipe": "cppserver",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22886",
-      "LastCommitSHA": "91a427aa3f2b2f04c3ce7bc873a41f5aa024ceb7",
-      "LastCommitAt": "2024-02-25T03:41:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
       }
    }
 ]
