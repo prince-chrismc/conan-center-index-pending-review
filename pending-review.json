@@ -4739,6 +4739,26 @@
       }
    },
    {
+      "Number": 22832,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2024-02-20T16:05:17Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22832",
+      "LastCommitSHA": "448030c90b68952bb83556d05371443bb4c8229d",
+      "LastCommitAt": "2024-02-20T16:12:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22842,
       "OpenedBy": "johannes-wolf",
       "CreatedAt": "2024-02-21T12:06:30Z",
@@ -5088,14 +5108,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22888",
       "LastCommitSHA": "a6562e71489cdc358e5b41ab95ad1379fe79fbf3",
       "LastCommitAt": "2024-02-25T06:20:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
