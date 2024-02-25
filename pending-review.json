@@ -5077,5 +5077,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 22888,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-25T06:21:07Z",
+      "Recipe": "poco",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22888",
+      "LastCommitSHA": "a6562e71489cdc358e5b41ab95ad1379fe79fbf3",
+      "LastCommitAt": "2024-02-25T06:20:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
