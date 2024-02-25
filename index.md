@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
-[#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:memo: openimageio|XL|13|Feb 24||
+[#19950](https://github.com/conan-io/conan-center-index/pull/19950)|[irieger](https://github.com/irieger)|Sep 18|:memo: openimageio|XL|14|Feb 25||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#20010](https://github.com/conan-io/conan-center-index/pull/20010)|[valgur](https://github.com/valgur)|Sep 20|:memo: behaviortree.cpp|XL|0|:eyes:||
 [#20068](https://github.com/conan-io/conan-center-index/pull/20068)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:memo: armadillo|L|6|Jan 10 :bell:||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||valgur
@@ -252,10 +252,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 597
+	- Open: 598
 	- Draft: 57
-	- Average Age: 117 days, 11 hours, and 47.59 minutes
-	- Stop Label: 296
+	- Average Age: 117 days, 8 hours, and 5.40 minutes
+	- Stop Label: 297
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
