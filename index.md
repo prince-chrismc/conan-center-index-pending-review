@@ -27,7 +27,7 @@ There are **204** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
-[#16074](https://github.com/conan-io/conan-center-index/pull/16074)|[Jihadist](https://github.com/Jihadist)|Feb 16|:stopwatch: krb5|L|1|Feb 25||valgur
+[#16074](https://github.com/conan-io/conan-center-index/pull/16074)|[Jihadist](https://github.com/Jihadist)|Feb 16|:new: krb5|L|1|Feb 25||valgur
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:memo: apr|L|0|:eyes:||
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|1|Feb 16||**danimtb**
 [#18296](https://github.com/conan-io/conan-center-index/pull/18296)|[jjcasmar](https://github.com/jjcasmar)|Jul 3|:memo: embree3|:green_circle: XS|2|Feb 23|jcar87|valgur
@@ -256,7 +256,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 601
 	- Draft: 58
-	- Average Age: 117 days, 5 hours, and 0.20 minutes
+	- Average Age: 117 days, 5 hours, and 58.63 minutes
 	- Stop Label: 296
 	
 
