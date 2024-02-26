@@ -218,7 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -228,9 +228,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|2|**uilianries**, jwillikers
 [#22821](https://github.com/conan-io/conan-center-index/pull/22821)|[ChristianHeinigk](https://github.com/ChristianHeinigk)|Feb 19|:memo: xerces-c|4|**uilianries**, jwillikers
-[#22860](https://github.com/conan-io/conan-center-index/pull/22860)|[bobrofon](https://github.com/bobrofon)|Feb 22|:memo: sdbus-cpp|2|**RubenRBS**, ericLemanissier
-[#22877](https://github.com/conan-io/conan-center-index/pull/22877)|[toge](https://github.com/toge)|Feb 24|:memo: daw_json_link|2|**RubenRBS**, ericLemanissier
-[#22881](https://github.com/conan-io/conan-center-index/pull/22881)|[toge](https://github.com/toge)|Feb 24|:memo: 7bitconf|2|**RubenRBS**, ericLemanissier
 [#22888](https://github.com/conan-io/conan-center-index/pull/22888)|[toge](https://github.com/toge)|Feb 25|:memo: poco|1|**RubenRBS**
 [#22896](https://github.com/conan-io/conan-center-index/pull/22896)|[valgur](https://github.com/valgur)|Feb 26|:new: velodyne_decoder|2|**RubenRBS**, **uilianries**
 [#22902](https://github.com/conan-io/conan-center-index/pull/22902)|[jwillikers](https://github.com/jwillikers)|Feb 26|:memo: libglvnd|1|**RubenRBS**
@@ -242,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 584
-	- Draft: 57
-	- Average Age: 119 days, 5 hours, and 5.44 minutes
+	- Open: 582
+	- Draft: 58
+	- Average Age: 119 days, 15 hours, and 28.94 minutes
 	- Stop Label: 293
 	
 
