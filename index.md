@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **204** pull requests currently under way :detective:
+There are **205** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,7 +194,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|1|Feb 12 :bell:||jwillikers
 [#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: cairo|:blue_square: S|1|Feb 12 :bell:||jwillikers
 [#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:new: battery-embed|L|0|:eyes:||
-[#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|4|Feb 14||jwillikers, MartinDelille, [paulharris](https://github.com/paulharris)
+[#22700](https://github.com/conan-io/conan-center-index/pull/22700)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 7|:memo: qt|:blue_square: S|4|Feb 14 :bell:||jwillikers, MartinDelille, [paulharris](https://github.com/paulharris)
 [#22704](https://github.com/conan-io/conan-center-index/pull/22704)|[guillaume-michel](https://github.com/guillaume-michel)|Feb 7|:memo: liburing|M|4|Feb 23||[Ahajha](https://github.com/Ahajha), **RubenRBS**
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|4|Feb 17||[Ahajha](https://github.com/Ahajha)
 [#22735](https://github.com/conan-io/conan-center-index/pull/22735)|[db4](https://github.com/db4)|Feb 10|:memo: mbedtls|:green_circle: XS|1|Feb 12 :bell:||
@@ -226,9 +226,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22881](https://github.com/conan-io/conan-center-index/pull/22881)|[toge](https://github.com/toge)|Feb 24|:memo: 7bitconf|:blue_square: S|0|||
 [#22882](https://github.com/conan-io/conan-center-index/pull/22882)|[toge](https://github.com/toge)|Feb 24|:memo: c-ares|:green_circle: XS|0|||
 [#22884](https://github.com/conan-io/conan-center-index/pull/22884)|[toge](https://github.com/toge)|Feb 24|:memo: libpng|:green_circle: XS|0|||
-[#22887](https://github.com/conan-io/conan-center-index/pull/22887)|[toge](https://github.com/toge)|Feb 25|:stopwatch: cppcommon|:green_circle: XS|0|||
+[#22887](https://github.com/conan-io/conan-center-index/pull/22887)|[toge](https://github.com/toge)|Feb 25|:memo: cppcommon|:green_circle: XS|0|||
 [#22888](https://github.com/conan-io/conan-center-index/pull/22888)|[toge](https://github.com/toge)|Feb 25|:memo: poco|:blue_square: S|0|||
 [#22890](https://github.com/conan-io/conan-center-index/pull/22890)|[toge](https://github.com/toge)|Feb 25|:new: pathie-cpp|M|0|||
+[#22891](https://github.com/conan-io/conan-center-index/pull/22891)|[toge](https://github.com/toge)|Feb 25|:new: idna|M|0|||
 [#22892](https://github.com/conan-io/conan-center-index/pull/22892)|[valgur](https://github.com/valgur)|Feb 25|:memo: urdfdom|L|0|||
 [#22893](https://github.com/conan-io/conan-center-index/pull/22893)|[robomics](https://github.com/robomics)|Feb 25|:memo: hictk|:green_circle: XS|0|||
 
@@ -256,8 +257,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 601
 	- Draft: 58
-	- Average Age: 117 days, 7 hours, and 0.02 minutes
-	- Stop Label: 296
+	- Average Age: 117 days, 8 hours, and 38.32 minutes
+	- Stop Label: 295
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
