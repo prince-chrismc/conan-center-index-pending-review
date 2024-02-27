@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -157,7 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
 [#22290](https://github.com/conan-io/conan-center-index/pull/22290)|[valgur](https://github.com/valgur)|Jan 13|:memo: cimg|L|0|:eyes:||
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|0|:eyes:||
-[#22323](https://github.com/conan-io/conan-center-index/pull/22323)|[valgur](https://github.com/valgur)|Jan 14|:stopwatch: gtsam|L|0|:eyes:||
+[#22323](https://github.com/conan-io/conan-center-index/pull/22323)|[valgur](https://github.com/valgur)|Jan 14|:stopwatch: gtsam|L|0|||
 [#22337](https://github.com/conan-io/conan-center-index/pull/22337)|[valgur](https://github.com/valgur)|Jan 14|:new: g2o|L|0|:eyes:||
 [#22353](https://github.com/conan-io/conan-center-index/pull/22353)|[valgur](https://github.com/valgur)|Jan 15|:memo: llvm-openmp|XL|0|:eyes:||
 [#22362](https://github.com/conan-io/conan-center-index/pull/22362)|[valgur](https://github.com/valgur)|Jan 15|:new: proxy|M|0|:eyes:||
@@ -205,13 +205,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|:eyes:||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|:eyes:||
 [#22852](https://github.com/conan-io/conan-center-index/pull/22852)|[garethsb](https://github.com/garethsb)|Feb 22|:memo: nmos-cpp|:blue_square: S|0|:eyes:||
-[#22891](https://github.com/conan-io/conan-center-index/pull/22891)|[toge](https://github.com/toge)|Feb 25|:new: idna|M|1|Feb 26||
 [#22895](https://github.com/conan-io/conan-center-index/pull/22895)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 26|:gear: .github|:green_circle: XS|0|||
 [#22904](https://github.com/conan-io/conan-center-index/pull/22904)|[toge](https://github.com/toge)|Feb 26|:memo: fast-cpp-csv-parser|:green_circle: XS|0|||
 [#22910](https://github.com/conan-io/conan-center-index/pull/22910)|[Tradias](https://github.com/Tradias)|Feb 27|:memo: asio-grpc|M|0|||
 [#22914](https://github.com/conan-io/conan-center-index/pull/22914)|[toge](https://github.com/toge)|Feb 27|:stopwatch: c4core|:green_circle: XS|0|||
 [#22915](https://github.com/conan-io/conan-center-index/pull/22915)|[irieger](https://github.com/irieger)|Feb 27|:memo: openexr|:blue_square: S|0|||
 [#22916](https://github.com/conan-io/conan-center-index/pull/22916)|[irieger](https://github.com/irieger)|Feb 27|:stopwatch: opencolorio|:green_circle: XS|0|||
+[#22918](https://github.com/conan-io/conan-center-index/pull/22918)|[irieger](https://github.com/irieger)|Feb 27|:gear: .github|:blue_square: S|0|||
+[#22919](https://github.com/conan-io/conan-center-index/pull/22919)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: xkbcommon|:green_circle: XS|0|||
+[#22920](https://github.com/conan-io/conan-center-index/pull/22920)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: dbus|:green_circle: XS|0|||
+[#22921](https://github.com/conan-io/conan-center-index/pull/22921)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: opencv|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -234,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 568
+	- Open: 572
 	- Draft: 58
-	- Average Age: 120 days, 17 hours, and 47.50 minutes
+	- Average Age: 119 days, 22 hours, and 26.10 minutes
 	- Stop Label: 285
 	
 
