@@ -4700,31 +4700,6 @@
       }
    },
    {
-      "Number": 22854,
-      "OpenedBy": "wgtmac",
-      "CreatedAt": "2024-02-22T15:21:56Z",
-      "Recipe": "orc",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22854",
-      "LastCommitSHA": "0d46981591799b0e42913c6a55dd13cb855f87bc",
-      "LastCommitAt": "2024-02-27T01:27:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-26T16:28:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22854#pullrequestreview-1901390134"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22889,
       "OpenedBy": "irieger",
       "CreatedAt": "2024-02-25T07:27:41Z",
