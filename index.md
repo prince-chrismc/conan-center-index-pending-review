@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,22 +205,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|:eyes:||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|:eyes:||
 [#22852](https://github.com/conan-io/conan-center-index/pull/22852)|[garethsb](https://github.com/garethsb)|Feb 22|:memo: nmos-cpp|:blue_square: S|0|||
-[#22890](https://github.com/conan-io/conan-center-index/pull/22890)|[toge](https://github.com/toge)|Feb 25|:new: pathie-cpp|M|1|Feb 26||**RubenRBS**
 [#22891](https://github.com/conan-io/conan-center-index/pull/22891)|[toge](https://github.com/toge)|Feb 25|:new: idna|M|1|Feb 26||
-[#22892](https://github.com/conan-io/conan-center-index/pull/22892)|[valgur](https://github.com/valgur)|Feb 25|:memo: urdfdom|L|1|Feb 26||**RubenRBS**
 [#22895](https://github.com/conan-io/conan-center-index/pull/22895)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 26|:gear: .github|:green_circle: XS|0|||
 [#22904](https://github.com/conan-io/conan-center-index/pull/22904)|[toge](https://github.com/toge)|Feb 26|:memo: fast-cpp-csv-parser|:green_circle: XS|0|||
-[#22908](https://github.com/conan-io/conan-center-index/pull/22908)|[toge](https://github.com/toge)|Feb 27|:memo: openjpeg|:blue_square: S|0|||
 [#22910](https://github.com/conan-io/conan-center-index/pull/22910)|[Tradias](https://github.com/Tradias)|Feb 27|:memo: asio-grpc|M|0|||
 [#22914](https://github.com/conan-io/conan-center-index/pull/22914)|[toge](https://github.com/toge)|Feb 27|:stopwatch: c4core|:green_circle: XS|0|||
-[#22915](https://github.com/conan-io/conan-center-index/pull/22915)|[irieger](https://github.com/irieger)|Feb 27|:stopwatch: openexr|:blue_square: S|0|||
+[#22915](https://github.com/conan-io/conan-center-index/pull/22915)|[irieger](https://github.com/irieger)|Feb 27|:memo: openexr|:blue_square: S|0|||
 [#22916](https://github.com/conan-io/conan-center-index/pull/22916)|[irieger](https://github.com/irieger)|Feb 27|:stopwatch: opencolorio|:green_circle: XS|0|||
-[#22917](https://github.com/conan-io/conan-center-index/pull/22917)|[hedtke](https://github.com/hedtke)|Feb 27|:stopwatch: soplex|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -230,6 +226,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:warning: poco|4|**uilianries**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|2|**uilianries**, jwillikers
+[#22892](https://github.com/conan-io/conan-center-index/pull/22892)|[valgur](https://github.com/valgur)|Feb 25|:memo: urdfdom|2|**RubenRBS**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -238,10 +235,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 570
+	- Open: 569
 	- Draft: 58
-	- Average Age: 120 days, 5 hours, and 48.31 minutes
-	- Stop Label: 284
+	- Average Age: 120 days, 11 hours, and 44.03 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
