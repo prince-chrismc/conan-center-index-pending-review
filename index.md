@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -119,6 +119,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#21740](https://github.com/conan-io/conan-center-index/pull/21740)|[rainman110](https://github.com/rainman110)|Dec 13|:new: gtlab-logging|M|1|Jan 8 :bell:||
 [#21746](https://github.com/conan-io/conan-center-index/pull/21746)|[nikolay-pv](https://github.com/nikolay-pv)|Dec 13|:stopwatch: libcurl|:green_circle: XS|0|:eyes:||
+[#21760](https://github.com/conan-io/conan-center-index/pull/21760)|[talyz](https://github.com/talyz)|Dec 14|:stopwatch: ruy|:blue_square: S|1|Feb 12 :bell:||jwillikers
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:memo: wasm-micro-runtime|M|0|:eyes:||
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:memo: openal-soft|:blue_square: S|0|:eyes:||
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:green_circle: XS|0|||
@@ -207,7 +208,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|:eyes:||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:stopwatch: stdgpu|:blue_square: S|0|:eyes:||
 [#22852](https://github.com/conan-io/conan-center-index/pull/22852)|[garethsb](https://github.com/garethsb)|Feb 22|:memo: nmos-cpp|:blue_square: S|0|||
-[#22854](https://github.com/conan-io/conan-center-index/pull/22854)|[wgtmac](https://github.com/wgtmac)|Feb 22|:stopwatch: orc|L|7|Feb 27||
+[#22854](https://github.com/conan-io/conan-center-index/pull/22854)|[wgtmac](https://github.com/wgtmac)|Feb 22|:new: orc|L|7|Feb 27||
 [#22889](https://github.com/conan-io/conan-center-index/pull/22889)|[irieger](https://github.com/irieger)|Feb 25|:memo: imath|M|2|Feb 26||**RubenRBS**
 [#22890](https://github.com/conan-io/conan-center-index/pull/22890)|[toge](https://github.com/toge)|Feb 25|:new: pathie-cpp|M|1|Feb 26||**RubenRBS**
 [#22892](https://github.com/conan-io/conan-center-index/pull/22892)|[valgur](https://github.com/valgur)|Feb 25|:memo: urdfdom|L|1|Feb 26||**RubenRBS**
@@ -239,8 +240,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 572
 	- Draft: 58
-	- Average Age: 120 days, and 55.64 minutes
-	- Stop Label: 286
+	- Average Age: 120 days, 1 hours, and 51.20 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
