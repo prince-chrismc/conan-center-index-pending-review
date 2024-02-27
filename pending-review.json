@@ -4462,40 +4462,6 @@
       }
    },
    {
-      "Number": 22821,
-      "OpenedBy": "ChristianHeinigk",
-      "CreatedAt": "2024-02-19T13:38:15Z",
-      "Recipe": "xerces-c",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22821",
-      "LastCommitSHA": "b1d03e953119dc9da9fd97a0bb570ea8fa0c5a02",
-      "LastCommitAt": "2024-02-27T12:04:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-02-21T13:52:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22821#pullrequestreview-1893267335"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22823,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-19T15:40:20Z",
@@ -4679,22 +4645,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22854",
       "LastCommitSHA": "e2e9bbacf6a29175a1326dcc3d84d89c5bd98548",
       "LastCommitAt": "2024-02-27T13:09:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
+         "Count": 10,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "valgur",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-02-27T13:10:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22854#pullrequestreview-1903464513"
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2024-02-27T14:11:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22854#pullrequestreview-1903625167"
          },
          "IsBump": false
       }
@@ -4711,20 +4681,24 @@
       "LastCommitAt": "2024-02-26T21:24:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-02-26T22:10:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22889#pullrequestreview-1902144832"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-27T13:58:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22889#pullrequestreview-1903584504"
          },
          "IsBump": false
       }
@@ -4867,26 +4841,6 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
-      }
-   },
-   {
-      "Number": 22912,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2024-02-27T12:14:02Z",
-      "Recipe": "sdbus-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22912",
-      "LastCommitSHA": "7dfa778d4b19ec4cef1904ecfb2a39fe7b8f5a70",
-      "LastCommitAt": "2024-02-27T12:08:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": true
       }
    }
 ]
