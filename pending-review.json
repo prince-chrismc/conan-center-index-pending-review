@@ -4759,8 +4759,8 @@
       "Change": 3,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22918",
-      "LastCommitSHA": "84cef69e94f763b86edc25439652ecae11dbe719",
-      "LastCommitAt": "2024-02-27T18:28:58Z",
+      "LastCommitSHA": "5f3e74b225f18b5f0ca0df506b17f88552c58c84",
+      "LastCommitAt": "2024-02-28T07:04:09Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -4882,6 +4882,26 @@
       "LastCommitSHA": "c2614b4d11f17c3252edff7837fe7641a42f2bc2",
       "LastCommitAt": "2024-02-28T05:03:09Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22925,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2024-02-28T06:42:24Z",
+      "Recipe": "openimageio",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22925",
+      "LastCommitSHA": "24b58898f1f6e4765137f93310b2764ff4cf6984",
+      "LastCommitAt": "2024-02-28T06:38:40Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
