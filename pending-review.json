@@ -4763,11 +4763,21 @@
       "LastCommitAt": "2024-02-28T07:04:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-02-28T08:13:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22918#pullrequestreview-1905567505"
+         },
          "IsBump": false
       }
    },
@@ -4902,6 +4912,26 @@
       "LastCommitSHA": "24b58898f1f6e4765137f93310b2764ff4cf6984",
       "LastCommitAt": "2024-02-28T06:38:40Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22926,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-02-28T07:29:20Z",
+      "Recipe": "liblzf",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22926",
+      "LastCommitSHA": "55ea737c123d6083bb9612bfca7297fa5b2c911e",
+      "LastCommitAt": "2024-02-28T07:27:07Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
