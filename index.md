@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,7 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22914](https://github.com/conan-io/conan-center-index/pull/22914)|[toge](https://github.com/toge)|Feb 27|:stopwatch: c4core|:green_circle: XS|0|||
 [#22915](https://github.com/conan-io/conan-center-index/pull/22915)|[irieger](https://github.com/irieger)|Feb 27|:memo: openexr|:blue_square: S|0|||
 [#22916](https://github.com/conan-io/conan-center-index/pull/22916)|[irieger](https://github.com/irieger)|Feb 27|:stopwatch: opencolorio|:green_circle: XS|0|||
-[#22918](https://github.com/conan-io/conan-center-index/pull/22918)|[irieger](https://github.com/irieger)|Feb 27|:gear: .github|:blue_square: S|0|||
+[#22918](https://github.com/conan-io/conan-center-index/pull/22918)|[irieger](https://github.com/irieger)|Feb 27|:gear: .github|:blue_square: S|1|Feb 28||**uilianries**
 [#22919](https://github.com/conan-io/conan-center-index/pull/22919)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: xkbcommon|:green_circle: XS|0|||
 [#22920](https://github.com/conan-io/conan-center-index/pull/22920)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: dbus|:green_circle: XS|0|||
 [#22921](https://github.com/conan-io/conan-center-index/pull/22921)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: opencv|:green_circle: XS|0|||
@@ -220,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22923](https://github.com/conan-io/conan-center-index/pull/22923)|[camm73](https://github.com/camm73)|Feb 27|:stopwatch: paho-mqtt-cpp|M|0|||
 [#22924](https://github.com/conan-io/conan-center-index/pull/22924)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 28|:memo: cpptrace|:green_circle: XS|0|||
 [#22925](https://github.com/conan-io/conan-center-index/pull/22925)|[irieger](https://github.com/irieger)|Feb 28|:stopwatch: openimageio|:blue_square: S|0|||
+[#22926](https://github.com/conan-io/conan-center-index/pull/22926)|[valgur](https://github.com/valgur)|Feb 28|:memo: liblzf|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,9 +243,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 576
+	- Open: 577
 	- Draft: 58
-	- Average Age: 119 days, 14 hours, and 24.55 minutes
+	- Average Age: 119 days, 10 hours, and 30.56 minutes
 	- Stop Label: 286
 	
 
