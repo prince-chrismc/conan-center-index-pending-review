@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,6 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22852](https://github.com/conan-io/conan-center-index/pull/22852)|[garethsb](https://github.com/garethsb)|Feb 22|:memo: nmos-cpp|:blue_square: S|0|:eyes:||
 [#22895](https://github.com/conan-io/conan-center-index/pull/22895)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 26|:gear: .github|:green_circle: XS|0|||
 [#22904](https://github.com/conan-io/conan-center-index/pull/22904)|[toge](https://github.com/toge)|Feb 26|:memo: fast-cpp-csv-parser|:green_circle: XS|0|||
+[#22908](https://github.com/conan-io/conan-center-index/pull/22908)|[toge](https://github.com/toge)|Feb 27|:memo: openjpeg|:blue_square: S|2|Feb 27||
 [#22910](https://github.com/conan-io/conan-center-index/pull/22910)|[Tradias](https://github.com/Tradias)|Feb 27|:memo: asio-grpc|M|0|||
 [#22914](https://github.com/conan-io/conan-center-index/pull/22914)|[toge](https://github.com/toge)|Feb 27|:stopwatch: c4core|:green_circle: XS|0|||
 [#22915](https://github.com/conan-io/conan-center-index/pull/22915)|[irieger](https://github.com/irieger)|Feb 27|:memo: openexr|:blue_square: S|0|||
@@ -217,7 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22921](https://github.com/conan-io/conan-center-index/pull/22921)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: opencv|:green_circle: XS|0|||
 [#22922](https://github.com/conan-io/conan-center-index/pull/22922)|[jwillikers](https://github.com/jwillikers)|Feb 27|:stopwatch: glfw|:green_circle: XS|0|||
 [#22923](https://github.com/conan-io/conan-center-index/pull/22923)|[camm73](https://github.com/camm73)|Feb 27|:stopwatch: paho-mqtt-cpp|M|0|||
-[#22924](https://github.com/conan-io/conan-center-index/pull/22924)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 28|:stopwatch: cpptrace|:green_circle: XS|0|||
+[#22924](https://github.com/conan-io/conan-center-index/pull/22924)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 28|:memo: cpptrace|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -242,8 +243,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 575
 	- Draft: 58
-	- Average Age: 119 days, 17 hours, and 25.50 minutes
-	- Stop Label: 285
+	- Average Age: 119 days, 18 hours, and 28.48 minutes
+	- Stop Label: 286
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
