@@ -1471,26 +1471,6 @@
       }
    },
    {
-      "Number": 20502,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-10-10T17:18:14Z",
-      "Recipe": "xorg",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20502",
-      "LastCommitSHA": "44a5b6f927b41fc8f800a3b55c94e6c2e4aae27d",
-      "LastCommitAt": "2023-10-19T12:28:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 20521,
       "OpenedBy": "tamaskenezlego",
       "CreatedAt": "2023-10-11T11:45:29Z",
