@@ -818,36 +818,6 @@
       }
    },
    {
-      "Number": 19031,
-      "OpenedBy": "klausholstjacobsen",
-      "CreatedAt": "2023-08-03T11:25:39Z",
-      "Recipe": "openssh",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19031",
-      "LastCommitSHA": "e0e80fa9fc77a1168184f44b2879644b30ed90ab",
-      "LastCommitAt": "2023-10-25T08:15:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-02-28T14:45:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19031#pullrequestreview-1906462830"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 19082,
       "OpenedBy": "bog-dan-ro",
       "CreatedAt": "2023-08-07T06:45:35Z",
