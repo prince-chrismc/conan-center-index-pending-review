@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **196** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20381](https://github.com/conan-io/conan-center-index/pull/20381)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: sdl|L|5|Oct 26 :bell:||
 [#20392](https://github.com/conan-io/conan-center-index/pull/20392)|[bverhagen](https://github.com/bverhagen)|Oct 6|:stopwatch: onnxruntime|M|11|Oct 31 :bell:||jwillikers
 [#20465](https://github.com/conan-io/conan-center-index/pull/20465)|[gjasny](https://github.com/gjasny)|Oct 9|:memo: resiprocate|L|2|Feb 23||valgur
-[#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:blue_square: S|0|||
+[#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:green_circle: XS|1|Feb 29||ericLemanissier
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
@@ -222,6 +222,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22928](https://github.com/conan-io/conan-center-index/pull/22928)|[valgur](https://github.com/valgur)|Feb 28|:stopwatch: urdfdom|M|0|||
 [#22929](https://github.com/conan-io/conan-center-index/pull/22929)|[jwillikers](https://github.com/jwillikers)|Feb 28|:memo: qt|:green_circle: XS|0|||
 [#22930](https://github.com/conan-io/conan-center-index/pull/22930)|[toge](https://github.com/toge)|Feb 28|:memo: influxdb-cpp|:green_circle: XS|0|||
+[#22935](https://github.com/conan-io/conan-center-index/pull/22935)|[toge](https://github.com/toge)|Feb 29|:memo: ssp|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
@@ -230,9 +231,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 566
+	- Open: 567
 	- Draft: 56
-	- Average Age: 121 days, 12 hours, and 27.60 minutes
+	- Average Age: 121 days, 8 hours, and 20.19 minutes
 	- Stop Label: 282
 	
 
