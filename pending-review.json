@@ -1496,17 +1496,27 @@
       "CreatedAt": "2023-10-10T17:18:14Z",
       "Recipe": "xorg",
       "Change": 1,
-      "Weight": 1,
+      "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20502",
-      "LastCommitSHA": "32c8330f08662b602752e7a04e04d2a22bbccf32",
-      "LastCommitAt": "2024-02-28T23:36:48Z",
+      "LastCommitSHA": "ab9ad06580254737fceabbfd04f2d7d43e6f4467",
+      "LastCommitAt": "2024-02-29T13:19:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-02-29T13:50:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20502#pullrequestreview-1908939016"
+         },
          "IsBump": false
       }
    },
@@ -4865,6 +4875,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 22935,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-02-29T13:44:49Z",
+      "Recipe": "ssp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22935",
+      "LastCommitSHA": "7bcdf3b37c2a26f45f6df5b77c251fdcf221eede",
+      "LastCommitAt": "2024-02-29T13:44:18Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
