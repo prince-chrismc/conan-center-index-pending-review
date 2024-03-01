@@ -3629,20 +3629,24 @@
       "LastCommitAt": "2024-02-28T13:50:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-02-28T16:00:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22490#pullrequestreview-1906648799"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-03-01T08:13:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22490#pullrequestreview-1910552359"
          },
          "IsBump": false
       }
@@ -4804,7 +4808,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22939",
       "LastCommitSHA": "8d6e2dbedd28dab45d017c512c1fa3d1996540c2",
       "LastCommitAt": "2024-03-01T06:19:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4812,6 +4816,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
+      }
+   },
+   {
+      "Number": 22940,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-01T07:13:47Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22940",
+      "LastCommitSHA": "afc9b5c7f7eee5bc229b840f531a34588e255b88",
+      "LastCommitAt": "2024-03-01T07:12:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
       }
    }
 ]
