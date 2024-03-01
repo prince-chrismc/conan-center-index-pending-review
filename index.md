@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -199,7 +199,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|:eyes:||
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|1|Feb 29||[vok1980](https://github.com/vok1980)
 [#22832](https://github.com/conan-io/conan-center-index/pull/22832)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 20|:memo: openssl|:green_circle: XS|0|:eyes:||
-[#22835](https://github.com/conan-io/conan-center-index/pull/22835)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 21|:memo: qt|L|3|Feb 22||jwillikers, MartinDelille
 [#22842](https://github.com/conan-io/conan-center-index/pull/22842)|[johannes-wolf](https://github.com/johannes-wolf)|Feb 21|:new: simfil|M|1|Mar 1||
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|:eyes:||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:memo: stdgpu|:blue_square: S|0|||
@@ -225,6 +224,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22949](https://github.com/conan-io/conan-center-index/pull/22949)|[paulharris](https://github.com/paulharris)|Mar 1|:gear: .github|:green_circle: XS|2|Mar 1||jwillikers, Croydon
 [#22951](https://github.com/conan-io/conan-center-index/pull/22951)|[mologie](https://github.com/mologie)|Mar 1|:memo: xnnpack|:blue_square: S|0|||
 [#22952](https://github.com/conan-io/conan-center-index/pull/22952)|[jwillikers](https://github.com/jwillikers)|Mar 1|:memo: libselinux|L|0|||
+[#22953](https://github.com/conan-io/conan-center-index/pull/22953)|[Ahajha](https://github.com/Ahajha)|Mar 1|:memo: spdlog|M|0|||
+[#22954](https://github.com/conan-io/conan-center-index/pull/22954)|[bobrofon](https://github.com/bobrofon)|Mar 1|:memo: gperf|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
@@ -233,9 +234,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 574
+	- Open: 575
 	- Draft: 58
-	- Average Age: 119 days, 18 hours, and 8.76 minutes
+	- Average Age: 119 days, 14 hours, and 7.86 minutes
 	- Stop Label: 284
 	
 
