@@ -4855,6 +4855,31 @@
       }
    },
    {
+      "Number": 22947,
+      "OpenedBy": "eyalroz",
+      "CreatedAt": "2024-03-01T11:47:39Z",
+      "Recipe": "cuda-api-wrappers",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22947",
+      "LastCommitSHA": "c8edec4e613110e0daa15f8c7fa49d237420257a",
+      "LastCommitAt": "2024-03-01T21:58:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2024-03-01T11:58:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22947#pullrequestreview-1910964571"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22948,
       "OpenedBy": "gagoi",
       "CreatedAt": "2024-03-01T14:25:22Z",
