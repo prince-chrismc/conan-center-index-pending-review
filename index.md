@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18956](https://github.com/conan-io/conan-center-index/pull/18956)|[valgur](https://github.com/valgur)|Jul 28|:memo: resiprocate|L|2|Sep 29 :bell:||
 [#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|3|Feb 26||jwillikers
 [#18978](https://github.com/conan-io/conan-center-index/pull/18978)|[valgur](https://github.com/valgur)|Jul 31|:new: rdma-core|L|0|:eyes:||
-[#18979](https://github.com/conan-io/conan-center-index/pull/18979)|[valgur](https://github.com/valgur)|Jul 31|:memo: libfabric|L|0|:eyes:||
+[#18979](https://github.com/conan-io/conan-center-index/pull/18979)|[valgur](https://github.com/valgur)|Jul 31|:memo: libfabric|L|1|Mar 1||jwillikers
 [#18986](https://github.com/conan-io/conan-center-index/pull/18986)|[valgur](https://github.com/valgur)|Jul 31|:memo: librhash|L|0|:eyes:||
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
 [#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:memo: libselinux|:blue_square: S|7|Feb 28||jwillikers
@@ -194,7 +194,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22772](https://github.com/conan-io/conan-center-index/pull/22772)|[toge](https://github.com/toge)|Feb 14|:memo: duckdb|L|0|:eyes:||
 [#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|0|:eyes:||
 [#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|M|1|Feb 29||[RazielXYZ](https://github.com/RazielXYZ)
-[#22802](https://github.com/conan-io/conan-center-index/pull/22802)|[toge](https://github.com/toge)|Feb 17|:memo: nghttp3|:blue_square: S|0|:eyes:||
+[#22802](https://github.com/conan-io/conan-center-index/pull/22802)|[toge](https://github.com/toge)|Feb 17|:memo: nghttp3|:blue_square: S|1|Mar 1||**franramirez688**
 [#22807](https://github.com/conan-io/conan-center-index/pull/22807)|[obnyis](https://github.com/obnyis)|Feb 17|:memo: poco|:green_circle: XS|2|Feb 28|jcar87|**uilianries**
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|:eyes:||
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|1|Feb 29||[vok1980](https://github.com/vok1980)
@@ -239,7 +239,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 570
 	- Draft: 57
-	- Average Age: 120 days, 16 hours, and 8.72 minutes
+	- Average Age: 120 days, 16 hours, and 58.97 minutes
 	- Stop Label: 285
 	
 
