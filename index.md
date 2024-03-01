@@ -169,7 +169,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22427](https://github.com/conan-io/conan-center-index/pull/22427)|[st9007a](https://github.com/st9007a)|Jan 18|:memo: aws-c-cal|:green_circle: XS|0|:eyes:||
 [#22432](https://github.com/conan-io/conan-center-index/pull/22432)|[anthonyliot](https://github.com/anthonyliot)|Jan 19|:stopwatch: libx264|:green_circle: XS|0|:eyes:||
 [#22456](https://github.com/conan-io/conan-center-index/pull/22456)|[toge](https://github.com/toge)|Jan 20|:stopwatch: proposal|:green_circle: XS|0|:eyes:||
-[#22490](https://github.com/conan-io/conan-center-index/pull/22490)|[basiliscos](https://github.com/basiliscos)|Jan 22|:memo: rotor|L|6|Feb 28||jwillikers
 [#22508](https://github.com/conan-io/conan-center-index/pull/22508)|[wgtmac](https://github.com/wgtmac)|Jan 23|:memo: arrow|L|1|Feb 28||valgur
 [#22539](https://github.com/conan-io/conan-center-index/pull/22539)|[Artalus](https://github.com/Artalus)|Jan 25|:memo: abseil|:green_circle: XS|1|Jan 29 :bell:||
 [#22540](https://github.com/conan-io/conan-center-index/pull/22540)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 25|:memo: qt|:blue_square: S|2|Feb 13 :bell:||jwillikers
@@ -218,7 +217,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22929](https://github.com/conan-io/conan-center-index/pull/22929)|[jwillikers](https://github.com/jwillikers)|Feb 28|:memo: qt|:green_circle: XS|0|||
 [#22935](https://github.com/conan-io/conan-center-index/pull/22935)|[toge](https://github.com/toge)|Feb 29|:memo: ssp|:green_circle: XS|0|||
 [#22936](https://github.com/conan-io/conan-center-index/pull/22936)|[vok1980](https://github.com/vok1980)|Feb 29|:stopwatch: android-ndk|:blue_square: S|0|||
-[#22939](https://github.com/conan-io/conan-center-index/pull/22939)|[Ahajha](https://github.com/Ahajha)|Mar 1|:stopwatch: tcl|:blue_square: S|0|||
+[#22939](https://github.com/conan-io/conan-center-index/pull/22939)|[Ahajha](https://github.com/Ahajha)|Mar 1|:memo: tcl|:blue_square: S|0|||
+[#22940](https://github.com/conan-io/conan-center-index/pull/22940)|[toge](https://github.com/toge)|Mar 1|:memo: glaze|:green_circle: XS|0|||
+
+
+### :heavy_check_mark: Ready to Merge 
+
+Currently **1** pull request is waiting to be merged :tada:
+
+
+PR | By | Opened | Recipe | Reviews | :star2: Approvers
+:---: | --- | --- | --- | :---: | ---
+[#22490](https://github.com/conan-io/conan-center-index/pull/22490)|[basiliscos](https://github.com/basiliscos)|Jan 22|:memo: rotor|7|jwillikers, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -227,10 +237,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 566
+	- Open: 568
 	- Draft: 57
-	- Average Age: 121 days, 20 hours, and 40.38 minutes
-	- Stop Label: 282
+	- Average Age: 121 days, 11 hours, and 26.36 minutes
+	- Stop Label: 283
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
