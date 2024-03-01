@@ -1440,7 +1440,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20442",
       "LastCommitSHA": "d8ec4ab6037f732fc4fc23b903a878bbe51d5994",
       "LastCommitAt": "2024-03-01T11:32:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 1,
@@ -3249,7 +3249,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22208",
       "LastCommitSHA": "9e6cc5c9dd9c577669695d2ce1f620f9343b479f",
       "LastCommitAt": "2024-01-08T12:21:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4585,7 +4585,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22917",
       "LastCommitSHA": "20d9e300ac28f1ec0d52767df020f3db747ea178",
       "LastCommitAt": "2024-03-01T11:39:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4835,26 +4835,6 @@
       }
    },
    {
-      "Number": 22942,
-      "OpenedBy": "elvisdukaj",
-      "CreatedAt": "2024-03-01T10:25:03Z",
-      "Recipe": "freeimage",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22942",
-      "LastCommitSHA": "68b5da6b36fbaa849a0076fa2deae943b00cc42c",
-      "LastCommitAt": "2024-03-01T10:42:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22943,
       "OpenedBy": "toge",
       "CreatedAt": "2024-03-01T11:07:35Z",
@@ -4865,26 +4845,6 @@
       "LastCommitSHA": "ace213397788cbd17bb692d3007287d146a9c768",
       "LastCommitAt": "2024-03-01T11:04:58Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 22946,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2024-03-01T11:47:38Z",
-      "Recipe": "librasterlite2",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22946",
-      "LastCommitSHA": "621be7a048c1a237d93c2214bb6b301cd39574fd",
-      "LastCommitAt": "2024-03-01T11:47:28Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
