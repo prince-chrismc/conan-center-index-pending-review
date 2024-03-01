@@ -4909,6 +4909,26 @@
       }
    },
    {
+      "Number": 22950,
+      "OpenedBy": "bobrofon",
+      "CreatedAt": "2024-03-01T16:07:52Z",
+      "Recipe": "basu",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22950",
+      "LastCommitSHA": "21dc1c9a8e3ca2fb6b2010236efb9e7cca5b8fb7",
+      "LastCommitAt": "2024-03-01T20:51:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22951,
       "OpenedBy": "mologie",
       "CreatedAt": "2024-03-01T16:26:25Z",
