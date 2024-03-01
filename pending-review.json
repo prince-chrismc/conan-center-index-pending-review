@@ -862,36 +862,6 @@
       }
    },
    {
-      "Number": 19123,
-      "OpenedBy": "ledocc",
-      "CreatedAt": "2023-08-09T17:10:23Z",
-      "Recipe": "libselinux",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19123",
-      "LastCommitSHA": "b5d0bd4b6c4e859fef5cccb4d369f321c47a8186",
-      "LastCommitAt": "2024-02-28T12:52:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-02-28T14:57:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19123#pullrequestreview-1906493816"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 19234,
       "OpenedBy": "cjbradfield",
       "CreatedAt": "2023-08-16T21:20:44Z",
