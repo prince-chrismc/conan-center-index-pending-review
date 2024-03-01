@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **201** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22940](https://github.com/conan-io/conan-center-index/pull/22940)|[toge](https://github.com/toge)|Mar 1|:memo: glaze|:green_circle: XS|0|||
 [#22943](https://github.com/conan-io/conan-center-index/pull/22943)|[toge](https://github.com/toge)|Mar 1|:memo: wyhash|:green_circle: XS|0|||
 [#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|||
+[#22947](https://github.com/conan-io/conan-center-index/pull/22947)|[eyalroz](https://github.com/eyalroz)|Mar 1|:memo: cuda-api-wrappers|:green_circle: XS|2|Mar 1||
 [#22948](https://github.com/conan-io/conan-center-index/pull/22948)|[gagoi](https://github.com/gagoi)|Mar 1|:stopwatch: minizip|:green_circle: XS|0|||
 [#22949](https://github.com/conan-io/conan-center-index/pull/22949)|[paulharris](https://github.com/paulharris)|Mar 1|:gear: .github|:green_circle: XS|2|Mar 1||jwillikers, Croydon
 [#22950](https://github.com/conan-io/conan-center-index/pull/22950)|[bobrofon](https://github.com/bobrofon)|Mar 1|:new: basu|M|0|||
@@ -237,8 +238,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 575
 	- Draft: 57
-	- Average Age: 119 days, 15 hours, and 7.15 minutes
-	- Stop Label: 284
+	- Average Age: 119 days, 16 hours, and 7.15 minutes
+	- Stop Label: 283
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
