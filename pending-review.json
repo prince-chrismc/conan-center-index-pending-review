@@ -4420,40 +4420,6 @@
       }
    },
    {
-      "Number": 22835,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2024-02-21T07:02:47Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22835",
-      "LastCommitSHA": "661e7ebb5905a3e70e7fa0b07edcc9a1435ed768",
-      "LastCommitAt": "2024-02-29T16:42:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2024-02-22T11:16:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22835#pullrequestreview-1895595381"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22842,
       "OpenedBy": "johannes-wolf",
       "CreatedAt": "2024-02-21T12:06:30Z",
@@ -4972,6 +4938,46 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22952",
       "LastCommitSHA": "8376f946565f94e3d7100e8787776f752e9c3a07",
       "LastCommitAt": "2024-03-01T17:17:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22953,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2024-03-01T19:40:34Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22953",
+      "LastCommitSHA": "d30aaff1e965898e69a286f07b4e943d54513f52",
+      "LastCommitAt": "2024-03-01T20:29:09Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22954,
+      "OpenedBy": "bobrofon",
+      "CreatedAt": "2024-03-01T20:26:59Z",
+      "Recipe": "gperf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22954",
+      "LastCommitSHA": "28dc11b83da86c9e06f661424db53145b4db2a45",
+      "LastCommitAt": "2024-03-01T20:05:13Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
