@@ -2170,36 +2170,6 @@
       }
    },
    {
-      "Number": 21511,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-30T12:56:08Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21511",
-      "LastCommitSHA": "9e575fce67bf3bb6a4e54792a4bd6c9224c3315a",
-      "LastCommitAt": "2024-01-20T12:48:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-01-24T14:34:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21511#pullrequestreview-1841525517"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 21512,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-30T13:42:14Z",
@@ -3618,40 +3588,6 @@
       }
    },
    {
-      "Number": 22490,
-      "OpenedBy": "basiliscos",
-      "CreatedAt": "2024-01-22T10:08:36Z",
-      "Recipe": "rotor",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22490",
-      "LastCommitSHA": "e78acb59e1a3e50e38d7a8cfdf7145dfc5781f06",
-      "LastCommitAt": "2024-02-28T13:50:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-03-01T08:13:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22490#pullrequestreview-1910552359"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22508,
       "OpenedBy": "wgtmac",
       "CreatedAt": "2024-01-23T08:39:16Z",
@@ -4450,26 +4386,6 @@
             "SubmittedAt": "2024-02-22T11:16:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22835#pullrequestreview-1895595381"
          },
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 22842,
-      "OpenedBy": "johannes-wolf",
-      "CreatedAt": "2024-02-21T12:06:30Z",
-      "Recipe": "simfil",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22842",
-      "LastCommitSHA": "237bcafb594a953a98e579a422e4675a223807fc",
-      "LastCommitAt": "2024-02-28T19:14:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
          "IsBump": false
       }
    },
