@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **195** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -222,6 +222,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|||
 [#22948](https://github.com/conan-io/conan-center-index/pull/22948)|[gagoi](https://github.com/gagoi)|Mar 1|:stopwatch: minizip|:green_circle: XS|0|||
 [#22949](https://github.com/conan-io/conan-center-index/pull/22949)|[paulharris](https://github.com/paulharris)|Mar 1|:gear: .github|:green_circle: XS|2|Mar 1||jwillikers, Croydon
+[#22951](https://github.com/conan-io/conan-center-index/pull/22951)|[mologie](https://github.com/mologie)|Mar 1|:stopwatch: xnnpack|:blue_square: S|0|||
+[#22952](https://github.com/conan-io/conan-center-index/pull/22952)|[jwillikers](https://github.com/jwillikers)|Mar 1|:stopwatch: libselinux|L|0|||
 
 
 #### :clipboard: Statistics
@@ -230,9 +232,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 573
+	- Open: 575
 	- Draft: 58
-	- Average Age: 120 days, 3 hours, and 52.05 minutes
+	- Average Age: 119 days, 18 hours, and 51.09 minutes
 	- Stop Label: 286
 	
 
