@@ -5159,25 +5159,5 @@
          },
          "IsBump": false
       }
-   },
-   {
-      "Number": 22960,
-      "OpenedBy": "spnda",
-      "CreatedAt": "2024-03-02T21:10:21Z",
-      "Recipe": "fastgltf",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22960",
-      "LastCommitSHA": "2e92a14a93a72a49cb200ef68d75e69cf0816860",
-      "LastCommitAt": "2024-03-02T21:09:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
    }
 ]
