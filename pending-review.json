@@ -4505,6 +4505,31 @@
       }
    },
    {
+      "Number": 22865,
+      "OpenedBy": "samuaz",
+      "CreatedAt": "2024-02-22T23:56:34Z",
+      "Recipe": "mariadb-connector-cpp",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22865",
+      "LastCommitSHA": "5375e0b16b44a0e0bfc0c2aaccfc491a6ae16666",
+      "LastCommitAt": "2024-03-02T04:43:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-02-26T16:41:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22865#pullrequestreview-1901462476"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22895,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2024-02-26T08:28:26Z",
