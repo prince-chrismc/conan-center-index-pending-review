@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **205** pull requests currently under way :detective:
+There are **206** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22580](https://github.com/conan-io/conan-center-index/pull/22580)|[temap](https://github.com/temap)|Jan 29|:memo: libxslt|:green_circle: XS|4|Mar 1||MartinDelille, toge, jwillikers
 [#22613](https://github.com/conan-io/conan-center-index/pull/22613)|[toge](https://github.com/toge)|Feb 1|:memo: s2n|:green_circle: XS|0|:eyes:||
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
-[#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|1|Feb 19||jwillikers
+[#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|1|Feb 19 :bell:||jwillikers
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|1|Feb 20||Croydon
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|1|Feb 29||ericLemanissier
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
@@ -219,6 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22936](https://github.com/conan-io/conan-center-index/pull/22936)|[vok1980](https://github.com/vok1980)|Feb 29|:stopwatch: android-ndk|:blue_square: S|0|||
 [#22939](https://github.com/conan-io/conan-center-index/pull/22939)|[Ahajha](https://github.com/Ahajha)|Mar 1|:memo: tcl|:blue_square: S|0|||
 [#22940](https://github.com/conan-io/conan-center-index/pull/22940)|[toge](https://github.com/toge)|Mar 1|:memo: glaze|:green_circle: XS|0|||
+[#22942](https://github.com/conan-io/conan-center-index/pull/22942)|[elvisdukaj](https://github.com/elvisdukaj)|Mar 1|:stopwatch: freeimage|:blue_square: S|3|Mar 1|jcar87|
 [#22943](https://github.com/conan-io/conan-center-index/pull/22943)|[toge](https://github.com/toge)|Mar 1|:memo: wyhash|:green_circle: XS|0|||
 [#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|||
 [#22947](https://github.com/conan-io/conan-center-index/pull/22947)|[eyalroz](https://github.com/eyalroz)|Mar 1|:memo: cuda-api-wrappers|:green_circle: XS|3|Mar 2||valgur
@@ -242,7 +243,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 579
 	- Draft: 57
-	- Average Age: 119 days, 13 hours, and 13.69 minutes
+	- Average Age: 119 days, 14 hours, and 9.97 minutes
 	- Stop Label: 283
 	
 
