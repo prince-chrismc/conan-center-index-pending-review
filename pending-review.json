@@ -5159,5 +5159,25 @@
          },
          "IsBump": false
       }
+   },
+   {
+      "Number": 22961,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-03T02:15:28Z",
+      "Recipe": "zziplib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22961",
+      "LastCommitSHA": "5bc20cd8ea9874fadee796ee2839a0a6ccf077a1",
+      "LastCommitAt": "2024-03-03T02:10:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
