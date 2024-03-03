@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22957](https://github.com/conan-io/conan-center-index/pull/22957)|[jwillikers](https://github.com/jwillikers)|Mar 2|:memo: pcl|:green_circle: XS|1|Mar 2||valgur
 [#22963](https://github.com/conan-io/conan-center-index/pull/22963)|[toge](https://github.com/toge)|Mar 3|:memo: expat|:green_circle: XS|0|||
 [#22964](https://github.com/conan-io/conan-center-index/pull/22964)|[toge](https://github.com/toge)|Mar 3|:memo: nng|:blue_square: S|0|||
-[#22965](https://github.com/conan-io/conan-center-index/pull/22965)|[toge](https://github.com/toge)|Mar 3|:stopwatch: crcpp|M|0|||
+[#22965](https://github.com/conan-io/conan-center-index/pull/22965)|[toge](https://github.com/toge)|Mar 3|:new: crcpp|M|0|||
 
 
 #### :clipboard: Statistics
@@ -247,7 +247,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 584
 	- Draft: 57
-	- Average Age: 119 days, 11 hours, and 29.36 minutes
+	- Average Age: 119 days, 12 hours, and 30.82 minutes
 	- Stop Label: 285
 	
 
