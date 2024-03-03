@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22942](https://github.com/conan-io/conan-center-index/pull/22942)|[elvisdukaj](https://github.com/elvisdukaj)|Mar 1|:stopwatch: freeimage|:blue_square: S|3|Mar 1|jcar87|
 [#22943](https://github.com/conan-io/conan-center-index/pull/22943)|[toge](https://github.com/toge)|Mar 1|:memo: wyhash|:green_circle: XS|0|||
 [#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|||
-[#22947](https://github.com/conan-io/conan-center-index/pull/22947)|[eyalroz](https://github.com/eyalroz)|Mar 1|:memo: cuda-api-wrappers|:green_circle: XS|3|Mar 2||valgur
+[#22947](https://github.com/conan-io/conan-center-index/pull/22947)|[eyalroz](https://github.com/eyalroz)|Mar 1|:stopwatch: cuda-api-wrappers|:green_circle: XS|3|Mar 2||valgur
 [#22948](https://github.com/conan-io/conan-center-index/pull/22948)|[gagoi](https://github.com/gagoi)|Mar 1|:stopwatch: minizip|:green_circle: XS|0|||
 [#22949](https://github.com/conan-io/conan-center-index/pull/22949)|[paulharris](https://github.com/paulharris)|Mar 1|:gear: .github|:green_circle: XS|2|Mar 1||jwillikers, Croydon
 [#22950](https://github.com/conan-io/conan-center-index/pull/22950)|[bobrofon](https://github.com/bobrofon)|Mar 1|:new: basu|M|0|||
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 581
 	- Draft: 57
-	- Average Age: 119 days, 17 hours, and 21.29 minutes
+	- Average Age: 119 days, 19 hours, and 21.59 minutes
 	- Stop Label: 285
 	
 
