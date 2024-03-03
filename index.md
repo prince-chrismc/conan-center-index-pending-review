@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **206** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -180,6 +180,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22614](https://github.com/conan-io/conan-center-index/pull/22614)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 1|:memo: async_simple|L|0|:eyes:||
 [#22657](https://github.com/conan-io/conan-center-index/pull/22657)|[StellaSmith](https://github.com/StellaSmith)|Feb 5|:memo: glm|M|1|Feb 19 :bell:||jwillikers
 [#22662](https://github.com/conan-io/conan-center-index/pull/22662)|[obnyis](https://github.com/obnyis)|Feb 5|:memo: openssl|:green_circle: XS|1|Feb 20||Croydon
+[#22667](https://github.com/conan-io/conan-center-index/pull/22667)|[valgur](https://github.com/valgur)|Feb 5|:memo: gperftools|M|3|Feb 6 :bell:||
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|1|Feb 29||ericLemanissier
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|2|Feb 27|danimtb|jwillikers
@@ -243,8 +244,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 581
 	- Draft: 57
-	- Average Age: 119 days, 20 hours, and 17.52 minutes
-	- Stop Label: 285
+	- Average Age: 119 days, 23 hours, and 26.56 minutes
+	- Stop Label: 284
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
