@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **208** pull requests currently under way :detective:
+There are **201** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -66,7 +66,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19262](https://github.com/conan-io/conan-center-index/pull/19262)|[valgur](https://github.com/valgur)|Aug 17|:memo: nss|L|8|Feb 26||jwillikers, [Rodarin](https://github.com/Rodarin)
 [#19381](https://github.com/conan-io/conan-center-index/pull/19381)|[valgur](https://github.com/valgur)|Aug 24|:new: tiledb|L|0|:eyes:||
-[#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11 :bell:||MartinDelille
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|7|Feb 28||valgur
@@ -155,7 +154,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22229](https://github.com/conan-io/conan-center-index/pull/22229)|[valgur](https://github.com/valgur)|Jan 9|:new: libcudacxx|M|0|:eyes:||
 [#22260](https://github.com/conan-io/conan-center-index/pull/22260)|[rturrado](https://github.com/rturrado)|Jan 11|:new: func-gen|L|0|:eyes:||
 [#22267](https://github.com/conan-io/conan-center-index/pull/22267)|[jacobfriedman](https://github.com/jacobfriedman)|Jan 11|:stopwatch: libgit2|M|0|:eyes:||
-[#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|L|5|Mar 4||**uilianries**
 [#22290](https://github.com/conan-io/conan-center-index/pull/22290)|[valgur](https://github.com/valgur)|Jan 13|:memo: cimg|L|0|:eyes:||
 [#22318](https://github.com/conan-io/conan-center-index/pull/22318)|[valgur](https://github.com/valgur)|Jan 13|:memo: libbasisu|L|0|:eyes:||
 [#22323](https://github.com/conan-io/conan-center-index/pull/22323)|[valgur](https://github.com/valgur)|Jan 14|:stopwatch: gtsam|L|0|:eyes:||
@@ -218,34 +216,33 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22935](https://github.com/conan-io/conan-center-index/pull/22935)|[toge](https://github.com/toge)|Feb 29|:memo: ssp|:green_circle: XS|0|||
 [#22936](https://github.com/conan-io/conan-center-index/pull/22936)|[vok1980](https://github.com/vok1980)|Feb 29|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#22939](https://github.com/conan-io/conan-center-index/pull/22939)|[Ahajha](https://github.com/Ahajha)|Mar 1|:memo: tcl|:blue_square: S|1|Mar 4||**RubenRBS**
-[#22940](https://github.com/conan-io/conan-center-index/pull/22940)|[toge](https://github.com/toge)|Mar 1|:memo: glaze|:green_circle: XS|0|:eyes:||
 [#22943](https://github.com/conan-io/conan-center-index/pull/22943)|[toge](https://github.com/toge)|Mar 1|:memo: wyhash|:green_circle: XS|1|Mar 4||**RubenRBS**
-[#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|||
+[#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|:eyes:||
 [#22948](https://github.com/conan-io/conan-center-index/pull/22948)|[gagoi](https://github.com/gagoi)|Mar 1|:memo: minizip|:green_circle: XS|0|||
-[#22950](https://github.com/conan-io/conan-center-index/pull/22950)|[bobrofon](https://github.com/bobrofon)|Mar 1|:new: basu|M|0|||
 [#22951](https://github.com/conan-io/conan-center-index/pull/22951)|[mologie](https://github.com/mologie)|Mar 1|:memo: xnnpack|:blue_square: S|0|||
 [#22952](https://github.com/conan-io/conan-center-index/pull/22952)|[jwillikers](https://github.com/jwillikers)|Mar 1|:memo: libselinux|L|0|||
-[#22953](https://github.com/conan-io/conan-center-index/pull/22953)|[Ahajha](https://github.com/Ahajha)|Mar 1|:memo: spdlog|M|2|Mar 4||**uilianries**
-[#22954](https://github.com/conan-io/conan-center-index/pull/22954)|[bobrofon](https://github.com/bobrofon)|Mar 1|:memo: gperf|:green_circle: XS|0|||
-[#22955](https://github.com/conan-io/conan-center-index/pull/22955)|[toge](https://github.com/toge)|Mar 2|:memo: catch2|:green_circle: XS|1|Mar 3||[offa](https://github.com/offa)
+[#22954](https://github.com/conan-io/conan-center-index/pull/22954)|[bobrofon](https://github.com/bobrofon)|Mar 1|:memo: gperf|:green_circle: XS|1|Mar 4||**RubenRBS**
 [#22956](https://github.com/conan-io/conan-center-index/pull/22956)|[jwillikers](https://github.com/jwillikers)|Mar 2|:stopwatch: glew|:blue_square: S|0|||
 [#22957](https://github.com/conan-io/conan-center-index/pull/22957)|[jwillikers](https://github.com/jwillikers)|Mar 2|:memo: pcl|:green_circle: XS|1|Mar 2||valgur
-[#22963](https://github.com/conan-io/conan-center-index/pull/22963)|[toge](https://github.com/toge)|Mar 3|:memo: expat|:green_circle: XS|0|||
-[#22964](https://github.com/conan-io/conan-center-index/pull/22964)|[toge](https://github.com/toge)|Mar 3|:memo: nng|:blue_square: S|0|||
-[#22965](https://github.com/conan-io/conan-center-index/pull/22965)|[toge](https://github.com/toge)|Mar 3|:new: crcpp|M|0|||
-[#22966](https://github.com/conan-io/conan-center-index/pull/22966)|[irieger](https://github.com/irieger)|Mar 4|:memo: openimageio|L|0|||
+[#22964](https://github.com/conan-io/conan-center-index/pull/22964)|[toge](https://github.com/toge)|Mar 3|:memo: nng|:blue_square: S|1|Mar 4||**RubenRBS**
+[#22965](https://github.com/conan-io/conan-center-index/pull/22965)|[toge](https://github.com/toge)|Mar 3|:new: crcpp|M|1|Mar 4||**RubenRBS**
+[#22966](https://github.com/conan-io/conan-center-index/pull/22966)|[irieger](https://github.com/irieger)|Mar 4|:memo: openimageio|L|1|Mar 4||**RubenRBS**
 [#22967](https://github.com/conan-io/conan-center-index/pull/22967)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 4|:stopwatch: .c3i|:green_circle: XS|1|Mar 4||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|3|**uilianries**, jwillikers
 [#22187](https://github.com/conan-io/conan-center-index/pull/22187)|[valgur](https://github.com/valgur)|Jan 7|:warning: dcmtk|3|**RubenRBS**, **uilianries**
+[#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:warning: tree-gen|6|**uilianries**, **RubenRBS**
+[#22940](https://github.com/conan-io/conan-center-index/pull/22940)|[toge](https://github.com/toge)|Mar 1|:memo: glaze|1|**RubenRBS**
+[#22955](https://github.com/conan-io/conan-center-index/pull/22955)|[toge](https://github.com/toge)|Mar 2|:memo: catch2|2|[offa](https://github.com/offa), **RubenRBS**
+[#22963](https://github.com/conan-io/conan-center-index/pull/22963)|[toge](https://github.com/toge)|Mar 3|:memo: expat|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -254,9 +251,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 582
+	- Open: 581
 	- Draft: 57
-	- Average Age: 120 days, 17 hours, and 11.30 minutes
+	- Average Age: 120 days, 22 hours, and 39.11 minutes
 	- Stop Label: 283
 	
 
