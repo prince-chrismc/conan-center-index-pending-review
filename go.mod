@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/google/go-github/v45 v45.2.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 	github.com/urfave/cli/v2 v2.27.1
 	github.com/wcharczuk/go-chart/v2 v2.1.1
 	golang.org/x/oauth2 v0.16.0
