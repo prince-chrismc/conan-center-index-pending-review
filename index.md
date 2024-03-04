@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -137,7 +137,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|L|7|Feb 28||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2), **danimtb**
 [#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:memo: physfs|:blue_square: S|2|Feb 10 :bell:||ericLemanissier
 [#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:memo: coin-lemon|:blue_square: S|2|Jan 3 :bell:||SpaceIm
-[#22079](https://github.com/conan-io/conan-center-index/pull/22079)|[toge](https://github.com/toge)|Dec 31|:memo: prometheus-cpp|M|1|Feb 13 :bell:|uilianries|
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|:eyes:||
 [#22120](https://github.com/conan-io/conan-center-index/pull/22120)|[toge](https://github.com/toge)|Jan 3|:stopwatch: mbits-lngs|:green_circle: XS|0|:eyes:||
 [#22134](https://github.com/conan-io/conan-center-index/pull/22134)|[tsondergaard](https://github.com/tsondergaard)|Jan 3|:memo: dbus|:green_circle: XS|1|Jan 4 :bell:||jwillikers
@@ -223,16 +222,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
-[#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:warning: tree-gen|6|**uilianries**, **RubenRBS**
-[#22955](https://github.com/conan-io/conan-center-index/pull/22955)|[toge](https://github.com/toge)|Mar 2|:memo: catch2|2|[offa](https://github.com/offa), **RubenRBS**
-[#22963](https://github.com/conan-io/conan-center-index/pull/22963)|[toge](https://github.com/toge)|Mar 3|:memo: expat|1|**RubenRBS**
-[#22964](https://github.com/conan-io/conan-center-index/pull/22964)|[toge](https://github.com/toge)|Mar 3|:memo: nng|2|**RubenRBS**, jwillikers
+[#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|6|**uilianries**, **RubenRBS**
 [#22965](https://github.com/conan-io/conan-center-index/pull/22965)|[toge](https://github.com/toge)|Mar 3|:new: crcpp|2|**RubenRBS**, jwillikers
 [#22966](https://github.com/conan-io/conan-center-index/pull/22966)|[irieger](https://github.com/irieger)|Mar 4|:memo: openimageio|2|**RubenRBS**, jwillikers
 [#22971](https://github.com/conan-io/conan-center-index/pull/22971)|[jcar87](https://github.com/jcar87)|Mar 4|:warning: qt|3|**RubenRBS**, ericLemanissier, **uilianries**
@@ -244,9 +240,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 97a631cfbeb3a1bfcfafc653af1d2ddab5e0ffe6
 - Pull Requests:
-	- Open: 570
+	- Open: 567
 	- Draft: 57
-	- Average Age: 122 days, 11 hours, and 33.20 minutes
+	- Average Age: 123 days, 3 hours, and 51.44 minutes
 	- Stop Label: 280
 	
 
