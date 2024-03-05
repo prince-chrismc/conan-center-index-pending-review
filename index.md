@@ -193,7 +193,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|0|:eyes:||
 [#22827](https://github.com/conan-io/conan-center-index/pull/22827)|[tux3](https://github.com/tux3)|Feb 20|:memo: android-ndk|:blue_square: S|1|Feb 29||[vok1980](https://github.com/vok1980)
 [#22832](https://github.com/conan-io/conan-center-index/pull/22832)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 20|:memo: openssl|:green_circle: XS|0|:eyes:||
-[#22842](https://github.com/conan-io/conan-center-index/pull/22842)|[johannes-wolf](https://github.com/johannes-wolf)|Feb 21|:new: simfil|M|4|Mar 4||**uilianries**
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|0|:eyes:||
 [#22851](https://github.com/conan-io/conan-center-index/pull/22851)|[valgur](https://github.com/valgur)|Feb 22|:memo: stdgpu|:blue_square: S|0|:eyes:||
 [#22865](https://github.com/conan-io/conan-center-index/pull/22865)|[samuaz](https://github.com/samuaz)|Feb 22|:new: mariadb-connector-cpp|L|1|Feb 26||
@@ -217,18 +216,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22969](https://github.com/conan-io/conan-center-index/pull/22969)|[MartinDelille](https://github.com/MartinDelille)|Mar 4|:stopwatch: cairo|:green_circle: XS|0|||
 [#22972](https://github.com/conan-io/conan-center-index/pull/22972)|[igormironchik](https://github.com/igormironchik)|Mar 4|:stopwatch: md4qt|:green_circle: XS|0|||
 [#22975](https://github.com/conan-io/conan-center-index/pull/22975)|[robomics](https://github.com/robomics)|Mar 4|:memo: hictk|:green_circle: XS|0|||
+[#22976](https://github.com/conan-io/conan-center-index/pull/22976)|[Ahajha](https://github.com/Ahajha)|Mar 4|:memo: xz_utils|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22286](https://github.com/conan-io/conan-center-index/pull/22286)|[rturrado](https://github.com/rturrado)|Jan 12|:new: tree-gen|6|**uilianries**, **RubenRBS**
-[#22971](https://github.com/conan-io/conan-center-index/pull/22971)|[jcar87](https://github.com/jcar87)|Mar 4|:warning: qt|3|**RubenRBS**, ericLemanissier, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -237,10 +236,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b9647808d5136918a9337f430e3c6d413de0bb1a
 - Pull Requests:
-	- Open: 566
+	- Open: 564
 	- Draft: 56
-	- Average Age: 122 days, 14 hours, and 51.73 minutes
-	- Stop Label: 282
+	- Average Age: 123 days, 2 hours, and 20.31 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
