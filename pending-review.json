@@ -4783,26 +4783,6 @@
       }
    },
    {
-      "Number": 22969,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2024-03-04T14:44:26Z",
-      "Recipe": "cairo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22969",
-      "LastCommitSHA": "4df7053d036e4b85ba7c97b6eb6da332a26a988d",
-      "LastCommitAt": "2024-03-04T14:08:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22972,
       "OpenedBy": "igormironchik",
       "CreatedAt": "2024-03-04T15:56:03Z",
@@ -4812,14 +4792,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22972",
       "LastCommitSHA": "e3739395443b796710c4c0af7da86dd546c6013e",
       "LastCommitAt": "2024-03-05T05:56:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    },
    {
