@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,8 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22956](https://github.com/conan-io/conan-center-index/pull/22956)|[jwillikers](https://github.com/jwillikers)|Mar 2|:stopwatch: glew|:blue_square: S|0|||
 [#22957](https://github.com/conan-io/conan-center-index/pull/22957)|[jwillikers](https://github.com/jwillikers)|Mar 2|:memo: pcl|:green_circle: XS|1|Mar 2||valgur
 [#22968](https://github.com/conan-io/conan-center-index/pull/22968)|[toge](https://github.com/toge)|Mar 4|:memo: aws-c-http|:green_circle: XS|0|||
-[#22969](https://github.com/conan-io/conan-center-index/pull/22969)|[MartinDelille](https://github.com/MartinDelille)|Mar 4|:stopwatch: cairo|:green_circle: XS|0|||
-[#22972](https://github.com/conan-io/conan-center-index/pull/22972)|[igormironchik](https://github.com/igormironchik)|Mar 4|:stopwatch: md4qt|:green_circle: XS|0|||
+[#22972](https://github.com/conan-io/conan-center-index/pull/22972)|[igormironchik](https://github.com/igormironchik)|Mar 4|:memo: md4qt|:green_circle: XS|0|||
 [#22975](https://github.com/conan-io/conan-center-index/pull/22975)|[robomics](https://github.com/robomics)|Mar 4|:memo: hictk|:green_circle: XS|0|||
 [#22976](https://github.com/conan-io/conan-center-index/pull/22976)|[Ahajha](https://github.com/Ahajha)|Mar 4|:memo: xz_utils|M|0|||
 
@@ -236,10 +235,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b9647808d5136918a9337f430e3c6d413de0bb1a
 - Pull Requests:
-	- Open: 564
+	- Open: 563
 	- Draft: 56
-	- Average Age: 123 days, 7 hours, and 47.17 minutes
-	- Stop Label: 281
+	- Average Age: 123 days, 13 hours, and 57.49 minutes
+	- Stop Label: 280
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
