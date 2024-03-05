@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -214,6 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22987](https://github.com/conan-io/conan-center-index/pull/22987)|[valgur](https://github.com/valgur)|Mar 5|:memo: opentelemetry-cpp|:blue_square: S|1|Mar 5||**franramirez688**
 [#22990](https://github.com/conan-io/conan-center-index/pull/22990)|[jwillikers](https://github.com/jwillikers)|Mar 5|:stopwatch: ffmpeg|:green_circle: XS|0|||
 [#22992](https://github.com/conan-io/conan-center-index/pull/22992)|[Nekto89](https://github.com/Nekto89)|Mar 5|:stopwatch: libxml2|:green_circle: XS|0|||
+[#22994](https://github.com/conan-io/conan-center-index/pull/22994)|[irieger](https://github.com/irieger)|Mar 5|:stopwatch: openexr|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -233,9 +234,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 563
-	- Draft: 56
-	- Average Age: 123 days, 5 hours, and 10.57 minutes
+	- Open: 566
+	- Draft: 58
+	- Average Age: 122 days, 14 hours, and 33.77 minutes
 	- Stop Label: 283
 	
 
