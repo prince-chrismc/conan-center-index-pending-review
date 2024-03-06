@@ -3871,6 +3871,36 @@
       }
    },
    {
+      "Number": 22718,
+      "OpenedBy": "sjlamerton",
+      "CreatedAt": "2024-02-08T15:49:37Z",
+      "Recipe": "libsvtav1",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22718",
+      "LastCommitSHA": "668180f28fcb3e3460a8bfac028a91327f9ca2d9",
+      "LastCommitAt": "2024-03-06T13:26:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-03-06T14:24:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22718#pullrequestreview-1919899481"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22740,
       "OpenedBy": "sourcedelica",
       "CreatedAt": "2024-02-11T01:04:40Z",
@@ -4687,6 +4717,26 @@
             "SubmittedAt": "2024-03-06T12:00:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23000#pullrequestreview-1919551862"
          },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23005,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-06T14:52:45Z",
+      "Recipe": "dacap-clip",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23005",
+      "LastCommitSHA": "010f20764313b0e2db8f8dd6e690303ef96e8bb5",
+      "LastCommitAt": "2024-03-06T14:51:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
          "IsBump": false
       }
    }
