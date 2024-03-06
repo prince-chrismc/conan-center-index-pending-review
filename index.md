@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -171,7 +171,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22690](https://github.com/conan-io/conan-center-index/pull/22690)|[Kaaml](https://github.com/Kaaml)|Feb 6|:memo: date|:green_circle: XS|1|Feb 29||ericLemanissier
 [#22692](https://github.com/conan-io/conan-center-index/pull/22692)|[Nekto89](https://github.com/Nekto89)|Feb 6|:green_book: docs|:blue_square: S|0|:eyes:||
 [#22695](https://github.com/conan-io/conan-center-index/pull/22695)|[mayeut](https://github.com/mayeut)|Feb 6|:memo: zint|:green_circle: XS|2|Feb 27|danimtb|jwillikers
-[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:stopwatch: cairo|:blue_square: S|4|Mar 4||jwillikers
+[#22696](https://github.com/conan-io/conan-center-index/pull/22696)|[mayeut](https://github.com/mayeut)|Feb 6|:stopwatch: cairo|:blue_square: S|5|Mar 6||jwillikers, valgur
 [#22698](https://github.com/conan-io/conan-center-index/pull/22698)|[toge](https://github.com/toge)|Feb 7|:new: battery-embed|L|0|:eyes:||
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|4|Feb 17 :bell:||
 [#22718](https://github.com/conan-io/conan-center-index/pull/22718)|[sjlamerton](https://github.com/sjlamerton)|Feb 8|:memo: libsvtav1|L|3|Mar 6||**uilianries**
@@ -212,6 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22999](https://github.com/conan-io/conan-center-index/pull/22999)|[toge](https://github.com/toge)|Mar 6|:stopwatch: aws-c-mqtt|:green_circle: XS|0|||
 [#23000](https://github.com/conan-io/conan-center-index/pull/23000)|[toge](https://github.com/toge)|Mar 6|:stopwatch: minizip-ng|:blue_square: S|4|Mar 6||ericLemanissier
 [#23005](https://github.com/conan-io/conan-center-index/pull/23005)|[toge](https://github.com/toge)|Mar 6|:memo: dacap-clip|:blue_square: S|0|||
+[#23007](https://github.com/conan-io/conan-center-index/pull/23007)|[jwillikers](https://github.com/jwillikers)|Mar 6|:stopwatch: avahi|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -231,9 +232,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 566
+	- Open: 567
 	- Draft: 61
-	- Average Age: 122 days, 3 hours, and 13.39 minutes
+	- Average Age: 121 days, 22 hours, and 55.87 minutes
 	- Stop Label: 281
 	
 
