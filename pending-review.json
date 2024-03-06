@@ -2978,26 +2978,6 @@
       }
    },
    {
-      "Number": 22158,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-01-04T21:51:47Z",
-      "Recipe": "dbus",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22158",
-      "LastCommitSHA": "bece7422cf063a915a9852ed25d8b0f529a517f7",
-      "LastCommitAt": "2024-03-06T13:08:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22165,
       "OpenedBy": "wu-vincent",
       "CreatedAt": "2024-01-05T02:49:53Z",
