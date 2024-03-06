@@ -4854,6 +4854,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22998",
       "LastCommitSHA": "9d3f370e6db4b84cc39aed67928c2384b3290cde",
       "LastCommitAt": "2024-03-06T05:50:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 22999,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-06T05:57:54Z",
+      "Recipe": "aws-c-mqtt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22999",
+      "LastCommitSHA": "c942defe60d50823beaa33001cedad74e146f2e7",
+      "LastCommitAt": "2024-03-06T06:17:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4874,7 +4894,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23000",
       "LastCommitSHA": "1d3e99aa372b1f1b43260bd06d3e664d5b2713b4",
       "LastCommitAt": "2024-03-06T06:02:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
