@@ -3807,20 +3807,24 @@
       "LastCommitAt": "2024-03-04T09:50:23Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "valgur",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-03-04T12:46:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1914230152"
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2024-03-06T18:47:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1920541267"
          },
          "IsBump": false
       }
@@ -4746,6 +4750,26 @@
       "LastCommitSHA": "010f20764313b0e2db8f8dd6e690303ef96e8bb5",
       "LastCommitAt": "2024-03-06T14:51:30Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23007,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2024-03-06T18:56:55Z",
+      "Recipe": "avahi",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23007",
+      "LastCommitSHA": "7509c874ecc78987f56279af66b7e8db7491e125",
+      "LastCommitAt": "2024-03-06T18:56:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
