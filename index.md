@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,7 +211,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23011](https://github.com/conan-io/conan-center-index/pull/23011)|[jwillikers](https://github.com/jwillikers)|Mar 6|:stopwatch: harfbuzz|:green_circle: XS|0|||
 [#23013](https://github.com/conan-io/conan-center-index/pull/23013)|[jwillikers](https://github.com/jwillikers)|Mar 6|:memo: libudev|:green_circle: XS|0|||
 [#23014](https://github.com/conan-io/conan-center-index/pull/23014)|[temap](https://github.com/temap)|Mar 7|:memo: libxslt|:green_circle: XS|0|||
-[#23015](https://github.com/conan-io/conan-center-index/pull/23015)|[czoido](https://github.com/czoido)|Mar 7|:stopwatch: opengl|:green_circle: XS|1|Mar 7||**jcar87**
 [#23017](https://github.com/conan-io/conan-center-index/pull/23017)|[github-actions[bot]](https://github.com/github-actions[bot])|Mar 7|:green_book: docs|:green_circle: XS|1|Mar 7||**uilianries**
 [#23020](https://github.com/conan-io/conan-center-index/pull/23020)|[hedtke](https://github.com/hedtke)|Mar 7|:memo: highs|:blue_square: S|0|||
 [#23022](https://github.com/conan-io/conan-center-index/pull/23022)|[toge](https://github.com/toge)|Mar 7|:memo: neargye-semver|:green_circle: XS|0|||
@@ -237,9 +236,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 571
+	- Open: 570
 	- Draft: 59
-	- Average Age: 120 days, 23 hours, and 52.59 minutes
+	- Average Age: 121 days, 5 hours, and 55.57 minutes
 	- Stop Label: 285
 	
 
