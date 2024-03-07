@@ -4722,7 +4722,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23011",
       "LastCommitSHA": "323294bbfcb3c271294b5c91d2312399e394aa3a",
       "LastCommitAt": "2024-03-06T22:07:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4783,6 +4783,36 @@
       "LastCommitSHA": "21f1b579721601387fb0691249fecc732ce6598d",
       "LastCommitAt": "2024-03-07T10:22:21Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-03-07T11:55:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23017#pullrequestreview-1922245638"
+         },
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23019,
+      "OpenedBy": "hedtke",
+      "CreatedAt": "2024-03-07T12:17:41Z",
+      "Recipe": "yoga",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23019",
+      "LastCommitSHA": "e6e7c41e10b2b65cee1ee1617367b0b565ef4d05",
+      "LastCommitAt": "2024-03-07T12:16:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
