@@ -3551,40 +3551,6 @@
       }
    },
    {
-      "Number": 22577,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2024-01-29T04:06:40Z",
-      "Recipe": "primesieve",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22577",
-      "LastCommitSHA": "c85ed30d89ea7fb721c28c54b370680340785e0f",
-      "LastCommitAt": "2024-02-13T16:05:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-03-07T00:26:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22577#pullrequestreview-1921092203"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22580,
       "OpenedBy": "temap",
       "CreatedAt": "2024-01-29T10:43:09Z",
