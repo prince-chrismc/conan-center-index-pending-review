@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,6 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|3|Feb 26||jwillikers
 [#18979](https://github.com/conan-io/conan-center-index/pull/18979)|[valgur](https://github.com/valgur)|Jul 31|:memo: libfabric|L|1|Mar 1||jwillikers
 [#18986](https://github.com/conan-io/conan-center-index/pull/18986)|[valgur](https://github.com/valgur)|Jul 31|:memo: librhash|L|0|:eyes:||
+[#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|M|11|Mar 7||jwillikers
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
@@ -237,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 569
 	- Draft: 59
-	- Average Age: 121 days, 11 hours, and 36.76 minutes
+	- Average Age: 121 days, 13 hours, and 33.29 minutes
 	- Stop Label: 285
 	
 
