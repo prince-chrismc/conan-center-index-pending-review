@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -201,6 +201,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22980](https://github.com/conan-io/conan-center-index/pull/22980)|[crstzh](https://github.com/crstzh)|Mar 5|:stopwatch: gmp|:green_circle: XS|1|Mar 6|jcar87|
 [#22982](https://github.com/conan-io/conan-center-index/pull/22982)|[Ahajha](https://github.com/Ahajha)|Mar 5|:memo: abseil|M|0|||
 [#22987](https://github.com/conan-io/conan-center-index/pull/22987)|[valgur](https://github.com/valgur)|Mar 5|:memo: opentelemetry-cpp|:blue_square: S|3|Mar 6||ericLemanissier
+[#22991](https://github.com/conan-io/conan-center-index/pull/22991)|[jwillikers](https://github.com/jwillikers)|Mar 5|:new: pipewire|L|0|||
 [#22994](https://github.com/conan-io/conan-center-index/pull/22994)|[irieger](https://github.com/irieger)|Mar 5|:stopwatch: openexr|:green_circle: XS|0|||
 [#22996](https://github.com/conan-io/conan-center-index/pull/22996)|[jwillikers](https://github.com/jwillikers)|Mar 5|:memo: avahi|M|3|Mar 7||**jcar87**
 [#22998](https://github.com/conan-io/conan-center-index/pull/22998)|[toge](https://github.com/toge)|Mar 6|:memo: aws-c-auth|:blue_square: S|0|||
@@ -238,8 +239,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 569
 	- Draft: 59
-	- Average Age: 121 days, 13 hours, and 33.29 minutes
-	- Stop Label: 285
+	- Average Age: 121 days, 14 hours, and 33.16 minutes
+	- Stop Label: 284
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
