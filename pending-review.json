@@ -4704,36 +4704,6 @@
       }
    },
    {
-      "Number": 23015,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2024-03-07T08:52:41Z",
-      "Recipe": "opengl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23015",
-      "LastCommitSHA": "04ed0d8bc1f11f80f314f341542ed59ff70cdf90",
-      "LastCommitAt": "2024-03-07T08:50:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2024-03-07T16:16:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23015#pullrequestreview-1922906101"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23017,
       "OpenedBy": "github-actions[bot]",
       "CreatedAt": "2024-03-07T10:22:33Z",
