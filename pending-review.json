@@ -4795,5 +4795,25 @@
          "Blockers": null,
          "IsBump": true
       }
+   },
+   {
+      "Number": 23037,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2024-03-08T20:36:01Z",
+      "Recipe": "fast_float",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23037",
+      "LastCommitSHA": "6fff66d5d129888cdad3b38b1b2eb2fdb5366b1c",
+      "LastCommitAt": "2024-03-08T20:34:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
