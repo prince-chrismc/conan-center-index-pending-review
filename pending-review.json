@@ -3844,8 +3844,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22708",
-      "LastCommitSHA": "e68cb1dbbadf9852f9c9298309c1c9936fb4a4c2",
-      "LastCommitAt": "2024-03-03T13:19:30Z",
+      "LastCommitSHA": "81696a94130383fd3ca85a8b95bba6f4ead3d9fa",
+      "LastCommitAt": "2024-03-08T05:20:44Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
@@ -4606,8 +4606,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23000",
-      "LastCommitSHA": "98ca6474055b8c4f57ab5325b9e442375a529690",
-      "LastCommitAt": "2024-03-07T05:27:27Z",
+      "LastCommitSHA": "c96698161bd4ae4cc27fac63be4823fee45bbd11",
+      "LastCommitAt": "2024-03-08T06:08:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -4859,6 +4859,26 @@
       "LastCommitSHA": "dfe578ee5f64af9517ab31d62cbbfdb84c747ffb",
       "LastCommitAt": "2024-03-07T14:21:42Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23026,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-08T05:25:11Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23026",
+      "LastCommitSHA": "3ed4feaef6a17920446ef578ea9591808809f62a",
+      "LastCommitAt": "2024-03-08T05:24:32Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
