@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,7 +206,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22996](https://github.com/conan-io/conan-center-index/pull/22996)|[jwillikers](https://github.com/jwillikers)|Mar 5|:memo: avahi|M|3|Mar 7||**jcar87**
 [#22998](https://github.com/conan-io/conan-center-index/pull/22998)|[toge](https://github.com/toge)|Mar 6|:memo: aws-c-auth|:blue_square: S|0|||
 [#22999](https://github.com/conan-io/conan-center-index/pull/22999)|[toge](https://github.com/toge)|Mar 6|:stopwatch: aws-c-mqtt|:green_circle: XS|0|||
-[#23000](https://github.com/conan-io/conan-center-index/pull/23000)|[toge](https://github.com/toge)|Mar 6|:stopwatch: minizip-ng|:blue_square: S|5|Mar 7||ericLemanissier
+[#23000](https://github.com/conan-io/conan-center-index/pull/23000)|[toge](https://github.com/toge)|Mar 6|:memo: minizip-ng|:blue_square: S|5|Mar 7||ericLemanissier
 [#23005](https://github.com/conan-io/conan-center-index/pull/23005)|[toge](https://github.com/toge)|Mar 6|:memo: dacap-clip|:blue_square: S|0|||
 [#23007](https://github.com/conan-io/conan-center-index/pull/23007)|[jwillikers](https://github.com/jwillikers)|Mar 6|:memo: avahi|:green_circle: XS|0|||
 [#23011](https://github.com/conan-io/conan-center-index/pull/23011)|[jwillikers](https://github.com/jwillikers)|Mar 6|:stopwatch: harfbuzz|:green_circle: XS|0|||
@@ -219,6 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23024](https://github.com/conan-io/conan-center-index/pull/23024)|[toge](https://github.com/toge)|Mar 7|:memo: strong_type|:green_circle: XS|0|||
 [#23025](https://github.com/conan-io/conan-center-index/pull/23025)|[jwillikers](https://github.com/jwillikers)|Mar 7|:stopwatch: libliftoff|:green_circle: XS|0|||
 [#23026](https://github.com/conan-io/conan-center-index/pull/23026)|[toge](https://github.com/toge)|Mar 8|:memo: glaze|:green_circle: XS|0|||
+[#23027](https://github.com/conan-io/conan-center-index/pull/23027)|[toge](https://github.com/toge)|Mar 8|:memo: xbyak|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 570
+	- Open: 571
 	- Draft: 58
-	- Average Age: 121 days, 18 hours, and 28.29 minutes
+	- Average Age: 121 days, 14 hours, and 20.45 minutes
 	- Stop Label: 285
 	
 
