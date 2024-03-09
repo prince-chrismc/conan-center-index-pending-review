@@ -1360,9 +1360,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20634",
-      "LastCommitSHA": "3ec06ddc1914b15614dd66528634131cba2720af",
-      "LastCommitAt": "2023-10-18T06:52:20Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "49ef8020a75533177734492f42aaec50607bdd78",
+      "LastCommitAt": "2024-03-09T16:40:10Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
