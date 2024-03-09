@@ -4860,5 +4860,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23041,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2024-03-09T20:30:36Z",
+      "Recipe": "openexr",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23041",
+      "LastCommitSHA": "7f2cebd7a6e6d9a788f4e02c371dcd2d9c5b963f",
+      "LastCommitAt": "2024-03-09T20:30:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
