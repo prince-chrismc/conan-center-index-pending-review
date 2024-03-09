@@ -4871,14 +4871,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23041",
       "LastCommitSHA": "7f2cebd7a6e6d9a788f4e02c371dcd2d9c5b963f",
       "LastCommitAt": "2024-03-09T20:30:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
