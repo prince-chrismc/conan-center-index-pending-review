@@ -4840,5 +4840,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23040,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-09T18:33:44Z",
+      "Recipe": "libgd",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23040",
+      "LastCommitSHA": "ca9e7e71d2e962d1bbc0d2b2b2a88abea4e3b6e1",
+      "LastCommitAt": "2024-03-09T18:30:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
