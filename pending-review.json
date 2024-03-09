@@ -4820,5 +4820,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23039,
+      "OpenedBy": "Ruwei",
+      "CreatedAt": "2024-03-09T08:59:30Z",
+      "Recipe": "itk",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23039",
+      "LastCommitSHA": "b9cbaa5590a3918d1451e4435094e7e88fdcfa31",
+      "LastCommitAt": "2024-03-09T08:39:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
