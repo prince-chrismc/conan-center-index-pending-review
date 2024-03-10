@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -210,20 +210,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23028](https://github.com/conan-io/conan-center-index/pull/23028)|[Sneder89](https://github.com/Sneder89)|Mar 8|:memo: cppcheck|:blue_square: S|2|Mar 8||ericLemanissier, MartinDelille
 [#23031](https://github.com/conan-io/conan-center-index/pull/23031)|[toge](https://github.com/toge)|Mar 8|:memo: watcher|:green_circle: XS|0|||
 [#23035](https://github.com/conan-io/conan-center-index/pull/23035)|[toge](https://github.com/toge)|Mar 8|:memo: ada|:green_circle: XS|0|||
-[#23037](https://github.com/conan-io/conan-center-index/pull/23037)|[robomics](https://github.com/robomics)|Mar 8|:memo: fast_float|:green_circle: XS|1|Mar 9||**RubenRBS**
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
-[#23032](https://github.com/conan-io/conan-center-index/pull/23032)|[toge](https://github.com/toge)|Mar 8|:memo: luau|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -232,9 +230,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 570
-	- Draft: 58
-	- Average Age: 123 days, 3 hours, and 57.24 minutes
+	- Open: 569
+	- Draft: 59
+	- Average Age: 123 days, 9 hours, and 52.63 minutes
 	- Stop Label: 290
 	
 
