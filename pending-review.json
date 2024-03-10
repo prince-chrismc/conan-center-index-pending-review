@@ -4217,36 +4217,6 @@
       }
    },
    {
-      "Number": 22956,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-03-02T12:11:23Z",
-      "Recipe": "glew",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22956",
-      "LastCommitSHA": "a539562dfcb6814ea4c556f59d6caf1ff86157f0",
-      "LastCommitAt": "2024-03-08T13:54:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2024-03-08T14:42:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22956#pullrequestreview-1925028211"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22980,
       "OpenedBy": "crstzh",
       "CreatedAt": "2024-03-05T10:39:58Z",
