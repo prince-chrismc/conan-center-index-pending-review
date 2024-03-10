@@ -4722,26 +4722,6 @@
       }
    },
    {
-      "Number": 23030,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-03-08T14:20:22Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23030",
-      "LastCommitSHA": "8a788fd42fccf7c600491e0df599665d2d19d1ab",
-      "LastCommitAt": "2024-03-08T15:37:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23031,
       "OpenedBy": "toge",
       "CreatedAt": "2024-03-08T14:42:56Z",
@@ -4813,11 +4793,21 @@
       "LastCommitAt": "2024-03-08T20:34:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-03-09T23:49:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23037#pullrequestreview-1926348663"
+         },
          "IsBump": false
       }
    },
@@ -4839,46 +4829,6 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": false
-      }
-   },
-   {
-      "Number": 23040,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-09T18:33:44Z",
-      "Recipe": "libgd",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23040",
-      "LastCommitSHA": "ca9e7e71d2e962d1bbc0d2b2b2a88abea4e3b6e1",
-      "LastCommitAt": "2024-03-09T18:30:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23041,
-      "OpenedBy": "irieger",
-      "CreatedAt": "2024-03-09T20:30:36Z",
-      "Recipe": "openexr",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23041",
-      "LastCommitSHA": "7f2cebd7a6e6d9a788f4e02c371dcd2d9c5b963f",
-      "LastCommitAt": "2024-03-09T20:30:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": true
       }
    }
 ]
