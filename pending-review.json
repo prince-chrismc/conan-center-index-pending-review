@@ -4555,26 +4555,6 @@
       }
    },
    {
-      "Number": 23019,
-      "OpenedBy": "hedtke",
-      "CreatedAt": "2024-03-07T12:17:41Z",
-      "Recipe": "yoga",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23019",
-      "LastCommitSHA": "62dcdb4d37c330f4cfcf9b4d0c3b44d602bd707c",
-      "LastCommitAt": "2024-03-11T11:32:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23020,
       "OpenedBy": "hedtke",
       "CreatedAt": "2024-03-07T12:24:56Z",
