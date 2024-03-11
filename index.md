@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20 :bell:||jwillikers
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|1|Jan 4 :bell:||SpaceIm
 [#20791](https://github.com/conan-io/conan-center-index/pull/20791)|[DoomHammer](https://github.com/DoomHammer)|Oct 27|:new: ohpipeline|L|3|Oct 30 :bell:||
-[#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:stopwatch: quickcpplib|L|3|Dec 4 :bell:||
+[#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|4|Mar 11||**uilianries**
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|0|:eyes:||
 [#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:memo: openssl|:blue_square: S|2|Feb 24 :bell:||jwillikers, Croydon
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
@@ -232,7 +232,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 564
 	- Draft: 58
-	- Average Age: 125 days, 1 hours, and 15.16 minutes
+	- Average Age: 125 days, 2 hours, and 12.13 minutes
 	- Stop Label: 288
 	
 
