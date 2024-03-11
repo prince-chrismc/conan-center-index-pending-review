@@ -1473,6 +1473,31 @@
       }
    },
    {
+      "Number": 20859,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-10-31T15:10:34Z",
+      "Recipe": "quickcpplib",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20859",
+      "LastCommitSHA": "24c0e940f6ced50cf11f3130441aef00275680cb",
+      "LastCommitAt": "2024-03-11T15:50:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-12-04T12:17:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20859#pullrequestreview-1762269643"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 20890,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-02T10:39:29Z",
