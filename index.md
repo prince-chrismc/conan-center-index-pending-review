@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22910](https://github.com/conan-io/conan-center-index/pull/22910)|[Tradias](https://github.com/Tradias)|Feb 27|:memo: asio-grpc|M|0|:eyes:||
 [#22917](https://github.com/conan-io/conan-center-index/pull/22917)|[hedtke](https://github.com/hedtke)|Feb 27|:memo: soplex|:blue_square: S|1|Feb 28||
 [#22926](https://github.com/conan-io/conan-center-index/pull/22926)|[valgur](https://github.com/valgur)|Feb 28|:memo: liblzf|:blue_square: S|0|:eyes:||
-[#22936](https://github.com/conan-io/conan-center-index/pull/22936)|[vok1980](https://github.com/vok1980)|Feb 29|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
+[#22936](https://github.com/conan-io/conan-center-index/pull/22936)|[vok1980](https://github.com/vok1980)|Feb 29|:memo: android-ndk|:blue_square: S|0|||
 [#22945](https://github.com/conan-io/conan-center-index/pull/22945)|[uilianries](https://github.com/uilianries)|Mar 1|:memo: openssl|:green_circle: XS|0|:eyes:||
 [#22951](https://github.com/conan-io/conan-center-index/pull/22951)|[mologie](https://github.com/mologie)|Mar 1|:memo: xnnpack|:blue_square: S|0|:eyes:||
 [#22952](https://github.com/conan-io/conan-center-index/pull/22952)|[jwillikers](https://github.com/jwillikers)|Mar 1|:memo: libselinux|L|0|:eyes:||
@@ -208,7 +208,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23031](https://github.com/conan-io/conan-center-index/pull/23031)|[toge](https://github.com/toge)|Mar 8|:memo: watcher|:green_circle: XS|0|||
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|||
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|||
-[#23044](https://github.com/conan-io/conan-center-index/pull/23044)|[Ahajha](https://github.com/Ahajha)|Mar 10|:memo: genie|:blue_square: S|1|Mar 10||**RubenRBS**
 [#23046](https://github.com/conan-io/conan-center-index/pull/23046)|[wgtmac](https://github.com/wgtmac)|Mar 11|:memo: orc|:green_circle: XS|0|||
 
 
@@ -229,9 +228,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 568
+	- Open: 567
 	- Draft: 59
-	- Average Age: 124 days, 14 hours, and 31.31 minutes
+	- Average Age: 124 days, 11 hours, and 32.71 minutes
 	- Stop Label: 290
 	
 
