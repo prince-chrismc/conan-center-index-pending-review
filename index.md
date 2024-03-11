@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **184** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,6 +211,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
 [#23056](https://github.com/conan-io/conan-center-index/pull/23056)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 11|:gear: .c3i|:green_circle: XS|1|Mar 11||**uilianries**
+[#23060](https://github.com/conan-io/conan-center-index/pull/23060)|[mmomtchev](https://github.com/mmomtchev)|Mar 11|:memo: zlib|:green_circle: XS|0|||
+[#23061](https://github.com/conan-io/conan-center-index/pull/23061)|[toge](https://github.com/toge)|Mar 11|:memo: tree-sitter|:green_circle: XS|0|||
+[#23063](https://github.com/conan-io/conan-center-index/pull/23063)|[toge](https://github.com/toge)|Mar 11|:memo: glaze|:green_circle: XS|0|||
+[#23064](https://github.com/conan-io/conan-center-index/pull/23064)|[toge](https://github.com/toge)|Mar 11|:memo: uwebsockets|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -230,9 +234,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 564
+	- Open: 568
 	- Draft: 58
-	- Average Age: 125 days, 2 hours, and 12.13 minutes
+	- Average Age: 124 days, 6 hours, and 6.70 minutes
 	- Stop Label: 288
 	
 
