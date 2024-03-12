@@ -203,16 +203,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
-[#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|8|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2), **danimtb**, jwillikers
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
-[#22986](https://github.com/conan-io/conan-center-index/pull/22986)|[toge](https://github.com/toge)|Mar 5|:new: fixed-containers|4|**RubenRBS**, jwillikers
-[#23040](https://github.com/conan-io/conan-center-index/pull/23040)|[toge](https://github.com/toge)|Mar 9|:memo: libgd|4|**RubenRBS**, jwillikers
 [#23047](https://github.com/conan-io/conan-center-index/pull/23047)|[xyz1001](https://github.com/xyz1001)|Mar 11|:new: winreg|2|**RubenRBS**, jwillikers
 
 
@@ -222,9 +219,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 555
+	- Open: 552
 	- Draft: 58
-	- Average Age: 125 days, 3 hours, and 0.92 minutes
+	- Average Age: 125 days, 16 hours, and 39.83 minutes
 	- Stop Label: 286
 	
 
