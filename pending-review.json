@@ -4732,40 +4732,6 @@
       }
    },
    {
-      "Number": 23067,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-12T01:13:35Z",
-      "Recipe": "xz_utils",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23067",
-      "LastCommitSHA": "a212d7bc7904854345085de4ab47f842950029a2",
-      "LastCommitAt": "2024-03-12T01:13:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-03-12T09:12:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23067#pullrequestreview-1930490344"
-         },
-         "IsBump": true
-      }
-   },
-   {
       "Number": 23068,
       "OpenedBy": "Greendogo",
       "CreatedAt": "2024-03-12T08:42:47Z",
