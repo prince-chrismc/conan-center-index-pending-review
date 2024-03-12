@@ -4752,5 +4752,45 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23072,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2024-03-12T13:36:43Z",
+      "Recipe": "openapi-generator",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23072",
+      "LastCommitSHA": "7f413b9ae2b1a6264d6baa36b3d0ea97f6b340e4",
+      "LastCommitAt": "2024-03-12T13:35:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23074,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-12T13:53:59Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23074",
+      "LastCommitSHA": "915cee8bb554eb9d632a2bcc85fee5112ade6776",
+      "LastCommitAt": "2024-03-12T13:53:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
