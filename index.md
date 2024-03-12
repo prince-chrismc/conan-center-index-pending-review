@@ -215,16 +215,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
-[#23007](https://github.com/conan-io/conan-center-index/pull/23007)|[jwillikers](https://github.com/jwillikers)|Mar 6|:memo: avahi|3|**RubenRBS**, ericLemanissier
-[#23061](https://github.com/conan-io/conan-center-index/pull/23061)|[toge](https://github.com/toge)|Mar 11|:memo: tree-sitter|1|**RubenRBS**
-[#23064](https://github.com/conan-io/conan-center-index/pull/23064)|[toge](https://github.com/toge)|Mar 11|:memo: uwebsockets|1|**RubenRBS**
 [#23067](https://github.com/conan-io/conan-center-index/pull/23067)|[toge](https://github.com/toge)|Mar 12|:memo: xz_utils|2|**RubenRBS**, **uilianries**
 
 
@@ -234,9 +231,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 566
+	- Open: 563
 	- Draft: 58
-	- Average Age: 124 days, 17 hours, and 36.92 minutes
+	- Average Age: 125 days, 10 hours, and 11.62 minutes
 	- Stop Label: 285
 	
 
