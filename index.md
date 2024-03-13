@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **176** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|:eyes:||
 [#20256](https://github.com/conan-io/conan-center-index/pull/20256)|[joakimono](https://github.com/joakimono)|Oct 2|:new: fmilib|XL|9|Dec 7 :bell:||
 [#20270](https://github.com/conan-io/conan-center-index/pull/20270)|[valgur](https://github.com/valgur)|Oct 2|:memo: libsndfile|M|2|Oct 27 :bell:||ericLemanissier, jwillikers
-[#20335](https://github.com/conan-io/conan-center-index/pull/20335)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: eudev|M|2|Mar 5||
+[#20335](https://github.com/conan-io/conan-center-index/pull/20335)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: eudev|M|3|Mar 13||**RubenRBS**
 [#20336](https://github.com/conan-io/conan-center-index/pull/20336)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: boost|:green_circle: XS|3|Feb 28 :bell:|RubenRBS|jwillikers, valgur
 [#20346](https://github.com/conan-io/conan-center-index/pull/20346)|[jwillikers](https://github.com/jwillikers)|Oct 4|:new: libinput|M|0|:eyes:||
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|1|Oct 13 :bell:||jwillikers
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20465](https://github.com/conan-io/conan-center-index/pull/20465)|[gjasny](https://github.com/gjasny)|Oct 9|:memo: resiprocate|L|2|Feb 23 :bell:||valgur
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2 :bell:||jwillikers
 [#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:memo: pcre2|M|1|Nov 20 :bell:||jwillikers
-[#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20 :bell:||jwillikers
+[#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|2|Mar 13||jwillikers
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|1|Jan 4 :bell:||SpaceIm
 [#20791](https://github.com/conan-io/conan-center-index/pull/20791)|[DoomHammer](https://github.com/DoomHammer)|Oct 27|:new: ohpipeline|L|3|Oct 30 :bell:||
 [#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|6|Mar 13|RubenRBS|**uilianries**, **franramirez688**
@@ -197,17 +197,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|:eyes:||
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
-[#23063](https://github.com/conan-io/conan-center-index/pull/23063)|[toge](https://github.com/toge)|Mar 11|:memo: glaze|:green_circle: XS|0|||
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|||
 [#23068](https://github.com/conan-io/conan-center-index/pull/23068)|[Greendogo](https://github.com/Greendogo)|Mar 12|:stopwatch: openvino|:blue_square: S|0|||
-[#23072](https://github.com/conan-io/conan-center-index/pull/23072)|[MartinDelille](https://github.com/MartinDelille)|Mar 12|:memo: openapi-generator|:blue_square: S|1|Mar 13||jwillikers
-[#23074](https://github.com/conan-io/conan-center-index/pull/23074)|[toge](https://github.com/toge)|Mar 12|:memo: sqlite3|:green_circle: XS|1|Mar 12||jwillikers
 [#23082](https://github.com/conan-io/conan-center-index/pull/23082)|[toge](https://github.com/toge)|Mar 13|:stopwatch: fixed-containers|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -215,6 +212,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22025](https://github.com/conan-io/conan-center-index/pull/22025)|[valgur](https://github.com/valgur)|Dec 28|:memo: kmod|5|ericLemanissier, jwillikers, **RubenRBS**
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
+[#23063](https://github.com/conan-io/conan-center-index/pull/23063)|[toge](https://github.com/toge)|Mar 11|:memo: glaze|1|**RubenRBS**
+[#23072](https://github.com/conan-io/conan-center-index/pull/23072)|[MartinDelille](https://github.com/MartinDelille)|Mar 12|:memo: openapi-generator|2|jwillikers, **RubenRBS**
+[#23074](https://github.com/conan-io/conan-center-index/pull/23074)|[toge](https://github.com/toge)|Mar 12|:memo: sqlite3|2|jwillikers, **RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -223,9 +223,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 551
-	- Draft: 57
-	- Average Age: 126 days, 16 hours, and 36.67 minutes
+	- Open: 552
+	- Draft: 58
+	- Average Age: 126 days, 12 hours, and 3.37 minutes
 	- Stop Label: 280
 	
 
