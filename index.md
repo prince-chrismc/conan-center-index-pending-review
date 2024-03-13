@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -188,7 +188,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23011](https://github.com/conan-io/conan-center-index/pull/23011)|[jwillikers](https://github.com/jwillikers)|Mar 6|:stopwatch: harfbuzz|:green_circle: XS|1|Mar 8||ericLemanissier
 [#23013](https://github.com/conan-io/conan-center-index/pull/23013)|[jwillikers](https://github.com/jwillikers)|Mar 6|:memo: libudev|:green_circle: XS|0|:eyes:||
 [#23019](https://github.com/conan-io/conan-center-index/pull/23019)|[hedtke](https://github.com/hedtke)|Mar 7|:memo: yoga|:blue_square: S|0|||
-[#23020](https://github.com/conan-io/conan-center-index/pull/23020)|[hedtke](https://github.com/hedtke)|Mar 7|:memo: highs|:blue_square: S|6|Mar 13||**franramirez688**
 [#23025](https://github.com/conan-io/conan-center-index/pull/23025)|[jwillikers](https://github.com/jwillikers)|Mar 7|:stopwatch: libliftoff|:green_circle: XS|0|:eyes:||
 [#23031](https://github.com/conan-io/conan-center-index/pull/23031)|[toge](https://github.com/toge)|Mar 8|:memo: watcher|:blue_square: S|1|Mar 12||jwillikers
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|:eyes:||
@@ -199,18 +198,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23068](https://github.com/conan-io/conan-center-index/pull/23068)|[Greendogo](https://github.com/Greendogo)|Mar 12|:stopwatch: openvino|:blue_square: S|0|||
 [#23072](https://github.com/conan-io/conan-center-index/pull/23072)|[MartinDelille](https://github.com/MartinDelille)|Mar 12|:memo: openapi-generator|:blue_square: S|0|||
 [#23074](https://github.com/conan-io/conan-center-index/pull/23074)|[toge](https://github.com/toge)|Mar 12|:memo: sqlite3|:green_circle: XS|1|Mar 12||jwillikers
+[#23078](https://github.com/conan-io/conan-center-index/pull/23078)|[RubenRBS](https://github.com/RubenRBS)|Mar 12|:stopwatch: tensorflow-lite|L|0|||
+[#23080](https://github.com/conan-io/conan-center-index/pull/23080)|[RazielXYZ](https://github.com/RazielXYZ)|Mar 13|:new: gaia-ecs|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
-[#22770](https://github.com/conan-io/conan-center-index/pull/22770)|[RubenRBS](https://github.com/RubenRBS)|Feb 14|:memo: easyexif|2|jwillikers, **franramirez688**
 
 
 #### :clipboard: Statistics
@@ -219,10 +219,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 551
+	- Open: 550
 	- Draft: 57
-	- Average Age: 126 days, 11 hours, and 2.80 minutes
-	- Stop Label: 286
+	- Average Age: 126 days, 16 hours, and 6.74 minutes
+	- Stop Label: 285
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
