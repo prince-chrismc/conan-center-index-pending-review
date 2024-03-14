@@ -4056,40 +4056,6 @@
       }
    },
    {
-      "Number": 23011,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2024-03-06T22:08:23Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23011",
-      "LastCommitSHA": "91208f307b5d3be8fff8aa5c9ea49d3c3dfce777",
-      "LastCommitAt": "2024-03-14T14:56:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-03-13T17:22:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23011#pullrequestreview-1934786513"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23013,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2024-03-06T22:42:33Z",
