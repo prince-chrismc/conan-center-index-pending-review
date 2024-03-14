@@ -4070,8 +4070,8 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22997",
-      "LastCommitSHA": "b09a60ebd1091f04854c65962406e761eca95029",
-      "LastCommitAt": "2024-03-13T22:05:24Z",
+      "LastCommitSHA": "53efb4a6bfcfa56ce4dcae68765e1f3e4886a7c9",
+      "LastCommitAt": "2024-03-13T23:41:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
@@ -4426,19 +4426,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23063",
-      "LastCommitSHA": "6ad099a85d0eedcb5d57b4488f419a5c50f7e56e",
-      "LastCommitAt": "2024-03-11T17:28:14Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c6b5b357498451046118b268029e323490c4d55d",
+      "LastCommitAt": "2024-03-14T00:44:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
