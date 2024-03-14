@@ -1398,25 +1398,16 @@
       "CreatedAt": "2023-10-31T15:10:34Z",
       "Recipe": "quickcpplib",
       "Change": 0,
-      "Weight": 3,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20859",
-      "LastCommitSHA": "24c0e940f6ced50cf11f3130441aef00275680cb",
-      "LastCommitAt": "2024-03-11T15:50:41Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "cbfd7a7c846ac527f850d328637c92264e27fedb",
+      "LastCommitAt": "2024-03-14T08:11:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "RubenRBS"
          ],
@@ -4588,7 +4579,7 @@
       "LastCommitAt": "2024-03-13T15:09:17Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -4599,9 +4590,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-03-13T17:58:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23082#pullrequestreview-1934859734"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-03-14T08:11:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23082#pullrequestreview-1935958431"
          },
          "IsBump": false
       }
