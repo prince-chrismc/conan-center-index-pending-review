@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|2|Mar 13||jwillikers
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|1|Jan 4 :bell:||SpaceIm
 [#20791](https://github.com/conan-io/conan-center-index/pull/20791)|[DoomHammer](https://github.com/DoomHammer)|Oct 27|:new: ohpipeline|L|3|Oct 30 :bell:||
-[#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|6|Mar 13|RubenRBS|**uilianries**, **franramirez688**
+[#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:stopwatch: quickcpplib|M|6|Mar 13|RubenRBS|
 [#20890](https://github.com/conan-io/conan-center-index/pull/20890)|[valgur](https://github.com/valgur)|Nov 2|:new: gnsstk|L|0|:eyes:||
 [#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:memo: openssl|:blue_square: S|2|Feb 24 :bell:||jwillikers, Croydon
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|||
 [#23068](https://github.com/conan-io/conan-center-index/pull/23068)|[Greendogo](https://github.com/Greendogo)|Mar 12|:stopwatch: openvino|:blue_square: S|0|:eyes:||
 [#23080](https://github.com/conan-io/conan-center-index/pull/23080)|[RazielXYZ](https://github.com/RazielXYZ)|Mar 13|:stopwatch: gaia-ecs|M|2|Mar 13||
-[#23082](https://github.com/conan-io/conan-center-index/pull/23082)|[toge](https://github.com/toge)|Mar 13|:stopwatch: fixed-containers|:blue_square: S|1|Mar 13||**RubenRBS**
+[#23082](https://github.com/conan-io/conan-center-index/pull/23082)|[toge](https://github.com/toge)|Mar 13|:stopwatch: fixed-containers|:blue_square: S|2|Mar 14||**RubenRBS**
 [#23086](https://github.com/conan-io/conan-center-index/pull/23086)|[irieger](https://github.com/irieger)|Mar 13|:stopwatch: metal-cpp|M|0|||
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:stopwatch: libsndio|M|0|||
 [#23090](https://github.com/conan-io/conan-center-index/pull/23090)|[thejohnfreeman](https://github.com/thejohnfreeman)|Mar 14|:stopwatch: rocksdb|:blue_square: S|0|||
@@ -228,8 +228,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
 	- Open: 555
-	- Draft: 58
-	- Average Age: 126 days, 5 hours, and 21.42 minutes
+	- Draft: 59
+	- Average Age: 126 days, 10 hours, and 22.92 minutes
 	- Stop Label: 279
 	
 
