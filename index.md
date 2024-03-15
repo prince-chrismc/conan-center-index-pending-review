@@ -180,12 +180,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23019](https://github.com/conan-io/conan-center-index/pull/23019)|[hedtke](https://github.com/hedtke)|Mar 7|:memo: yoga|:blue_square: S|3|Mar 14||jwillikers
 [#23025](https://github.com/conan-io/conan-center-index/pull/23025)|[jwillikers](https://github.com/jwillikers)|Mar 7|:stopwatch: libliftoff|:green_circle: XS|0|:eyes:||
 [#23031](https://github.com/conan-io/conan-center-index/pull/23031)|[toge](https://github.com/toge)|Mar 8|:memo: watcher|:blue_square: S|1|Mar 12||jwillikers
-[#23034](https://github.com/conan-io/conan-center-index/pull/23034)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:memo: qt|L|4|Mar 13||jwillikers
+[#23034](https://github.com/conan-io/conan-center-index/pull/23034)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:memo: qt|L|5|Mar 15||jwillikers
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|:eyes:||
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|:eyes:||
-[#23100](https://github.com/conan-io/conan-center-index/pull/23100)|[matheusgomes28](https://github.com/matheusgomes28)|Mar 14|:stopwatch: gettext|:blue_square: S|0|||
+[#23099](https://github.com/conan-io/conan-center-index/pull/23099)|[Nekto89](https://github.com/Nekto89)|Mar 14|:memo: expat|M|2|Mar 14||
 [#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:memo: simde|:green_circle: XS|0|||
 [#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:stopwatch: libvips|:green_circle: XS|0|||
 
@@ -207,10 +207,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 560
-	- Draft: 64
-	- Average Age: 124 days, 22 hours, and 31.71 minutes
-	- Stop Label: 301
+	- Open: 557
+	- Draft: 62
+	- Average Age: 125 days, 15 hours, and 35.30 minutes
+	- Stop Label: 300
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
