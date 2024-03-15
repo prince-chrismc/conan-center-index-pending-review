@@ -1894,8 +1894,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21622",
-      "LastCommitSHA": "6e4fa05efe18af983ec7a3cea060774d43d08248",
-      "LastCommitAt": "2024-03-14T09:19:14Z",
+      "LastCommitSHA": "5c038f9b038652f09ea197a0b3e5282a5f245e93",
+      "LastCommitAt": "2024-03-15T08:13:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4163,6 +4163,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23103",
       "LastCommitSHA": "c6c86ba74efc012badea0dad5254c616d6929da6",
       "LastCommitAt": "2024-03-15T03:40:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23107,
+      "OpenedBy": "jsinge",
+      "CreatedAt": "2024-03-15T07:57:07Z",
+      "Recipe": "libvips",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23107",
+      "LastCommitSHA": "63c8284786e1d9fc48144b152ebccd51ea0149cc",
+      "LastCommitAt": "2024-03-15T07:43:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
