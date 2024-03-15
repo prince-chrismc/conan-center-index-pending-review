@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **161** pull requests currently under way :detective:
+There are **162** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -68,6 +68,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20256](https://github.com/conan-io/conan-center-index/pull/20256)|[joakimono](https://github.com/joakimono)|Oct 2|:new: fmilib|XL|9|Dec 7 :bell:||
 [#20270](https://github.com/conan-io/conan-center-index/pull/20270)|[valgur](https://github.com/valgur)|Oct 2|:memo: libsndfile|M|2|Oct 27 :bell:||ericLemanissier, jwillikers
 [#20336](https://github.com/conan-io/conan-center-index/pull/20336)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: boost|:green_circle: XS|3|Feb 28 :bell:|RubenRBS|jwillikers, valgur
+[#20346](https://github.com/conan-io/conan-center-index/pull/20346)|[jwillikers](https://github.com/jwillikers)|Oct 4|:new: libinput|M|1|Mar 14||
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|1|Oct 13 :bell:||jwillikers
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
 [#20381](https://github.com/conan-io/conan-center-index/pull/20381)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: sdl|L|5|Oct 26 :bell:||
@@ -187,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|:eyes:||
 [#23099](https://github.com/conan-io/conan-center-index/pull/23099)|[Nekto89](https://github.com/Nekto89)|Mar 14|:memo: expat|M|2|Mar 14||
 [#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:memo: simde|:green_circle: XS|0|||
-[#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:stopwatch: libvips|:green_circle: XS|0|||
+[#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:memo: libvips|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -207,9 +208,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 557
+	- Open: 558
 	- Draft: 62
-	- Average Age: 125 days, 18 hours, and 29.54 minutes
+	- Average Age: 125 days, 14 hours, and 9.62 minutes
 	- Stop Label: 300
 	
 
