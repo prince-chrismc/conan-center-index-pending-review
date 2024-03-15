@@ -180,7 +180,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23019](https://github.com/conan-io/conan-center-index/pull/23019)|[hedtke](https://github.com/hedtke)|Mar 7|:memo: yoga|:blue_square: S|3|Mar 14||jwillikers
 [#23025](https://github.com/conan-io/conan-center-index/pull/23025)|[jwillikers](https://github.com/jwillikers)|Mar 7|:stopwatch: libliftoff|:green_circle: XS|0|:eyes:||
 [#23031](https://github.com/conan-io/conan-center-index/pull/23031)|[toge](https://github.com/toge)|Mar 8|:memo: watcher|:blue_square: S|1|Mar 12||jwillikers
-[#23034](https://github.com/conan-io/conan-center-index/pull/23034)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: qt|L|4|Mar 13||jwillikers
+[#23034](https://github.com/conan-io/conan-center-index/pull/23034)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:memo: qt|L|4|Mar 13||jwillikers
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|:eyes:||
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
@@ -209,7 +209,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 560
 	- Draft: 64
-	- Average Age: 124 days, 20 hours, and 33.14 minutes
+	- Average Age: 124 days, 21 hours, and 31.12 minutes
 	- Stop Label: 301
 	
 
