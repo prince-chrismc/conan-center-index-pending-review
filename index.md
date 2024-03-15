@@ -187,7 +187,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|:eyes:||
 [#23068](https://github.com/conan-io/conan-center-index/pull/23068)|[Greendogo](https://github.com/Greendogo)|Mar 12|:stopwatch: openvino|:blue_square: S|0|||
 [#23100](https://github.com/conan-io/conan-center-index/pull/23100)|[matheusgomes28](https://github.com/matheusgomes28)|Mar 14|:memo: gettext|:blue_square: S|0|||
-[#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:stopwatch: simde|:green_circle: XS|0|||
+[#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:memo: simde|:green_circle: XS|0|||
 [#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:stopwatch: libvips|:green_circle: XS|0|||
 
 
@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 561
 	- Draft: 64
-	- Average Age: 124 days, 15 hours, and 44.46 minutes
+	- Average Age: 124 days, 16 hours, and 42.72 minutes
 	- Stop Label: 301
 	
 
