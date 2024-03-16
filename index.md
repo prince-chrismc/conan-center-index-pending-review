@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,7 +194,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
 [#23063](https://github.com/conan-io/conan-center-index/pull/23063)|[toge](https://github.com/toge)|Mar 11|:memo: glaze|:green_circle: XS|1|Mar 13||
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|:eyes:||
-[#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|L|2|Mar 14||
 [#23099](https://github.com/conan-io/conan-center-index/pull/23099)|[Nekto89](https://github.com/Nekto89)|Mar 14|:memo: expat|M|3|Mar 16||[Ahajha](https://github.com/Ahajha)
 [#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:memo: simde|:green_circle: XS|0|||
 [#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:memo: libvips|:green_circle: XS|0|||
@@ -222,7 +221,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 560
 	- Draft: 63
-	- Average Age: 125 days, 7 hours, and 27.01 minutes
+	- Average Age: 125 days, 8 hours, and 17.38 minutes
 	- Stop Label: 289
 	
 
