@@ -4327,15 +4327,20 @@
       "LastCommitAt": "2024-03-14T15:31:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "Ahajha",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-03-14T15:04:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23099#pullrequestreview-1936986185"
+            "ReviewerName": "Ahajha",
+            "SubmittedAt": "2024-03-16T12:20:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23099#pullrequestreview-1941026027"
          },
          "IsBump": false
       }
