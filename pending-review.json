@@ -4356,6 +4356,26 @@
       }
    },
    {
+      "Number": 23068,
+      "OpenedBy": "Greendogo",
+      "CreatedAt": "2024-03-12T08:42:47Z",
+      "Recipe": "openvino",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23068",
+      "LastCommitSHA": "cc1a3f2aef621c23409637213a339df46bfe3b9b",
+      "LastCommitAt": "2024-03-14T20:14:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23087,
       "OpenedBy": "spiderkeys",
       "CreatedAt": "2024-03-13T22:45:02Z",
