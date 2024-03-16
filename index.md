@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -192,6 +192,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23039](https://github.com/conan-io/conan-center-index/pull/23039)|[Ruwei](https://github.com/Ruwei)|Mar 9|:stopwatch: itk|L|0|:eyes:||
 [#23043](https://github.com/conan-io/conan-center-index/pull/23043)|[irieger](https://github.com/irieger)|Mar 10|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#23052](https://github.com/conan-io/conan-center-index/pull/23052)|[uilianries](https://github.com/uilianries)|Mar 11|:green_book: docs|:blue_square: S|2|Mar 11|jcar87|
+[#23063](https://github.com/conan-io/conan-center-index/pull/23063)|[toge](https://github.com/toge)|Mar 11|:memo: glaze|:green_circle: XS|1|Mar 13||
 [#23066](https://github.com/conan-io/conan-center-index/pull/23066)|[YSaxon](https://github.com/YSaxon)|Mar 11|:stopwatch: libffi|:blue_square: S|0|:eyes:||
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|L|2|Mar 14||
 [#23099](https://github.com/conan-io/conan-center-index/pull/23099)|[Nekto89](https://github.com/Nekto89)|Mar 14|:memo: expat|M|2|Mar 14||
@@ -199,6 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23107](https://github.com/conan-io/conan-center-index/pull/23107)|[jsinge](https://github.com/jsinge)|Mar 15|:memo: libvips|:green_circle: XS|0|||
 [#23108](https://github.com/conan-io/conan-center-index/pull/23108)|[Ahajha](https://github.com/Ahajha)|Mar 15|:memo: xz_utils|:green_circle: XS|3|Mar 15||jwillikers
 [#23111](https://github.com/conan-io/conan-center-index/pull/23111)|[jwillikers](https://github.com/jwillikers)|Mar 15|:memo: pulseaudio|:green_circle: XS|0|||
+[#23112](https://github.com/conan-io/conan-center-index/pull/23112)|[irieger](https://github.com/irieger)|Mar 16|:memo: opencolorio|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -218,10 +220,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 557
-	- Draft: 61
-	- Average Age: 125 days, 18 hours, and 51.07 minutes
-	- Stop Label: 290
+	- Open: 558
+	- Draft: 62
+	- Average Age: 125 days, 16 hours, and 4.03 minutes
+	- Stop Label: 288
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
