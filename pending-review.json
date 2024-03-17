@@ -4830,7 +4830,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23127",
       "LastCommitSHA": "b7dddcf8ba7fd1795c344bdddebcdc2287c2b5dc",
       "LastCommitAt": "2024-03-17T16:02:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4850,6 +4850,126 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23128",
       "LastCommitSHA": "b3321f01d7220b6b619c222695287ac147443004",
       "LastCommitAt": "2024-03-17T16:08:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23129,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T16:30:28Z",
+      "Recipe": "openmvg",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23129",
+      "LastCommitSHA": "a695d1378d63ab65440ba4ece82a0f0aca1c0479",
+      "LastCommitAt": "2024-03-17T16:30:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23130,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T16:40:57Z",
+      "Recipe": "libvips",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23130",
+      "LastCommitSHA": "35c4ef081e8ee692b44477147c0050ab632bf638",
+      "LastCommitAt": "2024-03-17T16:40:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23131,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T16:44:27Z",
+      "Recipe": "libsixel",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23131",
+      "LastCommitSHA": "f549467952076cd95afa70d06cabf90016982719",
+      "LastCommitAt": "2024-03-17T16:43:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23132,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T16:55:19Z",
+      "Recipe": "libharu",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23132",
+      "LastCommitSHA": "d806314d9937fbbce9dcf46a72c564de04c741db",
+      "LastCommitAt": "2024-03-17T16:54:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23133,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T16:58:16Z",
+      "Recipe": "libgd",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23133",
+      "LastCommitSHA": "fe98d60fe5269835055df0c4796df28563efb50f",
+      "LastCommitAt": "2024-03-17T16:57:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23134,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T17:01:29Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23134",
+      "LastCommitSHA": "1628606ac3f94d3a1ca100e7952e2c35e0a4cca1",
+      "LastCommitAt": "2024-03-17T17:00:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
