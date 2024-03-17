@@ -4770,6 +4770,46 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23123",
       "LastCommitSHA": "c5a5ce074a51af08c96f6bf7550fa183e8708450",
       "LastCommitAt": "2024-03-17T11:04:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23124,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-17T11:16:44Z",
+      "Recipe": "exiv2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23124",
+      "LastCommitSHA": "7a1c6c43de41643fa22ee94bb3f5e53fd14d74eb",
+      "LastCommitAt": "2024-03-17T11:13:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23125,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-17T12:04:44Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23125",
+      "LastCommitSHA": "1b7381fc6bd55fd1bc18babce1bd0eb6764b32ba",
+      "LastCommitAt": "2024-03-17T12:04:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
