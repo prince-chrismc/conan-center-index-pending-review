@@ -236,8 +236,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23143](https://github.com/conan-io/conan-center-index/pull/23143)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: gdk-pixbuf|:blue_square: S|0|||
 [#23144](https://github.com/conan-io/conan-center-index/pull/23144)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: cimg|:green_circle: XS|0|||
 [#23146](https://github.com/conan-io/conan-center-index/pull/23146)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: butteraugli|:green_circle: XS|0|||
-[#23147](https://github.com/conan-io/conan-center-index/pull/23147)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: opencv|:green_circle: XS|0|||
-[#23148](https://github.com/conan-io/conan-center-index/pull/23148)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: opencv|:green_circle: XS|0|||
+[#23147](https://github.com/conan-io/conan-center-index/pull/23147)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: opencv|:green_circle: XS|0|||
+[#23148](https://github.com/conan-io/conan-center-index/pull/23148)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: opencv|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -259,7 +259,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 590
 	- Draft: 64
-	- Average Age: 119 days, 23 hours, and 3.74 minutes
+	- Average Age: 120 days, 1 hours, and 1.82 minutes
 	- Stop Label: 282
 	
 
