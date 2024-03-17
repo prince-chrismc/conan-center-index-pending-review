@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -215,7 +215,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23119](https://github.com/conan-io/conan-center-index/pull/23119)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 16|:memo: cpptrace|:green_circle: XS|1|Mar 17||**RubenRBS**
 [#23120](https://github.com/conan-io/conan-center-index/pull/23120)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: sail|:green_circle: XS|0|||
 [#23121](https://github.com/conan-io/conan-center-index/pull/23121)|[toge](https://github.com/toge)|Mar 17|:memo: sfl|:green_circle: XS|0|||
-[#23123](https://github.com/conan-io/conan-center-index/pull/23123)|[mayeut](https://github.com/mayeut)|Mar 17|:stopwatch: pngpp|:green_circle: XS|0|||
+[#23123](https://github.com/conan-io/conan-center-index/pull/23123)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: pngpp|:green_circle: XS|0|||
+[#23124](https://github.com/conan-io/conan-center-index/pull/23124)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: exiv2|:green_circle: XS|0|||
+[#23125](https://github.com/conan-io/conan-center-index/pull/23125)|[toge](https://github.com/toge)|Mar 17|:stopwatch: sdl|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -235,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 566
+	- Open: 568
 	- Draft: 64
-	- Average Age: 124 days, 15 hours, and 59.91 minutes
+	- Average Age: 124 days, 6 hours, and 37.61 minutes
 	- Stop Label: 279
 	
 
