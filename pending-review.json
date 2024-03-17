@@ -4801,15 +4801,15 @@
       }
    },
    {
-      "Number": 23125,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-17T12:04:44Z",
-      "Recipe": "sdl",
-      "Change": 1,
+      "Number": 23126,
+      "OpenedBy": "jgaa",
+      "CreatedAt": "2024-03-17T13:11:56Z",
+      "Recipe": "logfault",
+      "Change": 0,
       "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23125",
-      "LastCommitSHA": "1b7381fc6bd55fd1bc18babce1bd0eb6764b32ba",
-      "LastCommitAt": "2024-03-17T12:04:05Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23126",
+      "LastCommitSHA": "51b3588b649957ddee3283607f3522646edca8d1",
+      "LastCommitAt": "2024-03-17T13:04:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
