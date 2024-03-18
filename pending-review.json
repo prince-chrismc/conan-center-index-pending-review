@@ -1763,19 +1763,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21387",
-      "LastCommitSHA": "724f95f1775c9eb8b1af6b13e921f73bed1cc02c",
-      "LastCommitAt": "2024-03-18T17:37:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ab8ca5fdb8530903b6198a6f4777dc5d002d7f14",
+      "LastCommitAt": "2024-03-18T20:25:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -4523,9 +4518,9 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23101",
-      "LastCommitSHA": "c60f0d04bc5842592e69880a0024f796a95e8ec2",
-      "LastCommitAt": "2024-03-18T14:31:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "3148d758e4ff9ad3586ada3dec04b25dacd2ac34",
+      "LastCommitAt": "2024-03-18T21:01:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
