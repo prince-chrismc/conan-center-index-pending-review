@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23080](https://github.com/conan-io/conan-center-index/pull/23080)|[RazielXYZ](https://github.com/RazielXYZ)|Mar 13|:new: gaia-ecs|M|3|Mar 14||jwillikers
 [#23082](https://github.com/conan-io/conan-center-index/pull/23082)|[toge](https://github.com/toge)|Mar 13|:memo: fixed-containers|:blue_square: S|3|Mar 15||ericLemanissier
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|M|6|Mar 18||jwillikers
-[#23090](https://github.com/conan-io/conan-center-index/pull/23090)|[thejohnfreeman](https://github.com/thejohnfreeman)|Mar 14|:stopwatch: rocksdb|:blue_square: S|0|:eyes:||
+[#23090](https://github.com/conan-io/conan-center-index/pull/23090)|[thejohnfreeman](https://github.com/thejohnfreeman)|Mar 14|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#23092](https://github.com/conan-io/conan-center-index/pull/23092)|[lrineau](https://github.com/lrineau)|Mar 14|:memo: cgal|:blue_square: S|0|:eyes:||
 [#23101](https://github.com/conan-io/conan-center-index/pull/23101)|[wadehunk](https://github.com/wadehunk)|Mar 14|:memo: fast-dds|XL|0|||
 [#23103](https://github.com/conan-io/conan-center-index/pull/23103)|[toge](https://github.com/toge)|Mar 15|:memo: simde|:green_circle: XS|0|:eyes:||
@@ -262,7 +262,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 594
 	- Draft: 65
-	- Average Age: 119 days, 17 hours, and 53.27 minutes
+	- Average Age: 119 days, 18 hours, and 56.14 minutes
 	- Stop Label: 282
 	
 
