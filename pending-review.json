@@ -370,6 +370,26 @@
       }
    },
    {
+      "Number": 18837,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-22T22:02:43Z",
+      "Recipe": "qcoro",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18837",
+      "LastCommitSHA": "1997406f6b5286a4051caccce1336a2e42bdb830",
+      "LastCommitAt": "2024-03-19T22:15:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 18842,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-23T12:47:54Z",
