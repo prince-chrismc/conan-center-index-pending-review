@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **205** pull requests currently under way :detective:
+There are **204** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4 :bell:||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|2|Feb 26 :bell:||jwillikers
 [#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|1|Dec 7 :bell:|uilianries|
-[#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|10|Feb 28 :bell:|RubenRBS|
+[#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:memo: logr|M|11|Mar 19|RubenRBS|**uilianries**
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|4|Jan 6 :bell:||jwillikers
 [#21648](https://github.com/conan-io/conan-center-index/pull/21648)|[Cogitri](https://github.com/Cogitri)|Dec 6|:memo: libpq|:green_circle: XS|1|Feb 26 :bell:||jwillikers
 [#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:memo: mongo-c-driver|L|1|Jan 6 :bell:||
@@ -226,12 +226,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23148](https://github.com/conan-io/conan-center-index/pull/23148)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: opencv|:green_circle: XS|0|||
 [#23153](https://github.com/conan-io/conan-center-index/pull/23153)|[js-nano](https://github.com/js-nano)|Mar 18|:memo: grpc|:blue_square: S|0|||
 [#23155](https://github.com/conan-io/conan-center-index/pull/23155)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 18|:memo: qt|:blue_square: S|1|Mar 18||jwillikers
+[#23157](https://github.com/conan-io/conan-center-index/pull/23157)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 18|:memo: runtimeqml|:blue_square: S|0|||
 [#23158](https://github.com/conan-io/conan-center-index/pull/23158)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 18|:memo: qtxlsxwriter|:green_circle: XS|0|||
 [#23159](https://github.com/conan-io/conan-center-index/pull/23159)|[toge](https://github.com/toge)|Mar 18|:memo: dnet|:green_circle: XS|0|||
 [#23160](https://github.com/conan-io/conan-center-index/pull/23160)|[toge](https://github.com/toge)|Mar 18|:memo: fast_float|:green_circle: XS|0|||
 [#23162](https://github.com/conan-io/conan-center-index/pull/23162)|[wadehunk](https://github.com/wadehunk)|Mar 18|:memo: fast-cdr|:blue_square: S|0|||
-[#23167](https://github.com/conan-io/conan-center-index/pull/23167)|[toge](https://github.com/toge)|Mar 19|:memo: quill|:green_circle: XS|0|||
-[#23169](https://github.com/conan-io/conan-center-index/pull/23169)|[toge](https://github.com/toge)|Mar 19|:memo: simdutf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -243,7 +242,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|4|**uilianries**, jwillikers
 [#22195](https://github.com/conan-io/conan-center-index/pull/22195)|[valgur](https://github.com/valgur)|Jan 7|:warning: ffmpeg|3|jwillikers, **jcar87**, MartinDelille
-[#23100](https://github.com/conan-io/conan-center-index/pull/23100)|[matheusgomes28](https://github.com/matheusgomes28)|Mar 14|:memo: gettext|2|**jcar87**, **franramirez688**
+[#23169](https://github.com/conan-io/conan-center-index/pull/23169)|[toge](https://github.com/toge)|Mar 19|:memo: simdutf|1|**RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -252,9 +251,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 583
-	- Draft: 65
-	- Average Age: 122 days, 7 hours, and 56.91 minutes
+	- Open: 581
+	- Draft: 64
+	- Average Age: 122 days, 18 hours, and 42.19 minutes
 	- Stop Label: 279
 	
 
