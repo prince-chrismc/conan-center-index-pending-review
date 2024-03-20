@@ -93,6 +93,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
 [#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:stopwatch: wxwidgets|L|0|:eyes:||
 [#21354](https://github.com/conan-io/conan-center-index/pull/21354)|[utelle](https://github.com/utelle)|Nov 24|:new: sqlite3mc|L|10|Feb 28 :bell:|RubenRBS|valgur
+[#21387](https://github.com/conan-io/conan-center-index/pull/21387)|[Ahajha](https://github.com/Ahajha)|Nov 26|:memo: cpython|XL|10|Mar 19||
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bitsery|:blue_square: S|3|Mar 19||jwillikers, valgur
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4 :bell:||jwillikers
 [#21512](https://github.com/conan-io/conan-center-index/pull/21512)|[valgur](https://github.com/valgur)|Nov 30|:memo: proj|L|2|Feb 26 :bell:||jwillikers
@@ -206,7 +207,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23087](https://github.com/conan-io/conan-center-index/pull/23087)|[spiderkeys](https://github.com/spiderkeys)|Mar 13|:new: libsndio|M|6|Mar 18||jwillikers
 [#23090](https://github.com/conan-io/conan-center-index/pull/23090)|[thejohnfreeman](https://github.com/thejohnfreeman)|Mar 14|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#23125](https://github.com/conan-io/conan-center-index/pull/23125)|[toge](https://github.com/toge)|Mar 17|:memo: sdl|M|0|||
-[#23126](https://github.com/conan-io/conan-center-index/pull/23126)|[jgaa](https://github.com/jgaa)|Mar 17|:stopwatch: logfault|M|4|Mar 19||
 [#23131](https://github.com/conan-io/conan-center-index/pull/23131)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: libsixel|:green_circle: XS|0|||
 [#23134](https://github.com/conan-io/conan-center-index/pull/23134)|[mayeut](https://github.com/mayeut)|Mar 17|:memo: leptonica|M|0|||
 [#23137](https://github.com/conan-io/conan-center-index/pull/23137)|[Crucio32000](https://github.com/Crucio32000)|Mar 17|:stopwatch: dbus|:green_circle: XS|0|||
@@ -246,7 +246,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 564
 	- Draft: 63
-	- Average Age: 125 days, 8 hours, and 0.30 minutes
+	- Average Age: 125 days, 9 hours, and 2.61 minutes
 	- Stop Label: 270
 	
 
