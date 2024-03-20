@@ -3315,7 +3315,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22613",
       "LastCommitSHA": "1d500f3f183bba2b2369c49c56053ecf73c6559d",
       "LastCommitAt": "2024-03-20T06:06:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4804,6 +4804,36 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23171,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2024-03-19T13:22:11Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23171",
+      "LastCommitSHA": "f3a11205d8f5f2dc302cd761ec14846963406a6e",
+      "LastCommitAt": "2024-03-19T14:11:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2024-03-19T14:41:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23171#pullrequestreview-1946460995"
+         },
          "IsBump": false
       }
    },
