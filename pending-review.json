@@ -4250,31 +4250,6 @@
       }
    },
    {
-      "Number": 22997,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2024-03-05T21:19:46Z",
-      "Recipe": "llvm-core",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22997",
-      "LastCommitSHA": "59caae7e425a49776d84423c9e41afff6d19793b",
-      "LastCommitAt": "2024-03-20T23:53:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-03-14T13:38:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22997#pullrequestreview-1936741475"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22998,
       "OpenedBy": "toge",
       "CreatedAt": "2024-03-06T05:51:56Z",
