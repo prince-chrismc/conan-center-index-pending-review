@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **200** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -225,6 +225,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23184](https://github.com/conan-io/conan-center-index/pull/23184)|[bemehiser](https://github.com/bemehiser)|Mar 20|:stopwatch: libcurl|:green_circle: XS|0|||
 [#23187](https://github.com/conan-io/conan-center-index/pull/23187)|[toge](https://github.com/toge)|Mar 21|:memo: roaring|:green_circle: XS|0|||
 [#23188](https://github.com/conan-io/conan-center-index/pull/23188)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 21|:memo: cpptrace|:green_circle: XS|0|||
+[#23189](https://github.com/conan-io/conan-center-index/pull/23189)|[toge](https://github.com/toge)|Mar 21|:memo: openjdk|:blue_square: S|0|||
+[#23190](https://github.com/conan-io/conan-center-index/pull/23190)|[toge](https://github.com/toge)|Mar 21|:stopwatch: glaze|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -244,9 +246,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 564
+	- Open: 566
 	- Draft: 64
-	- Average Age: 126 days, 5 hours, and 1.03 minutes
+	- Average Age: 125 days, 19 hours, and 23.37 minutes
 	- Stop Label: 267
 	
 
