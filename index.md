@@ -222,21 +222,22 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23178](https://github.com/conan-io/conan-center-index/pull/23178)|[toge](https://github.com/toge)|Mar 20|:memo: z3|:green_circle: XS|0|||
 [#23179](https://github.com/conan-io/conan-center-index/pull/23179)|[toge](https://github.com/toge)|Mar 20|:memo: rocksdb|:blue_square: S|0|||
 [#23184](https://github.com/conan-io/conan-center-index/pull/23184)|[bemehiser](https://github.com/bemehiser)|Mar 20|:stopwatch: libcurl|:green_circle: XS|0|||
-[#23188](https://github.com/conan-io/conan-center-index/pull/23188)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Mar 21|:memo: cpptrace|:green_circle: XS|1|Mar 21||**RubenRBS**
-[#23189](https://github.com/conan-io/conan-center-index/pull/23189)|[toge](https://github.com/toge)|Mar 21|:memo: openjdk|:blue_square: S|1|Mar 21||**RubenRBS**
 [#23194](https://github.com/conan-io/conan-center-index/pull/23194)|[valgur](https://github.com/valgur)|Mar 21|:memo: metis|:blue_square: S|1|Mar 21||**franramirez688**
+[#23195](https://github.com/conan-io/conan-center-index/pull/23195)|[johannes-wolf](https://github.com/johannes-wolf)|Mar 21|:stopwatch: simfil|:blue_square: S|1|Mar 21||
 [#23196](https://github.com/conan-io/conan-center-index/pull/23196)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 21|:gear: .c3i|:green_circle: XS|1|Mar 21||**RubenRBS**
 [#23197](https://github.com/conan-io/conan-center-index/pull/23197)|[uilianries](https://github.com/uilianries)|Mar 21|:new: minicoro|M|1|Mar 21||**RubenRBS**
+[#23200](https://github.com/conan-io/conan-center-index/pull/23200)|[uilianries](https://github.com/uilianries)|Mar 21|:stopwatch: wildcards|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#22920](https://github.com/conan-io/conan-center-index/pull/22920)|[jwillikers](https://github.com/jwillikers)|Feb 27|:warning: dbus|3|**RubenRBS**, toge
+[#23189](https://github.com/conan-io/conan-center-index/pull/23189)|[toge](https://github.com/toge)|Mar 21|:warning: openjdk|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -245,10 +246,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 564
+	- Open: 565
 	- Draft: 63
-	- Average Age: 124 days, 19 hours, and 4.02 minutes
-	- Stop Label: 266
+	- Average Age: 124 days, 14 hours, and 38.80 minutes
+	- Stop Label: 267
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
