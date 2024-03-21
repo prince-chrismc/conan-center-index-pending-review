@@ -5013,14 +5013,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23190",
       "LastCommitSHA": "54cf87ee1ac5aa6bda1cf0868bfb57f8b8a8e1cd",
       "LastCommitAt": "2024-03-21T06:09:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
-         "IsBump": false
+         "IsBump": true
       }
    }
 ]
