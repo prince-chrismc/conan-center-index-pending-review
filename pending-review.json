@@ -1421,7 +1421,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20999",
       "LastCommitSHA": "1939d5c1ce2b11ae7a95acd54ab935543ffd1b0b",
       "LastCommitAt": "2023-11-06T17:51:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 3,
@@ -3508,21 +3508,16 @@
       "CreatedAt": "2024-02-16T20:40:22Z",
       "Recipe": "sqlitecpp",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22795",
-      "LastCommitSHA": "ee03adc65bb4cd619988883ee040a856ce0f85f7",
-      "LastCommitAt": "2024-02-24T20:54:23Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b926f33c214d45c665d0343342fa22377994d6a9",
+      "LastCommitAt": "2024-03-22T20:56:52Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "RazielXYZ",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
