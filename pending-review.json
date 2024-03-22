@@ -4842,5 +4842,25 @@
          },
          "IsBump": false
       }
+   },
+   {
+      "Number": 23208,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-22T05:42:58Z",
+      "Recipe": "sfl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23208",
+      "LastCommitSHA": "694b608f0d4a1075a43559972706ab0ea06e0182",
+      "LastCommitAt": "2024-03-22T05:42:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
    }
 ]
