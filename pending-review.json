@@ -3400,38 +3400,6 @@
       }
    },
    {
-      "Number": 22695,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-02-06T20:09:31Z",
-      "Recipe": "zint",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22695",
-      "LastCommitSHA": "2626136701da0af806ece22de6c2f9f395494d3f",
-      "LastCommitAt": "2024-03-21T15:10:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": [
-            "danimtb"
-         ],
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-03-18T14:44:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22695#pullrequestreview-1943299758"
-         },
-         "IsBump": true
-      }
-   },
-   {
       "Number": 22696,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-02-06T20:35:29Z",
