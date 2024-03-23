@@ -4903,11 +4903,21 @@
       "LastCommitAt": "2024-03-23T02:53:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2024-03-23T10:06:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23219#pullrequestreview-1956355111"
+         },
          "IsBump": true
       }
    }
