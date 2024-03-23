@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23224](https://github.com/conan-io/conan-center-index/pull/23224)|[toge](https://github.com/toge)|Mar 23|:memo: erkir|M|0|||
 [#23225](https://github.com/conan-io/conan-center-index/pull/23225)|[toge](https://github.com/toge)|Mar 23|:memo: octo-logger-cpp|:blue_square: S|0|||
 [#23226](https://github.com/conan-io/conan-center-index/pull/23226)|[toge](https://github.com/toge)|Mar 23|:memo: libgd|M|0|||
-[#23227](https://github.com/conan-io/conan-center-index/pull/23227)|[utelle](https://github.com/utelle)|Mar 23|:stopwatch: sqlite3mc|:blue_square: S|0|||
+[#23227](https://github.com/conan-io/conan-center-index/pull/23227)|[utelle](https://github.com/utelle)|Mar 23|:memo: sqlite3mc|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -241,7 +241,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 556
 	- Draft: 57
-	- Average Age: 124 days, 3 hours, and 4.49 minutes
+	- Average Age: 124 days, 4 hours, and 0.29 minutes
 	- Stop Label: 265
 	
 
