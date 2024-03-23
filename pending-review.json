@@ -3956,15 +3956,20 @@
       "LastCommitAt": "2024-03-22T09:21:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2024-03-14T13:38:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22997#pullrequestreview-1936741475"
+            "SubmittedAt": "2024-03-23T13:44:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22997#pullrequestreview-1956382833"
          },
          "IsBump": false
       }
@@ -4959,6 +4964,26 @@
          "Approvals": null,
          "Blockers": null,
          "IsBump": true
+      }
+   },
+   {
+      "Number": 23222,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2024-03-23T13:59:10Z",
+      "Recipe": "libva",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23222",
+      "LastCommitSHA": "6d64d62df3ac6e6352819e49f64fe51734f93e31",
+      "LastCommitAt": "2024-03-23T13:59:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
       }
    }
 ]
