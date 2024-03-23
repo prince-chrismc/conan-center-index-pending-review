@@ -958,6 +958,31 @@
       }
    },
    {
+      "Number": 19957,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-09-19T11:38:46Z",
+      "Recipe": "astro-informatics-so3",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19957",
+      "LastCommitSHA": "5a6ddf2444a272dc4b094f5878b9e7266e405964",
+      "LastCommitAt": "2024-03-23T00:38:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-30T11:08:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19957#pullrequestreview-1757197952"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 20068,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-09-21T13:43:22Z",
@@ -1650,6 +1675,26 @@
       "LastCommitSHA": "e23c50bc6fb5602d4d6953c8352fd2065b003f8d",
       "LastCommitAt": "2023-12-04T19:56:33Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 21389,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-26T18:45:43Z",
+      "Recipe": "getdns",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21389",
+      "LastCommitSHA": "4da074a97a6e030d34d5cf1d61ef8cba28c405ab",
+      "LastCommitAt": "2024-03-22T23:42:45Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
