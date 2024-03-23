@@ -4920,5 +4920,45 @@
          },
          "IsBump": true
       }
+   },
+   {
+      "Number": 23220,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-23T10:23:37Z",
+      "Recipe": "dice-template-library",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23220",
+      "LastCommitSHA": "83d3dd834985ff82206a12fe823e2408cbb0b5e4",
+      "LastCommitAt": "2024-03-23T10:22:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23221,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-23T10:46:23Z",
+      "Recipe": "mold",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23221",
+      "LastCommitSHA": "ede6434c682d61b533abe7ab8cca625fcd06fee3",
+      "LastCommitAt": "2024-03-23T10:44:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
