@@ -5005,19 +5005,14 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23224",
-      "LastCommitSHA": "a1c623f6c5b3880ce17f95ca630056f7a896d7c8",
-      "LastCommitAt": "2024-03-23T14:51:00Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9ae15d338d548221fb969e0b3750ffc90c3ad520",
+      "LastCommitAt": "2024-03-24T02:55:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
@@ -5078,6 +5073,26 @@
       "LastCommitSHA": "7cf37b720de8b259dd88d811b0f7c7e823bd61d3",
       "LastCommitAt": "2024-03-23T17:33:06Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23228,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-24T03:13:42Z",
+      "Recipe": "libdeflate",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23228",
+      "LastCommitSHA": "2e2172d0ac744626c9766695a05485d920c8c0fb",
+      "LastCommitAt": "2024-03-24T03:11:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
