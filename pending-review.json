@@ -37,19 +37,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
-      "LastCommitSHA": "495757ccd14d42c4213325e7fc41d61786563bbe",
-      "LastCommitAt": "2024-03-18T05:23:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "04fb6ee6e547808920cc728ebf00c45e48ae9541",
+      "LastCommitAt": "2024-03-25T03:37:13Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 26,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
