@@ -4259,40 +4259,6 @@
       }
    },
    {
-      "Number": 23117,
-      "OpenedBy": "jeremy-rifkin",
-      "CreatedAt": "2024-03-16T15:59:46Z",
-      "Recipe": "libassert",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23117",
-      "LastCommitSHA": "7777f687d1c14f9038e816c36789d873e7debb82",
-      "LastCommitAt": "2024-03-22T15:04:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-03-25T02:17:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/23117#pullrequestreview-1956770405"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 23122,
       "OpenedBy": "mayeut",
       "CreatedAt": "2024-03-17T11:01:49Z",
