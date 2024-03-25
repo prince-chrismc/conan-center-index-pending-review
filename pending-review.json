@@ -3538,9 +3538,9 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22599",
-      "LastCommitSHA": "8ee43624a425b67fcaf7f34240614164ca05c343",
-      "LastCommitAt": "2024-03-25T17:22:20Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9f3a54a95f95b227f2aca628671a24d437018f5b",
+      "LastCommitAt": "2024-03-25T18:35:51Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -6205,6 +6205,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23263",
       "LastCommitSHA": "88c0cb947645335cb9a4f5583bb1e77b62fc53a0",
       "LastCommitAt": "2024-03-25T16:16:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23264,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2024-03-25T18:47:11Z",
+      "Recipe": "avahi",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23264",
+      "LastCommitSHA": "f521c858c100b798f6546f8d03a003980892a982",
+      "LastCommitAt": "2024-03-25T18:45:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
