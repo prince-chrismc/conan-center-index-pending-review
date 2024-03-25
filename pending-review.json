@@ -3803,7 +3803,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22974",
       "LastCommitSHA": "a7583278dad8bf00dc153522f53ae9a1b05a3a25",
       "LastCommitAt": "2024-03-24T23:03:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -5295,27 +5295,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23233",
       "LastCommitSHA": "a14307ae5bfe657f8f70bc527bf63e98f6b9fe38",
       "LastCommitAt": "2024-03-24T20:39:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23234,
-      "OpenedBy": "dmpriso",
-      "CreatedAt": "2024-03-24T21:33:04Z",
-      "Recipe": "opus",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23234",
-      "LastCommitSHA": "891876d15f63f8493d8e429c6b4b2811fa87ce05",
-      "LastCommitAt": "2024-03-24T21:35:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
