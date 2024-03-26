@@ -910,19 +910,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19031",
-      "LastCommitSHA": "ee43fc72e4daa212bfd5ba3718c1bd3d29a0be82",
-      "LastCommitAt": "2024-03-22T14:15:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "34e9a338687f43622694a8c2f2d3bca47b8f4998",
+      "LastCommitAt": "2024-03-26T06:56:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 15,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
@@ -3771,34 +3766,21 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22696",
-      "LastCommitSHA": "f5fa4df0412ac53655e16fd003da028f57e13c17",
-      "LastCommitAt": "2024-03-20T21:41:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0f5a4787a395b28eddaef79d0cc7960c7c716512",
+      "LastCommitAt": "2024-03-26T07:07:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 13,
-         "ValidApprovals": 3,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
             "SubmittedAt": "2024-03-25T08:50:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1957149621"
          },
-         "IsBump": true
+         "IsBump": false
       }
    },
    {
