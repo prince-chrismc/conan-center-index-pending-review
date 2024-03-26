@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **210** pull requests currently under way :detective:
+There are **214** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -153,6 +153,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|6|Mar 24||valgur
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|1|Mar 24||valgur
 [#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|1|Mar 24||valgur
+[#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:stopwatch: sqlitecpp|:blue_square: S|8|Mar 24||
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|2|Mar 24||valgur
 [#22832](https://github.com/conan-io/conan-center-index/pull/22832)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 20|:stopwatch: openssl|:blue_square: S|1|Mar 24||valgur
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|1|Mar 8 :bell:||ericLemanissier
@@ -237,6 +238,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23269](https://github.com/conan-io/conan-center-index/pull/23269)|[MartinDelille](https://github.com/MartinDelille)|Mar 25|:memo: sentry-native|M|0|||
 [#23275](https://github.com/conan-io/conan-center-index/pull/23275)|[valgur](https://github.com/valgur)|Mar 26|:memo: imath|:blue_square: S|1|Mar 26||[irieger](https://github.com/irieger)
 [#23276](https://github.com/conan-io/conan-center-index/pull/23276)|[valgur](https://github.com/valgur)|Mar 26|:memo: libxml2|:blue_square: S|0|||
+[#23279](https://github.com/conan-io/conan-center-index/pull/23279)|[jwillikers](https://github.com/jwillikers)|Mar 26|:stopwatch: qt|:blue_square: S|0|||
+[#23280](https://github.com/conan-io/conan-center-index/pull/23280)|[jwillikers](https://github.com/jwillikers)|Mar 26|:stopwatch: qt|:blue_square: S|0|||
+[#23281](https://github.com/conan-io/conan-center-index/pull/23281)|[es20490446e](https://github.com/es20490446e)|Mar 26|:stopwatch: autoconf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -256,9 +260,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 580
+	- Open: 583
 	- Draft: 61
-	- Average Age: 119 days, 20 hours, and 52.66 minutes
+	- Average Age: 119 days, 7 hours, and 6.22 minutes
 	- Stop Label: 261
 	
 
