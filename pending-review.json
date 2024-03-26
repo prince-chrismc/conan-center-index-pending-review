@@ -6195,6 +6195,26 @@
       }
    },
    {
+      "Number": 23261,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-25T15:41:20Z",
+      "Recipe": "libftp",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23261",
+      "LastCommitSHA": "f0faf135532bae885c702008f90e18f3ed6149ac",
+      "LastCommitAt": "2024-03-26T01:20:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23262,
       "OpenedBy": "toge",
       "CreatedAt": "2024-03-25T15:45:38Z",
