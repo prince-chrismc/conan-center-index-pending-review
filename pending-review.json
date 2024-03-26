@@ -6382,5 +6382,25 @@
          "Blockers": null,
          "IsBump": false
       }
+   },
+   {
+      "Number": 23282,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2024-03-26T20:46:33Z",
+      "Recipe": "giflib",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23282",
+      "LastCommitSHA": "97327c4bbd82f3f3081cf7ddb5870c6f4a43bbbf",
+      "LastCommitAt": "2024-03-26T20:45:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
