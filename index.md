@@ -153,7 +153,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22708](https://github.com/conan-io/conan-center-index/pull/22708)|[toge](https://github.com/toge)|Feb 7|:memo: stringzilla|M|6|Mar 24||valgur
 [#22747](https://github.com/conan-io/conan-center-index/pull/22747)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Feb 11|:stopwatch: folly|:green_circle: XS|1|Mar 24||valgur
 [#22786](https://github.com/conan-io/conan-center-index/pull/22786)|[Ahajha](https://github.com/Ahajha)|Feb 16|:memo: cyclonedds-cxx|:green_circle: XS|1|Mar 24||valgur
-[#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:stopwatch: sqlitecpp|:blue_square: S|8|Mar 24||
+[#22795](https://github.com/conan-io/conan-center-index/pull/22795)|[Alex-PLACET](https://github.com/Alex-PLACET)|Feb 16|:memo: sqlitecpp|:blue_square: S|8|Mar 24||
 [#22823](https://github.com/conan-io/conan-center-index/pull/22823)|[toge](https://github.com/toge)|Feb 19|:new: fpng|M|2|Mar 24||valgur
 [#22832](https://github.com/conan-io/conan-center-index/pull/22832)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Feb 20|:stopwatch: openssl|:blue_square: S|1|Mar 24||valgur
 [#22849](https://github.com/conan-io/conan-center-index/pull/22849)|[valgur](https://github.com/valgur)|Feb 22|:memo: rmm|:blue_square: S|1|Mar 8 :bell:||ericLemanissier
@@ -263,7 +263,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 584
 	- Draft: 61
-	- Average Age: 119 days, 3 hours, and 11.38 minutes
+	- Average Age: 119 days, 4 hours, and 10.81 minutes
 	- Stop Label: 261
 	
 
