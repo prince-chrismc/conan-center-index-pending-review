@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23225](https://github.com/conan-io/conan-center-index/pull/23225)|[toge](https://github.com/toge)|Mar 23|:memo: octo-logger-cpp|:blue_square: S|1|Mar 24||valgur
 [#23228](https://github.com/conan-io/conan-center-index/pull/23228)|[toge](https://github.com/toge)|Mar 24|:memo: libdeflate|:green_circle: XS|1|Mar 24||valgur
 [#23230](https://github.com/conan-io/conan-center-index/pull/23230)|[obnyis](https://github.com/obnyis)|Mar 24|:new: libssh|L|3|Mar 24||valgur
-[#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:stopwatch: gdal|M|2|Mar 26|franramirez688|
+[#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:memo: gdal|M|2|Mar 26|franramirez688|
 [#23237](https://github.com/conan-io/conan-center-index/pull/23237)|[toge](https://github.com/toge)|Mar 25|:memo: rabbitmq-c|:blue_square: S|2|Mar 25||jwillikers, valgur
 [#23238](https://github.com/conan-io/conan-center-index/pull/23238)|[toge](https://github.com/toge)|Mar 25|:memo: libsrtp|:blue_square: S|2|Mar 25||valgur
 [#23239](https://github.com/conan-io/conan-center-index/pull/23239)|[phwissmann](https://github.com/phwissmann)|Mar 25|:stopwatch: alembic|:green_circle: XS|2|Mar 25||
@@ -258,7 +258,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 580
 	- Draft: 61
-	- Average Age: 119 days, 18 hours, and 52.27 minutes
+	- Average Age: 119 days, 20 hours, and 52.66 minutes
 	- Stop Label: 261
 	
 
