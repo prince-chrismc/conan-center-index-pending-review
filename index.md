@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23225](https://github.com/conan-io/conan-center-index/pull/23225)|[toge](https://github.com/toge)|Mar 23|:memo: octo-logger-cpp|:blue_square: S|1|Mar 24||valgur
 [#23228](https://github.com/conan-io/conan-center-index/pull/23228)|[toge](https://github.com/toge)|Mar 24|:memo: libdeflate|:green_circle: XS|1|Mar 24||valgur
 [#23230](https://github.com/conan-io/conan-center-index/pull/23230)|[obnyis](https://github.com/obnyis)|Mar 24|:new: libssh|L|3|Mar 24||valgur
-[#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:memo: gdal|M|1|Mar 25||jwillikers
+[#23233](https://github.com/conan-io/conan-center-index/pull/23233)|[valgur](https://github.com/valgur)|Mar 24|:memo: gdal|M|2|Mar 26|franramirez688|jwillikers
 [#23237](https://github.com/conan-io/conan-center-index/pull/23237)|[toge](https://github.com/toge)|Mar 25|:memo: rabbitmq-c|:blue_square: S|2|Mar 25||jwillikers, valgur
 [#23238](https://github.com/conan-io/conan-center-index/pull/23238)|[toge](https://github.com/toge)|Mar 25|:memo: libsrtp|:blue_square: S|2|Mar 25||valgur
 [#23239](https://github.com/conan-io/conan-center-index/pull/23239)|[phwissmann](https://github.com/phwissmann)|Mar 25|:stopwatch: alembic|:green_circle: XS|2|Mar 25||
@@ -243,14 +243,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:memo: openal-soft|3|jwillikers, **czoido**
 [#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:warning: paho-mqtt-cpp|5|**uilianries**, jwillikers
-[#23136](https://github.com/conan-io/conan-center-index/pull/23136)|[toge](https://github.com/toge)|Mar 17|:new: cpp-channel|3|valgur, **franramirez688**
 
 
 #### :clipboard: Statistics
@@ -259,9 +258,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f920f0daf9a9e9f7cdd7ae3f1f68ba7735a28a0e
 - Pull Requests:
-	- Open: 579
+	- Open: 578
 	- Draft: 60
-	- Average Age: 119 days, 20 hours, and 1.18 minutes
+	- Average Age: 120 days, 1 hours, and 35.27 minutes
 	- Stop Label: 258
 	
 
