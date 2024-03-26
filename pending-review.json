@@ -466,19 +466,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18812",
-      "LastCommitSHA": "a3d8f5afb718a307230c70b46d0f951743329b34",
-      "LastCommitAt": "2024-03-22T18:29:47Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ab8e5c4236c0b65487f5abafe9afda6b614df8c8",
+      "LastCommitAt": "2024-03-26T14:42:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -5616,19 +5611,14 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23233",
-      "LastCommitSHA": "a14307ae5bfe657f8f70bc527bf63e98f6b9fe38",
-      "LastCommitAt": "2024-03-24T20:39:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "941aa57b12a2f2afcb79895ea3b8e0c4a5a5ddca",
+      "LastCommitAt": "2024-03-26T14:53:49Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": [
             "franramirez688"
          ],
@@ -6282,26 +6272,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23269",
       "LastCommitSHA": "442de56264682d2db6bd3cb3ba96dc1f40cc3569",
       "LastCommitAt": "2024-03-25T22:05:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "IsBump": false
-      }
-   },
-   {
-      "Number": 23271,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2024-03-26T12:49:01Z",
-      "Recipe": "hictk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23271",
-      "LastCommitSHA": "a461bd7963e9d79e45ec502224de133fde7f6a8f",
-      "LastCommitAt": "2024-03-26T12:46:59Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
