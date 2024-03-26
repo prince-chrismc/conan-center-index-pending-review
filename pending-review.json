@@ -1683,19 +1683,14 @@
       "Change": 0,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21341",
-      "LastCommitSHA": "0f2731ed4c7cc12a70184e0219e0fe602a6eeabd",
-      "LastCommitAt": "2023-11-24T14:55:40Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "04becd98492920cc955ad4072422e88bf0de492b",
+      "LastCommitAt": "2024-03-26T12:49:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -6343,6 +6338,26 @@
       "LastCommitSHA": "442de56264682d2db6bd3cb3ba96dc1f40cc3569",
       "LastCommitAt": "2024-03-25T22:05:57Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
+      "Number": 23271,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2024-03-26T12:49:01Z",
+      "Recipe": "hictk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23271",
+      "LastCommitSHA": "a461bd7963e9d79e45ec502224de133fde7f6a8f",
+      "LastCommitAt": "2024-03-26T12:46:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
