@@ -3786,31 +3786,6 @@
       }
    },
    {
-      "Number": 22696,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-02-06T20:35:29Z",
-      "Recipe": "cairo",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22696",
-      "LastCommitSHA": "41fc6623e9aeeb17b482498f672677903ce0256e",
-      "LastCommitAt": "2024-03-26T09:47:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 13,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2024-03-25T08:50:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22696#pullrequestreview-1957149621"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22698,
       "OpenedBy": "toge",
       "CreatedAt": "2024-02-07T01:01:53Z",
