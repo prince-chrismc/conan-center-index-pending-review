@@ -6384,15 +6384,35 @@
       }
    },
    {
-      "Number": 23282,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-03-26T20:46:33Z",
-      "Recipe": "giflib",
+      "Number": 23283,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-27T00:25:20Z",
+      "Recipe": "glaze",
       "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23282",
-      "LastCommitSHA": "97327c4bbd82f3f3081cf7ddb5870c6f4a43bbbf",
-      "LastCommitAt": "2024-03-26T20:45:18Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23283",
+      "LastCommitSHA": "ba3e482852458a59d979383b088561dfb5f537d5",
+      "LastCommitAt": "2024-03-27T00:24:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": true
+      }
+   },
+   {
+      "Number": 23284,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2024-03-27T00:33:44Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23284",
+      "LastCommitSHA": "7aadafccab7a236d3865c217fe22da019ee78fc9",
+      "LastCommitAt": "2024-03-27T00:33:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
