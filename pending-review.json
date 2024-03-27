@@ -4076,31 +4076,6 @@
       }
    },
    {
-      "Number": 22941,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-01T07:33:49Z",
-      "Recipe": "wiringpi",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22941",
-      "LastCommitSHA": "7ff1d5a32147a127a38fbb87093b70ccb9261a8b",
-      "LastCommitAt": "2024-03-27T02:11:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-03-11T11:49:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22941#pullrequestreview-1927610515"
-         },
-         "IsBump": false
-      }
-   },
-   {
       "Number": 22950,
       "OpenedBy": "bobrofon",
       "CreatedAt": "2024-03-01T16:07:52Z",
@@ -6413,7 +6388,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23283",
       "LastCommitSHA": "ba3e482852458a59d979383b088561dfb5f537d5",
       "LastCommitAt": "2024-03-27T00:24:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
