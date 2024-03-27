@@ -4076,6 +4076,31 @@
       }
    },
    {
+      "Number": 22941,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-03-01T07:33:49Z",
+      "Recipe": "wiringpi",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22941",
+      "LastCommitSHA": "7ff1d5a32147a127a38fbb87093b70ccb9261a8b",
+      "LastCommitAt": "2024-03-27T02:11:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-03-11T11:49:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22941#pullrequestreview-1927610515"
+         },
+         "IsBump": false
+      }
+   },
+   {
       "Number": 22950,
       "OpenedBy": "bobrofon",
       "CreatedAt": "2024-03-01T16:07:52Z",
@@ -6127,19 +6152,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23261",
-      "LastCommitSHA": "f0faf135532bae885c702008f90e18f3ed6149ac",
-      "LastCommitAt": "2024-03-26T01:20:05Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "26c79fde21603782e28f9919d46412c63f3ab3ae",
+      "LastCommitAt": "2024-03-27T02:14:15Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
