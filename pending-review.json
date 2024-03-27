@@ -5076,25 +5076,16 @@
       "CreatedAt": "2024-03-19T13:22:11Z",
       "Recipe": "qt",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23171",
-      "LastCommitSHA": "f3a11205d8f5f2dc302cd761ec14846963406a6e",
-      "LastCommitAt": "2024-03-19T14:11:49Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "021601b6781bc7e0047ce9fc854e44ad6dfa76da",
+      "LastCommitAt": "2024-03-27T08:15:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
