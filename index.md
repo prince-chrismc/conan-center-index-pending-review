@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#23262](https://github.com/conan-io/conan-center-index/pull/23262)|[toge](https://github.com/toge)|Mar 25|:memo: rapidcsv|:green_circle: XS|1|Mar 25||valgur
 [#23263](https://github.com/conan-io/conan-center-index/pull/23263)|[jwillikers](https://github.com/jwillikers)|Mar 25|:stopwatch: libsystemd|:green_circle: XS|0|||
 [#23265](https://github.com/conan-io/conan-center-index/pull/23265)|[valgur](https://github.com/valgur)|Mar 25|:new: toon|L|0|||
-[#23267](https://github.com/conan-io/conan-center-index/pull/23267)|[dbolduc](https://github.com/dbolduc)|Mar 25|:stopwatch: google-cloud-cpp|:blue_square: S|0|||
+[#23267](https://github.com/conan-io/conan-center-index/pull/23267)|[dbolduc](https://github.com/dbolduc)|Mar 25|:memo: google-cloud-cpp|:blue_square: S|0|||
 [#23269](https://github.com/conan-io/conan-center-index/pull/23269)|[MartinDelille](https://github.com/MartinDelille)|Mar 25|:memo: sentry-native|M|0|||
 [#23270](https://github.com/conan-io/conan-center-index/pull/23270)|[xyz1001](https://github.com/xyz1001)|Mar 26|:new: platformfolders|M|0|||
 [#23272](https://github.com/conan-io/conan-center-index/pull/23272)|[johningve](https://github.com/johningve)|Mar 26|:memo: glfw|:blue_square: S|1|Mar 26||
@@ -262,7 +262,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 580
 	- Draft: 59
-	- Average Age: 120 days, 2 hours, and 48.80 minutes
+	- Average Age: 120 days, 3 hours, and 51.96 minutes
 	- Stop Label: 262
 	
 
