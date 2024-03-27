@@ -6129,7 +6129,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23261",
       "LastCommitSHA": "26c79fde21603782e28f9919d46412c63f3ab3ae",
       "LastCommitAt": "2024-03-27T02:14:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -6269,6 +6269,26 @@
       }
    },
    {
+      "Number": 23270,
+      "OpenedBy": "xyz1001",
+      "CreatedAt": "2024-03-26T03:33:53Z",
+      "Recipe": "platformfolders",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23270",
+      "LastCommitSHA": "aff70f6bf71b2719c8f5736a674636a11531b843",
+      "LastCommitAt": "2024-03-27T00:50:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
+   },
+   {
       "Number": 23275,
       "OpenedBy": "valgur",
       "CreatedAt": "2024-03-26T16:27:11Z",
@@ -6328,7 +6348,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23279",
       "LastCommitSHA": "02b52a62e2dab7e365fc95a29c123596227a678a",
       "LastCommitAt": "2024-03-26T19:41:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6408,7 +6428,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23284",
       "LastCommitSHA": "7aadafccab7a236d3865c217fe22da019ee78fc9",
       "LastCommitAt": "2024-03-27T00:33:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6419,15 +6439,15 @@
       }
    },
    {
-      "Number": 23285,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-03-27T00:55:28Z",
-      "Recipe": "zstd",
+      "Number": 23286,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2024-03-27T04:11:07Z",
+      "Recipe": "libassert",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23285",
-      "LastCommitSHA": "58b715e0e222d49aeba812014e8be3bfc652bb59",
-      "LastCommitAt": "2024-03-27T00:54:41Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23286",
+      "LastCommitSHA": "3b091a2502c195060da5e84e634fc55277f383e9",
+      "LastCommitAt": "2024-03-27T04:09:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
