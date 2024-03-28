@@ -6316,5 +6316,25 @@
          },
          "IsBump": true
       }
+   },
+   {
+      "Number": 23297,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2024-03-28T00:12:24Z",
+      "Recipe": "libvips",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/23297",
+      "LastCommitSHA": "71890debbca4a0dcc1a30bcc0a58de0071a49f1e",
+      "LastCommitAt": "2024-03-28T00:08:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "IsBump": false
+      }
    }
 ]
